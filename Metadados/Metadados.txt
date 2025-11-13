@@ -1,0 +1,1071 @@
+{
+  "documento": {
+    "id_arquivo": 1,
+    "titulo": "Historia do boné em apucarana",
+    "autor": "anonimo",
+    "ano": " ",
+    "categoria": "artigo",
+    "assunto": "História da indústria de bonés na cidade de Apucarana",
+    "arquivo": "1_1_Artigo.pdf"
+  },
+  "conteudo": {
+    "id_metadado": 1,
+    "id_foreign_key": 1,
+    "conteudo": " HISTORIA DO BONÉ EM APUCARANA
+      Em 1982 voltando de São Paulo, onde estudou e trabalhou, o publicitário JOEL BRIZOLA foi convidado pelo Sr. JAIME DIONISIO RAMOS, então proprietário da Cotton's bonés, para fazer parte da sua equipe na área de criação e artes. Como havia trabalhado em agências de propagandas na capital paulista como desenhista, foi contratado para desenhar cartões postais que na época ilustrava os bonés de lembranças; souvenirs que eram vendidos em todo o Brasil no sistema de pronta-entrega e por atacado.
+      Passado algum tempo, para facilitar o trabalho e reduzir custos, o Sr., Joel Brizola fez uso da sua experiência e implantou na Cotton's o primeiro laboratório de fotolitos em uma fábrica de bonés em Apucarana. Esta modalidade de serviço na época era terceirizado junto a empresa jornalista Tribuna da Cidade. Trabalhavam na Cotton's, no setor de artes, além do Joel Brizola também os Srs. Antonio Macedo, conhecido por Tony, José Maria Menegazzo e Marcos Garcia. As abas dos bonés eram de papelão. e
+      Em 1982, passando por dificuldades administrativas e financeiras, o Sr. Jaime Dionisio Ramos convidou para sócio da empresa o Sr. Luís Takashi Mano, que chegou na empresa com investimentos e uma nova mentalidade para gerir os negócios. O Sr. Mano, com sua filosofia oriental, acreditava que o mercado de bonés era um grande filão e seria muito mais rentável se a empresa deixasse de atuar no mercado de atacado e passasse a operar no seguimento promocional. Atuando como engenheiro agrônomo, mantinha contado com empresas multinacionais nos ramos de herbicidas, defensivos agrícolas, sementes, adubos, etc. Tais relacionamentos, com certeza representaria um bom começo para explorar novos nichos de mercado.
+      Porém por incompatibilidade administrativa a sociedade entre os Srs. Jaime e Mano resultou em não tendo obtido o êxito desejado e foi desfeita mesmo antes de completar seis meses. Desta forma e em comum acordo, resolveram dividir a empresa. O Sr. Mano abriria uma nova empresa, que passaria a atuar no mercado promocional e o Sr., Jaime prosseguiria com a Cotton's no mercado de souvenirs e atacado. Como o Sr. Mano não não tinha experiência na confecção de bonés, foi lhe dado a título de compensação, uma vez que a sociedade não havia dado certo, o direito de escolher os funcionários que quisesse. Dentre todos os colaboradores da Cotton's, o Sr. Mano convidou o Sr. Joel Brizola para fazer parte do novo projeto, mediante uma pequena participação societária. O Sr. Joel Brizola aceitou de pronto o desafio e junto com o o Sr. Aldivino Marques da Cruz, o VAL, escolheram mais treze colaboradores, dentre os cem que a Cotton's possuía. Na nova empresa seriam responsáveis pelos setores de serigrafia/artes e produção respectivamente.
+      Desta forma nascia a primeira fábrica de bonés promocionais de Apucarana. A nova empresa começou a operar em março de 1983 com o nome de Sementec Promoçõe atual Showa bonés aproveitando assim o nome da já tradicional Sementec Agrícola, que já desfrutava de prestígio junto ao mercado de insumos agrícolas e certamente facilitaria a obtenção de créditos bancários e possibilitaria a abertura de portas para futuros negócios no ramo.
+      Nesta mesma época se desligava também da Cotton's o seu gerente de produção, José Fortuna - Zezão - que, junto com o irmão Evandro criaram a empresa Bonés Tchan, que também passaria a atuar no mercado de atacado. A Sementec, por sua vez, como não tinha conseguido mercado, não conseguia trabalho e enquanto corria atrás de matérias-primas, acessórios, aviamentos básicos como carneiras, viés internos, abas e reguladores, para não ficar ociosa, terceirizava para a Cotton's. Ao mesmo tempo desenvolvia as suas primeiras modelagens dubladas como espumas, nos modelos americano e japonês, entre outros. Para conseguir bons moldes inicialmente, a Sementece uso do artifício de desmontar bonés das principais empresas da época, então sediadas em São Paulo, a Torino e a Guarany. Depois de seis meses de investimentos, testes com moldes, densidades da espuma, a Sementec tinha um bom produto para colocar em produção. Recorreu então novamente a Cotton's pleiteando mais um funcionário, no caso o Sr. Amauri dos Santos Neves, que havia sido negado no primeiro momento. Passado esse período de aprendizado e experiências, os produtos tiveram uma boa aceitação no mercado e os negócios começaram a caminhar para o crescimento, initially previsto, atingindo níveis surpreendentes.
+      Nesta época as dublagens eram feitas todas em São Paulo na Dublalto ou Colatex - e essa logística de enviar e receber os tecidos assim manufaturados demorava até 15 dias úteis, ocasionando desta forma atrasos nas entregas dos pedidos. Concluiu-se então pela necessidade de se ter a própria dublagem local para atender a demanda. A primeira máquina dubladora, do tipo manual, foi adquirida pela Sementec em São Paulo, junto a Dublaldo, pois a empresa de dublagem estava em processo de modernização. Com a dubladora em funcionamento o trabalho ficou facilitado e não demorou para os negócios atingirem as metas desejadas.
+      O sucesso da Sementec foi rapidamente copiado pela Cotton's, que passou a atuar também no ramo promocional. Nessa época iniciou-se o segmento de bonés em Apucarana. Inicialmente com a Cotton1s, depois a Tchan e em seguida a Sementec. Passados alguns anos e, como a empresa obteve repentino êxito, alguns funcionários da Sementec pediram desligamento e foram abrir seus próprios negócios.Nascia então a USA bonés, que depois se dividiria em outras, entre elas a Arlo e a Keeps e mais tarde a Kicker. Nesta mesma época e no ramo promocional, sugiram a Jalai e a Mano Artes e na sequencia diversas empresas foram criadas, principalmente com parcerias com ex-bancários. A Bonelli foi a precursora e depois sugiram a Milano, Kyodai, Rytos, Boneleska, SCL, Kriswill, entre outras.
+      Na década de 90 surgiu Taicry, indústria de máquinas para o seguimento de bonés. Iniciou fabricando pequenas encapadeiras de botões e prestando assistência técnica para o setor, mas tarde fabricou também dubladoras e passadoras de bonés. Esses tipos de máquinas foram adquiridas em São Paulo e depois importadas da China. Chegaram inicialmente na Cotton's e depois na Showa e que aos poucos foram sendo copiadas e adaptadas para atender as indústrias locais.
+      Em 1.993, com o advento das bordadeiras eletrônicas, o mercado passou por uma radical mudança, quando o boné deixou de ser dublado com espuma de polieretano e passava a ser sem espuma e apenas com a frontal dublada com entretela de algodão, como o tradicional modelo americano, usado até hoje no mundo inteiro. Com essa mudança, os fabricantes, agora em número bem maior, passaram a buscar novas tecnologias para atender as novas exigências do mercado. Para isso, muitos foram ate a China para buscar conhecimentos e outros preferiram trazer os produtos chineses até nós. A partir disso o sistema chinês de produção foi incorporado pelas indústrias locais. A forma de produção espalhou pela cidade, na medida em que aumentavam o número de pequenas empresas e de muitas facções. Surgiram então locas especializadas em equipamentos para o boné, peças de reposição, máquinas de costura, atacados de tecidos e aviamentos. No transcorrer do desenvolvimento do boné, também a indústria local - Paranatex - foi aperfeiçoando o seu tecido e destinando exclusivamente à confecção do boné.
+      BONÉ COMO TUDO COMEÇOU
+      Em 1980 voltando de São Paulo onde trabalhou e estudou, o publicitário Joel Brizola foi convidado pelo o Sr. Jaime Ramos proprietário da Cotton's bonés, a fazer parte da sua equipe de criação e artes; como tinha trabalhado em agências de propagandas na capital paulista como desenhista, foi contratado para desenhar cartões postais, que na época ilustrava os bonés de lembranças, souvernis que eram vendidos em todo Brasil no sistema de pronta- entrega e atacado. Depois de algum tempo, para facilitar o trabalho e reduzir custos/Brizola fez uso da sua experiência na capital paulista, e implantou na Cotton's o primeiro laboratótio de fotolitos em uma fabrica de bonés de Apucarana. Este trabalho na época era tercerizado pela Empresa Jornalística Tribuna da Cidade. Na Cotton's trabalharam no setor de artes Antonio Macedo (TONY in memorium) José Maria Menegazzo, Marcos Garcia além do Brizola.
+      Em 1982 passando por dificuldades administrativas e financeiras, o Sr.Jaime convidou para sócio da empresa o engenheiro agrônomo o Sr. Luis Takashi Mano, que chegou na empresa com investimentos e uma nova mentalidade de gerir negócios. Mano com sua filosofia oriental, acreditava que o mercado de bonés era um grande filão, e seria muito mais rentável se a atuação da empresa passasse do atacado para o seguimento promocional, mesmo porque, ele já tinha alguns contatos na área em que atuava como agrônomo;, empresas multinacionais do ramo de herbicidas, defensivos agrícolas, sementes, adubos entre outras. Este relacionamento com certeza, representaria um bom começo neste novo nicho do mercado; Porém por incompatibilidade administrativa a sociedade entre Ramos e Mano acabou não tendo êxito e foi desfeita mesmo antes de completar seis meses, desta forma e em comum acordo resolveram dividir a empresa: Mano abriria uma nova industria que atuaria no mercado promocional e Ramos prosseguiria com a Cotton's no mercado de souvernis e atacados. Como o Sr. Mano não tinha experiência na confecção de bonés, foi lhe dado a título de compensação ,uma vez que a sociedade não deu certo, o direito de escolher os funcionários que bem quisesse, entre todos os colaboradores da empresa, então Mano recorreu ao Sr.Joel Brizola e convidou para fazer parte deste novo projeto mediante a uma pequena participação societária;. Brizola aceitou prontamente o desafio e junto com o amigo Aldivino Marque da Cruz (o VAL) escolheu entre mais de cem funcionários apenas treze, incluindo ambos, que seriam responsáveis pelos setores de serigrafia, artes e produção respectivamente. Desta forma nascia a primeira fábrica de bonés promocionais de Apucarana. A nova empresa começou a operar em março de 1983 com o nome de Sementec Promoções (Atual Showa Bonés)aproveitando assim, o nome da já tradicional Sementec Agrícola que já gozava de bom prestígio no mercado de insumos agrícolas e certamente facilitaria com créditos juntos aos bancos e abriria portas para futuros negócios.
+      Conluindo os fatos, neste intervalo de tempo se desligava da cotton's o seu gerente de produção o Sr. José Fortuna (Zézão) que junto com o irmão Evandro começavam a empresa BonésTchan!, mas que também como a Cotton's atuariam no mercado de atacados. A Sementec por sua vez,como não tinha mercado, não conseguia trabalho e enquanto corria atrás de matérias- primas e acessórios, além de aviamentos básicos, como carneiras, viés internos abas e reguladores não ficava ociosa e fazia terceirização para a própria Cotton's ao mesmo tempo que desenvolvia as suas primeiras modelagens dubladas com espumas, modelo americano, japonês entre outros. Para conseguir bons moldes no início, a Sementec usou do artificio de desmontar bonés das principais empresas da época, principalmente das paulistas Torino e Gurany. Depois de seis meses de investimentos, testes com moldes, densidades de espumas e telas a Sementec tinha um bom produto para colocar em produção e recorreu a Cotton's para exigir mais um funcionário o Sr. Amauri dos Santos Neves, que havia sido negado no primeiro momento;. Passado este período de aprendizados e experiências os produtos tiveram uma boa aceitação do mercado e os negócios começavam a caminharar para o crescimento que foi projetado no início, atingindo patamares surpreendentes.
+      Nesta época, as dublagens eram feitas todas em São Paulo (na Dublalto ou Colatex) e esta logística de enviar e receber os tecidos manufaturados demorava até 15 dias uteis, muitas vezes ocasionando atrasos nas entregas dos pedidos. Observou-se então a necessidade de se ter a própria dublagem para atender a demanda local e primeira dubladora tipo manual foi adquirida pela Sementec em São Paulo junto a Dublaldo que estava em processo de modernização. Com a dubladora funcionando o trabalho ficou facilitado e não demorou para atingir a meta estipulada. Este sucesso foi rapidamente copiado pela cotton's que passou então atuar também no ramo promocional;.começava aí, toda a cadeia produtiva do boné em Apucarana, primeiro com a Cotton's, depois a Tchan! e em seguida a Sementec. Passado alguns anos, e como a empresa obteve repentino êxito, alguns funcionários da Sementec pediram desligamento da empresa pois os mesmos queriam abrir o seu próprio negócio. Nascia a USA bonés, que depois se KICKER dividiria em outras, entres elas a Arlo e a Keps e mais tarde a Keeker.; neste interim acontecia na Cotton's a mesma política, surgindo a Jalai e a Mano Artes e daí por diante surgiram outras industrias, combinando mão de obra e investimentos, parcerias de funcionários do setor com ex-bancários.
+      Na década de 90 surgia a Traicry indústria de máquinas para o segúimento de bonés, e que começou fabricando pequenas encapadeiras de botões e prestando assistência técnica para o setor, mais tarde fabricaria também dubladoras e passadoras de bonés; Estas máquinas oriundas de São Paulo e também da China, chegaram primeiro a Cotton's e a Showa, que aos pouco foram copiadas e aperfeiçoadas para atender as industrias da cidade. Em 1993 com o advento das bordadeiras eletrônicas, o mercado passou por uma mudança radical e o boné deixava de ser todo dublados com espuma de polieretano, e passava a ser sem espuma e apenas com o frontal dublado com entretela de algodão, como o tradicional modelo americano, usado até hoje em todo o mundo. Com essa mudança os fabricantes, agora em número bem maior, (nesta época já existiam a Bonelli, Milano entre tantas outras que abriam todos os dias) buscaram tecnologia para atender esta nova exigência do mercado.; e para isto recorreram a China, alguns indo até a o continente Asiatico e outros preferiram trazer os chineses para Apucarana.; a partir daí todos os fabricantes passaram a usar tecnologia chinesa, desde aparelhos e máquinas até sistemas completos de linha de montagem. Todo este sistema produtivo foi se espalhando rapidamente pela cidade, a medida que também crescia o número de facções e pequenas industrias. E com esta a ploriferação de fábricas Apucarana foi se capacitando com a abertura de lojas de máquinas, peças de reposição, atacados de tecidos e armarinhos até finalmente chegar a indústria de têxtil. A cidade sem se dar conta, aos poucos foi montando um sistema vertical completo, pois as facções montadas, são de toda ordem de serviços e estão aptas para todas as etapas da montagem do boné, juntando toda esta estrutura a facilidade de aquisição de matérias-primas e insumos e mão de obra especializada tudo na mesma cidade, nos anos 90 Apucarana se tornaria a capital do boné.",
+   
+    "criterios": "2,3,4,5,6,7,8,16,17",
+    "html": "<h1>HISTORIA DO BONÉ EM APUCARANA</h1>
+              <p> conteudo </p>
+             <h2>BONÉ COMO TUDO COMEÇOU</h2>
+              <p> conteudo </p>",
+    "aria-label": "Ouvir o artigo: História do Boné em Apucarana",
+    "aria-pressed": [true, false],
+    "aria-description": "Leitura de áudio com duração de X minutos."
+  }
+}
+
+{
+  "documento": {
+    "id_arquivo": 2,
+    "titulo": "Contextualização e caracterização do arranjo produtivo local de bonés de Apucarana-Paraná",
+    "autor": "anonimo",
+    "ano": " ",
+    "categoria": "artigo",
+    "assunto": "Histórico da Formação do APL de Bonés de Apucarana",
+    "arquivo": "2_2_Artigo.pdf"
+  },
+  "conteudo": {
+    "id_metadado": 2,
+    "id_foreign_key": 1,
+    "conteudo": " Plano de Desenvolvimento do APL de Bonés de Apucarana - Paraná
+
+      1. CONTEXTUALIZAÇÃO E CARACTERIZAÇÃO DO ARRANJO PRODUTIVO LOCAL DE BONÉS DE APUCARANA – PARANÁ
+      1.1 Histórico da Formação do APL
+      Em 1974 teve início a fabricação de bonés em Apucarana-PR, a partir da produção artesanal de bandanas e tiaras que eram comercializadas em feiras agropecuárias, exposições e nas praias do litoral paranaense. De inicio, os empresários pioneiros na fabricação de bonés limitavam-se a copiar e produzir bonés com aba de papelão, reguladores de elástico e fazendo uso da técnica de silk screen.
+      No início da década de 1980, começaram a surgir as primeiras empresas do segmento, entre elas a Faroli, a Cotton's, a Sementec e a Kep's. O sucesso desses empreendimentos familiares foi tamanho que à medida que o mercado interno se expandia, surgiam novos empreendimentos em um processo de spin-lover. Contudo, não havia na região os elos da cadeia produtiva de bonés e confecções. A dublagem de tecidos era realizada em São Paulo, assim como a aquisição da matéria-prima e das máquinas e equipamentos.
+      Em 1986 surgiram na região as primeiras empresas da cadeia produtiva de bonés, entre elas a Dalplast, Showa e outras. Os empresários do setor de bonés reuniram-se em torno de um objetivo comum: melhorar a qualidade e a produtividade das empresas do segmento. Contrataram consultoria especializada nas áreas de qualidade, processo produtivo, formação do preço e controle de custos. Dividiram a produção em células e deram início ao processo de capacitação das costureiras do setor com o apoio do Senai Apucarana. Através da cooperação, as empresas conseguiram melhorar a qualidade e a produtividade da indústria de bonés. Surgiram os primeiros contratos promocionais em nível nacional e internacional. Entre eles, cita-se o da Cofap, o da Arisco e de franquias de filmes mundiais como o Jurassic Park. Contudo, o fato marcante na formação do arranjo de bonés foi a celebração do contrato com o Banco Nacional. Através desse contrato, o piloto Ayrton Senna tornou-se o primeiro garoto propaganda do setor, o que contribuiu para a projeção da indústria de bonés de Apucarana na mídia nacional.
+      No início da década de 1990, a partir da expansão da demanda nacional de bonés promocionais, houve um crescimento desordenado do número de empresas do setor. Nesta fase, as empresas engajaram-se numa competição via preços o que, em última instância, afetou a rentabilidade e a lucratividade, na razão direta do crescimento da concorrência interna.
+      A estratégia de diferenciação utilizada pelas empresas foi buscar agregar valor ao boné, com a finalidade de manter e/ou ampliar o market share. Entre 1994 e 1996 dois fatos importantes marcaram a mudança de paradigma na fabricação de bonés em Apucarana: a importação de máquinas de bordado computadorizado e o surgimento na região de empresas distribuidoras de matérias-primas (e.g., Dalplast, Dicatex, Boneon, Paranatex e Conviex) e fornecedores de máquinas e equipamentos, tais como: Taicry e M.A.B. Fortuna, entre outras. Teve início uma nova geração de bonés: a indústria de bonés bordados, com maior valor agregado e diferencial competitivo.
+      As empresas do segmento investiram pesadamente em Marketing e Apucarana conquistou um espaço importante na mídia televisiva, sendo conhecida como a 'Capital do Boné', em referência à produção de um dos brindes mais utilizados pelas empresas no país.
+      A partir do ano 1997, o escritório regional do Sebrae em Apucarana vem desenvolvendo ações de articulação, estimulando a cooperação, interação e aprendizagem. A primeira iniciativa foi a constituição, com 13 empresas, da Associação Brasileira dos Fabricantes de Bonés de Qualidade (ABRAFAB'Q), onde foi elaborado e realizado um projeto de exportação com o apoio da APEX; certificação ISO 9000 e central de compras.
+      O passo seguinte foi a constituição da Associação das Indústrias de Bonés e Brindes de Apucarana (ASSIBBRA), formada por 17 empresas. Um dos principais objetivos da ASSIBBRA foi operacionalizar uma central de compras; formar estoques reguladores e produzir, de forma conjunta, os insumos para a montagem de bonés.
+      Contudo, não havia na região mão-de-obra qualificada para atender às necessidades de expansão do setor de bonés. Assim, a ACIA - Associação Comercial, Industrial e de Serviços de Apucarana (ACIA), em um esforço conjunto que envolveu os empresários do setor e a Prefeitura de Apucarana, iniciou um processo de negociação junto ao ministério da Educação/PROEP para implantar na região um centro de formação e treinamento de mão-de-obra nas áreas têxtil e de confecções. Como resultado dessas iniciativas, foi implantado no município de Apucarana o Centro Moda: uma escola técnica para formação e capacitação de profissionais para a indústria do vestuário e moda, que tem como missão "Formar, capacitar e requalificar profissionais necessários ao atendimento do setor da indústria do vestuário da região".
+      Em 2003, com o apoio do Sebrae/PR e entidades locais, o municipio de Apucarana passou a implantar o modelo de APL. No início de 2004 formou-se o comitê gestor do APL de bonés de Apucarana, com a participação de empresários e entidades parceiras. Em junho de 2004 foi realizada uma Oficina de Planejamento com o propósito de elaborar o Plano Estratégico para o Desenvolvimento do Setor de Bonés do município, no âmbito de atuação do Sebrae-PR, seguindo a metodologia dos Arranjos Produtivos Locais. Obteve-se como resultado da Oficina tem-se um conjunto de ações que deverão nortear não apenas as atividades inovadoras, mas também as atividades relacionadas à qualidade e à sustentabilidade do Setor.
+      De acordo com o Sebrae/PR, Apucarana é um dos grandes pólos ra confecção de bonés e produtos associados (bandanas, bolsas, porta CD's e camisetas), com uma produção mensal em torno de quatro milhões de peças mês, o que representa mais da metade da produção nacional do setor. Os elos da cadeia produtiva estão presentes em Apucarana, que hoje encontra no mercado local a matéria-prima e o maquinário necessários à produção do boné.",
+   
+    "criterios": "2,3,4,5,6,7,8,16,17",
+    "html": "<h1>CONTEXTUALIZAÇÃO E CARACTERIZAÇÃO DO ARRANJO PRODUTIVO LOCAL DE BONÉS DE APUCARANA – PARANÁ</h1>
+             <h2>Histórico da Formação do APL</h2>
+              <p> conteudo </p>",
+
+    "aria-label": "Ouvir o artigo: Contextualização e caracterização do arranjo produtivo local de bonés de Apucarana-Paraná",
+    "aria-pressed": [true, false],
+    "aria-description": "Leitura de áudio com duração de X minutos."
+  }
+}
+
+{
+  "documento": {
+    "id_arquivo": 3,
+    "titulo": "Confecções de Apucarana são vendidas em todo País",
+    "autor": "Maria Teresa Uliana",
+    "ano": "2000",
+    "categoria": "notícia",
+    "assunto": "Histórico da Formação do APL de Bonés de Apucarana",
+    "arquivo": "3_3_Noticia.pdf"
+  },
+  "conteudo": {
+    "id_metadado": 3,
+    "id_foreign_key": 1,
+    "conteudo": " TRIBUNA DO NORTE Diário de Paгаná APUCARANA, DOMINGO, 04 DE JUNHO DE 2000 
+      Confecções de Apucarana são vendidas em todo País Principais empresas da cidade produzem juntas 690 mil peças por ano
+      Maria Teresa Uliana 
+      APUCARANA- Empresas do setor do de Made in vestuário ucatana Apucarana estão ganhando o mercado nacional, distribuindo para a maioria dos Estados brasileiros. A participação destas indústrias atualmente está, inclusive aos mais visados e competitivos, como São Paulo e Santa Catarina, onde o setor também é desenvolvido. 
+      Entre as empresas que estão se destacando fora do Estado estão a Títu's, Elisil e Anelim.  Juntas, elas produzem 690 mil peças por ano. Parte desta produção é distribuída para algumas das grandes redes de lojas que estão instaladas por todo o País, como Americana e Riachuelo.
+      A Titu's Confecções, por exemplo, é uma das empresas que está consolidando a região como pólo do vestuário no Estado. Há 21 anos atuando na produção de calças jeans wear, básico, jaquetas e modinha, entre outros, hoje, comercializa 60% de toda sua produção para Santa Catarina.  São Paulo, Paraná e Mato Grosso do Sul. Outra meiade da produção é distribuída para outros Estados, como Distrito Federal, Rio Grande do Sul, Rondônia e Mato Grosso. Com uma produção men- sal de 30 mil peças, cerea de 130 mil por ano, a empresa es- tá buscando a certificação de qualidade, a ISO 9002, com vista a ampliar a participação no mercado interno e investir no externo. 
+      A INDÚSTRIA do vestuário e Apucarana abastece principais redes de lojas do País 
+      Qualidade al re fronteiras com países do Mercosul 
+      Outra do segmento que está aumentando sua participação no mercado é a Elisil Indústria e Comércio de Roupas, empresa especializadas em uniformes profissionais. Com uma produção de 100 mil peças por ano, a empresa está homologada junto à Santista têxtil, fornecedora oficial de tecido. Através desta parceria, a Santista assegura às empresas compradoras um selo de qualidade nos produtos fabricados pela Elisil. 
+      Atualmente, os principais mercados que a indústria atende são os estados de Minas Gerais, Rio de Janeiro.  São Paulo, Rio Grande do Sul e Paraná. Entre as grandes empresas que Elisil abastece estão a fábrica de papel Santa Therezinha e Coca-Cola, do Rio Grande do Sul, além da multinacional Cargill Agrícola. 
+      A partir deste ano a empresa também começou a exportar para a Bolívia e Argentina. Ainda em fase de experimentação, Hélio Pinto, proprietário da empresa, admite estar satisfeito com os primei ros resultados e faz planos de aumentar as vendas para o mercado internacional em 20% até o segundo semestre de 2001. A abertura do comér cio externo para a empresa foi através do "marketing" dos produtos fornecidos para as filiais da Cargill Agrícola no Brasil, o que garantiu o res- paldo para firmar contrato de produção para outras filiais espalhadas nos países insta- lados no Mercosul. 
+      GRANDES REDES 
+      Outra do segmento é a Anelim Confceções, que também se destaca no mercado por ser fornecedoras de grandes redes, como C&A, Riachuelo e Americana. Sua produção mensal está estimada em 35 mil peça, cerca de 420 mil por ano. A empresa atua na confecção de calças jeans, bermudas e sarja. De tudo que produz, 50% entregue para a C&A, 30% Riachuelo, 10% Americana e 10% para Tececa. 
+      Segundo a proprietária Vera Lúcia Cavalheiro, a representatividade da empresa no mercado nacional tem crescido através da qualificação dos produtos. Para ela, os contratos com grandes empresas fizeram com que a indústria implamasse o programa qualificação e melhoria nos sistemas de produção, o que garante ser um dos fatores fundamentais para se firmar no mercado. "Hoje, todos os segmentos estão mais competitivos por causa da globalizaçao. Por isso, quem não investir na qualificação perde lugar no mercado", conclui.  (M.T.U.)",
+
+      COSTUREIRA da Titu's trabalha na confecção das roupas: empresa produz 30 mil peças/mês 
+
+      Bonés lideram ranking de exportação 
+      APUCARANA Considerada o principal pólo das empresas fabricantes de bonés e camisetas promocionais no Estado, Apucarana vem aumentando sua participação no mercado internacional, principalmente entre os países do Mercosul. Apesar de ainda não existir nú mero oficial do montante do que é exportado hoje pelo município neste segmento, um levantamento feito junto a algumas das maiores empresas do setor revela que, anualmente, o setor movimenta mais de USS 500 mil e distribui quase 150 mil peças para fora do País. 
+      As empresas que estão in vestindo no mercado externo são, principalmente, as que hoje já fazem parte da Associação Brasileira dos Fabricantes de Bonés de Qualidade (Abrafabq). Para abrir novos mercados, estas empresas vem há quase dois anos passando por alcançar o selo ISO 9002, um cos requisitos fundamentais para assegurar a entada dos produtos em outros pases, Até agora, sete dos fabricantes filiados a Abrafabq reeberam a certificação, sendo qe outros quatros estão recebado consultoria e já iniciaras trabalho modernização e melhoria do sistema de prodio para receber o selo. 
+      toda sua produção. Por ano, as vendas para o exterior são estimadas em 50 mil peças, o que representa um faturamento de Uss 100. Outra do setor que exporta é a Artlivre. Anualmente, cerca de 70 mil peças são negociadas com países do Mercosul, resultando US$ 120 mil em vendas.  Para a empresa represente toda produção. Outra do setor que está in- Para investir no mitado investindo no comércio exterior é ternacional, o grupo de empresários está iniciando o projeto em parceria Sebraque visa ajudar no intercâms comercial com outros pais, como Europa e Estados Uños, através da Agência de Proção de Exportações (ApexCom este trabalho, a meta dompo é elevar em 10% a expoção do setor no próximo ano 
+
+      NOVOS MERCOS 
+      Na Bonelli Borpor exem-  Milano Bones. Há dois anos a omeresa também exporta para países do Mercosul. Para en- o neste mercado, o primeiro passo da empresa foi assegurar a qualidade de seus produtos. A resposta veio com o reconhecimento de uma multinacional, a qual abastece suas filiais no Brasil. Através da aprovacão do produto no País, a fábrica conseguiu abrir as primeiras portas para investir no mercado externo. Hoje, empresa
+    
+    "criterios": "2,3,4,5,6,7,8,16,17",
+    "html": "<h1> Confecções de Apucarana são vendidas em todo País</h1>
+             <h2>Histórico da Formação do APL</h2>
+              <p> conteudo </p>",
+
+    "aria-label": "Ouvir a nóticia: Confecções de Apucarana são vendidas em todo País",
+    "aria-pressed": [true, false],
+    "aria-description": "Leitura de áudio com duração de X minutos."
+  }
+}
+
+{
+  "documento": {
+    "id_arquivo": 4,
+    "titulo": "ATA DE REUNIÃO - DIRETORIA PROVISÓRIA",
+    "autor": "DIRETORIA PROVISÓRIA",
+    "ano": "2002",
+    "categoria": "ata de reunião",
+    "assunto": "Definição da diretoria do Museu do Boné e resgate da Capital Nacional do Boné",
+    "arquivo": 4_4_Artigo.pdf"
+  },
+  "conteudo": {
+    "id_metadado": 4,
+    "id_foreign_key": 1,
+    "conteudo": "ATA DE REUNIÃO
+      Grupo: DIRETORIA PROVISÓRIA
+      Data: 24/05/2002.
+      PRESENTES
+       TAICRY
+       Júlio César (Dicatex); Marcelo Gabardo (Milano); Joaquim Rosa (); Tomás Antônio (Jaboti); Macarrão; Germano Trevisan (Milano); Arrebola (Senai); Artur (Têxtil)
+       (M.BRASIL)
+       AUSENTES
+       Não Houve
+       (SN. FACE CAMELIANO)
+       CÓPIAS PARA: Todos os presentes
+       AGENDA
+       7/6 841. ASRAFOBY.
+       SUMÁRIO DA REUNIÃO
+       • A presente reunião teve como objetivo principal definir a Diretoria Provisória do Museu do Boné, bem como, processos a serem realizados visando principalmente o resgate de Apucarana como Capital Nacional do Boné.
+       • A Diretoria Provisória do Museu do Boné ficou composta pelos seguintes cargos e representantes:
+       -Presidente: Marcelo Gabardo (Milano)
+       Vice Presidente: Júlio César (Dicatex)
+       Diretor de Relações Públicas: Macarrão ( , BRASE)
+       Diretor Político: Divino (Prefeitura)
+       Tesoureiro: Tomás (Jaboti)
+       2º Tesoureiro: Joaquim Rosa (TATCRY )
+       Secretário: Germano (Milano)
+       2º Secretário: Serena (ABRAFAB'Q)
+       • A abertura da reunião foi realizada pelo Sr. Marcelo Gabardo da Itália Milano Produtos Promocionais, que relatou a importância de investimento de propaganda na cidade de Apucarana como Capital Nacional do Boné, tendo com o Museu do Boné uma porta para levar essa imagem ao restante do país e até mesmo para o mercado externo. O Museu do Boné veio para resgatar essa imagem. Sugestão para incluir na etiqueta dos produtos os dizeres: \"PRODUZIDO NA CAPITAL NACIONAL DO BONÉ\".
+       • Além de resgatar a imagem da cidade como Capital Nacional do Boné, o museu terá como objetivo facilitar o sucesso de todas as empresas do setor, pois terá na imprensa um forte meio de divulgação.
+       • Para fortalecimento do museu do boné será divulgada através do Jornal Tribuna do Norte uma \"chamada\" para que pessoas, empresas (fabricantes de tecidos/máquinas), entre outros, doem itens que possam agregar algo ao museu, fazendo com que os mesmos tenham interesse em levar sua história ao Museu.
+       • O Sr. Arrebola fez uma retrospectiva do projeto para lançamento do Museu do Boné, relatando que foram distribuídos 5000 panfletos, convidados 100 empresas, mas com a presença somente de 06 empresas.
+       • Para fortalecimento do Museu e da cidade de Apucarana, será realizado um concurso escolar envolvendo alunos do ensino fundamental e médio para escolha da \"logotipia\" a ser utilizado nos bonés que ficarão disponíveis na Prefeitura Municipal para distribuição aos visitantes, tendo na impressão referente ao Museu do Boné e na lateral impressão referente ao slogan: Apucarana: Capital Nacional do Boné.
+       • O Sr. Arrebola ficou responsável por entrar em contato com o Núcleo Regional de Ensino (Sra. Shirlene e Sr. Roberto) para divulgação do concurso. Assim como o Macarrão tentará vincular o concurso ao Projeto realizado pelo Jornal Tribuna do Norte.
+       • Os envelopes com os desenhos deverão ser lacrados e entregues à Direção da Escola que vistará e entregará os mesmos em local a ser estipulado pela Diretoria Provisória.
+       • O julgamento dos desenhos será realizado pela Diretoria Provisória.
+       • A premiação será para os desenhos classificados em 1º, 2º e 3º lugares, nos seguintes valores: 1º lugar (R$ 200,00) - 2º lugar (R$ 100,00) - 3º lugar (R$ 50,00) - OBS: estes valores estão sujeitos à verificação - entre outros brindes a serem definidos.
+       • Todos os presentes na reunião concordaram em solicitar à Prefeitura Municipal a implantação do museu no centro da cidade, bem como, convidar museólogo para elaboração do projeto do museu e contactar o jornalista Maurício do Jornal Folha de Londrina para resgatar a história e elaboração de banner padronizado para todas as empresas.
+       • Foi relatada também a intenção de personalizar os orelhões da cidade em formato de boné, sendo o mesmo em cor cítrica e abrir para patrocínio/divulgação do comércio em geral (aproveitar o contato/iniciativa da DICATEX).
+       • Além dos orelhões a intenção é a personalização de ponto de ônibus, sinaleiros e sinalização nas entradas da cidade.
+       • Para personalização do ponto de ônibus, foi sugerido melhorar a curvatura da aba e o preenchimento e contactar o Joel da Showa bonés para o desenvolvimento.
+       • Todos os participantes concordaram na presença de outros fabricantes de bonés nas reuniões a serem realizadas.
+       • Próxima reunião será realizada na sede da ABRAFAB'Q no dia 07/06/2002 as 8:00h.
+       ÍTENS DE AÇÃO
+       RESPONSÁVEL
+       PRAZO
+       Entrar em contato com Núcleo Regional de Ensino e museólogo;
+       Sr. Arrebola
+       06/06/02
+       Entrar em contato com o Jornal Tribuna do Norte Folha de Londrina;
+       Macarrão
+       06/06/02
+       Entrar em contato com o Joel da Showa.
+       Tomás
+       06/06/02",
+    "criterios": "2,3,4,5,6,7,8,16,17",
+    "html": "<h1>ATA DE REUNIÃO</h1>
+        <p>conteudo</p>
+    "aria-label": "Ouvir a ata: Definição da diretoria do Museu do Boné",
+    "aria-pressed": [true, false],
+    "aria-description": "Leitura de áudio com duração de X minutos."
+  }
+}
+
+{
+  "documento": {
+    "id_arquivo": 5,
+    "titulo": "",
+    "autor": "Vários",
+    "ano": "2002",
+    "categoria": "Documentos/Notícias",
+    "assunto": "Coletânea de documentos e notícias sobre a indústria do boné e a história dos museus em Apucarana",
+    "arquivo": "5_5_Documentos-Noticias.pdf"
+  },
+  "conteudo": TODO:IMG {
+    "id_metadado": 5,
+    "id_foreign_key": 1,
+    "conteudo": "MoCarno
+    1º Febre
+    Depois de dois meses de trabalho não poderia ser diferente: a 1ª Festa do Boné da Região foi regada de sucesso. As dependências da Acea receberam mais de mil pessoas de Apucarana e região, que, ao som de Apollu's Band explodiram de descontração até o amanhecer.
+    A 775 Sport Wear apresentou um belíssimo desfile de modas, fechando com chave de ouro o desfile de bonés.
+    Havia magia no ar, os presentes tiveram o prazer de ver um show espetacular.
+    Patrocinadores, organizadores, colaboradores, 93 FM e Tecidos Paranatex realmente merecem os cumprimentos pelo êxito do evento.
+    Luciana, Giana, James Deitos, Macarrão, Márcia, Léo e Daniela no camarim.
+    As manequins que fizeram o desfile dos bonés em close especial com o australiano James e Macarrão
+    75
+    77 5
+    Edson Dourado, Alessandra Bernardes, Rogério (gerente da 775) Dinamara de Pieri foram alguns dos responsáveis pelo sucesso do desfile
+    Na sacada só deu para descançar no final da noite
+
+    Falta representatividade
+    Segmentos do setor econômico de Apucarana vêm sendo contaminados por um mal silencioso, mas que pode levar para um caminho sem volta: a desunião. A falta de um maior entrosamento represen- ta um sério entrave principalmente no se- tor de bonés, que é um dos principais a- licerces da economia local, movimentando mais de R$ 40 milhões por ano e gerando cerca de 7 mil empregos.
+    Na série de reportagens sobre a pro- dução de bonés em Apucarana, publicada pela Tribuna, as conseqüências dessa desunião ficaram expostas. A começar pela inexistência de um órgão atuante que agregue os empresários do segmento e e- xecute uma política pautada por interes- ses comuns. Além de acabar com as ciumeiras e picuinhas que só trazem resul- tados negativos, um órgão representativo poderia contribuir para revolucionar o se- tor.
+    Através de uma associação, por exem- plo, as empresas poderiam montar um banco de dados sobre a produção de bonés na cidade, reunindo informações desde o surgimento das primeiras fábricas até a ampla estrutura industrial existente hoje no município. A mesma entidade teria condições de viabilizar linhas de crédito para os empresários investirem na qualifi- cação de profissionais, em novas edifi- cações e em tecnologia, aumentando, evi- dentemente, o seu faturamento.
+    Um órgão representativo é o que falta para o setor de bonés deslanchar de vez em Apucarana. Os empresários deste seg- mento precisam pensar localmente, e agir globalmente. O fortalecimento de qualquer setor econômico passa, antes de tudo, pela união. Essa é uma tendência mundial. O maior concorrente não é o fabricante ao lado, mas sim os de outras regiões do País. Aliás, outros municípios brasileiros estão investindo pesado na produção de bonés. Apucarana ainda é a capital nacional do boné, o que é um orgulho para a cidade e região. A evolução do setor representa o crescimento do município, pois implica em mais empregos, mais dinheiro no cofres públicos, melhor qualidade vida para popu- lação. Daí a necessidade de se buscar a união. Juntos os empresários têm muito mais força para conquistar espaços e fazer cobranças, inclusive, junto ao poder público. Está na ho- ra de o setor mostrar as suas garras.
+
+    ■ Os campeões da pré-copa
+    Setor de brindes se anima e planeja seis meses antes
+    Os preparativos para disputar uma fatia dos negócios ligados à Copa do Mundo começaram pelo menos seis meses antes. Em jogo, o merca- do de brindes, adesivos, bonés, ban- deiras e calendários, adereços bara- tos produtos de giro rápido e de fabricação simples.
+    LUNE
+    etiquetas adesivas e brindes em silk screen, itens com margem de lucro líquida assegurada de até 60%.
+    Hoje em dia, ocupa um imóvel de 100 metros quadrados que abriga uma estrutura de produção semi-artesa- nal avaliada em US$ 4,3 mil. Mas, com menos da metade, cerca de US$ 1,8 mil, Luiz Carlos da Concei- ção acredita ser possível iniciar uma atividade nesse segmento, adquirin- do o equipamento básico.
+    \"Para começar, bastam uma gui- lhotina, uma garra de fixação de tela e um secador com 50 gavetas\", ex- plica o microempresário.
+    CONCEIÇÃO (ESQUERDA) E NAVARRO, DA STUDIO LUNE: INVESTIMENTO BAIXO E BOM RETORNO.
+    Atentos ao potencial de lucrativi- dade desses materiais, empreendi- mentos do porte da Studio Lune, em São Paulo, com apenas quatro funcio- nários e receita mensal em torno de US$ 1,5 mil, colocam-se em estado de alerta, na expectativa de ganhar um novo fôlego para a travessia de 1994. \"Estamos esperando um aumen- to de 20% no nosso faturamento\", aposta Luiz Navarro, sócio de Luiz Carlos da Conceição na Studio Lune Indústria e Comércio Ltda.
+    Criada há quatro anos, a Lune faz
+    tante, diz, é trabalhar sob encomen- da e evitar estoque de matéria-pri- ma, que representa 60% dos custos. Outra recomendação é fixar prazos de entrega em no máximo 15 dias, evitando despesas financeiras.
+    Na cidade de Apucarana (PR), a capital nacional do boné, com 35 indústrias, os 180 funcionários da Cotton's Bonés dão os últimos reto- ques na confecção das 100 mil unida- des a serem comercializadas por oca- sião do evento. Esse volume é o do- bro da produção habitual dessa em-
+    SOMMER ANDREY
+    presa que opera há 20 anos. Em novembro, o diretor de marketing Antonio Carlos Macarrão já havia pago à Pelé Sports a garantia mínima de 20% sobre as vendas previstas. O apelo comercial da Copa é ine- gável. No entanto, o sucesso será diretamente proporcional ao desem- penho da Seleção Brasileira.
+    A M. Brasil Indústria, Comércio e Servi- ços Ltda. acha que vale a pena cor- rer o risco. Desde outubro, trabalha na confecção de 100 mil calendá- rios, 300 mil chaveiros e outras 300 mil tabelas dos jogos, que, aplicada uma margem de lucro de 15%, em média, renderão US$ 460 mil. \"Os quatro meses que antecedem a Copa são muito badalados. É a época ideal para explorar o mercado\", ensina o diretor Eurípedes Alves.
+    A M. Brasil fatura, em média, US$ 60 mil por mês, produzindo cartazes de laminados plásticos em alto-relevo e outros materiais usados em pontos- de-venda. Tem 65 empregados e acu- mula uma experiência de 11 anos no mercado.
+    Na opinião de Alves, agora é o momento certo para investir na atividade. Pelos seus cálculos, a mon- tagem de uma pequena fábrica com dez funcionários exigirá US$ 150 mil em equipamentos (máquinas off-set, de corte e vinco, serigrafia e uma vaccum form).
+    Mesmo quem nunca precisou de Copa do Mundo para manter as vendas aquecidas vai recorrer a ela agora. É o caso da indústria de brin- des e displays publicitários Módulo Arte, com 35 funcionários, criada há 13 anos pelos irmãos Raul Sérgio e Cláudio Ivan Bueno Charoux, em São Paulo.
+    A retração nas vendas nos últimos três anos a receita enco- Iheu de US$ 250 mil mensais para o patamar atual de US$ 100 mil por mês, em média obrigou a em- presa a incorporar uma nova linha de seis tipos diferentes de brindes promocionais alusivos à Copa, en- tre os quais chaveiros, canetas, mo- chilas e jaquetas sintéticas. \"Vamos explorar a faixa de produtos mais baratos. Esperamos, com isso, au- mentar as vendas em no mínimo 30% antes e durante a Copa\", prevê Raul Sérgio Charoux, diretor admi- nistrativo da Módulo Arte.
+
+    TRIBUNA DO NORTE
+    CIDADE
+    REFORMA TRIBUTÁRIA
+    erno assusta
+    de do governo para complicar de vez a vida das cerca de 40 em- presas que industrializam bonés em Apucarana\", afirma.
+    Macarrão disse que a política de juros altos do governo FHC estrangulou o setor e, caso a lei do IRPJ seja referendada pelo Senado Federal, \"haverá quebradeira geral nas indústrias de brindes fazendo crescer o ín- dice de desemprego em Apuca- rana\". \"Cerca de 50% das fábri- cas apucaranenses de bonés fe- charão suas portas\", avalia.
+    mudança no IR das mpresas, com a irada das duções dos indes, pode ovocar semprego em ucarana
+    No caso da Cotton's, por exemplo, ele in- forma que antes a fábrica empre- gava 250 traba- lhadores e que, porcontadas di- ficuldades eco- nômicas, foi obrigada a redu- zir seu quadro de pessoal para 190 funcionários. Isto porque, segundo Macarrão, a Cotton's produzia 200 mil bonés por mês e, com o desaquecimento do mercado, está fabricando ape- nas 140 mil unidades.
+    MOBILIZAÇÃO-Mesmo não sendo contra a intenção do
+    Página
+    fabricantes de bonés
+    Macarrão: empresários do ramo de brindes vão iniciar 96 com o freio de mão puxado
+    tra a retirada dos brindes das deduções do IRPJ. Segundo ele a articulação nacional está a car- go da Associação Nacional dos Fabricantes de Brindes (Anfab) e que, aqui em Apucarana, a mobilização será feita pela Asso- ciação dos Fabricantes de Bo- nés.
+    \"Com o movimento verifica- do no mês de novembro e o projetado para dezembro, vai dar para fechar o ano de 95 sem perdas, mas também sem lucros\", diz Macarrão \"Seoontong
+
+    04 Sones
+    Relação de itens que ficom promuseu.
+    04 Viperos
+    aocha
+    cortões
+    Azuz
+    Rovo
+    copa.
+    cota boos
+    Onitelopes
+    Papeis Tinbrodos
+    Shincariol
+    Otiquitas
+    N/ Pode.
+    BPostos
+    de notas
+    Fotos
+    quodro
+    Sone da policia militar
+    da conttons
+    de couro sionco
+    de iti
+    росога
+    κοιτάς
+    caixas
+    boina
+    24 cortes de visita
+
+    REUNIÃO DO
+    NOME, EMPREJA, TEL.
+    JOSÉ FRANCISCO C.G.ARREBOLA, SEWAT, 425.6454
+    Germano-Milano Bonés, , 423-2211.
+    WERNER N. KEMP - ABRAFADA, , 423-1101
+    MARULO GABARDO, , 4232211
+    Antavia Canks Maconnão mochodo, , 9974-0156
+    Julio marions, , 9973-1605
+    Mônica Barbosa Peralta (NRE), , 423-2434
+    . ROSA MAGUINA ryoaf, , 422 2717.
+    JAYME LEONEL, , 423-2211
+    LUIZ CARLOS SERENA, , 423-1101
+    MMUSEU DO BOWE
+
+    COPIADORA FLASH Copy Center
+    Rua: Oswaldo Cruz, 804 - Telefone: (0**43) 422-6914- Apucarana / Paraná
+    ORDEM DE SERVIÇO 4/22
+    Data Entrega:
+    Fone
+    Total do Serviço
+    Assinatura
+    BILA
+    Fones (0**43) 422-7990/974-1652
+    LA FACCE COMÉRIO DE PRODUTOS FOTOGRÁFICOS
+    Av. Munhoz da Rocha, 1393 CNPJ 03.694.852/0001-14
+    NOTA FISCAL PRESTAÇÃO DE SERVIÇOS Série \"A\"
+    APUCARANA PR
+    Inser. Municipal 006697
+    № 0587
+    Data, Z5/5/2002
+    Sr. SENAI N.A.E APUCARANA
+    End. AU AVIAÇÃO 1851
+    Discriminação: FOTOS IS LANÇAMENTO 9000 DO MUSEJ DO BUJE - CUMEMORAÇAO GO ANOJ SE NAI, Quant. 30, TOTAL 90,00
+    CNPJ.03770284 0013-34, TOTAL R$ 90,00
+    AGRADECEMOS A PREFERÊNCIA NÃO VALE COMO RECIBO
+
+    Revolução Francesa Origem moderna de nosso Museu
+    Em 14 de Julho de 1789 os franceses ansados de viver sob um Estado que garantia privilégio penas para alguns e muito trabalho e semidão para muitos iniciam o mais importante movimento político e ocial do século 18. A herança mais importante que nos egou a Revolução Francesa, nome com que se tornou onhecido esse movimento, foi a de valorizar a zualdade de todos perante o cumprimento das leis!
+    Buscando o respeito à dignidade do homem em sua lenitude, entre tantas medidas, a Revolução Francesa em a criar o primeiro museu com caráter público do mundo!
+    No dia 10 de Agosto de 1793 é aberto pela primeira vez os portões do Palácio do Louvre, residência le campo dos reis franceses à visitação pública. Nele encontram-se reunidos uma boa parte dos bens nfiscados da realeza deposta e ali exposto à analise de os os franceses agora como patrimônio de sua nação.
+    200 anos, portanto o Museu do Louvre, encontra-se om suas portas abertas recebendo visitantes não só da França, mas de todo o mundo. Constituindo um dos maiores centros de estudos na área de museus.
+    Dos ideais da Revolução Francesa nos vem a primeira definição do que seja a instituição conhecida por museu:
+    MUSEU ATRAVÉS DOS TEMPOS
+    A Revolução Francesa conferiu a instituição museu um caráter público, e com ela, deu-lhe também o aspecto recreativo e cultural, o qual os museus de um modo geral não possuíam! Antes museu era apenas um centro de estudo. O acesso a ele era restrito a tão somente pesquisadores e estudiosos os quais tinham que ter uma autorização especial para visitá-lo.
+    A inovação que nos vem com a Revolução Francesa é algo extraordinário! De seu caráter recreativo, nascem as \"exposições\"! Em torno delas desenvolvem-se toda uma técnica de expor-se um objeto. Ele agora deve conversar com o visitante, ser-lhe um documento eloqüente de uma época, de um período da história humana! Entra ai o conhecimento psicológico, os estilos de arquitetura, o uso das cores, desenvolvem-se princípios de cons ação restauração dos mais diferentes objetos. Valoriza-se o visitante do museu e a própria cultura popular! Confere- se aos museus uma dinâmica toda própria voitada agora não mais para uma elite, mas para o grande público.
+    No Brasil através da Lei 7.287 de 16/12/1984, sancionada pelo Presidente João Baptista Figueiredo, OS trabalhadores em museu passaram a ser conhecidos como \"museólogos\".
+    Profissionais com formação universitária é de sua responsabilidade o gerenciamento e administração dos museus existentes no país.
+    TEMPLO DAS MUOD Origem do vocábulo museu...
+    Os primitivos gregos possuidores de imaginação fértil, conceberam o universo regio por uma infinidade de Deuses e de Deusas, cas virtudes e os defeitos humanos. O chefe de todos, ZEUS veio a casar- se com Deusa MNEMÓSIA ou memória! Desse casamento nasceram-lhes nove filhas ou musas. Estas eram as protetoras dos diversos ramos do conhecimento humano. Protegiam os oradores, os filósofos, as artes plásticas e até a música! Vocábulo que deriva de musa... O grego primitivo denominava de um \"mouseion\" genericamente o que poderia ser para ara nós hoje uma escola, biblioteca, arquivo, atelier de um artista plástico, escritório ou mesmo uma universidade como a concebemos hoje.
+    Dominados e subjugados pelos romanos, o seu vocábulo \"mouseion\" passou para Roma como \"museum\" e chega a nossos dias como museu. Termo que relacionamos com a preservação e divulgação do conhecimento humano
+    \" museus são constituídos de coleções acessíveis a todos os homens para finalidades recreativas, culturais e de estudo.\"
+
+    ORIGEM DO MUSEU HISTÓRICO DE APUCARANA
+    Em 10 de Outubro de 1967 a Câmara dos Vereadores promulgava a Lei Municipal N.º 49/67 através da qual era criado o Museu Histórico de Apucarana. Previa a Lei dotação orçamentária para instalá-lo no exercício seguinte de 1968. Porém, até os dias atuais os Prefeitos de Apucarana não se dispuseram em cumprir a Lei!
+    Diante do muito que se perdia dos vestígios documentais e da \"memória não só da cidade de Apucarana, mas de toda a região compreendida pelo Norte do Estado do Paraná, a Faculdade Estadual de Ciências Econômicas de Apucarana, primeira Escola de Ensino Superior da cidade vem a criar em 24 de Setembro de 1976 o seu Museu Histórico Regional de Apucarana. Sua finalidade transcende os limites geográficos da cidade de Apucarana, mas abrange e atua em uma região de aproximadamente 300 km e mais de 80 municípios existentes em todo o norte- paranaense. Isto porque só do primitivo território do Município de Apucarana, criado em 30 de dezembro de 1943 vieram a surgir perto de 60 novas municipalidades paranaenses. Impossível tentar reconstruir a história da cidade sem atentar para o que ela representou desde o seu surgimento até a década de 70 do século 20 da era cristã. No dia 21 de Setembro de 1977 o museu é oficialmente inauguraio adaptando-se uma sala de aula no \"campus\" da Faculdade para abrigar sua exposição permanente.
+    O ato contou com a presença do historiador paranaense David Carneiro, de saudosa memória.
+    De fins do ano de 1980 até 1986 viveu o museu um período de grande atividade e realizações! Aumentou-se o acervo en. mais de 100% junto com 0 número de visitantes 0 qual crescia significativamente. Comemorou-se no período o cinqüentenário de fundação da cidade de Apucarana, fevereiro de 1984 com uma Exposição alusiva em dependências da Biblioteca Pública do Paraná em Curitiba.
+    Em 31 de julho de 1985 é conferido ao Diretor do Museu Histórico Regional de Apucarana o registro de n°. 001 nos termos da Lei 7.287 pelo Ministério do Trabalho. Reconhecendo-lhe o título de primeiro museólogo habilitado a administrar museus no território do Estado do Paraná.
+    Bibliografia
+    1.
+    2. BARROSO, Gustavo Dodt. Introdução à Técnica de Museus. Rio de Janeiro, MEC;1951 V.1
+    MUSEUM, trimestral, UNESCO, n° 154, 1987.
+    Composição, Arte e Impressão. Gráfica da Faculdade Estadual de Ciências Econômicas de Apucarana - Paraná
+    Rodovia do Café Br. 369 km. 03 saída de Apucarana para Curitiba.
+    N.°. de Exemplares: 2.000 Ano: 2.000 da era cristã
+    Governo do Estado do Paraná
+    Faculdade Estadual de Ciências Econômicas de Apucarana
+    MUSEU HISTÓRICO REGIONAL 1976 2.000
+    24 anos preservando a \"memória\" do Norte do Paraná
+    QUE É MUSEU ???
+    - Uma pergunta que merece resposta -
+    2ª Edição
+    Elaborado pelo museólogo Ninger Marena",
+    "criterios": "2,3,4,5,6,7,8,16,17,18,19",
+    "html": "<h1>Documentos Museu do Boné (Pasta Parda)</h1>
+      <p>conteudo</p>",
+    "aria-label": "Ouvir Coletânea de documentos e notícias sobre a indústria do boné e a história dos museus em Apucarana",
+    "aria-pressed": [true, false],
+    "aria-description": "Leitura de áudio com duração de X minutos."
+  }
+}
+
+{
+  "documento": {
+    "id_arquivo": 6,
+    "titulo": "CARTA DE INTENÇÃO DE PARCERIA",
+    "autor": "Jayme Leonel",
+    "ano": "2022",
+    "categoria": "Documento",
+    "assunto": "Parceria entre Jayme Leonel (APL de bonés) e UTFPR para o Ecomuseu do Boné.",
+    "arquivo": "6_6_Documento.pdf"
+  },
+  "conteudo": {
+    "id_metadado": 6,
+    "id_foreign_key": 1,
+    "conteudo": "CARTA DE INTENÇÃO DE PARCERIA
+      JAYME LEONEL, representante do arranjo produtivo local de bonés de Apucarana, localizada em APUCARANA PR declara haver interesse em firmar parceria com a UTFPR, por meio do Projeto de Extensão ECOMUSEU DO BONÉ, pelo período de 01/08/2022 a 31/07/2023 com o objetivo de colaborar na promoção e estruturação física do ecomuseu do boné
+      Jayme Leonel",
+    "criterios": "2,3,4,5,6,7,8,16,17",
+    "html": "<h1>CARTA DE INTENÇÃO DE PARCERIA</h1>
+         <p>conteudo</p>",
+    "aria-label": "Ouvir o documento: Carta de Intenção de Parceria - Jayme Leonel",
+    "aria-pressed": [true, false],
+    "aria-description": "Leitura de áudio com duração de X minutos."
+  }
+}
+
+{
+  "documento": {
+    "id_arquivo": 7,
+    "titulo": "Falas Macarrão",
+    "autor": "Antonio Carlos Macarrão Machado",
+    "ano": "Null",
+    "categoria": "Depoimento",
+    "assunto": "Relato de Antonio Carlos Macarrão sobre o pioneirismo da Cotton's e a história do boné em Apucarana.",
+    "arquivo": "7_7_Depoimento.pdf"
+  },
+  "conteudo": {
+    "id_metadado": 7,
+    "id_foreign_key": 1,
+    "conteudo": "1 - Quem trouxe a primeira maquina de bordar p Apucarana, foi eu atraves de uma importação direta da Melco Americana!
+      A primeira bordadeira de Apucarana, foi uma Melco de 8 cabeças, q montava de 4 em 4!
+      Eu cuidava tambem do dpto importação e exportação era formado em Marketing e Com.Exterior, e uma vez na Argentina vi uma maquina, menor de 2 cabeças e convenci o Jaime de comprar, pq achava q aquele tipo de trabalho ia dar difencial ao nosso bone!
+      Trouxe nossa maquina, atraves de carta de credito do Banestado, q neste tempo, o prazo maximo p operação era 30 dias! (acho q tenho docs desta operação)Consegui uma de prazo 180 dias, coisa quase impossivel a Epoca!
+      Tenho matérias em jornais relatando a aquisição festejada da empresa.
+      2-A segunda bordadeira, eu tambem trouxe, e ai ja foi uma japonesa uma Tajima 12 cabeças!!
+      3-A Cottons foi pioneira, na aquisição de uma maquina de dublar Foi em 1987 uma máquina rotativa (Alemanha)de estampar e também para dublagem de tecidos ! Ate hoje aquela maquina é mais moderna q as q estao ai na cidade!
+      4-Acho que é justo e se nescessario, dizer q a Cottons foi a maior empresa de bones da AL, e as feiras nacionais e internacionais q fizemos ao longo dos anos, os pedidos de 1 milhao de bones da copa do mundo, Formula 1, etc, serviram p alavancar e chamou a atenção p o setor!!
+      5-Outra coisa q acredito q deva ser mencionado porque é justo, e se, é para falar sobre a verdadeira historia, do bone, teremos q falar da campanha Apucarana Capital do Bone, que se iniciou nos primordios,! Foi criada pelo Paulo Gabardo e por mim!
+      Nos dois iniciamos sozinhos com muita garra a nossa estrategia.
+      Divulgavamos, em feiras, eventos dos mais diversos setores! Mesmo nao tendo muito apoio dos proprios fabricantes da época!
+      Digo isso nao pq queremos reconhecimento, mas q justiça seja feita por algo q nos acreditamos lá traz e poucos deram valor e q hoje tem sua indentidade que beneficia a cidade e o setor!
+      Sei muito bem que muitos sr beneficiam ate hoje!!
+      6-A novela ti ti ti, que houve aquela parceria, com algumas empresas, q a meu ver nao teve o retorno esperado e investido, p o setor, e q sabemos a dor de cabeça q virou depois na justiça envolvendo prefeitura etc, nao foi a de1985!!
+      Foi na reedição da novela de 2010.
+      So um comentario neutro! A fala sobre a Abigail e empresa dela, achei q ficou redundante!
+      Tem mais enfase q a historia sobre as empresas de bones!
+      Adoro a Biga, mas se hoje Apucarana é o q é!! Deve se ao JAIME a Cottons, e a outros do inicio, mas a Corttons, foi alem do tempo, foi pioneira em todas tecnologias possiveis! Desde maquinas, materias primas, modelagem, etc! Passando por processos modernos de produção!
+      Depois temos outras empresas antigas, como showa, keeps, Kicker, etc
+      Achei muito simplista sobre as verdadeiras alavancadoras do setor!
+      A Abigail é uma grande empresaria, importante p o setor da confecção, mas especificamente po bone, a historia tem outros protagonistas!
+      E a leva q vem com vcs Milano, Krisuil, Bonelli, Bunnet, Kiooday etc!
+      Que sao os que na sequencia com otima administração e modernidade continuam com chave de ouro, uma historia q ainda é adolescente perante o q vem pela frente, e promete mais captulos de prosperidade!
+      Minha humilde opinião!
+      Antonio Carlos Macarrão Machado",
+    "criterios": "2,3,4,5,6,7,8,16,17",
+    "html": "<h1>Falas Macarrão</h1>
+      <p>conteudo</p>",
+    "aria-label": "Ouvir o depoimento: Falas de Antonio Carlos Macarrão",
+    "aria-pressed": [true, false],
+    "aria-description": "Leitura de áudio com duração de X minutos."
+  }
+}
+
+{
+  "documento": {
+    "id_arquivo": 8,
+    "titulo": "Histórico do APL de Bonés de Apucarana",
+    "autor": "Null",
+    "ano": "Null",
+    "categoria": "Artigo",
+    "assunto": "Histórico, estrutura de governança e objetivos do APL de Bonés de Apucarana.",
+    "arquivo": "8_8_Artigo.pdf"
+  },
+  "conteudo": {
+    "id_metadado": 8,
+    "id_foreign_key": 1,
+    "conteudo": "APL de Bonés de Apucarana
+      Histórico do APL de Bonés de Apucarana
+      A fabricação de bonés em Apucarana, norte do Paraná, teve início em 1974, a partir da produção artesanal de bandanas e tiaras que eram comercializadas em feiras agropecuárias, exposições e nas praias do litoral paranaense.
+      De início, os empresários pioneiros se limitaram a copiar e produzir bonés fazendo uso da técnica de silk screen, aba de papelão e reguladores de elástico.
+      Já no início da década de 80, começaram a surgir as primeiras empresas do segmento.
+      Contudo, não havia na região os elos da cadeia produtiva de bonés e confecções. A dublagem de tecidos era realizada em São Paulo, assim como a aquisição da matéria-prima e das máquinas e equipamentos.
+      Os empresários do setor de bonés reuniram-se em torno de um objetivo comum: melhorar a qualidade e a produtividade das empresas do segmento. Contrataram consultoria especializada nas áreas de qualidade, processo produtivo, formação do preço e controle de custos. Dividiram a produção em células e deram início ao processo de capacitação das costureiras do setor com o apoio do Senai Apucarana.
+      Em 2003, com o apoio do Sebrae/PR e entidades locais, o município de Apucarana passou a implantar o modelo de APL.
+      No início de 2004 formou-se o comitê gestor do APL de bonés de Apucarana, com a participação de empresários e entidades parceiras.
+      Em junho de 2004, foi realizada uma Oficina de Planejamento com o propósito de elaborar o Plano Estratégico para o Desenvolvimento do Setor de Bonés do município, no âmbito de atuação do Sebrae-PR, seguindo a metodologia dos Arranjos Produtivos Locais (APL).
+      Como resultado da Oficina teve inicio um conjunto de ações que deverão nortear não apenas as atividades inovadoras, mas também as atividades relacionadas à qualidade e à sustentabilidade do Setor.
+      Hoje, Apucarana é um dos grandes polos na confecção de bonés e produtos associados (bandanas, bolsas, porta CD's e camisetas), com uma produção mensal em torno de quatro milhões de peças mês, o que representa mais da metade da produção nacional do setor.
+      A Governança do APL
+      A governança do APL é composta por empresários do setor e membros representantes de organizações locais.
+      A governança se estrutura na realização das ações por grupos temáticos - Grupo Mercado Grupo Inovação/Tecnologia Grupo Imagem Grupo Capacitação e Grupo Gestor.
+      As reuniões da governança acontecem às quintas feiras das 7h30 às 8h30 da manhã.
+      O Objetivo é tratar de assuntos inerentes as ações desenvolvidas pelos grupos e também como alinhamento estratégico dos trabalhos, onde são validadas todas as ações, bem como a construção de estratégias para o alcance dos resultados.
+      As reuniões dos grupos de trabalho acontecem com cronograma próprio, buscando realizar as ações planejadas.
+      Buscando o reconhecimento internacional da marca \"Bonés de Apucarana\", a missão do APL é Desenvolver e consolidar a cadeia de valor do setor de forma sustentável.
+      Também faz parte dos objetivos aumentar a competitividade e a cooperação das empresas fabricantes de bonés, focado na melhoria do processo produtivo, do produto e no aumento da participação no mercado interno e ainda a conquista do mercado externo.",
+    "criterios": "2,3,4,5,6,7,8,16,17",
+    "html": "<h1>Histórico do APL de Bonés de Apucarana</h1>
+      <p>conteudo</p>",
+    "aria-label": "Ouvir o artigo: Histórico do APL de Bonés de Apucarana",
+    "aria-pressed": [true, false],
+    "aria-description": "Leitura de áudio com duração de X minutos."
+  }
+}
+
+{
+  "documento": {
+    "id_arquivo": 9,
+    "titulo": "LEI Nº 12.285. DE 6 DE JULHO DE 2010",
+    "autor": "Presidência da República",
+    "ano": "2010",
+    "categoria": "Lei",
+    "assunto": "Lei que confere a Apucarana o título de Capital Nacional do Boné.",
+    "arquivo": "9_9_Lei.pdf"
+  },
+  "conteudo": {
+    "id_metadado": 9,
+    "id_foreign_key": 1,
+    "conteudo": "Presidência da República
+      Casa Civil
+      Subchefia para Assuntos Jurídicos
+      LEI Nº 12.285. DE 6 DE JULHO DE 2010.
+      Confere ao Município de Apucarana, no Estado do Paraná, o título de Capital Nacional do Boné.
+      O VICEPRESIDENTE DA REPÚBLICA, no exercício do cargo de PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
+      Art. 1º É conferido ao Município de Apucarana, Estado do Paraná, o título de Capital Nacional do Boné.
+      Art. 2º Esta Lei entra em vigor na data de sua publicação.
+      Brasília, 6 de julho de 2010; 189º da Independência e 122º da República.
+      JOSÉ ALENCAR GOMES DA SILVA
+      Luiz Paulo Teles Ferreira Barreto
+      Este texto não substitul o publicado no DOU de 7.7.2010",
+    "criterios": "2,3,4,5,6,7,8,16,17",
+    "html": "<h1>LEI Nº 12.285. DE 6 DE JULHO DE 2010.</h1>
+      <p>conteudo</p>",
+    "aria-label": "Ouvir a Lei: nº 12.285, Capital Nacional do Boné",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura de áudio com duração de X minutos."
+  }
+}
+
+{
+  "documento": TODO: IMAG (Patrocinadores){
+    "id_arquivo": 10,
+    "titulo": "Concurso de Criação do Logotipo do Museu do Boné de Apucarana",
+    "autor": "Museu do Boné / NRE Apucarana",
+    "ano": "2002",
+    "categoria": "Flyer",
+    "assunto": "Flyer do concurso de criação do logotipo do Museu do Boné de Apucarana.",
+    "arquivo": "10_10_Flyer.pdf"
+  },
+  "conteudo": {
+    "id_metadado": 10,
+    "id_foreign_key": 1,
+    "conteudo": "Museu do Boné
+      Concurso de Criação do Logotipo do Museu do Boné de Apucarana
+      SECRETARIA DE ESTADO DA EDUCAÇÃO
+      NÚCLEO REGIONAL DA EDUCAÇÃO DE APUCARANA
+      HISTÓRICO DO MUSEU DO BONÉ
+      Em Apucarana a confecção do boné começou nos anos 70 com o Sr. Jaime Dionísio Ramos. Iniciou-se então uma atividade econômica que se tornaria a vocação empresarial da cidade e pela qual passaria a ser identificada nacionalmente.
+      O Sr. Ramos implantou inicialmente pequena confecção no porão da casa de sua mãe. Fabricava tiaras e bandanas que ele próprio vendia nas portas dos estádios de futebol. Passou a confeccionar bonés com abas de papelão, era um produto totalmente diferente daquilo que hoje conhecemos. A aceitação crescia gradativamente e quase não havia indústrias especializadas no ramo de boné no Brasil.
+      Agindo como verdadeiro pioneiro e acreditando na atividade, o Jaime da Cottons, como ficou conhecido, buscou inovações quanto aos materiais utilizados e a criação de novos modelos. Não demorou para que outros empresários, acompanhando o entusiasmo e o sucesso do pioneiro ingressassem na atividade mediante a implantação de novas indústrias, não só na confecção de bonés, mas agora também na produção de acessórios a serem utilizados no acabamento do produto. A cidade tornou-se então importante e conhecido pólo de produção de bonés.
+      Atualmente, já incorporada a fabricação de chapéus, Apucarana oferece toda matéria-prima, mão-de-obra, equipamentos e logista utilizados na atividade. Podemos afirmar que cerca de 60% dos empregos mantidos e gerados em Apucarana estão direta ou indiretamente relacionados à confec- ção de bonés e similares.
+      O municipio responde por cerca de 60% da produção nacional de bonés, tendo registrado já algumas remessas para o exterior, área em que estão sendo desenvolvidos diversos projetos.
+      Os empresários de Apucarana que estão na atividade, conscientes da importância que representam para a economia e a própria vida da comunidade, perceberam a necessidade de resgatar a história que levou Apucarana a ser conhecida como \"Capital do Boné\"..
+      Para que a comunidade possa ter presente e poder mostrar aos que nos visitam os passos que nortearam e que acompanharão a atividade econômica que e a própria identidade do municipio alguns segmentos de apucaranenses empreenderam a instalação do MUSEU DO BONÉ, que objetiva entre outros fins a consolidação de Apucarana como a CAPITAL DO BONE.
+      1 JUSTIFICATIVA
+      A economia do município de Apucarana está diretamente ligada à fabricação de bonés, despontando como \"Capital do Boné\".
+      Objetivando fortalecer e identificar nossa cidade como \"Capital do Boné\", foi criado o Museu do Boné, para o qual estamos propondo um concurso para a criação de um logotipo para identificá-lo.
+      II OBJETIVOS
+      Criar um logotipo para ser utilizado como símbolo de divulga- ção do Museu do Boné de Apucarana.
+      III ТЕМА
+      Concurso de criação de um Logotipo do Museu do Boné de Apucarana.
+      IV INSCRIÇÃO PARTICI PAÇÃO
+      Ser aluno matriculado em estabelecimento de ensino fundamental (5ª à 8ª séries) de escolas públicas ou particulares de ensino, no município de Apucarana.
+      O aluno poderá concorrer com um único trabalho.
+      O concurso será realizado pela Diretoria do Museu do Boné, com o apoio do Núcleo Regional da Educação de Apucarana.
+      VI ETAPAS
+      Fase Escolar
+      Os alunos concorrerão com um trabalho criação de um Logotipo para o Museu do Boné de Apucarana, em papel sulfite A4 (21X29 cm), podendo utilizar-se de qualquer material para colorir (lápis de cor; tintas, grafite e outros).
+      A seleção dos melhores trabalho do Estabelecimento de Ensino será realizada por uma comissão de, no mínimo, 03 (três) profissionais, indicados pela Direção da Escola, a qual deverá encaminhar ao N.R.E. de Apucarana, no prazo estipulado, no mínimo 02 (dois) e, no máximo, 10 (dez) trabalhos por Escola.
+      Fase Municipal
+      Os alunos vencedores nos Estabelecimentos de Ensino concorrerão com seus trabalhos escolhidos na FASE ESCOLAR aos prêmios municipais.
+      A seleção será realizada por uma comissão composta de, no mínimo, 03 (três) pessoas altamente capacitadas, sob coordenação do NRE de Apucarana.
+      VII CRITÉRIOS PARA A AVALIAÇÃO E SELEÇÃO
+      * Criatividade
+      * Originalidade
+      * Harmonia na composição visual
+      * Coerência com o tema
+      VIII CRONOGRAMA
+      Divulgação: 01 a 10 de agosto
+      Fase Escolar
+      1. Elaboração dos trabalhos: 16 agosto a 30 agosto
+      2. Seleção dos trabalhos: 02 setembro a 06 setembro
+      Fase Municipal
+      VIDIAT
+      1. Entrega no NRE do trabalho selecionado pela escola: 16 setembro a 18 setembro.
+      2. Seleção dos trabalhos: 18 setembro a 20 setembro
+      3. Divulgação: 25 setembro/2002
+      4. Entrega de Prêmios: 26 de setembro de 2002
+      IX PRÊMIOS
+      Receberão prêmios os 03 (três) primeiros colocados em nível municipal.
+      *1º Lugar Telefone celular pré-pago
+      *2° Lugar Bicicleta 18 marchas
+      *3° Lugar Máquina Fotográfica
+      X DISPOSIÇÕES GERAIS
+      É vedada a participação de filhos de funcionários do N.R.E., da Diretoria do Boné de Apucarana, da Comissão Organizadora e da Comissão de Premiação e Seleção.
+      Os casos omissos nesse regulamento serão resolvidos pela Comissão julgadora.
+      À Diretoria do Museu do Boné de Apucarana se reserva o direito de fazer uso do Logotipo selecionado em campanhas, divulga- ção e marketing do Museu do Boné.
+      O material enviado ao N.R.E. não será devolvido.
+      PATROCINADORES
+      DICATEX AVIAMENTOS PARA BONES
+      TECITEX
+      COMÉRCIO DE TECIDOS
+      TAICRY Máquinas e Indústria
+      A ASSIBBRA
+      ASSOCIAÇÃO DAS INDÚSTRIAS DE BONÉS E BRINDES DE APUCARANA
+      MILANO PRODUTOS PROMOCIONAIS
+      2
+      ABRAFAB Q
+      MACARRÃO
+      Brazil
+      ΑpΟΙΟ
+      SENAI APUCARANA
+      N.R.E. - APUCARANA",
+    "criterios": "2,3,4,5,6,7,8,16,17",
+    "html": "<h1>Concurso de Criação do Logotipo do Museu do Boné de ApucaraNA</h1>
+      <p>conteudo</p>",
+    "aria-label": "Ouvir o flyer: Concurso de Criação do Logotipo do Museu do Boné",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura de áudio com duração de X minutos."
+  }
+}
+
+{
+  "documento": TODO: ML{
+    "id_arquivo": 11,
+    "titulo": "Legenda de fotos, revistas, baners, quadros",
+    "autor": "Null",
+    "ano": "Null",
+    "categoria": "Legenda",
+    "assunto": "Lista de legendas e códigos de itens (fotos, notícias, máquinas, bonés) para o Museu do Boné.",
+    "arquivo": "11_11_Legenda.pdf"
+  },
+  "conteudo": {
+    "id_metadado": 11,
+    "id_foreign_key": 11,
+    "conteudo": "Fotos
+      Carneiro no Buraco/1993
+      MB-F 001
+      Carneiro no Buraco promovido pelas fábricas e confecções de bonés de Apucarana. MB-F 002
+      Apucarana na Fórmula Indy em 1987 no Rio de Janeiro
+      MB-F 003
+      André Ribeiro Campeão-1987
+      MB-F 004
+      Bonés da Marlboro fabricado pela Cottons
+      MB-F 005
+      Grambelli participa da STOCK CARS tendo a Cottons como um de seus patrocinadores.
+      MB-F 006
+      Grambelli com o boné da COFAP fabricado pela Cottons.
+      MB-F 007
+      Bonés da Marlboro, feito pela Cottons.
+      MB-F 008
+      Primeira empresa de bonés que participa de uma feira Internacional
+      MB-F 009
+      Jaime Ramos (Cottons) em Nova York
+      MB-F 010
+      Jaime R. representando Apucarana em Nova York
+      MB-F 011
+      Feira Internacional
+      MB-F 012
+      Apucarana sendo muito bem representada em uma feira de negócios.
+      MB-F 013
+      Um bate-papo no autódromo
+      MB-F 014
+      \"Jaime Ramos prestando atenção em tudo que passa mesmo com a Cottons na cabeça\".
+      MB-F 015
+      Bandana de couro criada pela Cottons.
+      MB-F 016
+      Jaime Ramos com o boné gigante criado pela Cottons
+      MB-F 017
+      Cottons patrocina Grambelli na Stock Car em 1988
+      MB-F 018
+      Trailler da Cottons
+      MB-F 019
+      Monstruário da Cottons
+      MB-F 020
+      Stand que agrada a todos os gostos
+      MB-F 021
+      Patrocínio da Cottons e da Cofap em 1988
+      MB-F 022
+      Toda a equipe com bonés da Marlboro feito pela Cottons
+      MB-F 023
+
+      Notícias
+      Assunto: Tira-se o chapéu.
+      Fonte: Revista Três Poderes.
+      MB-N 001
+      Assunto: Bonés para promover os 50 anos de Apucarana já estão definidos.
+      Fonte: Tribuna do Norte-/18/12/93
+      MB-N 002
+      Assunto: Um lucro que vai da cabeça aos pés
+      Fonte: Tribuna do Norte
+      MB-N 003
+      Assunto: Produção de Bonés impulsiona cidade no PR
+      Fonte: Folha de SP-16/11/93
+      MB-N 004
+      Assunto: Museu do Boné
+      Fonte: Revista Destaque- 06/05/02
+      MB-N 005
+      Assunto: Museu do Boné
+      Fonte: Bonés & Cia- Agosto/02
+      MB-N 006
+      Assunto: Apucarana vai ganhar Museu do Boné.
+      Fonte: Tribuna do Norte- 26/04/02
+      MB-N 007
+      Assunto: Apucarana cria ponto de ônibus temático.
+      Fonte: Tribuna do Norte
+      MB-N 008
+      Assunto: Museu do Boné
+      Fonte: Jornal do Boné/ Dicatex- Julho/02
+      MB-N 009
+      Assunto: Indústrias querem fortalecer pólos de bonés.
+      Fonte: Jornal do Boné/ Dicatex - Julho/02
+      MB-N 010
+      Assunto: Editorial/ Investir na qualidade é receita contra desafios.
+      Fonte: Jornal do Boné/ Dicatex - Julho/02
+      MB-N 011
+      Assunto: Meta é arrecadar material para o Museu.
+      Fonte: Jornal do Boné/ Dicatex - Julho/02
+      MB-N 012
+      Assunto: Dicatex e Tecitex são pioneiras no município por implantarem os orelhões com forma de boné.
+      Fonte: Jornal do Boné/ Dicatex - Julho/02
+      MB-N 013
+      Assunto: Produção de bonés impulsiona Apucarana
+      Fonte: Tribuna do Norte - 30/04/00
+      MB-N 014
+      Assunto: Exportação ainda é pequena em relação ao mercado.
+      Fonte: Tribuna do Norte - 30/04/00
+      MB-N 015
+      Assunto: Número de fábricas cresce 200% nos últimos 6 anos
+      Fonte: Tribuna do Norte - 30/04/00
+      MB-N 016
+      Assunto: Vocação da cidade ganha destaque nos meios de comunicação do país.
+      Fonte: Tribuna do Norte - 30/04/00
+      MB-N 017
+      Assunto: Maringá reúne exportadores.
+      Fonte: Folha de Londrina
+      MB-N 018
+      Assunto: Capital do Boné vende 70% menos
+      Fonte: Folha de Londrina - 28/07/95
+      MB-N 019
+      Assunto: Crise atinge indústrias de confecções.
+      Fonte: Tribuna do Norte - 21/07/95
+      MB-N 020
+      Assunto: Boné na Mão
+      Fonte: Tribuna do Norte - 28/07/95
+      MB-N 021
+      Assunto: Cottons vai produzir bonés da Dijon com ventilador movido a energia solar.
+      Fonte: Gazeta Mercantil
+      MB-N 022
+      Assunto: Os homens que fazem a cabeça da moçada.
+      Fonte: Revista Exame - 23/06/93
+      MB-N 023
+      Assunto: Cottons fatura com a Dinossauromania
+      Fonte: Tribuna do Norte - 25/07/93
+      MB-N 024
+      Assunto: Indústria de bonés atravessa crise
+      Fonte: Jornal O Estado do PR.- 27/07/95
+      MB-N 025
+      Assunto: A marca registrada dos Teenagers
+      Fonte: Folha de Londrina - 24/09/93
+      MB-N 026
+
+      Maquete: Telefone público
+      Autor: Gomes
+      MB-MQT 001
+      Maquete: Telefone Público
+      Autor: Gomes
+      MB-MQT 002
+      Maquetes e Catálogos
+      Maquete: Apucarana a Capital do Boné
+      Autor: Gomes
+      MB-MQT 003
+      Maquete: Cobertura para ponto de ônibus
+      Autor: Gomes
+      MB-MQT 004
+      Catálogos
+      Catálogo de Bordados
+      Cedido pela Cottons
+      MB-C 001
+      Catálogo
+      Cottons
+      MB-C 002
+      Catálogo
+      Cottons
+      MB-C 003
+      Catálogo
+      Cottons
+      MB-C 004
+      Catálogo
+      Cottons
+      MB-C 005
+
+      Quadros/ Baners/Telas
+      Quadro cedido Cottons
+      MB-Q 001
+      Quadro cedido pela Cottons
+      MB-Q 002
+      Quadro cedido pela Cottons
+      MB-Q 003 Pelé
+      Quadro emprestado pela Cottons
+      MB-Q 004
+      Rubinho
+      Quadro emprestado pela Cottons
+      MB-Q 005
+      Nelson Piquet
+      Quadro emprestado pela Cottons
+      MB-Q 006
+      Baner: Concurso escolha o logotipo par
+      Doação feita por: Dicatex; Tecitex, Ma
+      MB-BA 001
+      Baner: Museu do Boné
+      Cedido pela Dicatex
+      MB-BA 002
+      Baner: APAE E SENAI
+      Doação da APAE
+      MB-BA 003
+      Tela de Silk Screen
+      MB-T 001
+      Tela de Silk Screen
+      MB-T 002
+      Tela de Silk Screen
+      MB-T 003
+
+      MAQUINAS
+      Uma das primeiras máquinas utilizadas na confecção de bonés.
+      Doada pela empresa Jaboti Bonés+-
+      MB-MQN 001
+      Máquina Reta
+      Doada pela Cottons
+      MB-MQN 002
+      Máquina Pespontadeira
+      Doada pela Cottons
+      MB-MQN 003
+      Máquina Galoneira
+      Doada pela Cottons
+      MB-MQN 006
+      Máquina Pespontadeira
+      Doada pela Cottons
+      MB-MQN 004
+      Máquina Reta
+      Doada pela Cottons
+      MB-MQN 005
+      Máquina Encapadeira de Botões
+      Doada pela Cottons
+      MB-MQN 007
+      Máquina de Corte
+      Doada pela Cottons
+      MB-MQT 008
+      Máquina de pregar botões
+      Doada pela Cottons
+      MB-MQN 010
+      Pregadeira de Botões
+      Doada pela Cottons
+      (fura e pega)
+      MB-MQN 009
+
+      Bonés Crianças Especiais
+      MB-BO 0001- Boné azul bordado um coração vermelho
+      MB-BO 0002-Boné azul e branco autografado pela Hortência para a Dicatex, e doado pelo Walysson para o Museu do Boné.
+      MB-BO 0003- Boné azul e cinza
+      MB-BO 0004- Boné azul e branco (J. C. Barroso)
+      MB-BO 0005- Boné azul e branco (J. C. Barroso)
+      MB-BO 0006- Boné azul marinho e branco (J. C. Barroso)
+      MB-BO 0007- Boné azul marinho e branco (J. C. Barroso)
+      MB-BO 0008- Boné Azul (Olimpíadas de Atlanta)
+      MB-BO 0009- Boné azul marinho e amarelo
+      MB-BO 0010-Boné preto e vermelho (Churrascaria Porcão)
+      MB-BO 0011-Boné creme e marrom/ TSC- Telecom)
+      MB-BO 0012- Boné azul escrito em vermelho(Dithane)
+      MB-BO 0013-Boné do \"Museu do Boné\"
+      MB-BO 0014- Boné do \"Museu do Bone\"
+      MB-BO 0015- Boné feito por um grupo de artistas plásticos liderados por Eduardo Tadeu.
+      MB-BO 0016- Boné do \"Museu do Boné\"
+      MB-BO 0017- Boné do \"Museu do Boné\"
+
+      Bonés cedidos pela Cottons
+      (mesa)
+      MB-BO 0018- Viseira Vermelha (Coca Cola)
+      MB-BO 0019- Boné branco (Fluminense)
+      MB-BO 0020- Boné Creme (Polícia Militar do PR)
+      MB-BO 0021- Boné Marron (BMP)
+      MB-BO 0022- Boné colorido com desenhos da Walt Disney
+      MB-BO 0023- Boné azul/creme/vermelho(copa 94-USA)
+      MB-BO 0024- Boné preto do Vasco da Gama
+      MB-BO 0025- Boné laranja- Alternativa
+      MB-BO 0026- Boné (exército)
+      MB-BO 0027- Boné com duas abas (azul e vermelho)
+      MB-BO 0028- Boné branco escrito em azul(Barão)
+      (parede)
+      MB-BO 0029- Boné amarelo- Suvinil
+      MB-BO 0030- Boné verde/caqui- (Peixe)
+      MB-BO 0031- Chapéu verde com bolso - Cottons social
+      MB-BO 0032- Boné branco e azul
+      MB-BO 0033-Boné azul e laranja (bordado \"Basquete\")
+      MB-BO 0034- Boné azul escrito em branco Banco Real.
+      MB-BO 0035- Boné Azul da Pepsi
+      MB-BO 0036- Boné preto e amarelo (Master Som)
+      MB-BO 0037-Boné Azul e amarelo( Eu leio isto é)
+      MB-BO 0038-Chapéu creme bordado com flores
+      MB-BO 0039- Viseira Amarela( Eu leio Isto é)
+      MB-BO 0040- Boné colorido Baby Club
+      MB-BO 0041- Boné Vermelho da Arisco/Xuxa
+      MB-BO 0042- Boné Creme - Cebion
+      MB-BO 0043- Boné preto com bordados em azul e laranja( Specian piscinas)
+      MB-BO 0044- Viseira verde limão e azul (Figurinha)
+      MB-BO 0045- Boné Vermelho (Eu leio isto é)
+      MB-BO 0046- Boné colorido com desenhos da Walt Disney
+      MB-BO 0047- Boné creme( Quinta do Jubair)
+      MB-BO 0048- Boné roxo (BM&F)
+      MB-BO 0049- Boné xadrez com aba azul do Parque do Gugu
+      MB-BO 0050-Boné azul, branco, verde e amarelo (Miltinho Púpio)
+      MB-BO 0051-Boné laranja (alternativa)
+      MB-BO 0052- Boné Creme- PM de MG
+      MB-BO 0053- Boné amarelo (Verão 97)
+      MB-BO 0054- Boné colorido (Tetra Campeão)
+      MB-BO 0055-Boné vermelho e preto (Jaime Campo)
+      MB-BO 0056- Boné azul e amarelo (Gilmar Fabris)
+      MB-BO 0057- Boné amarelo e preto(Pennzoul)
+      MB-BO 0058- Boné branco escrito Shell em Vermelho e amarelo
+      MB-BO 0059- Boné branco escrito Schincariol em vermelho
+      MB-BO 0060- Boné creme com aba branca escrito \"Quinta do Jubair\"
+      MB-BO 0061-Boné Branco com aba verde escrito Cidade Verde-Turismo
+      MB-BO 0062-Boné branco - Apucarana Capital do Boné
+      MB-BO 0063- Boné branco da Antartica
+      MB-BO 0064- Boné Branco (nosso Fruto)
+      MB-BO 0065- Boné branco escrito Cottons
+      MB-BO 0066-Boné cedido pela empresa Bneleska licenciado para a Olimpikus. Modelo usado pelo Guga.
+      MB-BO 0067- Boné feito por um criança especial autografado pela Hortência para o Senai.
+      MB-BO 0068-Boné doado pela Seleção PR e Federação Paranaense de Beisebol e Softbol para o Museu do Boné.
+      MB-BO 0069- Boné do \"Museu do Boné\"
+      Bonés Franksteen- feito por alunos do Senai
+      MB-BO 0070- Boné branco e vermelho (Baxter)
+      MB-BO 0071-Boné azul marinho e branco (J.C. Barroso)
+      MB-BO 0072-Boné cinza bordado em verde petróleo (White Sox)
+      MB-BO 0073-Boné preto bordado em vermelho (C.R. Flamengo)
+      MB-BO 0074- Boné azul marinho bordado em creme e vermelho (ACE)
+      MB-BO 0075- Boné azul e marrom claro (Telecon)
+      MB-BO 0076- Boné branco com aba listada
+      MB-BO 0077- Boné azul (simples)
+      MB-BO 0078- Boné verde om azul marinho e azul royal
+      MB-BO 0079- Boné verde claro com aba verde escuro
+      MB-BO 0080- Boné preto bordado em vermelho(C.R. Flamengo)
+      MB-BO 0081- Boné branco com aba azul
+      MB-BO 0082- Boné azul marinho e amarelo com aba azul royal
+      MB-BO 0083- Boné branco com aba azul marinho
+      MB-BO 0084- Boné preto e amarelo(Grand Prix- Vip Team)
+      MB-BO 0085- Boné de cor chumbo Polícia Militat
+      MB-BO 0086- Boné azul e verde (Riachuelo)
+      MB-BO 0087- Boné preto- com a bandeira do Brasil (ELF)
+      MB-BO 0088- Boné azul marinho (Banco Real)
+      MB-BO 0089- Boné branco bordado \"Brahma\"
+      MB-BO 0090- Boné preto com detalhes em amarelo, vermelho, branco da Rede Transamérica.
+      MB-BO 0091- Boné creme \"Quinta do Jubair
+      MB-BO 0092- Boné branco escrito Honda em vermelho.
+      MB-BO 0093- Boné branco com detalhes amarelo, vermelho, cinza, escrito Dist. Shell em preto.
+      MB-BO 0094-Boné verde petróleo, azul royal e azul marinho escrito Gula Gula em branco e verde.
+      MB-BO 0095-Boné branco com detalhes amarelo, vermelho, cinza, escrito Dist. Shell em preto.
+      Bonés Bizarros
+      MB-BO 0096- Boné jeans com tachinhas pratas, e bem ousado.
+      MB-BO 0097-Chapéu preto grande escrito BONITU
+      MB-BO 0098- Coina Caqui- Cottons Social
+      MB-BO 0099-Boné preto com uma aba grande e florida(BONITU)
+      MB-BO 0100-Boina azul
+      MB-BO 0101-Boné azul e branco - Equipe Plec
+      MB-BO 0102-Boina Jeans
+      MB-BO 0103-Boina Xadrex
+      MB-BO 0104-Boné com ventilador
+      MB-BO 0105-Boné branco feito por criança especial
+      MB-BO 0106-Boné feito por criança especial
+      Telas na parede
+      MB-BO 0107- Boné marron com bordado (pirelli)
+      MB-BO 0108- Boné verde (verão 97)
+      MB-BO 00109- Boné azul royal (Avestruz)
+      MB-BO 0110- Boné branco bordado(PM de MG)
+      MB-BO 0111- Boné amarelo- Suvinil
+      MB-BO 0112- Boné de TNT branco- (Prefeito Dr. Alcides)
+      MB-BO 0113-Boné azul com detalhes em amarelo (Bosque do Morumbi)
+      MB-BO 0114-Boné com as cores da nossa bandeira (Miltinho Pupio)
+      MB-BO 0115- Boné branco Comercial Tucano
+      MB-BO 0116- Viseira verde limão( Figurinha)
+      MB-BO 0117-Chapéu rosa-mod. marinheiro
+      MB-BO 0118- Chapéu branco- mod. marinheiro
+      MB-BO 0119-Chapéu caqui- mod. marinheiro",
+    "criterios": "2,3,4,5,6,7,8,16,17",
+    "html": "<h1>Legenda de fotos, revistas, baners, quadros</h1>
+      <p>conteudo</p>",
+    "aria-label": "Ouvir a legenda de fotos, revistas, baners, quadros",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura de áudio com duração de X minutos."
+  }
+}
+
+{
+  "documento": {
+    "id_arquivo": 12,
+    "titulo": "Documentos Diversos - Museu do Boné (SENAI)",
+    "autor": "Vários / SENAI",
+    "ano": "2002",
+    "categoria": "Compilação de Documentos",
+    "assunto": "Discurso de inauguração do Museu do Boné no SENAI Apucarana e outros documentos.",
+    "arquivo": "12_1_Documentos.pdf"
+  },
+  "conteudo": {
+    "id_metadado": 12,
+    "id_foreign_key": 1,
+    "conteudo": "FACULDADE ESTADUAL DE CIÊNCIAS ECONÔMICAS DE APUCARANA
+      CRIADA PELO DECRETO N. 1972, DE 03 DE MAIO DE 1972
+      CURSOS DE: Ciências Econômicas, Ciências Contábeis, Administração de Empresas, Administração (ensino gratuito)
+      Hospitalar, Administração Pública e Administração de Comércio Exterior.
+      Rodovia do Café, BR-376 Km 03 Caixa Posta', 98 - CEP 86.800-970 Fone Fax Oxx-43-423-7277
+      -
+      Ilmo. Sr. Diretor
+      Museu do Bone
+      A/CSESI
+      Avenida Aviação, nº 1. 851
+      Vila Nova -
+      Apucarana Paraná
+      VER JORNA
+      TRIBUNA DE
+      26/4/2002
+      e
+      86.812.470
+      -
+      APUCARANA
+      Paraná
+      CARANA-
+      PONTO 3
+      CH
+      3000
+      -18480 4M-815596RAS.CO
+
+      AGRADECEMOS A TODOS PELO APOIO E PRESENÇA NESTAS ATIVIDADES DE COMEMORAÇÃO DOS 60 ANOS DO SENAI BRASIL, 59 ANOS DO SENAI PARANÁ E 16 ANOS DO SENAI APUCARANA
+      TEMOS MUITO PARA COMEMORAR:
+      MAIS DE 10 MIL PROFISSIONAIS PREPARADOS PELO SENAI APUCARANA
+      A APROVAÇÃO DO NOSSO CURSO TÉCNICO DE SEGURANÇA DO TRABALHO E MUITAS PARCERIAS DE SUCESSO.
+      E SUAT PRESENGAS.
+      E É COM GRANDE SATISFAÇÃO QUE ESTAREMOS DENTRO DE INSTANTES ENTREGADO A COMUNIDADE QUE SERÁ O MUSEU DO BONÉ.
+      ESTE ACERVO É MAIS UM PASSO PARA INSTRUMENTALIZAR O RESGATE DA HISTÓRIA DO BONÉ EM APUCARANA CARACTERIZANDO CADA VEZ MAIS A CIDADE DE APUCARANA COMO CAPITAL NACIONAL DO BONÉ.
+      CONVIDAMOS A TODOS OS PRESENTES PARA NOS DIRIGIRMOS AO HOOL ONDE DECERRRAREMOS A PLACA DO \"MUSEU DO BONÉ E ONDE SERÁ EM SEGUIDA PARTICIPAREMOS DE UM COQUETEL, OFERECIDO PELA FIEP. J.C. B.
+      EM NOME DA DIRETORIA PROVISÓRIA DO MUSEL DO BONÉ LIDERADA PELAS EMPRESAS MILLANO, DICATEX, MACARÃO BRASIL, TAICRY CONVIDAMOS O SR.MARCELO GABARDO.
+      O SR. PROFEITO MUNICIPAL
+      VALTER PEGORER, NRE...
+      E REPRESENTANDO O SENAI OS SENHORES.NEW G
+      M.
+
+      Gostaríamos de agradecer as autoridades presentes:
+      Fausto representando SESI / Apur.
+      Ercilia: gerente do SESC
+      Ana Cassapeia: gerente dos Correios
+      Zuleica:
+      Belyson neatex nter.
+      Dicatex.
+      Siley: gerente SENAI Arapongas
+      Leila: Curtiume Capucarana
+      Aos instrutores
+      Leila do SENAI de Telêmaco Borba
+      Empresas: Studio Do Ré mi, Fujiwara, Wurth do Brasil
+      Emerson Process Management.
+      Pedimos que a mesa junte-se a plenária
+      A palestra de hoje consiste em noções de exportação, os aspectos gerais de como exportar e porque exportar.
+      Para explanar sobre o assunto trouxemos uma pessoa atuante na área. Ela é graduada em biologia pela Unisinos - RS, técnica em contabilidade, cursos de exportação e importação na pequena e média empresa, aspectos fiscais das mercadorias, seguro e transporte internacional.
+      Atua a 12 anos na área de exportação, atualmente trabalha com importação de frutas frescas, transporte internacional e câmbio, conosco - Claudete Tatiana De Carli.",
+    "criterios": "2,3,4,5,6,7,8,16,17",
+    "html": "<h1>Documentos Diversos - Museu do Boné (SENAI)</h1>
+      <p>conteudo</p>",
+    "aria-label": "Ouvir o documento: Documentos Diversos - Museu do Boné (SENAI)",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura de áudio com duração de X minutos."
+  }
+}
+
