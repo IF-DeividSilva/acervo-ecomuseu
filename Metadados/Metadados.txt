@@ -991,7 +991,7 @@
 }
 
 {
-  "documento": {
+  "documento":  {
     "id_arquivo": 12,
     "titulo": "Documentos Diversos - Museu do Boné (SENAI)",
     "autor": "Vários / SENAI",
@@ -1069,3 +1069,1213 @@
   }
 }
 
+{
+  "documento": TODO= IMG{
+    "id_arquivo": 13,
+    "titulo": "Convite de Formatura - Centro Moda 2005",
+    "autor": "Centro Moda",
+    "ano": "2005",
+    "categoria": "Convite",
+    "assunto": "Convite de formatura dos Técnicos em Desenvolvimento de Produtos, Criação de Moda e Indústria do Vestuário.",
+    "arquivo": "13_13_Convite.pdf"
+  },
+  "conteudo": {
+    "id_metadado": 13,
+    "id_foreign_key": 13,
+    "conteudo": "A vida profissional
+      Acorde todas as manhãs com um sorriso. Esta é mais uma oportunidade para que você seja feliz.
+      Seja seu próprio motor de impulsão. Não desperdice, conduza seus esforços para ser mais feliz e um exemplo profissional.
+      Enumere as boas coisas de sua vida, assim lomará consciência do seu valor e será capaz de ir em frente.
+      Você conquistará seu arco-iris um dia de cada vez. Seja paciente, não se queixe do trabalho, mantenha-se atualizado, seja digno.
+      O verdadeiro profissional está dentro de você. Não se acomode, o importante é ter sempre atitudes positivas diante da vida produzindo maravilhosos efeitos.
+      O Deus criador nos colocou mais uma etapa. Estamos levando desta escola um novo aprendizado e o objetivo permanente de novos conhecimentos.
+      Tremos nos deparar com novas barreiras e novas soluções irão se apresentar, por isso vamos comemorar mais este importante degrau alcançado em nossa vida.
+      Profa. Anélia Zumas
+      CENTRO MODA
+      FUNDAÇÃO DE EVIND TECNICIO DE APUCABANA RETAR
+      Local: Clube de Campo Água Azul
+      Data: 21/12/2005
+      Colação: 19h
+      Jantar Dançante: 21h 30min
+      Con
+      Técnicos em Desenvolvimento de Produtos e Criação de Moda - Matutino
+      Adriano Correa Costa
+      Aleandro Marcos Moha
+      Fernanda Cavalieri
+      Fernando Chernalovicz
+      Alvaro Marcelo Kaim
+      Beatriz Glaser Garcia
+      Carla Veggian Delgado
+      Francieli Torquato Carlet
+      Lorivaldo Dias Araujo Ju
+      Maria Aparecida da Clare
+      Ditmar Inselmann
+      Maria Olinda Oliveira Joe
+      Edipo Sheika
+      Marlene Teixeira Rossi
+      Elaine Cristina Vieira Beffa
+      Michele Pitta Mourinho
+      Emanuel Souza Barros
+      Patricia Valentim de Souza
+      Erika Thais Leal Venegas
+      Sibilla Delarizza Barreto
+      Everton Teodoro da Silva
+      Técnicos em Indústria do Vestuário-Noturn
+      Adallon de Matos Mesquita
+      Alessandro Marcus Franco
+      Aline Aparecida de Lima
+      Anderson Rodrigues Rodrigues dos Santos
+      Angela Maria de Carvalho
+      Carlos Augusto Jacob Lebre
+      Carlos Roberto Baptista
+      Cleber da Silva
+      Cleiton Lucas de Mello Voznia
+      Edenir Amancio Guizelini
+      Edinéia da Silva
+      Edinéia Honorio da Costa
+      Eliana Aparecida de Assis Oliveira
+      Ivone Anselmo Marques
+      João Gabriel da Silva Cerqueira
+      Keli Cristina Santiago Serafim
+      Lucilene do Nascimento da Silva
+      Maria Delfina da Silva
+      Marilda dos Santos
+      Marilio Carneiro de Pa
+      Pedro Castelano de Oliv
+      Querem Daiane Viali
+      Reginaldo de Melo
+      Renata Ather Scoton
+      Renata Garcia
+      Rodrigo Marques Quer
+      Rogério Francisco da S
+      Razilene da Silva Pereir
+      Rule Keiko Sonehara
+      Silvana de Souza Silva
+      Silvia Roberta de Abreu
+      Sirlei Eugénia Marcelin
+      Thiago Eiki Sato
+      Técnicos em Desenvolvimento de Produtos e Criação de Moda - Noturno
+      Aleteia Sauchuk
+      Andressa Jaqueline Gonçalves Macedo
+      Lucimar Francisca
+      Marcela de Lucas.
+      Camila Caroline Zanella da Silva
+      Marcelo José de
+      Carla Adriana Damazio de Brito
+      Márcia Candido
+      Daniele Leiroz
+      Marcio José Silva
+      Eliane Cristina Raimundo da Silva
+      Marilza Castelani
+      Fabiola Reggiane Prado
+      Marli Cristina Teix
+      Francis Hellen Alves da Silva
+      Rosana Aparecida
+      Gilberto Ramos
+      Solange Aparecida
+      Guidian Cris Valentim Cavallini Bernabé
+      Suellen Amélia Bul
+      James Mike Rodrigues
+      Susana Aparecida
+      José Antonio Ferreira
+      Thiago Alberto Fer
+      Kelli Cristina Damazio
+      Professores (corpo docente)
+      Andresa Regina Ortiz
+      Anelia Zumas
+      Anna Carolina Mariano Manzano
+      Cristina Pacheco Alvarez
+      Daiane Maria de Genaro
+      Flavio de Souza Luiz
+      Jodenir Vicente Júnior
+      Jacqueline Fukumoto
+      Jamilson César Silva
+      Luciana da Fonseca
+      Manoel de Araujo Orliz
+      Marcel Henrique Dal Molin Filho
+      Reginaldo Antonia da Sil
+      Ricardo Alvarez
+      Ricardo Favorello
+      Rosane Freitas Dias
+      Roseli Ribeiro da Costa P
+      Rosimeire Naomi Nagam
+      Sandra Biegas
+      Paraninfa: Maria Isabe
+      Patrono: Alex Canziani
+      Coordenador: Alexssam",
+    "criterios": "2,3,4,5,6,7,8,16,17,18,19",
+    "html": "<h1>Convite de Formatura - Centro Moda 2005</h1>
+      <p>conteudo</p>",
+    "aria-label": "Ouvir o Convite de Formatura - Centro Moda 2005",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura de áudio com duração de X minutos."
+  }
+}
+
+{
+  "documento": {
+    "id_arquivo": 14,
+    "titulo": "Recortes de Jornal: Federalização do Centro Moda e Tecnologia Têxtil",
+    "autor": "Tribuna do Norte / Folha de Londrina",
+    "ano": "1993-2006",
+    "categoria": "Notícia",
+    "assunto": "Federalização do Centro Moda (UTFPR) e modernização da indústria de bordados em Apucarana.",
+    "arquivo": "14_14_Noticia.pdf"
+  },
+  "conteudo": TODO= IMG {
+    "id_metadado": 14,
+    "id_foreign_key": 14,
+    "conteudo": "Maio de 2006 - TRIBUNA DO NORTE
+      Universidade Tecnológica em Apucarana
+      Solenidade histórica, realizada ontem, deu início ao processo de federalização do Centro Moda. O edital para contratação de docentes sai em junho e o primeiro curso será oferecido em janeiro de 2007.
+      Assinado termo para Universidade Tecnológica Federal em Apucarana. O ato solene da federalização, considerado histórico e de grande importância para a região, principalmente pela consolidação do pólo de indústrias de bonés e do vestuário, foi prestigiado por autoridades.
+      Estiveram presentes o presidente do Fundo Nacional de Desenvolvimento da Educação (FNDE), Daniel Silva Balaban; o reitor do Cefet (Curitiba), Eden Januário Netto; o deputado federal Alex Canziani (PTB); prefeito Valter Aparecido Pegorer (PMDB); e a presidente da Associação Comercial, Industrial e de Serviços de Apucarana (Acia), Maria Isabel Lopes.
+      O primeiro curso será ofertado no próximo ano. Após a formalização da implantação do Cefet em Apucarana, o próximo passo será a publicação de uma Medida Provisória para criação de cargos.
+      Presidente da Acia destaca ações de Amaral e Canziani. Maria Isabel Lopes comemorou o início do processo e agradeceu a conquista, destacando o trabalho do empresário Ricardo Seixas Amaral e do deputado federal Alex Canziani. Ela citou ainda o empenho de outras lideranças do segmento do vestuário como Maria Abgail Fortuna, Nelci Barbieri, Jaime Leonel e do professor Osvaldo Massaji Ohya.
+
+      TECNOLOGIA E BORDADOS (Recortes de 1993-1995)
+      Tecnologia de Primeiro Mundo na arte de bordar. Do ponto cruz artesanal à máquina de bordar computadorizada. A Cecitel Comércio de Máquinas de Costura e Malharia está inovando o mercado regional com a representação de máquinas de bordar computadorizadas, importadas do Japão (Barudan), distribuídas no Paraná pela Fortuna Bordados.
+      Apucarana Empresários investem na qualidade. Apucarana que já é a \"capital nacional do boné\", e que concentra um invejável pólo de indústrias de confecções, está dando importante passo para competir com mais força no mercado. Vários empresários estão buscando tecnologia de ponta. A Titu's Jeans, Indústria e Comércio de Confecções Ltda. investiu para importar do Japão uma máquina bordadeira computadorizada da Barudan.
+      A empresária Maria Abgail Fortuna justifica que o bordado veio para ficar e enriquece a qualidade dos produtos.
+      FORTUNA BORDADOS COMPUTADORIZADOS. Apucarana conta hoje com a mais alta tecnologia em bordados. Representação e Assistência Técnica BARUDAN no Paraná.
+      Artigo de Moda: Tendência, moda, modos & modismos (Tribuna do Norte, 28/11/93).",
+    "criterios": "2,3,4,5,6,7,8,16,17,18,19",
+    "html": "<h1>Recortes de Jornal: Federalização do Centro Moda e Tecnologia Têxtil</h1>
+      <p>conteudo</p>",
+    "aria-label": "Ouvir a Notícia: Federalização do Centro Moda e Tecnologia Têxtil",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura de áudio com duração de X minutos."
+  }
+}
+
+{
+  "documento": {
+    "id_arquivo": 14,
+    "titulo": "Recortes de Jornal: Federalização do Centro Moda e Tecnologia Têxtil",
+    "autor": "Tribuna do Norte / Folha de Londrina / Diversos",
+    "ano": "1993-2006",
+    "categoria": "Recortes de Jornal",
+    "assunto": "Federalização do Centro Moda (UTFPR) e modernização da indústria de bordados em Apucarana.",
+    "arquivo": "CODEM_003361.pdf"
+  },
+  "conteudo": TODO = IMG{
+    "id_metadado": 14,
+    "id_foreign_key": 14,
+    "conteudo": "Maio de 2006 - TRIBUNA DO NORTE
+      Universidade Tecnológica em Apucarana
+      Solenidade histórica, realizada ontem, deu início ao processo de federalização do Centro Moda. O edital para contratação de docentes sai em junho e o primeiro curso será oferecido em janeiro de 2007.
+      Assinado termo para Universidade Tecnológica Federal em Apucarana. O ato solene da federalização, considerado histórico e de grande importância para a região, principalmente pela consolidação do pólo de indústrias de bonés e do vestuário, foi prestigiado por autoridades.
+      Estiveram presentes o presidente do Fundo Nacional de Desenvolvimento da Educação (FNDE), Daniel Silva Balaban; o reitor do Cefet (Curitiba), Eden Januário Netto; o deputado federal Alex Canziani (PTB); prefeito Valter Aparecido Pegorer (PMDB); e a presidente da Associação Comercial, Industrial e de Serviços de Apucarana (Acia), Maria Isabel Lopes.
+      O primeiro curso será ofertado no próximo ano. Após a formalização da implantação do Cefet em Apucarana, o próximo passo será a publicação de uma Medida Provisória para criação de cargos.
+      Presidente da Acia destaca ações de Amaral e Canziani. Maria Isabel Lopes comemorou o início do processo e agradeceu a conquista, destacando o trabalho do empresário Ricardo Seixas Amaral e do deputado federal Alex Canziani. Ela citou ainda o empenho de outras lideranças do segmento do vestuário como Maria Abgail Fortuna, Nelci Barbieri, Jaime Leonel e do professor Osvaldo Massaji Ohya.
+
+      TECNOLOGIA E BORDADOS (Recortes de 1993-1995)
+      Tecnologia de Primeiro Mundo na arte de bordar. Do ponto cruz artesanal à máquina de bordar computadorizada. A Cecitel Comércio de Máquinas de Costura e Malharia está inovando o mercado regional com a representação de máquinas de bordar computadorizadas, importadas do Japão (Barudan), distribuídas no Paraná pela Fortuna Bordados.
+      Apucarana Empresários investem na qualidade. Apucarana que já é a \"capital nacional do boné\", e que concentra um invejável pólo de indústrias de confecções, está dando importante passo para competir com mais força no mercado. Vários empresários estão buscando tecnologia de ponta. A Titu's Jeans, Indústria e Comércio de Confecções Ltda. investiu para importar do Japão uma máquina bordadeira computadorizada da Barudan.
+      A empresária Maria Abgail Fortuna justifica que o bordado veio para ficar e enriquece a qualidade dos produtos.
+      FORTUNA BORDADOS COMPUTADORIZADOS. Apucarana conta hoje com a mais alta tecnologia em bordados. Representação e Assistência Técnica BARUDAN no Paraná.
+      Artigo de Moda: Tendência, moda, modos & modismos (Tribuna do Norte, 28/11/93).",
+    "criterios": "2,3,4,5,6,7,8,16,17,18,19",
+    "html": "<h1>Recortes de Jornal: Federalização do Centro Moda e Tecnologia Têxtil</h1>
+      <p>conteudo</p>",
+    "aria-label": "Ouvir o documento: Federalização do Centro Moda e Tecnologia Têxtil",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura de áudio com duração de X minutos."
+  }
+}
+
+{
+  "documento": {
+    "id_arquivo": 15,
+    "titulo": "Coletânea: Tecnologia de Bordados, Eventos do Setor e Centro de Moda",
+    "autor": "MAB Fortuna / Tribuna do Norte / O Paraná",
+    "ano": "2008-2010",
+    "categoria": "Publicidade",
+    "assunto": "Evolução tecnológica em máquinas de bordar, participação em feiras (Imin 100, Feitex), implantação do Centro de Moda e missão empresarial na China.",
+    "arquivo": "15_15_Publicidade.pdf"
+  },
+  "conteudo": TODO = IMG{
+    "id_metadado": 15,
+    "id_foreign_key": 15,
+    "conteudo": "TECNOLOGIA DE BORDADOS E MÁQUINAS
+      Anúncios destacam as máquinas de bordar Barudan, ressaltando a \"perfeição em todos os pontos\" e a capacidade de produção de mais de 800 pontos por minuto com memória expansível [cite: 156, 159][cite_start].
+      A Barudan do Brasil possui o sistema exclusivo BP-340 para produção de programas de bordado[cite: 162].
+      A empresa Fortuna Bordados Computadorizados (MAB Fortuna) é apresentada como representante e assistência técnica da Barudan no Paraná, localizada na Av. [cite_start]Curitiba em Apucarana [cite: 210][cite_start].
+      Há destaque para a tecnologia de corte a laser da marca Proel e máquinas LaserBridge [cite: 218, 221][cite_start].
+
+      PARTICIPAÇÃO EM EVENTOS E FEIRAS
+      Expo Imin 100 Londrina (Junho 2008): A MAB Fortuna marcou presença na comemoração do centenário da imigração japonesa, expondo máquinas de alta tecnologia no pavilhão nacional e recebendo visitas como a do mágico Ossamá Sato [cite: 296, 304, 306][cite_start].
+      FEITEX 2010 (Cascavel): Anúncio de demonstração de bordado computadorizado e tecnologia a laser no Centro de Convenções de Cascavel, de 19 a 22 de janeiro de 2010 [cite: 325, 331][cite_start].
+      Mostra Tecnológica / EMPROCON (Francisco Beltrão - Maio 2009): Encontro de empresários e profissionais das indústrias de confecção, com mostra de máquinas Barudan e Proel [cite: 332, 345][cite_start].
+      Clínica Tecnológica (Londrina - Setembro): Evento no SENAI Londrina com demonstração gratuita de bordado triplo combinado (fita/lantejoula/chenile) [cite: 478, 482][cite_start].
+
+      CENTRO DE MODA DE APUCARANA
+      Recorte de jornal detalha a assinatura de convênio para o repasse de R$ 2.331.292,00 para a construção do Centro de Moda, com a presença do ministro Paulo Renato de Souza, Alex Canziani e Valter Pegorer [cite: 406, 407][cite_start].
+      O centro visa criar 4 mil vagas de nível básico e 120 de nível técnico [cite: 413][cite_start].
+      Lista de cursos oferecidos: Inclui Costura Industrial (diversos segmentos), Estilismo, Bordado Computadorizado, Mecânico de Máquinas, Modelagem Industrial, Gestão de Lojas, entre outros [cite: 423-474][cite_start].
+
+      MISSÃO EMPRESARIAL NA CHINA
+      Grupo de empresários de Apucarana (bonezeiros) visitou fábricas de máquinas em Xangai, incluindo a Shangai Yinlong e a Shanghhai Shanggong [cite: 550, 554, 558][cite_start].
+      O grupo seguiu para a Feira de Cantão (Guangzhou) [cite: 577][cite_start].
+
+      OUTROS
+      Relatórios de outdoors da campanha MAB Fortuna em Londrina e Cambé [cite: 244][cite_start].
+      Notícias gerais sobre o terremoto no Haiti e queda de ponte no RS (Jornal O Paraná, 2010)[cite: 313, 318].",
+    "criterios": "2,3,4,5,6,7,8,16,17,18,19",
+    "html": 
+     "<h1>Coletânea: Tecnologia de Bordados, Eventos do Setor e Centro de Moda</h1>
+      <h2>Tecnologia e Máquinas</h2>
+      <p>"conteudo"</p>"
+
+    "aria-label": "Ouvir a Coletânea sobre Tecnologia de Bordados, Centro de Moda e Eventos",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura de áudio com duração de X minutos."
+  }
+}
+
+{
+  "documento": {
+    "id_arquivo": 16,
+    "titulo": "Ofício nº 109 - GADIR: Solicitação de Patrocínio para a 3ª Expo UT",
+    "autor": "Aloysio Gomes de Souza Filho (UTFPR)",
+    "ano": "2009",
+    "categoria": "Ofício",
+    "assunto": "Solicitação de patrocínio da UTFPR para a 3ª Expo UT à empresa M.A.B. Fortuna.",
+    "arquivo": "16_16_Oficio.pdf"
+  },
+  "conteudo": {
+    "id_metadado": 16,
+    "id_foreign_key": 16,
+    "conteudo": "Ministério da Educação
+      Universidade Tecnológica Federal do Paraná
+      Campus Apucarana
+      Gabinete da Direção
+      Ofício nº 109 - GADIR
+      Sra. Maria Abigail Fortuna
+      M.A.B. Fortuna E Cia Ltda
+      Rua Sao Jeronimo, 470 Barra Funda
+      Apucarana - Paraná
+      Telefone: (43) 3423-2244
+      Assunto: Solicitação de patrocínio.
+      Prezado (s) Senhor (es),
+      UTFPR
+      ONIVERSIDADE TECNOLÓGICA FEDERAL DO PARANA
+      Apucarana, 27 de agosto de 2009.
+      O Campus Apucarana da Universidade Tecnológica Federal do Paraná, por intermédio do Departamento de Relações Empresariais e Comunitárias, realizará, no período de 20 a 23 de outubro, a 3ª Expo UT.
+      Para que o evento obtenha sucesso e possa ser realizado, a Instituição necessita da atenção e colaboração dos empresários e demais membros da comunidade no sentido de angariar patrocínios.
+      Sua colaboração será muito significativa, em contrapartida, o nome de sua empresa será divulgado durante a realização de toda a exposição.
+      Nesta oportunidade, aproveitamos para convidar V.Sa. a prestigiar-nos com sua presença no evento mencionado.
+      Segue anexo o Edital de Patrocínio para análise.
+      Atenciosamente,
+      ALOYSIO GOMES DE SOUZA FILHO
+      Diretor do Campus Apucarana
+      Campus Apucarana
+      Rua Marcilio Dias, 635
+      86812-460-Apucarana Paraná - Brasil
+      Fone: (43) 3425-6460
+      www.ap.utfpr.edu.br",
+    "criterios": "2,3,4,5,6,7,8,16,17",
+    "html": "<h1>Ofício nº 109 - GADIR: Solicitação de Patrocínio para a 3ª Expo UT</h1>
+      <p>conteudo</p>",
+    "aria-label": "Ouvir o Ofício de Solicitação de Patrocínio - UTFPR",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura de áudio com duração de X minutos."
+  }
+}
+
+{
+  "documento": {
+    "id_arquivo": 18,
+    "titulo": "Foto Evento APL de Bonés",
+    "autor": "Null",
+    "ano": "Null",
+    "categoria": "Fotografia",
+    "assunto": "Null",
+    "arquivo": "18_18_Fotografia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 18,
+    "id_foreign_key": 18,
+    "conteudo": "Null",
+    "criterios": "1,16,17,18,19",
+    "html": "
+               <figure>
+                 <img src="git/18_18_Fotografia.jpg\" 
+                 alt=\"Foto ampla de um palco preparado para um evento. Em primeiro plano, uma longa mesa coberta por uma toalha branca vai de uma ponta à outra da imagem. Ao centro da mesa, há um arranjo baixo de flores brancas e amarelas com folhagens verdes. Atrás da mesa, diversas cadeiras brancas estão alinhadas. Ao fundo, ocupa toda a parede um grande painel branco com o título no topo: "APL - Arranjo Produtivo Local - BONÉS APUCARANA". O painel exibe dezenas de logotipos institucionais e de empresas (como Governo Federal, Governo do Paraná, Banco do Brasil, Sebrae, entre outros). No centro do painel, há uma imagem em formato de boné ilustrando pessoas remando em um barco, com a frase sobreposta: "Venha ocupar o seu lugar. Juntos iremos mais longe...". Um púlpito azul escuro está posicionado à frente do painel, levemente à direita do centro.">
+               </figure>
+
+             </div>",
+    "aria-label": "Ouvir a audiodescrição  da foto 1 do evento",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+}
+
+{
+  "documento": {
+    "id_arquivo": 19,
+    "titulo": "Foto Evento APL de Bonés",
+    "autor": "Null",
+    "ano": "Null",
+    "categoria": "Fotografia",
+    "assunto": "Null",
+    "arquivo": "19_19_Fotografia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 19,
+    "id_foreign_key": 19,
+    "conteudo": "Null",
+    "criterios": "1,16,17,18,19",
+    "html": "
+               <figure>
+                 <img src="git/19_19_Fotografia.jpg\" 
+                 alt="Vista geral e frontal do salão preparado para a cerimônia. Em primeiro plano, veem-se mesas redondas vazias, decoradas com toalhas brancas e pequenos arranjos de flores coloridas ao centro. Cadeiras com capas brancas cercam as mesas. Ao fundo, no palco, há uma longa mesa diretiva (mesa de honra) com uma "saia" branca plissada e um grande arranjo floral baixo ao centro. Atrás da mesa, ocupa toda a parede o painel institucional do evento "APL - Arranjo Produtivo Local - BONÉS APUCARANA". À esquerda do palco, três bandeiras (do Brasil, do estado e do município) estão hasteadas em mastros. Caixas de som pretas estão fixadas nas paredes laterais.">
+               </figure>
+
+             </div>",
+    "aria-label": "Ouvir a audiodescrição  da foto 2 do evento",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+}
+
+{
+  "documento": {
+    "id_arquivo": 18,
+    "titulo": "Foto Evento APL de Bonés",
+    "autor": "Null",
+    "ano": "Null",
+    "categoria": "Fotografia",
+    "assunto": "Null",
+    "arquivo": "18_18_Fotografia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 18,
+    "id_foreign_key": 18,
+    "conteudo": "Null",
+    "criterios": "1,16,17,18,19",
+    "html": "
+               <figure>
+                 <img src="git/18_18_Fotografia.jpg\" 
+                 alt=\"Foto ampla de um palco preparado para um evento. Em primeiro plano, uma longa mesa coberta por uma toalha branca vai de uma ponta à outra da imagem. Ao centro da mesa, há um arranjo baixo de flores brancas e amarelas com folhagens verdes. Atrás da mesa, diversas cadeiras brancas estão alinhadas. Ao fundo, ocupa toda a parede um grande painel branco com o título no topo: "APL - Arranjo Produtivo Local - BONÉS APUCARANA". O painel exibe dezenas de logotipos institucionais e de empresas (como Governo Federal, Governo do Paraná, Banco do Brasil, Sebrae, entre outros). No centro do painel, há uma imagem em formato de boné ilustrando pessoas remando em um barco, com a frase sobreposta: "Venha ocupar o seu lugar. Juntos iremos mais longe...". Um púlpito azul escuro está posicionado à frente do painel, levemente à direita do centro.">
+               </figure>
+
+             </div>",
+    "aria-label": "Ouvir a audiodescrição da foto 1 do evento",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+}
+
+{
+  "documento": {
+    "id_arquivo": 20,
+    "titulo": "Foto Evento APL de Bonés",
+    "autor": "Null",
+    "ano": "Null",
+    "categoria": "Fotografia",
+    "assunto": "Null",
+    "arquivo": "20_20_Fotografia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 20,
+    "id_foreign_key": 20,
+    "conteudo": "Null",
+    "criterios": "1,16,17,18,19",
+    "html": "
+               <figure>
+                 <img src="git/20_20_Fotografia.jpg\" 
+                 alt="Foto do palco do evento tirada em ângulo diagonal, a partir da direita. Em primeiro plano, vê-se a longa mesa branca da diretoria e os encostos arredondados de várias cadeiras brancas vazias alinhadas atrás dela. No centro do palco, destaca-se um púlpito preto ou azul escuro voltado para a plateia. O grande painel "APL" cobre a parede do fundo, exibindo logotipos de patrocinadores (como Banco do Brasil, Caixa, Governo do Paraná) e a ilustração central de um barco a remo. À direita da imagem, uma tela de projeção branca está estendida na parede lateral.">
+               </figure>
+
+             </div>",
+    "aria-label": "Ouvir a audiodescrição  da foto 3 do evento",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+}
+
+
+{
+  "documento": {
+    "id_arquivo": 21,
+    "titulo": "Foto Evento APL de Bonés",
+    "autor": "Null",
+    "ano": "Null",
+    "categoria": "Fotografia",
+    "assunto": "Null",
+    "arquivo": "21_21_Fotografia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 21,
+    "id_foreign_key": 21,
+    "conteudo": "Null",
+    "criterios": "1,16,17,18,19",
+    "html": "
+               <figure>
+                 <img src="git/21_21_Fotografia.jpg\" 
+                 alt="Foto de um salão de festas durante um jantar. Em destaque no primeiro plano, há uma ilha de buffet com estrutura geométrica preta" e superfícies brancas. Sobre ela, estão dispostas bandejas com frios, patês e pilhas de pratos. No centro dessa estrutura, ergue-se um arranjo floral alto e volumoso com flores brancas, amarelas e folhagens verdes. Ao fundo, diversas pessoas estão sentadas ao redor de mesas redondas cobertas com toalhas brancas, conversando. O ambiente tem paredes brancas e cortinas claras ao fundo à direita.">
+               </figure>
+
+             </div>",
+    "aria-label": "Ouvir a audiodescrição da foto 4 do evento",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+}
+
+{
+  "documento": {
+    "id_arquivo": 22,
+    "titulo": "Foto Evento APL de Bonés",
+    "autor": "Null",
+    "ano": "Null",
+    "categoria": "Fotografia",
+    "assunto": "Null",
+    "arquivo": "22_22_Fotografia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 22,
+    "id_foreign_key": 22,
+    "conteudo": "Null",
+    "criterios": "1,16,17,18,19",
+    "html": "
+               <figure>
+                 <img src="git/22_22_Fotografia.jpg\" 
+                 alt="Foto em plano médio da palestrante Maria Isabel discursando ela tem pele clara, cabelos curtos escuros e usa brincos dourados. Ela aparece do tronco para cima, de perfil para a esquerda, com a boca levemente aberta como se estivesse falando. A imagem mostra o suporte prateado do microfone e a base do púlpito azul na parte inferior. Ao fundo, o painel está focado, permitindo a leitura clara dos logotipos "SEBRAE PR" à esquerda, o símbolo de "Apucarana Cidade Educação" ao centro e "SIVALE" mais abaixo, além de parte de um texto ()">
+               </figure>
+
+             </div>",
+    "aria-label": "Ouvir a audiodescrição da foto 5 do evento",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+}
+
+{
+  "documento": {
+    "id_arquivo": 23,
+    "titulo": "Foto Evento APL de Bonés",
+    "autor": "Null",
+    "ano": "Null",
+    "categoria": "Fotografia",
+    "assunto": "Null",
+    "arquivo": "23_23_Fotografia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 23,
+    "id_foreign_key": 23,
+    "conteudo": "Null",
+    "criterios": "1,16,17,18,19",
+    "html": "
+               <figure>
+                 <img src=\"git/23_23_Fotografia.jpg\" 
+                 alt="Foto de um grupo de sete pessoas em pé, sorrindo e aplaudindo em frente ao painel do evento. Da esquerda para a direita: um homem de óculos e suéter preto, uma mulher de conjunto branco, uma mulher de vestido estampado e echarpe verde, um homem de óculos e blazer preto, e mais três homens de terno escuro à direita. Todos aparentam estar celebrando um momento da cerimônia.\">
+               </figure>
+
+             </div>",
+    "aria-label": "Ouvir a audiodescrição da foto 6 do evento",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+}
+
+{
+  "documento": {
+    "id_arquivo": 24,
+    "titulo": "Foto Evento APL de Bonés",
+    "autor": "Null",
+    "ano": "Null",
+    "categoria": "Fotografia",
+    "assunto": "Null",
+    "arquivo": "24_24_Fotografia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 24,
+    "id_foreign_key": 24,
+    "conteudo": "Null",
+    "criterios": "1,16,17,18,19",
+    "html": "
+               <figure>
+                 <img src=\"git/24_24_Fotografia.jpg\" 
+                 alt="Foto de duas pessoas em pé atrás de um púlpito azul. À esquerda, uma mulher de blazer branco fala ao microfone olhando para frente. Ao lado dela, à direita, um homem de terno escuro, camisa branca e gravata listrada observa atentamente, com as mãos entrelaçadas à frente do corpo. Ao fundo, vê-se parte do painel do evento com a ilustração de um barco a remo.\">
+               </figure>
+
+             </div>",
+    "aria-label": "Ouvir a audiodescrição da foto 7 do evento",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+}
+
+{
+  "documento": {
+    "id_arquivo": 25,
+    "titulo": "Foto Evento APL de Bonés",
+    "autor": "Null",
+    "ano": "Null",
+    "categoria": "Fotografia",
+    "assunto": "Null",
+    "arquivo": "25_25_Fotografia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 25,
+    "id_foreign_key": 25,
+    "conteudo": "Null",
+    "criterios": "1,16,17,18,19",
+    "html": "
+               <figure>
+                 <img src=\"git/25_25_Fotografia.jpg\" 
+                 alt="Foto em close-up (primeiro plano) de perfil da palestrante. A mulher tem pele clara, cabelos curtos escuros e usa brincos dourados. Ela veste um blazer branco sobre uma blusa rosa clara. O microfone preto está posicionado próximo à sua boca. O fundo é desfocado em tons de azul e branco.\">
+               </figure>
+
+             </div>",
+    "aria-label": "Ouvir a audiodescrição da foto 8 do evento",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+}
+
+{
+  "documento": {
+    "id_arquivo": 26,
+    "titulo": "Foto Evento APL de Bonés",
+    "autor": "Null",
+    "ano": "Null",
+    "categoria": "Fotografia",
+    "assunto": "Null",
+    "arquivo": "26_26_Fotografia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 26,
+    "id_foreign_key": 26,
+    "conteudo": "Null",
+    "criterios": "1,16,17,18,19",
+    "html": "
+               <figure>
+                 <img src=\"git/26_26_Fotografia.jpg\" 
+                 alt="Foto em plano médio de um homem discursando no púlpito azul. Ele é branco, tem cabelos grisalhos curtos e expressão séria. Veste um terno azul-marinho com gravata listrada. Sua mão direita segura o microfone próximo à boca, enquanto a mão esquerda se apoia na borda do púlpito. Ao fundo, vê-se parte desfocada do painel do evento.\">
+               </figure>
+
+             </div>",
+    "aria-label": "Ouvir a audiodescrição da foto 9 do evento",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+}
+
+{
+  "documento": {
+    "id_arquivo": 27,
+    "titulo": "Foto Evento APL de Bonés",
+    "autor": "Null",
+    "ano": "Null",
+    "categoria": "Fotografia",
+    "assunto": "Null",
+    "arquivo": "27_27_Fotografia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 27,
+    "id_foreign_key": 27,
+    "conteudo": "Null",
+    "criterios": "1,16,17,18,19",
+    "html": "
+               <figure>
+                 <img src=\"git/27_27_Fotografia.jpg\" 
+                 alt="Foto ampla do palco do evento mostrando um grupo de pessoas. À direita, a mulher de blazer branco discursa no púlpito. À esquerda dela, uma fila composta por cerca de doze homens em trajes sociais está de pé, alinhada em frente ao painel de fundo. Em primeiro plano, na parte inferior da imagem, vê-se o desfoque de um arranjo de flores brancas e amarelas.\">
+               </figure>
+
+             </div>",
+    "aria-label": "Ouvir a audiodescrição da foto 10 do evento",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+}
+
+{
+  "documento": {
+    "id_arquivo": 28,
+    "titulo": "Foto Evento APL de Bonés",
+    "autor": "Null",
+    "ano": "Null",
+    "categoria": "Fotografia",
+    "assunto": "Null",
+    "arquivo": "28_28_Fotografia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 28,
+    "id_foreign_key": 28,
+    "conteudo": "Null",
+    "criterios": "1,16,17,18,19",
+    "html": "
+               <figure>
+                 <img src=\"git/28_28_Fotografia.jpg\" 
+                 alt="Foto de um homem de terno escuro discursando em um púlpito azul posicionado à direita da imagem. Ele fala ao microfone voltado para a esquerda, dirigindo-se a uma plateia de convidados sentados em mesas redondas. Em primeiro plano, à esquerda, vê-se parte de uma longa mesa com toalha branca e um farto arranjo de folhagens verdes e flores amarelas. O salão tem cortinas brancas ao fundo.\">
+               </figure>
+
+             </div>",
+    "aria-label": "Ouvir a audiodescrição da foto 11 do evento",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+}
+
+{
+  "documento": {
+    "id_arquivo": 29,
+    "titulo": "Foto Evento APL de Bonés",
+    "autor": "Null",
+    "ano": "Null",
+    "categoria": "Fotografia",
+    "assunto": "Null",
+    "arquivo": "29_29_Fotografia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 29,
+    "id_foreign_key": 29,
+    "conteudo": "Null",
+    "criterios": "1,16,17,18,19",
+    "html": "
+               <figure>
+                 <img src=\"git/29_29_Fotografia.jpg\" 
+                 alt="Foto em plano médio de um homem de cabelos grisalhos discursando. Ele veste terno azul-escuro e gravata listrada, olhando fixamente para a frente com expressão séria. Sua mão esquerda repousa sobre a borda do púlpito azul. Ao fundo, o painel exibe de forma desfocada os logotipos do SEBRAE PR e SIVALE, além do símbolo da cidade de Apucarana.">
+               </figure>
+
+             </div>",
+    "aria-label": "Ouvir a audiodescrição da foto 12 do evento",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+}
+
+{
+  "documento": {
+    "id_arquivo": 30,
+    "titulo": "Foto Evento APL de Bonés",
+    "autor": "Null",
+    "ano": "Null",
+    "categoria": "Fotografia",
+    "assunto": "Null",
+    "arquivo": "30_30_Fotografia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 30,
+    "id_foreign_key": 30,
+    "conteudo": "Null",
+    "criterios": "1,16,17,18,19",
+    "html": "
+               <figure>
+                 <img src=\"git/30_30_Fotografia.jpg\" 
+                 alt="Foto de um grupo musical se apresentando no salão. À esquerda, um homem toca um piano de cauda preto. Ao centro e à direita, três músicos em pé tocam, respectivamente, trompete, percussão e trombone (tocado por uma mulher). Todos os músicos vestem trajes pretos formais. Ao fundo, há um telão branco recolhido e cortinas claras cobrindo a parede.">
+               </figure>
+
+             </div>",
+    "aria-label": "Ouvir a audiodescrição da foto 13 do evento",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+}
+
+{
+  "documento": {
+    "id_arquivo": 31,
+    "titulo": "Foto Evento APL de Bonés",
+    "autor": "Null",
+    "ano": "Null",
+    "categoria": "Fotografia",
+    "assunto": "Null",
+    "arquivo": "31_31_Fotografia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 31,
+    "id_foreign_key": 31,
+    "conteudo": "Null",
+    "criterios": "1,16,17,18,19",
+    "html": "
+               <figure>
+                 <img src=\"git/31_31_Fotografia.jpg\" 
+                 alt="Foto panorâmica da mesa de honra do evento. Cerca de dez pessoas, a maioria homens de terno, estão sentadas atrás de uma longa mesa com toalha branca e um arranjo floral central de flores amarelas e brancas. Atrás da mesa, ao centro, um homem está no púlpito. Na extrema direita da imagem, outro homem em pé segura um microfone e fala aos presentes. O painel de fundo exibe o título APL - Arranjo Produtivo Local - BONÉS APUCARANA.">
+               </figure>
+
+             </div>",
+    "aria-label": "Ouvir a audiodescrição da foto 14 do evento",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+}
+
+{
+  "documento": {
+    "id_arquivo": 32,
+    "titulo": "Foto Evento APL de Bonés",
+    "autor": "Null",
+    "ano": "Null",
+    "categoria": "Fotografia",
+    "assunto": "Null",
+    "arquivo": "32_32_Fotografia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 32,
+    "id_foreign_key": 32,
+    "conteudo": "Null",
+    "criterios": "1,16,17,18,19",
+    "html": "
+               <figure>
+                 <img src=\"git/32_32_Fotografia.jpg\" 
+                 alt="Foto em plano médio de um homem de pele morena discursando. Ele veste terno preto, camisa branca e gravata cinza-prateada. O homem está voltado para a esquerda, com a boca entreaberta falando ao microfone. O fundo está desfocado, mostrando apenas as cores azul e branco do painel do evento.\">
+               </figure>
+
+             </div>",
+    "aria-label": "Ouvir a audiodescrição da foto 15 do evento",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+}
+
+{
+  "documento": {
+    "id_arquivo": 33,
+    "titulo": "Foto Evento APL de Bonés",
+    "autor": "Null",
+    "ano": "Null",
+    "categoria": "Fotografia",
+    "assunto": "Null",
+    "arquivo": "33_33_Fotografia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 33,
+    "id_foreign_key": 33,
+    "conteudo": "Null",
+    "criterios": "1,16,17,18,19",
+    "html": "
+               <figure>
+                 <img src=\"git/33_33_Fotografia.jpg\" 
+                 alt="Foto em close-up de perfil de um homem discursando. Ele tem pele clara, cabelos brancos e usa óculos de grau com armação fina. Veste terno preto, camisa branca e gravata vinho texturizada. Ele fala próximo a um microfone preto. Ao fundo, o painel desfocado exibe parte dos logotipos do Governo do Paraná e SEBRAE">
+               </figure>
+
+             </div>",
+    "aria-label": "Ouvir a audiodescrição da foto 16 do evento",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+}
+
+{
+  "documento": {
+    "id_arquivo": 34,
+    "titulo": "Foto Evento APL de Bonés",
+    "autor": "Null",
+    "ano": "Null",
+    "categoria": "Fotografia",
+    "assunto": "Null",
+    "arquivo": "34_34_Fotografia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 34,
+    "id_foreign_key": 34,
+    "conteudo": "Null",
+    "criterios": "1,16,17,18,19",
+    "html": "
+               <figure>
+                 <img src=\"git/34_34_Fotografia.jpg\" 
+                 alt="Foto ampla do palco destacando o painel institucional ao fundo com o título APL - Arranjo Produtivo Local - BONÉS APUCARANA e dezenas de logotipos de parceiros. À esquerda, um homem branco de cabelos grisalhos e com terno escuro discursa atrás de um púlpito azul. Na parte inferior da imagem, vê-se o topo dos encostos de cadeiras brancas vazias.">
+               </figure>
+
+             </div>",
+    "aria-label": "Ouvir a audiodescrição da foto 17 do evento",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+}
+
+{
+  "documento": {
+    "id_arquivo": 35,
+    "titulo": "Foto Evento APL de Bonés",
+    "autor": "Null",
+    "ano": "Null",
+    "categoria": "Fotografia",
+    "assunto": "Null",
+    "arquivo": "35_35_Fotografia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 35,
+    "id_foreign_key": 35,
+    "conteudo": "Null",
+    "criterios": "1,16,17,18,19",
+    "html": "
+               <figure>
+                 <img src=\"git/35_35_Fotografia.jpg\" 
+                 alt="Foto em plano médio de um homem falando ao microfone. Ele tem pele clara, cabelos castanhos e veste um terno bege com camisa branca e gravata azul escura. Ele segura o microfone preto com a mão direita e esquerda próxima à boca e usa um pequeno distintivo da CAIXA Economica Ferderal na lapela do paletó. O fundo é neutro e levemente desfocado.">
+               </figure>
+
+             </div>",
+    "aria-label": "Ouvir a audiodescrição da foto 18 do evento",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+}
+
+{
+  "documento": {
+    "id_arquivo": 36,
+    "titulo": "Foto Evento APL de Bonés",
+    "autor": "Null",
+    "ano": "Null",
+    "categoria": "Fotografia",
+    "assunto": "Null",
+    "arquivo": "36_36_Fotografia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 36,
+    "id_foreign_key": 36,
+    "conteudo": "Null",
+    "criterios": "1,16,17,18,19",
+    "html": "
+               <figure>
+                 <img src=\"git/36_36_Fotografia.jpg\" 
+                 alt="Foto em close-up lateral de um palestrante. O homem, de pele clara e cabelos grisalhos, usa óculos sem aro e veste terno preto com uma gravata azul de bolinhas brancas. Ele está inclinado para a frente, falando ao microfone fixo no suporte. Ao fundo, o painel mostra com desfoque os logotipos SEBRAE PR e SIVALE.">
+               </figure>
+
+             </div>",
+    "aria-label": "Ouvir a audiodescrição da foto 19 do evento",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+}
+
+{
+  "documento": {
+    "id_arquivo": 37,
+    "titulo": "Foto Evento APL de Bonés",
+    "autor": "Null",
+    "ano": "Null",
+    "categoria": "Fotografia",
+    "assunto": "Null",
+    "arquivo": "37_37_Fotografia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 37,
+    "id_foreign_key": 37,
+    "conteudo": "Null",
+    "criterios": "1,16,17,18,19",
+    "html": "
+               <figure>
+                 <img src=\"git/37_37_Fotografia.jpg\" 
+                 alt="Foto lateral da mesa diretiva do evento. Uma longa mesa com toalha branca atravessa a imagem em diagonal, com vários homens de terno sentados observando o orador. Ao fundo, junto ao painel, um homem de cabelos brancos está de pé no púlpito lendo um papel. Sobre a mesa, em primeiro plano, repousa um microfone sem fio.">
+               </figure>
+
+             </div>",
+    "aria-label": "Ouvir a audiodescrição da foto 20 do evento",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+}
+
+{
+  "documento": {
+    "id_arquivo": 38,
+    "titulo": "Foto Evento APL de Bonés",
+    "autor": "Null",
+    "ano": "Null",
+    "categoria": "Fotografia",
+    "assunto": "Null",
+    "arquivo": "38_38_Fotografia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 38,
+    "id_foreign_key": 38,
+    "conteudo": "Null",
+    "criterios": "1,16,17,18,19",
+    "html": "
+               <figure>
+                 <img src=\"git/38_38_Fotografia.jpg\" 
+                 alt="Foto em close-up de um homem de pele clara, olhos claros e cabelos louros com calvície frontal. Ele veste um terno escuro risca de giz, camisa branca e gravata escura com pequenos pontos claros. Ele olha para a direita com expressão atenta e séria.\">
+               </figure>
+
+             </div>",
+    "aria-label": "Ouvir a audiodescrição da foto 21 do evento",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+}
+
+{
+  "documento": {
+    "id_arquivo": 39,
+    "titulo": "Foto Evento APL de Bonés",
+    "autor": "Null",
+    "ano": "Null",
+    "categoria": "Fotografia",
+    "assunto": "Null",
+    "arquivo": "39_39_Fotografia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 39,
+    "id_foreign_key": 39,
+    "conteudo": "Null",
+    "criterios": "1,16,17,18,19",
+    "html": "
+               <figure>
+                 <img src=\"git/39_39_Fotografia.jpg\" 
+                 alt="Foto em plano médio de um homem discursando atrás de um púlpito azul. Ele está de perfil, voltado para a esquerda, tem pele clara e cabelos grisalhos ralos no topo da cabeça. Veste um terno preto e camisa clara sem gravata visível. O microfone está posicionado à frente de sua boca. Ao fundo, vê-se o painel do evento com logotipos.">
+               </figure>
+
+             </div>",
+    "aria-label": "Ouvir a audiodescrição da foto 22 do evento",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+}
+
+{
+  "documento": {
+    "id_arquivo": 40,
+    "titulo": "Foto Evento APL de Bonés",
+    "autor": "Null",
+    "ano": "Null",
+    "categoria": "Fotografia",
+    "assunto": "Null",
+    "arquivo": "40_40_Fotografia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 40,
+    "id_foreign_key": 40,
+    "conteudo": "Null",
+    "criterios": "1,16,17,18,19",
+    "html": "
+               <figure>
+                 <img src=\"git/40_40_Fotografia.jpg\" 
+                 alt=\"Foto em close-up de perfil de um homem idoso voltado para a direita. Ele tem cabelos brancos penteados para trás e usa óculos de grau com lentes levemente escurecidas e armação dourada. Veste terno preto, camisa branca e gravata listrada em preto e branco.">
+               </figure>
+
+             </div>",
+    "aria-label": "Ouvir a audiodescrição da foto 23 do evento",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+}
+
+{
+  "documento": {
+    "id_arquivo": 41,
+    "titulo": "Foto Evento APL de Bonés",
+    "autor": "Null",
+    "ano": "Null",
+    "categoria": "Fotografia",
+    "assunto": "Null",
+    "arquivo": "41_41_Fotografia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 41,
+    "id_foreign_key": 41,
+    "conteudo": "Null",
+    "criterios": "1,16,17,18,19",
+    "html": "
+               <figure>
+                 <img src=\"git/41_41_Fotografia.jpg\" 
+                 alt="Foto de um homem sentado à mesa, com as mãos entrelaçadas sobre a superfície. Ele tem cabelos grisalhos curtos e pele clara. Veste terno preto, camisa branca e uma gravata azul brilhante com pequenos detalhes claros. Ele olha ligeiramente para a direita com expressão tranquila.">
+               </figure>
+
+             </div>",
+    "aria-label": "Ouvir a audiodescrição da foto 24 do evento",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+}
+
+{
+  "documento": {
+    "id_arquivo": 42,
+    "titulo": "Foto Evento APL de Bonés",
+    "autor": "Null",
+    "ano": "Null",
+    "categoria": "Fotografia",
+    "assunto": "Null",
+    "arquivo": "42_42_Fotografia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 42,
+    "id_foreign_key": 42,
+    "conteudo": "Null",
+    "criterios": "1,16,17,18,19",
+    "html": "
+               <figure>
+                 <img src=\"git/42_42_Fotografia.jpg\" 
+                 alt="Foto de uma mulher sentada à mesa, com o corpo voltado para a direita. Ela tem cabelos curtos e escuros, pele clara e usa óculos de grau com armação preta espessa. Veste um blazer escuro risca de giz sobre uma camisa branca de gola aberta. Seus braços estão apoiados sobre a toalha branca da mesa e ela exibe um leve sorriso.">
+               </figure>
+
+             </div>",
+    "aria-label": "Ouvir a audiodescrição da foto 25 do evento",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+}
+
+{
+  "documento": {
+    "id_arquivo": 43,
+    "titulo": "Foto Evento APL de Bonés",
+    "autor": "Null",
+    "ano": "Null",
+    "categoria": "Fotografia",
+    "assunto": "Null",
+    "arquivo": "43_43_Fotografia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 43,
+    "id_foreign_key": 43,
+    "conteudo": "Null",
+    "criterios": "1,16,17,18,19",
+    "html": "
+               <figure>
+                 <img src=\"git/43_43_Fotografia.jpg\" 
+                 alt="Foto de dois homens conversando sentados lado a lado. O homem à esquerda, de perfil, tem cabelos brancos, usa óculos e terno escuro. Ele olha para o homem à direita, que é calvo, veste paletó preto com camisa clara aberta e sorri levemente. Em primeiro plano, um arranjo desfocado de flores amarelas e brancas cobre a parte inferior da imagem.">
+               </figure>
+
+             </div>",
+    "aria-label": "Ouvir a audiodescrição da foto 26 do evento",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+}
+
+{
+  "documento": {
+    "id_arquivo": 44,
+    "titulo": "Foto Evento APL de Bonés",
+    "autor": "Null",
+    "ano": "Null",
+    "categoria": "Fotografia",
+    "assunto": "Null",
+    "arquivo": "44_44_Fotografia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 44,
+    "id_foreign_key": 44,
+    "conteudo": "Null",
+    "criterios": "1,16,17,18,19",
+    "html": "
+               <figure>
+                 <img src=\"git/44_44_Fotografia.jpg\" 
+                 alt="Foto em close-up de um homem de cabelos grisalhos curtos e pele morena. Ele veste uma camisa social listrada de cor clara e olha atentamente para a direita. Sua mão direita, usando um anel e relógio dourado, repousa sobre uma superfície na borda inferior da foto.">
+               </figure>
+
+             </div>",
+    "aria-label": "Ouvir a audiodescrição da foto 27 do evento",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+}
+
+{
+  "documento": {
+    "id_arquivo": 45,
+    "titulo": "Foto Evento APL de Bonés",
+    "autor": "Null",
+    "ano": "Null",
+    "categoria": "Fotografia",
+    "assunto": "Null",
+    "arquivo": "45_45_Fotografia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 45,
+    "id_foreign_key": 45,
+    "conteudo": "Null",
+    "criterios": "1,16,17,18,19",
+    "html": "
+               <figure>
+                 <img src=\"git/45_45_Fotografia.jpg\" 
+                 alt="Foto ampla de um salão de festas lotado durante o evento. Dezenas de convidados estão em pé conversando em grupos ou sentados à mesas redondas com toalhas brancas, comendo e bebendo. O ambiente é iluminado por lustres clássicos no teto e possui grandes arcos arquitetônicos ao fundo. As pessoas vestem trajes sociais.">
+               </figure>
+
+             </div>",
+    "aria-label": "Ouvir a audiodescrição da foto 28 do evento",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+}
+
+{
+  "documento": {
+    "id_arquivo": 46,
+    "titulo": "Foto Evento APL de Bonés",
+    "autor": "Null",
+    "ano": "Null",
+    "categoria": "Fotografia",
+    "assunto": "Null",
+    "arquivo": "46_46_Fotografia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 46,
+    "id_foreign_key": 46,
+    "conteudo": "Null",
+    "criterios": "1,16,17,18,19",
+    "html": "
+               <figure>
+                 <img src=\"git/46_46_Fotografia.jpg\" 
+                 alt="Foto de um grupo de quatro homens conversando em pé. Dois aparecem apenas parcialmente à esquerda. Ao centro, um homem de barba e óculos olha para o homem da direita, que está de perfil e veste terno preto. Todos usam roupas formais e parecem estar em uma discussão profissional. O fundo é uma parede branca lisa.">
+               </figure>
+
+             </div>",
+    "aria-label": "Ouvir a audiodescrição da foto 29 do evento",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+}
+
+{
+  "documento": {
+    "id_arquivo": 47,
+    "titulo": "Foto Evento APL de Bonés",
+    "autor": "Null",
+    "ano": "Null",
+    "categoria": "Fotografia",
+    "assunto": "Null",
+    "arquivo": "47_47_Fotografia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 47,
+    "id_foreign_key": 47,
+    "conteudo": "Null",
+    "criterios": "1,16,17,18,19",
+    "html": "
+               <figure>
+                 <img src=\"git/47_47_Fotografia.jpg\" 
+                 alt="Foto de dois homens sentados lado a lado em uma mesa de jantar, olhando para a câmera. O homem à esquerda usa óculos, terno preto, gravata e um crachá com o nome Henry. O homem à direita tem bigode, usa óculos e veste um blazer cinza claro. À frente deles, a mesa está posta com taças e um arranjo de flores amarelas e brancas.">
+               </figure>
+
+             </div>",
+    "aria-label": "Ouvir a audiodescrição da foto 30 do evento",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+}
+
+{
+  "documento": {
+    "id_arquivo": 48,
+    "titulo": "Foto Evento APL de Bonés",
+    "autor": "Null",
+    "ano": "Null",
+    "categoria": "Fotografia",
+    "assunto": "Null",
+    "arquivo": "48_48_Fotografia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 48,
+    "id_foreign_key": 48,
+    "conteudo": "Null",
+    "criterios": "1,16,17,18,19",
+    "html": "
+               <figure>
+                 <img src=\"git/48_48_Fotografia.jpg\" 
+                 alt="Foto de dois homens sorrindo posando para a foto, abraçados lado a lado. O homem da esquerda tem cabelos longos escuros, cavanhaque e veste camisa preta. O homem da direita tem cabelos longos nas laterais e calvície no topo, e veste uma camisa social laranja claro. Ao fundo, vê-se parte de uma planta ornamental.">
+               </figure>
+
+             </div>",
+    "aria-label": "Ouvir a audiodescrição da foto 31 do evento",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+}
