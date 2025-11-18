@@ -2089,6 +2089,246 @@
     "aria-pressed": "[true, false]",
     "aria-description": "Leitura da audiodescrição possui duração de X minutos."
   }
+},
+{
+  "documento": {
+    "id_arquivo": 93,
+    "titulo": "Lula conhece a produção apucaranense de bonés",
+    "autor": "Jornal Local",
+    "ano": "Null",
+    "categoria": "Noticia",
+    "assunto": "Visita Presidencial",
+    "arquivo": "93_93_Noticia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 93,
+    "id_foreign_key": 93,
+    "conteudo": "Lula conhece a produção apucaranense de bonés\nO presidente Luiz Inácio Lula da Silva conheceu nesta semana em Brasília o trabalho das empresas que confeccionam bonés em Apucarana e que se fizeram presentes na 1ª Conferência Brasileira de APLs (Arranjos Produtivos Locais). Lula anunciou R$ 5,1 milhões para os APLs e, à vontade, usou um dos bonés feitos na cidade.\n[Legenda da foto]: LULA, dona Marisa e ministros no estande das empresas de Apucarana em Brasília\n\n...aconteceu nesta semana em Brasília. Durante o evento, que contou com a participação do presidente Luiz Inácio Lula da Silva, ministros de Estado, dirigentes de instituições não governamentais e empresários, foram debatidos os mecanismos de apoio ao desenvolvimento de APLs.\nNa oportunidade, o governo anunciou recursos de R$ 5,1 milhões para investir em arranjos produtivos, sendo R$ 2,5 milhões do Projeto de Extensão Industrial Exportadora (Peix) R$ 2,6 milhões do Bônus Certificação, que vai subsidiar em até 70% os custos...\nProdutivos Locais organizada pelo Sebrae com o objetivo divulgar e destacar a importância desse modelo para o desenvolvimento sócio-econômico do país. O Presidente Lula visitou a amostra e conheceu de perto o trabalho do APL de bonés de Apucarana, o único do setor no Brasil.\n\"É importante que a APL de Apucarana participe do evento para divulgar e demonstrar a importância da cidade como centro de excelência na produção de bonés\", ressalta Osmar Dalquano, consultor do Sebrae de Apucarana.",
+    "criterios": "2,3,4,5,6,7,8,16,17,18,19",
+    "html": "<figure>\n <img src=\"git/img10.jpg\"\n alt=\"Recorte de jornal com a manchete 'Lula conhece a produção apucaranense de bonés'. A foto em preto e branco mostra o então presidente Lula sorrindo enquanto coloca um boné branco na cabeça. Ao seu lado, vê-se parcialmente sua esposa, Dona Marisa, e outros oficiais. O texto informa sobre a visita dele ao estande de Apucarana na 1ª Conferência Brasileira de APLs em Brasília.\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição da noticia 'Lula Visita Stand APL' ",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 94,
+    "titulo": "Pesquisa vai levantar números da produção de bonés em Apucarana",
+    "autor": "Tribuna do Norte",
+    "ano": "Null",
+    "categoria": "Noticia",
+    "assunto": "Censo Industrial",
+    "arquivo": "94_94_Noticia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 94,
+    "id_foreign_key": 94,
+    "conteudo": "TRIBUNA DO NORTE\nPesquisa vai levantar números da produção de bonés em Apucarana\n[Legenda da foto]: MARIA ISABEL LOPES, da Acia, ladeada por representantes do Ipardes, Sebrae, FAP, Sivale e do prefeito Valter Pegorer, assina convênio para mapeamento de fábricas de bonés\n\nLUIZ MONTANHEIRO\nDE APUCARANA\nRepresentantes do Arranjo Produtivo Local (APL) de Bonés de Apucarana, do Instituto Paranaense de Desenvolvimento Econômico e Social (Ipardes), Sebrae, Faculdade de Apucarana (FAP), Associação Comercial, Industrial e de Serviços (Acia) e Sivale, assinaram ontem à tarde convênio para a realização de um mapeamento do volume de empresas e da produção no município. O trabalho de pesquisa começa no mês que vem.\nO documento com os números reais de fábricas, produção e trabalhadores vai servir de estudos para a realização de projetos para viabilizar recursos a pequenas e médias empresas do setor. \"Nós sabemos que existem entre 200 e 300 fábricas de bonés. Mas só vamos mesmo ter a certeza depois que for realizado o levantamento. O trabalho vai possibilitar o desenvolvimento de projetos, que vão resultar na ampliação da produção e conseqüentemente, na geração de mais empregos\", explica José Carlos de Souza da governança da APL bonés.\nO trabalho de pesquisa será realizado com apoio de técnicos da FAP e vai ter um custo calculado em R$ 49 mil. Ele terá a duração de 30 dias, com visitas formais e informais nas fábricas de bonés. \"Além da importância para o setor em saber quantas fábricas estão instaladas na cidade, as informações também são interessantes, principalmente no tocante ao número de trabalhadores que o setor gera\", observou o prefeito Valter Pegorer (PMDB).\nO representante do Ipardes, José Morais Neto, disse que o órgão dará suporte técnico, através de metodologia ao projeto. Ele elogiou a iniciativa da APL bonés e as parcerias. \"O objetivo maior deste trabalho é aumentar a competitividade e o desenvolvimento do setor. Por isso é importante a parceria e a colaboração de todos para a realização deste levantamento\", concluiu Souza.",
+    "criterios": "2,3,4,5,6,7,8,16,17,18,19",
+    "html": "<figure>\n <img src=\"git/img18.jpg\"\n alt=\"Coluna de jornal com o título 'Pesquisa vai levantar números da produção de bonés em Apucarana'. A foto ilustrativa mostra um grupo de oito pessoas (sete homens e uma mulher) em pé atrás de uma mesa, participando de uma cerimônia de assinatura de convênio. A legenda cita Maria Isabel Lopes, da ACIA, entre os representantes de entidades como Ipardes, Sebrae e FAP.\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição da noticia - 'Pesquisa Censo Boné' ",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+{
+  "documento": {
+    "id_arquivo": 95,
+    "titulo": "Anúncio SaneAbas",
+    "autor": "SaneAbas",
+    "ano": "Null",
+    "categoria": "Publicidade",
+    "assunto": "Fornecedor de Abas",
+    "arquivo": "95_95_Publicidade.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 95,
+    "id_foreign_key": 95,
+    "conteudo": "Null",
+    "criterios": "2,16,17,18,19",
+    "html": "<figure>\n <img src=\"git/img74.jpg\"\n alt=\"Anúncio publicitário vertical da empresa 'SaneAbas - Abas para bonés'. O destaque vai para o texto '10 anos' em vermelho. Há fotos de duas abas de boné (uma preta e uma branca) e uma lista de produtos como abas curvas, expandidas e fundos para bolsas. No topo, o endereço no Parque Industrial Norte e telefone. No rodapé, a frase 'Respeitando a qualidade do seu produto' e o logo do distribuidor Boneon.\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição da Publicidade Anúncio SaneAbas",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 96,
+    "titulo": "2005: Censo Econômico vai mapear o setor em Apucarana",
+    "autor": "APL Bonés",
+    "ano": "2005",
+    "categoria": "Noticia",
+    "assunto": "Censo Econômico",
+    "arquivo": "96_96_Noticia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 96,
+    "id_foreign_key": 96,
+    "conteudo": "2005: Censo Econômico vai mapear o setor em Apucarana\nDados estatísticos serão levantados em um censo econômico que vai mapear o setor. Empresas iniciam treinamentos e consultorias.\n\nO ano de 2005 marca o início da implantação das metas discutidas e planejadas pela Governança do APL de Bonés e sugeridas pelas empresas do setor que aderiram ao projeto de Arranjos Produtivos Locais no Seminário de Lançamento do Programa de Cooperação do APL de Bonés, realizado em novembro do ano passado, e que contou com a adesão de cento e dez empresas do setor entre fabricantes, fornecedores, distribuidores e atacadistas de Apucarana.\nA realização do Censo Econômico é uma das ações mais esperadas. O número de peças produzidas ao ano pelas fábricas de Apucarana, a quantidade de indústrias, número de funcionários, vendas no país e exterior e faturamento do setor são algumas das perguntas que serão respondidas pela pesquisa até setembro deste ano.\nEm 2005, as empresas fabricantes de bonés vão receber ainda capacitações e consultorias em processos produtivos, gestão de negócios, gestão de produção, e em design e modelagem do produto. O conteúdo dos treinamentos de capacitação em recursos humanos, gestão financeira e telemarketing já estão sendo divulgados aos empresários para que façam suas inscrições. \"Os treinamentos duram quatro meses e vão incluir também consultoria individualizada dentro da empresa, o que vai contribuir para que o aprendizado seja colocado em prática. Os temas foram definidos no planejamento estratégico do APL de Bonés. Os instrutores já estão sendo contratados e vamos abrir 25 vagas em cada treinamento\", afirma Marlon Falleiros, coordenador dos treinamentos.\nMais dois programas também serão iniciados, um de qualidade e produtividade e outro de gestão de produção, que visam a implantação de processos de gestão na qualidade e na melhoria da produtividade. \"O planejamento estratégico levou em conta as dificuldades dos empresários no dia-a-dia da administração. Estes dois programas vão acontecer de maio a dezembro e podem participar empresários e funcionários. A decisão de levar os programas para dentro das empresas [foi] baseada na falta de tempo que, em geral, os empresários te... para reciclagem\", ressalta Jayme Leonel, coordenador dos programas.\nEstá na pauta também a co-promoção da Expoboné - Feira Nacional dos Fornecedores de Matérias-Primas para a Indústria de Bonés, Brindes e Acessórios, a realização de um programa de capacitação empresarial e o desenvolvimento de pesquisa de aferição de resultados.\n\nObjetivos em percentagens\nO objetivo de todas as ações é aumentar a competitividade e a cooperação das empresas do setor, focado na melhoria do processo produtivo, no produto e no aumento da participação no mercado interno e na conquista do mercado externo. Como resultado, a meta é aumentar em 25% o faturamento real das indústrias de bonés de Apucarana, sendo 10% neste ano, 8% no ano de 2006 e 7% no ano de 2007; a elevação em 15% da comercialização dos produtos das indústrias, sendo 5% neste ano, 5% em 2006 e 5% em 2007; e o acréscimo em 8% na comercialização com o mercado externo, sendo 2% em 2005; 3% em 2006 e 5% em 2007.\nComo resultados intermediários, o objetivo é elevar em 10% a produtividade das indústrias de bonés da cidade, sendo 5% em 2005, 3% em 2006 e 2% em 2007; aumentar em 15% o valor agregado das indústrias, sendo 5% em 2005, 5% em 2006 e 5% em 2007; e elevar em 10% o volume de peças produzidas, sendo 5% neste ano, 3% em 2006 e 2% em 2007.\n\nEmpresários podem acessar dados\nO sistema de Informações da Gestão Estratégica Orientada por Resultados (Sigeor) é uma novidade que o APL de Bonés de Apucarana utiliza desde o mês de março como mecanismo de gerenciamento de suas ações. Acessando o site www.sigeor.sebrae.com.br o empresário tem acesso como visitante à relação de projetos, objetivos e resultados esperados para o APL. Para José Henrique Martins, consultor do Sebrae/PR e membro da governança, o Sigeor possibilita que todos os membros do APL e empresários do setor cobrem dos responsáveis a efetuação das ações, além de torná-las mais eficientes e claras.",
+    "criterios": "2,3,4,5,6,7,8,16,17",
+    "html": "<figure>\n <img src=\"git/img50.jpg\"\n alt=\"Página de boletim informativo com fundo azul. O título principal é '2005: Censo Econômico vai mapear o setor em Apucarana'. O texto descreve o início da implantação das metas e treinamentos. Um quadro branco destaca 'Objetivos em percentagens'. Na parte inferior, um artigo sobre o sistema 'Sigeor', ilustrado com uma captura de tela do site do Sebrae.\">\n </figure>",
+    "aria-label": "Ouvir a transcrição do Boletim Censo 2005",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da transcrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 97,
+    "titulo": "Máquinas de Bordar",
+    "autor": "Null",
+    "ano": "Null",
+    "categoria": "Fotografia",
+    "assunto": "Null",
+    "arquivo": "97_97_Fotografia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 97,
+    "id_foreign_key": 97,
+    "conteudo": "Null",
+    "criterios": "2,16,17,18,19",
+    "html": "<figure>\n <img src=\"git/img34.jpg\"\n alt=\"Foto em ângulo diagonal mostrando uma fileira de máquinas de bordado industrial brancas. As máquinas possuem múltiplos cabeçotes e carretéis de linha no topo. O ambiente é fabril, com paredes brancas e uma janela com persianas azuis ao fundo.\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição da foto das maquinas de bordar",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 98,
+    "titulo": "Capa Tribuna do Norte 2008",
+    "autor": "Tribuna do Norte",
+    "ano": "2008",
+    "categoria": "Noticia",
+    "assunto": "Dia do Boné",
+    "arquivo": "98_98_Noticia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 98,
+    "id_foreign_key": 98,
+    "conteudo": "TRIBUNA DO NORTE\nDiário do Paraná\nQuinta-feira, 31 DE JANEIRO DE 2008\n\ndia do boné\nSetor cresce em Apucarana. Monumento será inaugurado hoje\n\nEmpresas apucaranenses comemoram hoje o Dia do Boné com a expectativa de crescer 5% em 2008. Data será marcada por várias atividades, incluindo a inauguração do maior boné do mundo (foto), na saída para Londrina.\n\n[Foto: Monumento 'Boné Gigante' com o letreiro 'CAPITAL DO BONÉ' em destaque]",
+    "criterios": "2,3,4,5,6,7,8,16,17,18,19",
+    "html": "<figure>\n <img src=\"git/img18.jpg\"\n alt=\"Capa do jornal 'Tribuna do Norte' de 31 de janeiro de 2008. A foto principal mostra o monumento 'Capital do Boné' (um boné gigante azul e amarelo com a inscrição 'Apucarana Cidade Educação') instalado em uma rotatória gramada, com letras grandes amarelas formando a frase 'CAPITAL DO BONÉ'. A manchete diz: 'dia do boné - Setor cresce em Apucarana. Monumento será inaugurado hoje'.\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição da capa do jornal Tribuna do Norte - Dia do Boné",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 99,
+    "titulo": "Publicidade Capital Nacional",
+    "autor": "Prefeitura/Sindicatos",
+    "ano": "2010",
+    "categoria": "Publicidade",
+    "assunto": "Capital Nacional do Boné",
+    "arquivo": "99_99_Publicidade.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 99,
+    "id_foreign_key": 99,
+    "conteudo": "APUCARANA CAPITAL NACIONAL DO BONÉ\n\nComemore este título. Ele também é Seu!\n\nO presidente em exercício, José Alencar, sancionou a lei 2.793/08, que concede à cidade de Apucarana o título de Capital do Boné. A medida foi publicada no dia 7 de julho de 2010 no Diário Oficial da União.\n\n[Imagem: Modelo feminina usando boné 'Bonés de Apucarana']\n[Imagem: Sequência de fotos mostrando o Monumento ao Boné e etapas da produção fabril de bonés (corte, costura, acabamento)]\n\nAGORA É LEI. APUCARANA É A CAPITAL NACIONAL DO BONÉ.",
+    "criterios": "2,3,4,5,6,7,8,16,17,18,19",
+    "html": "<figure>\n <img src=\"git/img10.jpg\"\n alt=\"Cartaz comemorativo com o título 'Apucarana Capital Nacional do Boné'. À direita, uma modelo jovem sorri usando um boné preto. O texto informa que o presidente em exercício José Alencar sancionou a lei 2.793/08 conferindo o título à cidade. Na parte inferior, três fotos menores mostram o monumento do boné e cenas de trabalhadores na linha de produção.\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição da Publicidade Capital Nacional do Boné",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 100,
+    "titulo": "Nossas Histórias - Lei do Boné",
+    "autor": "Nossas Histórias",
+    "ano": "2011",
+    "categoria": "Noticia",
+    "assunto": "Histórico",
+    "arquivo": "100_100_Noticia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 100,
+    "id_foreign_key": 100,
+    "conteudo": "Nossas Histórias Nº 03 - Junho 2011\n\nApucarana Capital Nacional do Boné\n\n[Foto do monumento do Boné Gigante com pessoas ao redor]\n\nO então Presidente da República em exercício, José de Alencar, sancionou a lei nº 2.793/08, que concedia a cidade de Apucarana o título de Capital Nacional do Boné. Foi publicada no dia 07 de julho de 2010 no Diário Oficial da União.",
+    "criterios": "2,3,4,5,6,7,8,16,17,18,19",
+    "html": "<figure>\n <img src=\"git/img26.jpg\"\n alt=\"Recorte do informativo 'Nossas Histórias' de Junho de 2011. O título é 'Apucarana Capital Nacional do Boné'. A foto mostra o monumento do boné gigante com um grupo de pessoas aglomeradas ao redor, provavelmente durante a inauguração. O texto abaixo cita a sanção da lei federal em julho de 2010.\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição da Noticia Nossas Histórias - Lei do Boné",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 101,
+    "titulo": "Exportação: Governo e APL discutem estratégias",
+    "autor": "APL Bonés",
+    "ano": "2005",
+    "categoria": "Noticia",
+    "assunto": "Estratégias de Exportação",
+    "arquivo": "101_101_Noticia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 101,
+    "id_foreign_key": 101,
+    "conteudo": "Exportação: Governo e APL discutem estratégias\n\nAumentar a exportação do boné é um dos principais objetivos da governança do APL. O tema já esteve em pauta no mês de fevereiro durante reunião com a Secretaria da Indústria, do Comércio e de Assuntos do Mercosul do Paraná (SEIM). Os empresários ressaltaram a preocupação com o crescimento da China no mercado têxtil internacional levando-se em consideração os preços bem mais baixos dos produtos chineses em relação aos nacionais, o que ocorre em função dos altos tributos pagos pelos empresários brasileiros.\nSantiago Gallo, Coordenador de Assuntos Internacionais da SEIM, salientou que são necessárias ações para que os empresários do setor conheçam como funcionam os mercados externos para poder competir. Segundo ele, o setor têxtil do Paraná é responsável por 15,4% das exportações de vestuário no Brasil, atrás apenas de São Paulo e Santa Catarina.\nPara Noé Vieira dos Santos, Coordenador de Desenvolvimento Industrial e Comercial da SEIM, os trabalhos devem ser voltados para que os outros países vejam o boné como uma peça que representa a cultura do país. \"Vamos nos unir aos empresários para crescer, inovar e ganhar competitividade\".\nO programa de Arranjo Produtivo Local deve receber este ano cerca de 500 mil reais do governo federal e outros 250 mil do governo do estado, lembrando que o APL de Bonés de Apucarana foi escolhido entre outros 11 no Brasil como projeto-piloto do governo federal.\n\n[Legenda Foto]: Noé Vieira dos Santos: \"Boné deve ser visto como peça que representa a cultura do Brasil\"\n\nBrasil e França\nO ano de 2005 é o Ano do Brasil na França. Uma das ações previstas pelo Governo do Paraná é a realização em Paris, no mês de outubro, de uma Rodada de Negócios com empresários do Estado. Os participantes negociarão diretamente com empresas européias dos seus segmentos, em encontros articulados pelo Governo do Estado e por entidades representativas da França. Até agora 35 empresas do Paraná já confirmaram presença, sendo seis fabricantes de bonés de Apucarana. Mais informações podem ser obtidas na Secretaria da Indústria, do Comércio e de Assuntos do Mercosul do Paraná pelo fone (41) 3330-1700, ou no Sindicato do Vestuário do Vale do Ivaí (Sivale), pelo fone (43) 3422-0930.\n\n[Legenda Foto]: Reunião com Governança define ações de 2005\n\nAPL é destaque\nNo mês de março, cerca de 60 empresários das indústrias de Londrina e região estiveram reunidos em Londrina para discutir ações que possam fortalecer o setor industrial do Paraná. O APL de Bonés de Apucarana foi um dos destaques do evento, que contou com a representação do empresário Jayme Leonel. \"É um dos objetivos da Governança difundir o que o APL está desenvolvendo e o que ainda pretende realizar\", afirma. A iniciativa foi da Federação das Indústrias do Estado do Paraná (Fiep).",
+    "criterios": "2,3,4,5,6,7,8,16,17,18,19",
+    "html": "<figure>\n <img src=\"git/img58.jpg\"\n alt=\"Página de boletim com o título 'Exportação: Governo e APL discutem estratégias'. No canto superior esquerdo, foto de Noé Vieira dos Santos. O texto aborda a concorrência chinesa e o apoio governamental. Abaixo, fotos ilustram reuniões de governança e a preparação para o Ano do Brasil na França.\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição da noticia 'Boletim Exportação'",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 102,
+    "titulo": "Boletim Logomarca APL",
+    "autor": "APL Bonés",
+    "ano": "2005",
+    "categoria": "Noticia",
+    "assunto": "Identidade Visual",
+    "arquivo": "102_102_Noticia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 102,
+    "id_foreign_key": 102,
+    "conteudo": "APL DE BONÉS • BOLETIM PERIÓDICO • MAIO 2005 • ANO 2 • NÚMERO 2\n\nAPL BONÉS • APUCARANA • PR\n\nLogomarca vai identificar produtos de Apucarana\n\nO APL de Bonés tem agora uma logomarca, o que significa que a origem dos produtos fabricados em Apucarana será identificada por um símbolo capaz de promover os bonés em todo o país. O que se busca é criar uma associação entre o boné e o pólo especialista produtor do boné, garantindo produtos com qualidade, fabricados por empresas que investem em tecnologia e design, pertencentes ao território do APL de Bonés.\nO concurso de escolha da logomarca contou com 25 participantes. O autor da logomarca eleita, que sugere um boné, linhas para costura e as cores da bandeira de Apucarana, foi Gleison José Simões Santos, jovem apucaranense recém formado em Marketing e Propaganda. Cerca de 200 empresários e membros de entidades representativas estiveram presentes na cerimônia de divulgação do concurso realizado dia 18 de abril, no Clube 28 de Janeiro.\nCriatividade, originalidade, comunicação, aplicabilidade e relação da marca com a identidade do município foram os critérios que fizeram com que o júri, composto por sete membros da comunidade local, elegesse a logomarca vencedora. \"Toda empresa ou instituição deve ter um símbolo que a identifique. Eu torço bastante para que todos possam identificar esta logomarca como símbolo do APL de Bonés\", afirmou Gleison Santos.\nPara Renato César Fávero, empresário e membro do comitê gestor, o fato de a logomarca ter sido escolhida em um concurso foi essencial para estreitar a relação entre o município e o APL. \"Além dos empresários do setor, as pessoas da comunidade vão conhecer a marca e associá-la ao APL\". A partir de agora, todas as empresas fabricantes de bonés poderão utilizar o símbolo do APL na etiqueta de seus produtos, uniformes dos funcionários, notas fiscais, banners e folders de divulgação.\n\"Todos os empresários de Apucarana poderão reproduzir a marca em seus produtos. Quanto mais empresas estamparem a logomarca, mais rápido se consolidará a identidade do APL\", ressalta Osmar Dalquano Junior, consultor do Sebrae/PR. Segundo ele, o objetivo é produzir futuramente um boné do APL de Apucarana para distribuição em eventos e comercialização em magazines.\n\n[Legenda Foto 1]: Evento contou com cerca de 200 empresários do setor\n[Legenda Foto 2]: Gleison Santos: autor da logomarca do APL de Bonés",
+    "criterios": "2,3,4,5,6,7,8,16,17,18,19",
+    "html": "<figure>\n <img src=\"git/img42.jpg\"\n alt=\"Página de boletim destacando a nova logomarca do APL. À esquerda, o grande logo azul e amarelo 'APL Bonés Apucarana - PR'. O texto explica a escolha da marca através de um concurso vencido por Gleison Santos. À direita, duas fotos: uma da plateia de empresários e outra de Gleison recebendo um prêmio simbólico no palco.\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição da foto do Boletim informativo da Logomarca APL",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 103,
+    "titulo": "Boletim Expoboné e Design",
+    "autor": "APL Bonés",
+    "ano": "2005",
+    "categoria": "Noticia",
+    "assunto": "Eventos e Tendências",
+    "arquivo": "103_103_Noticia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 103,
+    "id_foreign_key": 103,
+    "conteudo": "EXPOBONÉ 2005\nFeira vai promover setor em todo o país\n\nApresentar aos empresários do ramo de bonés o que há de mais novo no mercado, divulgar as novas tecnologias na área produtiva e discutir e pesquisar assuntos relevantes ao setor. Esses são os objetivos da Expoboné 2005 - Feira Nacional dos Fornecedores de Matérias-Primas para a Indústria de Bonés, Brindes e Acessórios - a primeira feira específica para os fabricantes de bonés e brindes no Brasil, que acontece entre os dias 14 e 16 de julho no Pavilhão do Tropical Shop, em Apucarana.\nO APL será co-promotor do evento que além da feira reunindo fornecedores de matérias-primas, equipamentos e serviços agregados, realiza a Convenção Brasileira de Fabricantes de Bonés, Brindes e Similares com oficinas nas áreas de design, produtividade e bordado, e palestras sobre gestão empresarial e exportação. Está previsto ainda a organização de um desfile de tendências de moda para o setor.\nPara o empresário Sebastião Luiz Fante, a feira é mais uma ação que vem para consolidar Apucarana como a Capital Nacional do Boné. \"A nossa expectativa é promover o setor e solidificar a cidade no país e no exterior\", conclui. Informações sobre a feira e inscrições para as palestras podem ser feitas pelo site www.expobone.com.br.\n\nDesign: o que é isto?\nCompreender o que engloba o design de um produto é determinante para torná-lo mais atraente e competitivo\n\nPara fazer com que um produto ganhe espaço no mercado é preciso transformá-lo em peça atraente. Agregar valor ao produto significa fazer com que o cliente o deseje a qualquer custo. Com o boné não é diferente. Para que o consumidor se interesse em usá-lo no cotidiano, o boné deve tornar-se artigo da moda. Introduzi-lo no universo das passarelas é um dos objetivos do grupo gestor do APL de Bonés de Apucarana, mas para isso, segundo Geraldo Pougy, coordenador do Centro de Design Paraná, os empresários devem ter bem claro o que é design e como utilizar o design para alcançar as metas do APL.\nUma das preocupações demonstradas pelos empresários é aliar modelos arrojados e modernos com um bom acabamento e caimento confortável. \"O designer trabalha em todo o processo de produção do produto. É ele quem deve pensar em qual a melhor maneira de produzir determinado artigo, como expandir seu ciclo de vida, qual a matéria-prima adequada, qual modelo agrada mais o mercado, como explorar outros nichos aproveitando as mesmas tecnologias, como maximizar a utilização dos recursos disponíveis, entre outros. É preciso ampliar a visão limitada sobre o que é design\", observa Pougy.\n\n[Legenda Foto]: Geraldo Pougy: Boné deve ser artigo de moda\n\nEXPEDIENTE:\nBoletim APL Bonés\nConselho editorial: Governança APL Bonés\nRedação e edição: CR Comunicação Empresarial\nJornalista responsável: Cláudia Romariz MT 2457\nColaboração: Marina Novaes\nFotografia: Gabriel Teixeira\nDesign gráfico: Fábio Perusso\nDistribuição: Empresários e entidades do APL de Bonés\nAPOIO: APUCARANA Cidade Educação, SEBRAE PR",
+    "criterios": "2,3,4,5,6,7,8,16,17,18,19",
+    "html": "<figure>\n <img src=\"git/img66.jpg\"\n alt=\"Página de boletim. O artigo superior 'EXPOBONÉ 2005' promove a feira nacional de fornecedores, com o logotipo do evento em laranja. O artigo inferior 'Design: o que é isto?' discute a importância do design para a competitividade, ilustrado por uma foto de Geraldo Pougy, de camisa xadrez azul, sorrindo.\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição da foto do Boletim informativo da Expoboné e Design",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
 }
 
 ]
