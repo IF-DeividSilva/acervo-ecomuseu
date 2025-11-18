@@ -18,7 +18,9 @@
         "html": "<h1>HISTORIA DO BONÉ EM APUCARANA</h1>\n        <p> conteudo </p>\n       <h2>BONÉ COMO TUDO COMEÇOU</h2>\n        <p> conteudo </p>",
         "aria-label": "Ouvir o artigo: História do Boné em Apucarana",
         "aria-pressed": [true, false],
-        "aria-description": "Leitura de áudio com duração de X minutos."
+        "aria-description": "Leitura da audiodescrição possui duração de X minutos.",
+        "audio":  "href",
+        "imagem": "href"
       }
     },
     {
@@ -40,7 +42,9 @@
 
         "aria-label": "Ouvir o artigo: Contextualização e caracterização do arranjo produtivo local de bonés de Apucarana-Paraná",
         "aria-pressed": [true, false],
-        "aria-description": "Leitura de áudio com duração de X minutos."
+        "aria-description": "Leitura da audiodescrição possui duração de X minutos.",
+        "audio":  "href",
+        "imagem": "href"
       }
     },
     {
@@ -62,7 +66,9 @@
 
         "aria-label": "Ouvir a nóticia: Confecções de Apucarana são vendidas em todo País",
         "aria-pressed": [true, false],
-        "aria-description": "Leitura de áudio com duração de X minutos."
+        "aria-description": "Leitura da audiodescrição possui duração de X minutos.",
+        "audio":  "href",
+        "imagem": "href"
   }
 },
 
@@ -84,7 +90,9 @@
     "html": "<h1>ATA DE REUNIÃO</h1>\n  <p>conteudo</p>",
     "aria-label": "Ouvir a ata: Definição da diretoria do Museu do Boné",
     "aria-pressed": [true, false],
-    "aria-description": "Leitura de áudio com duração de X minutos."
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos.",
+    "audio":  "href",
+    "imagem": "href"
   }
 },
 
@@ -105,7 +113,9 @@
     "html": "<h1>Documentos Museu do Boné (Pasta Parda)</h1>\n<p>conteudo</p>",
     "aria-label": "Ouvir Coletânea de documentos e notícias sobre a indústria do boné e a história dos museus em Apucarana",
     "aria-pressed": [true, false],
-    "aria-description": "Leitura de áudio com duração de X minutos."
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos.",
+    "audio":  "href",
+    "imagem": "href"
   }
 },
 
@@ -127,7 +137,9 @@
     "html": "<h1>CARTA DE INTENÇÃO DE PARCERIA</h1>\n   <p>conteudo</p>",
     "aria-label": "Ouvir o documento: Carta de Intenção de Parceria - Jayme Leonel",
     "aria-pressed": [true, false],
-    "aria-description": "Leitura de áudio com duração de X minutos."
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos.",
+    "audio":  "href",
+    "imagem": "href"
   }
 },
 
@@ -149,7 +161,9 @@
     "html": "<h1>Falas Macarrão</h1>\n<p>conteudo</p>",
     "aria-label": "Ouvir o depoimento: Falas de Antonio Carlos Macarrão",
     "aria-pressed": [true, false],
-    "aria-description": "Leitura de áudio com duração de X minutos."
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos.",
+    "audio":  "href",
+    "imagem": "href"
   }
 },
 
@@ -171,7 +185,9 @@
     "html": "<h1>Histórico do APL de Bonés de Apucarana</h1>\n<p>conteudo</p>",
     "aria-label": "Ouvir o artigo: Histórico do APL de Bonés de Apucarana",
     "aria-pressed": [true, false],
-    "aria-description": "Leitura de áudio com duração de X minutos."
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos.",
+    "audio":  "href",
+    "imagem": "href"
   }
 },
 
@@ -193,7 +209,9 @@
     "html": "<h1>LEI Nº 12.285. DE 6 DE JULHO DE 2010.</h1>\n<p>conteudo</p>",
     "aria-label": "Ouvir a Lei: nº 12.285, Capital Nacional do Boné",
     "aria-pressed": "[true, false]",
-    "aria-description": "Leitura de áudio com duração de X minutos."
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos.",
+    "audio":  "href",
+    "imagem": "href"
   }
 },
 
@@ -215,7 +233,9 @@
     "html": "<h1>Concurso de Criação do Logotipo do Museu do Boné de ApucaraNA</h1>\n<p>conteudo</p>",
     "aria-label": "Ouvir o flyer: Concurso de Criação do Logotipo do Museu do Boné",
     "aria-pressed": "[true, false]",
-    "aria-description": "Leitura de áudio com duração de X minutos."
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos.",
+    "audio":  "href",
+    "imagem": "href"
   }
 },
 
@@ -236,7 +256,9 @@
     "html": "<h1>Legenda de fotos, revistas, baners, quadros</h1>\n<p>conteudo</p>",
     "aria-label": "Ouvir a legenda de fotos, revistas, baners, quadros",
     "aria-pressed": [true, false],
-    "aria-description": "Leitura de áudio com duração de X minutos."
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos.",
+    "audio":  "href",
+    "imagem": "href"
   }
 },
 
@@ -258,7 +280,9 @@
     "html": "<h1>Documentos Diversos - Museu do Boné (SENAI)</h1>\n<p>conteudo</p>",
     "aria-label": "Ouvir o documento: Documentos Diversos - Museu do Boné (SENAI)",
     "aria-pressed": "[true, false]",
-    "aria-description": "Leitura de áudio com duração de X minutos."
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos.",
+    "audio":  "href",
+    "imagem": "href"
   }
 },
 
@@ -280,7 +304,9 @@
     "html": "<h1>Convite de Formatura - Centro Moda 2005</h1>\n<p>conteudo</p>",
     "aria-label": "Ouvir o Convite de Formatura - Centro Moda 2005",
     "aria-pressed": "[true, false]",
-    "aria-description": "Leitura de áudio com duração de X minutos."
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos.",
+    "audio":  "href",
+    "imagem": "href"
   }
 },
 
@@ -288,11 +314,11 @@
   "documento": {
     "id_arquivo": 14,
     "titulo": "Recortes de Jornal: Federalização do Centro Moda e Tecnologia Têxtil",
-    "autor": "Tribuna do Norte / Folha de Londrina / Diversos",
+    "autor": "Tribuna do Norte / Folha de Londrina",
     "ano": "1993-2006",
-    "categoria": "Recortes de Jornal",
+    "categoria": "Notícia",
     "assunto": "Federalização do Centro Moda (UTFPR) e modernização da indústria de bordados em Apucarana.",
-    "arquivo": "CODEM_003361.pdf"
+    "arquivo": "14_14_Noticia.pdf"
   },
   "conteudo": {
     "id_metadado": 14,
@@ -300,9 +326,11 @@
     "conteudo": "Maio de 2006 - TRIBUNA DO NORTE\nUniversidade Tecnológica em Apucarana\nSolenidade histórica, realizada ontem, deu início ao processo de federalização do Centro Moda. O edital para contratação de docentes sai em junho e o primeiro curso será oferecido em janeiro de 2007.\nAssinado termo para Universidade Tecnológica Federal em Apucarana. O ato solene da federalização, considerado histórico e de grande importância para a região, principalmente pela consolidação do pólo de indústrias de bonés e do vestuário, foi prestigiado por autoridades.\nEstiveram presentes o presidente do Fundo Nacional de Desenvolvimento da Educação (FNDE), Daniel Silva Balaban; o reitor do Cefet (Curitiba), Eden Januário Netto; o deputado federal Alex Canziani (PTB); prefeito Valter Aparecido Pegorer (PMDB); e a presidente da Associação Comercial, Industrial e de Serviços de Apucarana (Acia), Maria Isabel Lopes.\nO primeiro curso será ofertado no próximo ano. Após a formalização da implantação do Cefet em Apucarana, o próximo passo será a publicação de uma Medida Provisória para criação de cargos.\nPresidente da Acia destaca ações de Amaral e Canziani. Maria Isabel Lopes comemorou o início do processo e agradeceu a conquista, destacando o trabalho do empresário Ricardo Seixas Amaral e do deputado federal Alex Canziani. Ela citou ainda o empenho de outras lideranças do segmento do vestuário como Maria Abgail Fortuna, Nelci Barbieri, Jaime Leonel e do professor Osvaldo Massaji Ohya.\nTECNOLOGIA E BORDADOS (Recortes de 1993-1995)\nTecnologia de Primeiro Mundo na arte de bordar. Do ponto cruz artesanal à máquina de bordar computadorizada. A Cecitel Comércio de Máquinas de Costura e Malharia está inovando o mercado regional com a representação de máquinas de bordar computadorizadas, importadas do Japão (Barudan), distribuídas no Paraná pela Fortuna Bordados.\nApucarana Empresários investem na qualidade. Apucarana que já é a \"capital nacional do boné\", e que concentra um invejável pólo de indústrias de confecções, está dando importante passo para competir com mais força no mercado. Vários empresários estão buscando tecnologia de ponta. A Titu's Jeans, Indústria e Comércio de Confecções Ltda. investiu para importar do Japão uma máquina bordadeira computadorizada da Barudan.\nA empresária Maria Abgail Fortuna justifica que o bordado veio para ficar e enriquece a qualidade dos produtos.\nFORTUNA BORDADOS COMPUTADORIZADOS. Apucarana conta hoje com a mais alta tecnologia em bordados. Representação e Assistência Técnica BARUDAN no Paraná.\nArtigo de Moda: Tendência, moda, modos & modismos (Tribuna do Norte, 28/11/93).",
     "criterios": "2,3,4,5,6,7,8,16,17,18,19",
     "html": "<h1>Recortes de Jornal: Federalização do Centro Moda e Tecnologia Têxtil</h1>\n<p>conteudo</p>",
-    "aria-label": "Ouvir o documento: Federalização do Centro Moda e Tecnologia Têxtil",
+    "aria-label": "Ouvir a Notícia: Federalização do Centro Moda e Tecnologia Têxtil",
     "aria-pressed": "[true, false]",
-    "aria-description": "Leitura de áudio com duração de X minutos."
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos.",
+    "audio":  "href",
+    "imagem": "href"
   }
 },
 
@@ -325,7 +353,9 @@
      "<h1>Coletânea: Tecnologia de Bordados, Eventos do Setor e Centro de Moda</h1>\n<h2>Tecnologia e Máquinas</h2>\n<p>conteudo</p>",
     "aria-label": "Ouvir a Coletânea sobre Tecnologia de Bordados, Centro de Moda e Eventos",
     "aria-pressed": "[true, false]",
-    "aria-description": "Leitura de áudio com duração de X minutos."
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos.",
+    "audio":  "href",
+    "imagem": "href"
   }
 },
 
@@ -347,7 +377,9 @@
     "html": "<h1>Ofício nº 109 - GADIR: Solicitação de Patrocínio para a 3ª Expo UT</h1>\n<p>conteudo</p>",
     "aria-label": "Ouvir o Ofício de Solicitação de Patrocínio - UTFPR",
     "aria-pressed": "[true, false]",
-    "aria-description": "Leitura de áudio com duração de X minutos."
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos.",
+    "audio":  "href",
+    "imagem": "href"
   }
 },
 
@@ -365,11 +397,13 @@
     "id_metadado": 18,
     "id_foreign_key": 18,
     "conteudo": null,
-    "criterios": "1,16,17,18,19",
+    "criterios": "2,16,17,18,19",
     "html": "<figure><img src=\"git/18_18_Fotografia.jpg\" alt=\"Foto ampla de um palco preparado para um evento.\"></figure>",
     "aria-label": "Ouvir a audiodescrição da foto 1 do evento",
     "aria-pressed": [true, false],
-    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos.",
+    "audio":  "href",
+    "imagem": "href"
   }
 },
 
@@ -387,11 +421,13 @@
     "id_metadado": 19,
     "id_foreign_key": 19,
     "conteudo": null,
-    "criterios": "1,16,17,18,19",
+    "criterios": "2,16,17,18,19",
     "html": "<figure><img src=\"git/19_19_Fotografia.jpg\" alt=\"Vista geral e frontal do salão preparado para a cerimônia.\"></figure>",
     "aria-label": "Ouvir a audiodescrição da foto 2 do evento",
     "aria-pressed": [true, false],
-    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos.",
+    "audio":  "href",
+    "imagem": "href"
   }
 },
 
@@ -409,11 +445,13 @@
     "id_metadado": 20,
     "id_foreign_key": 20,
     "conteudo": null,
-    "criterios": "1,16,17,18,19",
+    "criterios": "2,16,17,18,19",
     "html": "<figure><img src=\"git/20_20_Fotografia.jpg\" alt=\"Foto do palco do evento tirada em ângulo diagonal, a partir da direita. Em primeiro plano, vê-se a longa mesa branca da diretoria e os encostos arredondados de várias cadeiras brancas vazias alinhadas atrás dela. No centro do palco, destaca-se um púlpito preto ou azul escuro voltado para a plateia. O grande painel \"APL\" cobre a parede do fundo, exibindo logotipos de patrocinadores (como Banco do Brasil, Caixa, Governo do Paraná) e a ilustração central de um barco a remo. À direita da imagem, uma tela de projeção branca está estendida na parede lateral.\"></figure>",
     "aria-label": "Ouvir a audiodescrição da foto 3 do evento",
     "aria-pressed": [true, false],
-    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos.",
+    "audio":  "href",
+    "imagem": "href"
   }
 },
 
@@ -431,11 +469,13 @@
     "id_metadado": 21,
     "id_foreign_key": 21,
     "conteudo": null,
-    "criterios": "1,16,17,18,19",
+    "criterios": "2,16,17,18,19",
     "html": "<figure><img src=\"git/21_21_Fotografia.jpg\" alt=\"Foto de um salão de festas durante um jantar. Em destaque no primeiro plano, há uma ilha de buffet com estrutura geométrica pret\" e superfícies brancas. Sobre ela, estão dispostas bandejas com frios, patês e pilhas de pratos. No centro dessa estrutura, ergue-se um arranjo floral alto e volumoso com flores brancas, amarelas e folhagens verdes. Ao fundo, diversas pessoas estão sentadas ao redor de mesas redondas cobertas com toalhas brancas, conversando. O ambiente tem paredes brancas e cortinas claras ao fundo à direita.\"></figure>",
     "aria-label": "Ouvir a audiodescrição da foto 4 do evento",
     "aria-pressed": [true, false],
-    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos.",
+    "audio":  "href",
+    "imagem": "href"
   }
 },
 
@@ -453,11 +493,13 @@
     "id_metadado": 22,
     "id_foreign_key": 22,
     "conteudo": null,
-    "criterios": "1,16,17,18,19",
+    "criterios": "2,16,17,18,19",
     "html": "<figure><img src=\"git/22_22_Fotografia.jpg\" alt=\"Foto em plano médio da palestrante Maria Isabel discursando ela tem pele clara, cabelos curtos escuros e usa brincos dourados. Ela aparece do tronco para cima, de perfil para a esquerda, com a boca levemente aberta como se estivesse falando. A imagem mostra o suporte prateado do microfone e a base do púlpito azul na parte inferior. Ao fundo, o painel está focado, permitindo a leitura clara dos logotipos \"SEBRAE PR\" à esquerda, o símbolo de \"Apucarana Cidade Educação\" ao centro e \"SIVALE\" mais abaixo, além de parte de um texto ()\"></figure>",
     "aria-label": "Ouvir a audiodescrição da foto 5 do evento",
     "aria-pressed": [true, false],
-    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos.",
+    "audio":  "href",
+    "imagem": "href"
   }
 },
 
@@ -475,11 +517,13 @@
     "id_metadado": 23,
     "id_foreign_key": 23,
     "conteudo": null,
-    "criterios": "1,16,17,18,19",
+    "criterios": "2,16,17,18,19",
     "html": "<figure><img src=\"git/23_23_Fotografia.jpg\" alt=\"Foto de um grupo de sete pessoas em pé, sorrindo e aplaudindo em frente ao painel do evento. Da esquerda para a direita: um homem de óculos e suéter preto, uma mulher de conjunto branco, uma mulher de vestido estampado e echarpe verde, um homem de óculos e blazer preto, e mais três homens de terno escuro à direita. Todos aparentam estar celebrando um momento da cerimônia.\"></figure>",
     "aria-label": "Ouvir a audiodescrição da foto 6 do evento",
     "aria-pressed": [true, false],
-    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos.",
+    "audio":  "href",
+    "imagem": "href"
   }
 },
 
@@ -497,11 +541,13 @@
     "id_metadado": 24,
     "id_foreign_key": 24,
     "conteudo": null,
-    "criterios": "1,16,17,18,19",
+    "criterios": "2,16,17,18,19",
     "html": "<figure><img src=\"git/24_24_Fotografia.jpg\" alt=\"Foto de duas pessoas em pé atrás de um púlpito azul. À esquerda, uma mulher de blazer branco fala ao microfone olhando para frente. Ao lado dela, à direita, um homem de terno escuro, camisa branca e gravata listrada observa atentamente, com as mãos entrelaçadas à frente do corpo. Ao fundo, vê-se parte do painel do evento com a ilustração de um barco a remo.\"></figure>",
     "aria-label": "Ouvir a audiodescrição da foto 7 do evento",
     "aria-pressed": [true, false],
-    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos.",
+    "audio":  "href",
+    "imagem": "href"
   }
 },
 
@@ -519,11 +565,13 @@
     "id_metadado": 25,
     "id_foreign_key": 25,
     "conteudo": null,
-    "criterios": "1,16,17,18,19",
+    "criterios": "2,16,17,18,19",
     "html": "<figure><img src=\"git/25_25_Fotografia.jpg\" alt=\"Foto em close-up (primeiro plano) de perfil da palestrante. A mulher tem pele clara, cabelos curtos escuros e usa brincos dourados. Ela aparece do tronco para cima, de perfil para a esquerda, com a boca levemente aberta como se estivesse falando. O fundo é desfocado em tons de azul e branco.\"></figure>",
     "aria-label": "Ouvir a audiodescrição da foto 8 do evento",
     "aria-pressed": [true, false],
-    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos.",
+    "audio":  "href",
+    "imagem": "href"
   }
 },
 
@@ -541,11 +589,13 @@
     "id_metadado": 26,
     "id_foreign_key": 26,
     "conteudo": null,
-    "criterios": "1,16,17,18,19",
+    "criterios": "2,16,17,18,19",
     "html": "<figure><img src=\"git/26_26_Fotografia.jpg\" alt=\"Foto em plano médio de um homem discursando no púlpito azul. Ele é branco, tem cabelos grisalhos curtos e expressão séria. Veste um terno azul-marinho com gravata listrada. Sua mão direita segura o microfone próximo à boca, enquanto a mão esquerda se apoia na borda do púlpito. Ao fundo, vê-se parte desfocada do painel do evento.\"></figure>",
     "aria-label": "Ouvir a audiodescrição da foto 9 do evento",
     "aria-pressed": [true, false],
-    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos.",
+    "audio":  "href",
+    "imagem": "href"
   }
 },
 
@@ -563,11 +613,13 @@
     "id_metadado": 27,
     "id_foreign_key": 27,
     "conteudo": null,
-    "criterios": "1,16,17,18,19",
+    "criterios": "2,16,17,18,19",
     "html": "<figure><img src=\"git/27_27_Fotografia.jpg\" alt=\"Foto ampla do palco do evento mostrando um grupo de pessoas. À direita, a mulher de blazer branco discursa no púlpito. À esquerda dela, uma fila composta por cerca de doze homens em trajes sociais está de pé, alinhada em frente ao painel de fundo. Em primeiro plano, na parte inferior da imagem, vê-se o desfoque de um arranjo de flores brancas e amarelas.\"></figure>",
     "aria-label": "Ouvir a audiodescrição da foto 10 do evento",
     "aria-pressed": [true, false],
-    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos.",
+    "audio":  "href",
+    "imagem": "href"
   }
 },
 
@@ -585,11 +637,13 @@
     "id_metadado": 28,
     "id_foreign_key": 28,
     "conteudo": null,
-    "criterios": "1,16,17,18,19",
+    "criterios": "2,16,17,18,19",
     "html": "<figure><img src=\"git/28_28_Fotografia.jpg\" alt=\"Foto de um homem de terno escuro discursando em um púlpito azul posicionado à direita da imagem. Ele fala ao microfone voltado para a esquerda, dirigindo-se a uma plateia de convidados sentados em mesas redondas. Em primeiro plano, à esquerda, vê-se parte de uma longa mesa com toalha branca e um farto arranjo de folhagens verdes e flores amarelas. O salão tem cortinas brancas ao fundo.\"></figure>",
     "aria-label": "Ouvir a audiodescrição da foto 11 do evento",
     "aria-pressed": [true, false],
-    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos.",
+    "audio":  "href",
+    "imagem": "href"
   }
 },
 
@@ -607,11 +661,13 @@
     "id_metadado": 29,
     "id_foreign_key": 29,
     "conteudo": null,
-    "criterios": "1,16,17,18,19",
+    "criterios": "2,16,17,18,19",
     "html": "<figure><img src=\"git/29_29_Fotografia.jpg\" alt=\"Foto em plano médio de um homem de cabelos grisalhos discursando. Ele veste terno azul-escuro e gravata listrada, olhando fixamente para a frente com expressão séria. Sua mão esquerda repousa sobre a borda do púlpito azul. Ao fundo, o painel exibe de forma desfocada os logotipos do SEBRAE PR e SIVALE, além do símbolo da cidade de Apucarana.\"></figure>",
     "aria-label": "Ouvir a audiodescrição da foto 12 do evento",
     "aria-pressed": [true, false],
-    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos.",
+    "audio":  "href",
+    "imagem": "href"
   }
 },
 
@@ -629,11 +685,13 @@
     "id_metadado": 30,
     "id_foreign_key": 30,
     "conteudo": null,
-    "criterios": "1,16,17,18,19",
+    "criterios": "2,16,17,18,19",
     "html": "<figure><img src=\"git/30_30_Fotografia.jpg\" alt=\"Foto de um grupo musical se apresentando no salão. À esquerda, um homem toca um piano de cauda preto. Ao centro e à direita, três músicos em pé tocam, respectivamente, trompete, percussão e trombone (tocado por uma mulher). Todos os músicos vestem trajes pretos formais. Ao fundo, há um telão branco recolhido e cortinas claras cobrindo a parede.\"></figure>",
     "aria-label": "Ouvir a audiodescrição da foto 13 do evento",
     "aria-pressed": [true, false],
-    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos.",
+    "audio":  "href",
+    "imagem": "href"
   }
 },
 
@@ -651,11 +709,13 @@
     "id_metadado": 31,
     "id_foreign_key": 31,
     "conteudo": null,
-    "criterios": "1,16,17,18,19",
+    "criterios": "2,16,17,18,19",
     "html": "<figure><img src=\"git/31_31_Fotografia.jpg\" alt=\"Foto panorâmica da mesa de honra do evento. Cerca de dez pessoas, a maioria homens de terno, estão sentadas atrás de uma longa mesa com toalha branca e um arranjo floral central de flores amarelas e brancas. Atrás da mesa, ao centro, um homem está no púlpito. Na extrema direita da imagem, outro homem em pé segura um microfone e fala aos presentes. O painel de fundo exibe o título APL - Arranjo Produtivo Local - BONÉS APUCARANA e dezenas de logotipos de parceiros.\"></figure>",
     "aria-label": "Ouvir a audiodescrição da foto 14 do evento",
     "aria-pressed": [true, false],
-    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos.",
+    "audio":  "href",
+    "imagem": "href"
   }
 },
 
@@ -673,11 +733,13 @@
     "id_metadado": 32,
     "id_foreign_key": 32,
     "conteudo": null,
-    "criterios": "1,16,17,18,19",
+    "criterios": "2,16,17,18,19",
     "html": "<figure><img src=\"git/32_32_Fotografia.jpg\" alt=\"Foto em plano médio de um homem de pele morena discursando. Ele veste terno preto, camisa branca e gravata cinza-prateada. O homem está voltado para a esquerda, com a boca entreaberta falando ao microfone. O fundo está desfocado, mostrando apenas as cores azul e branco do painel do evento.\"></figure>",
     "aria-label": "Ouvir a audiodescrição da foto 15 do evento",
     "aria-pressed": [true, false],
-    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos.",
+    "audio":  "href",
+    "imagem": "href"
   }
 },
 
@@ -695,11 +757,13 @@
     "id_metadado": 33,
     "id_foreign_key": 33,
     "conteudo": null,
-    "criterios": "1,16,17,18,19",
+    "criterios": "2,16,17,18,19",
     "html": "<figure><img src=\"git/33_33_Fotografia.jpg\" alt=\"Foto em close-up de perfil de um homem discursando. Ele tem pele clara, cabelos brancos e usa óculos de grau com armação fina. Veste terno preto, camisa branca e gravata vinho texturizada. Ele fala próximo a um microfone preto. Ao fundo, o painel desfocado exibe parte dos logotipos do Governo do Paraná e SEBRAE\">\n         </figure>",
     "aria-label": "Ouvir a audiodescrição da foto 16 do evento",
     "aria-pressed": "[true, false]",
-    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos.",
+    "audio":  "href",
+    "imagem": "href"
   }
 },
 
@@ -717,11 +781,13 @@
     "id_metadado": 34,
     "id_foreign_key": 34,
     "conteudo": null,
-    "criterios": "1,16,17,18,19",
+    "criterios": "2,16,17,18,19",
     "html": "<figure><img src=\"git/34_34_Fotografia.jpg\" alt=\"Foto ampla do palco destacando o painel institucional ao fundo com o título APL - Arranjo Produtivo Local - BONÉS APUCARANA e dezenas de logotipos de parceiros. À esquerda, um homem branco de cabelos grisalhos e com terno escuro discursa atrás de um púlpito azul. Na parte inferior da imagem, vê-se o topo dos encostos de cadeiras brancas vazias.\"></figure>",
     "aria-label": "Ouvir a audiodescrição da foto 17 do evento",
     "aria-pressed": "[true, false]",
-    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos.",
+    "audio":  "href",
+    "imagem": "href"
   }
 },
 
@@ -739,11 +805,13 @@
     "id_metadado": 35,
     "id_foreign_key": 35,
     "conteudo": null,
-    "criterios": "1,16,17,18,19",
+    "criterios": "2,16,17,18,19",
     "html": "<figure><img src=\"git/35_35_Fotografia.jpg\" alt=\"Foto em plano médio de um homem falando ao microfone. Ele tem pele clara, cabelos castanhos e veste um terno bege com camisa branca e gravata azul escura. Ele segura o microfone preto com a mão direita e esquerda próxima à boca e usa um pequeno distintivo da CAIXA Economica Ferderal na lapela do paletó. O fundo é neutro e levemente desfocado.\"></figure>",
     "aria-label": "Ouvir a audiodescrição da foto 18 do evento",
     "aria-pressed": "[true, false]",
-    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos.",
+    "audio":  "href",
+    "imagem": "href"
   }
 },
 
@@ -761,11 +829,13 @@
     "id_metadado": 36,
     "id_foreign_key": 36,
     "conteudo": null,
-    "criterios": "1,16,17,18,19",
+    "criterios": "2,16,17,18,19",
     "html": "<figure><img src=\"git/36_36_Fotografia.jpg\" alt=\"Foto em close-up lateral de um palestrante. O homem, de pele clara e cabelos grisalhos, usa óculos sem aro e veste terno preto com uma gravata azul de bolinhas brancas. Ele está inclinado para a frente, falando ao microfone fixo no suporte. Ao fundo, o painel mostra com desfoque os logotipos SEBRAE PR e SIVALE.\"></figure>",
     "aria-label": "Ouvir a audiodescrição da foto 19 do evento",
     "aria-pressed": "[true, false]",
-    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos.",
+    "audio":  "href",
+    "imagem": "href"
   }
 },
 
@@ -783,11 +853,13 @@
     "id_metadado": 37,
     "id_foreign_key": 37,
     "conteudo": null,
-    "criterios": "1,16,17,18,19",
+    "criterios": "2,16,17,18,19",
     "html": "<figure><img src=\"git/37_37_Fotografia.jpg\" alt=\"Foto lateral da mesa diretiva do evento. Uma longa mesa com toalha branca atravessa a imagem em diagonal, com vários homens de terno sentados observando o orador. Ao fundo, junto ao painel, um homem de cabelos brancos está de pé no púlpito lendo um papel. Sobre a mesa, em primeiro plano, repousa um microfone sem fio.\"></figure>",
     "aria-label": "Ouvir a audiodescrição da foto 20 do evento",
     "aria-pressed": "[true, false]",
-    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos.",
+    "audio":  "href",
+    "imagem": "href"
   }
 },
 
@@ -805,11 +877,13 @@
     "id_metadado": 38,
     "id_foreign_key": 38,
     "conteudo": null,
-    "criterios": "1,16,17,18,19",
+    "criterios": "2,16,17,18,19",
     "html": "<figure><img src=\"git/38_38_Fotografia.jpg\" alt=\"Foto em close-up de um homem de pele clara, olhos claros e cabelos louros com calvície frontal. Ele veste um terno escuro risca de giz, camisa branca e gravata escura com pequenos pontos claros. Ele olha para a direita com expressão atenta e séria.\"></figure>",
     "aria-label": "Ouvir a audiodescrição da foto 21 do evento",
     "aria-pressed": "[true, false]",
-    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos.",
+    "audio":  "href",
+    "imagem": "href"
   }
 },
 
@@ -827,11 +901,13 @@
     "id_metadado": 39,
     "id_foreign_key": 39,
     "conteudo": null,
-    "criterios": "1,16,17,18,19",
+    "criterios": "2,16,17,18,19",
     "html": "<figure><img src=\"git/39_39_Fotografia.jpg\" alt=\"Foto em plano médio de um homem discursando atrás de um púlpito azul. Ele está de perfil, voltado para a esquerda, tem pele clara e cabelos grisalhos ralos no topo da cabeça. Veste um terno preto e camisa clara sem gravata visível. O microfone está posicionado à frente de sua boca. Ao fundo, vê-se o painel do evento com logotipos.\"></figure>",
     "aria-label": "Ouvir a audiodescrição da foto 22 do evento",
     "aria-pressed": "[true, false]",
-    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos.",
+    "audio":  "href",
+    "imagem": "href"
   }
 },
 
@@ -849,11 +925,13 @@
     "id_metadado": 40,
     "id_foreign_key": 40,
     "conteudo": null,
-    "criterios": "1,16,17,18,19",
+    "criterios": "2,16,17,18,19",
     "html": "<figure><img src=\"git/40_40_Fotografia.jpg\" alt=\"Foto em close-up de perfil de um homem idoso voltado para a direita. Ele tem cabelos brancos penteados para trás e usa óculos de grau com lentes levemente escurecidas e armação dourada. Veste terno preto, camisa branca e gravata listrada em preto e branco.\"></figure>",
     "aria-label": "Ouvir a audiodescrição da foto 23 do evento",
     "aria-pressed": "[true, false]",
-    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos.",
+    "audio":  "href",
+    "imagem": "href"
   }
 },
 
@@ -871,11 +949,13 @@
     "id_metadado": 41,
     "id_foreign_key": 41,
     "conteudo": null,
-    "criterios": "1,16,17,18,19",
+    "criterios": "2,16,17,18,19",
     "html": "<figure><img src=\"git/41_41_Fotografia.jpg\" alt=\"Foto de um homem sentado à mesa, com as mãos entrelaçadas sobre a superfície. Ele tem cabelos grisalhos curtos e pele clara. Veste terno preto, camisa branca e uma gravata azul brilhante com pequenos detalhes claros. Ele olha ligeiramente para a direita com expressão tranquila.\"></figure>",
     "aria-label": "Ouvir a audiodescrição da foto 24 do evento",
     "aria-pressed": "[true, false]",
-    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos.",
+    "audio":  "href",
+    "imagem": "href"
   }
 },
 
@@ -893,11 +973,13 @@
     "id_metadado": 42,
     "id_foreign_key": 42,
     "conteudo": null,
-    "criterios": "1,16,17,18,19",
+    "criterios": "2,16,17,18,19",
     "html": "<figure><img src=\"git/42_42_Fotografia.jpg\" alt=\"Foto de uma mulher sentada à mesa, com o corpo voltado para a direita. Ela tem cabelos curtos e escuros, pele clara e usa óculos de grau com armação preta espessa. Veste um blazer escuro risca de giz sobre uma camisa branca de gola aberta. Seus braços estão apoiados sobre a toalha branca da mesa e ela exibe um leve sorriso.\"></figure>",
     "aria-label": "Ouvir a audiodescrição da foto 25 do evento",
     "aria-pressed": "[true, false]",
-    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos.",
+    "audio":  "href",
+    "imagem": "href"
   }
 },
 
@@ -915,11 +997,13 @@
     "id_metadado": 43,
     "id_foreign_key": 43,
     "conteudo": null,
-    "criterios": "1,16,17,18,19",
+    "criterios": "2,16,17,18,19",
     "html": "<figure><img src=\"git/43_43_Fotografia.jpg\" alt=\"Foto de dois homens conversando sentados lado a lado. O homem à esquerda, de perfil, tem cabelos brancos, usa óculos e terno escuro. Ele olha para o homem à direita, que é calvo, veste paletó preto com camisa clara aberta e sorri levemente. Em primeiro plano, um arranjo desfocado de flores amarelas e brancas cobre a parte inferior da imagem.\"></figure>",
     "aria-label": "Ouvir a audiodescrição da foto 26 do evento",
     "aria-pressed": "[true, false]",
-    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos.",
+    "audio":  "href",
+    "imagem": "href"
   }
 },
 
@@ -937,11 +1021,13 @@
     "id_metadado": 44,
     "id_foreign_key": 44,
     "conteudo": null,
-    "criterios": "1,16,17,18,19",
+    "criterios": "2,16,17,18,19",
     "html": "<figure><img src=\"git/44_44_Fotografia.jpg\" alt=\"Foto em close-up de um homem idoso voltado para a direita. Ele tem cabelos brancos penteados para trás e usa óculos de grau com lentes levemente escurecidas e armação dourada. Veste terno preto, camisa branca e gravata listrada em preto e branco.\"></figure>",
     "aria-label": "Ouvir a audiodescrição da foto 27 do evento",
     "aria-pressed": "[true, false]",
-    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos.",
+    "audio":  "href",
+    "imagem": "href"
   }
 },
 
@@ -959,11 +1045,13 @@
     "id_metadado": 45,
     "id_foreign_key": 45,
     "conteudo": null,
-    "criterios": "1,16,17,18,19",
+    "criterios": "2,16,17,18,19",
     "html": "<figure><img src=\"git/45_45_Fotografia.jpg\" alt=\"Foto ampla de um salão de festas lotado durante o evento. Dezenas de convidados estão em pé conversando em grupos ou sentados à mesas redondas com toalhas brancas, comendo e bebendo. O ambiente é iluminado por lustres clássicos no teto e possui grandes arcos arquitetônicos ao fundo. As pessoas vestem trajes sociais.\"></figure>",
     "aria-label": "Ouvir a audiodescrição da foto 28 do evento",
     "aria-pressed": "[true, false]",
-    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos.",
+    "audio":  "href",
+    "imagem": "href"
   }
 },
 
@@ -981,11 +1069,13 @@
     "id_metadado": 46,
     "id_foreign_key": 46,
     "conteudo": null,
-    "criterios": "1,16,17,18,19",
+    "criterios": "2,16,17,18,19",
     "html": "<figure><img src=\"git/46_46_Fotografia.jpg\" alt=\"Foto de um grupo de quatro homens conversando em pé. Dois aparecem apenas parcialmente à esquerda. Ao centro, um homem de barba e óculos olha para o homem da direita, que está de perfil e veste terno preto. Todos usam roupas formais e parecem estar em uma discussão profissional. O fundo é uma parede branca lisa.\"></figure>",
     "aria-label": "Ouvir a audiodescrição da foto 29 do evento",
     "aria-pressed": "[true, false]",
-    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos.",
+    "audio":  "href",
+    "imagem": "href"
   }
 },
 
@@ -1003,11 +1093,13 @@
     "id_metadado": 47,
     "id_foreign_key": 47,
     "conteudo": null,
-    "criterios": "1,16,17,18,19",
+    "criterios": "2,16,17,18,19",
     "html": "<figure><img src=\"git/47_47_Fotografia.jpg\" alt=\"Foto de dois homens sorrindo posando para a foto, abraçados lado a lado. O homem da esquerda tem cabelos longos escuros, cavanhaque e veste camisa preta. O homem da direita tem cabelos longos nas laterais e calvície no topo, e veste uma camisa social laranja claro. Ao fundo, vê-se parte de uma planta ornamental.\"></figure>",
     "aria-label": "Ouvir a audiodescrição da foto 30 do evento",
     "aria-pressed": "[true, false]",
-    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos.",
+    "audio":  "href",
+    "imagem": "href"
   }
 },
 
@@ -1025,11 +1117,979 @@
     "id_metadado": 48,
     "id_foreign_key": 48,
     "conteudo": null,
-    "criterios": "1,16,17,18,19",
+    "criterios": "2,16,17,18,19",
     "html": "<figure><img src=\"git/48_48_Fotografia.jpg\" alt=\"Foto de dois homens sorrindo posando para a foto, abraçados lado a lado. O homem da esquerda tem cabelos longos escuros, cavanhaque e veste camisa preta. O homem da direita tem cabelos longos nas laterais e calvície no topo, e veste uma camisa social laranja claro. Ao fundo, vê-se parte de uma planta ornamental.\"></figure>",
     "aria-label": "Ouvir a audiodescrição da foto 31 do evento",
     "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos.",
+    "audio":  "href",
+    "imagem": "href"
+  }
+},
+{
+  "documento": {
+    "id_arquivo": 49,
+    "titulo": "Capa Catálogo Bonés",
+    "autor": "Null",
+    "ano": "2007",
+    "categoria": "Fotografia",
+    "assunto": "Capa",
+    "arquivo": "49_49_Fotografia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 49,
+    "id_foreign_key": 49,
+    "conteudo": "Null",
+    "criterios": "2,16,17,18,19",
+    "html": "<figure>\n<img src=\"git/img10.jpg\"\n alt=\"Capa de catálogo com fundo azul ciano vibrante. Ao centro, em letras cursivas amarelas e brancas, lê-se o título: Bonés de Apucarana. Entre as palavras, há uma faixa horizontal composta por três pequenos quadrados mostrando detalhes de tecidos e costuras de bonés. No canto inferior direito, o logotipo Bonés de Apucarana aparece em branco.\">\n</figure>",
+    "aria-label": "Ouvir a audiodescrição da foto 1",
+    "aria-pressed": "[true, false]",
     "aria-description": "Leitura da audiodescrição possui duração de X minutos."
   }
-}]
+},
+
+{
+  "documento": {
+    "id_arquivo": 50,
+    "titulo": "Capa Interna Catálogo",
+    "autor": "Null",
+    "ano": "2007",
+    "categoria": "Fotografia",
+    "assunto": "Apresentação",
+    "arquivo": "50_50_Fotografia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 50,
+    "id_foreign_key": 50,
+    "conteudo": "Null",
+    "criterios": "2,16,17,18,19",
+    "html": "<figure> \n<img src=\"git/img18.jpg\"\n alt=\"Página de rosto com fundo branco. No topo, um traço curvo azul e amarelo estilizado. Abaixo, o título em letras amarelas grandes: Bonés de Apucarana. O texto é intercalado por uma faixa horizontal contendo cinco fotos quadradas de detalhes de bonés: um bordado da letra B, uma estampa quadriculada, uma camuflada, um tecido verde escuro e um patch com a silhueta de um surfista. Na parte inferior, o texto: Catálogo das Empresas do APL Bonés de Apucarana Expo Bríndice 2007.\">\n</figure>",
+    "aria-label": "Ouvir a audiodescrição da foto 2",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 51,
+    "titulo": "Página de Apoiadores",
+    "autor": "Null",
+    "ano": "2007",
+    "categoria": "Fotografia",
+    "assunto": "Contatos",
+    "arquivo": "51_51_Fotografia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 51,
+    "id_foreign_key": 51,
+    "conteudo": "TODOc",
+    "criterios": "2,16,17,18,19",
+    "html": "<figure>\n <img src=\"git/img26.jpg\"\n alt=\"Página com fundo azul sólido contendo informações de contato dos apoiadores em texto branco. O título Apoiadores está no topo em fundo branco. O corpo do texto lista endereços e telefones de quatro entidades: SEBRAE (com endereços de Curitiba, Londrina e Apucarana), FIEP (Curitiba), APL Bonés de Apucarana e Prefeitura de Apucarana.\">\n</figure>",
+    "aria-label": "Ouvir a audiodescrição da foto 3",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 52,
+    "titulo": "O Setor em Apucarana",
+    "autor": "Null",
+    "ano": "2007",
+    "categoria": "Fotografia",
+    "assunto": "História e Dados",
+    "arquivo": "52_52_Fotografia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 52,
+    "id_foreign_key": 52,
+    "conteudo": "TODOc",
+    "criterios": "2,16,17,18,19",
+    "html": "<figure>\n <img src=\"git/img34.jpg\"\n alt=\"Página com fundo azul contendo três parágrafos de texto branco justificadodo. No topo, em uma faixa branca, o título: O setor em Apucarana. O texto descreve o surgimento das fábricas na década de 70, o título de Capital Nacional do Boné e apresenta dados estatísticos: 141 fábricas, 638 empreendimentos na cadeia produtiva e produção anual de 44 milhões de bonés.\"> \n</figure>",
+    "aria-label": "Ouvir a audiodescrição da foto 4",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 53,
+    "titulo": "Processo Produtivo",
+    "autor": "Null",
+    "ano": "2007",
+    "categoria": "Fotografia",
+    "assunto": "Fabricação",
+    "arquivo": "53_53_Fotografia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 53,
+    "id_foreign_key": 53,
+    "conteudo": "Null",
+    "criterios": "2,16,17,18,19",
+    "html": "<figure>\n <img src=\"git/img42.jpg\"\n alt=\"Página com fundo branco e faixas azuis nas bordas superior e inferior. Ao centro, uma sequência horizontal de cinco fotos quadradas ilustra etapas da fabricação de bonés. Da esquerda para a direita: costureira montando abas laranjas, aplicação de tecido vermelho em molde, fileira de máquinas de bordado industrial amarelas, operário operando uma prensa térmica e costureira finalizando uma peça branca em máquina de costura.\">\n </figure>>",
+    "aria-label": "Ouvir a audiodescrição da foto 5",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 54,
+    "titulo": "Dados Econômicos",
+    "autor": "Null",
+    "ano": "2007",
+    "categoria": "Fotografia",
+    "assunto": "Impacto Econômico",
+    "arquivo": "54_54_Fotografia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 54,
+    "id_foreign_key": 54,
+    "conteudo": "TODOc",
+    "criterios": "2,16,17,18,19",
+    "html": "<figure>\n <img src=\"git/img50.jpg\"\n alt=\"Página inteiramente azul com três parágrafos de texto branco centralizados. O conteúdo destaca a importância econômica do setor de bonés para o município, mencionando que é responsável por mais da metade da massa salarial. Ressalta também que toda a cadeia produtiva, desde insumos até formação técnica superior, está presente em Apucarana, resultando em produtos de qualidade superior.\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição da foto 6",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 55,
+    "titulo": "Detalhes de Bonés",
+    "autor": "Null",
+    "ano": "2007",
+    "categoria": "Fotografia",
+    "assunto": "Texturas e Bordados",
+    "arquivo": "55_55_Fotografia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 55,
+    "id_foreign_key": 55,
+    "conteudo": "Null",
+    "criterios": "2,16,17,18,19",
+    "html": "<figure>\n <img src=\"git/img58.jpg\"\n alt=\"Foto da página com design minimalista em fundo branco e bordas azuis. No centro, uma faixa horizontal exibe cinco fotos quadradas em close-up (zoom) destacando texturas e acabamentos de bonés: um bordado em relevo da letra B azul, uma estampa quadriculada branca e preta, detalhe de costura em tecido cinza, textura de tecido azul escuro e um patch quadrado azul com o desenho de um surfista e a palavra Premium.\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição da foto 7",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 56,
+    "titulo": "Lista de Empresas",
+    "autor": "Null",
+    "ano": "2007",
+    "categoria": "Fotografia",
+    "assunto": "Participantes",
+    "arquivo": "56_56_Fotografia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 56,
+    "id_foreign_key": 56,
+    "conteudo": "Null",
+    "criterios": "2,16,17,18,19",
+    "html": "<figure>\n  <img src=\"git/img66.jpg\"\n alt=\"Foto da página com fundo azul. No topo, em uma faixa branca, o título manuscrito: Empresas participantes da Expo Bríndice 2007. Abaixo, no fundo azul, seis nomes de empresas estão dispostos em duas linhas de texto branco: Bonifor, Brother's, Full Company, Gemellu's, Jaboti e Rytos.\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição da foto 8",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 57,
+    "titulo": "Catálogo Bonifor",
+    "autor": "Null",
+    "ano": "2007",
+    "categoria": "Fotografia",
+    "assunto": "Bonés Bonifor",
+    "arquivo": "57_57_Fotografia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 57,
+    "id_foreign_key": 57,
+    "conteudo": "Null",
+    "criterios": "2,16,17,18,19",
+    "html": "<figure><img src=\"git/img74.jpg\"\n alt=\"Foto do catálogo apresentando a marca Bonifor. À esquerda, descrição técnica do modelo (6 gomos, brim peletizado, 100% algodão). No centro, três fotos pequenas de detalhes: bordado da letra B, etiqueta BONIFOR e detalhe do tecido. À direita, uma foto grande de um boné azul marinho com costuras em xadrez, aba com detalhe branco e o logotipo BONIFOR na frente.\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição da foto 9",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 58,
+    "titulo": "Catálogo Brother's",
+    "autor": "Null",
+    "ano": "2007",
+    "categoria": "Fotografia",
+    "assunto": "Bonés Brother's",
+    "arquivo": "58_58_Fotografia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 58,
+    "id_foreign_key": 58,
+    "conteudo": "Null",
+    "criterios": "2,16,17,18,19",
+    "html": "<figure>\n <img src=\"git/img82.jpg\"\n alt=\"Foto da página do catálogo apresentando a marca Brother's. À esquerda, especificações técnicas de dois modelos. No centro, três fotos pequenas de detalhes: patch de surfista, estampa camuflada e visão traseira branca. À direita, duas fotos de bonés: um branco com estampa lateral camuflada e outro azul vibrante com estampa de caveira e flores em marca d'água e um patch quadrado central.\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição da foto 10",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 59,
+    "titulo": "Catálogo Full Company",
+    "autor": "Null",
+    "ano": "2007",
+    "categoria": "Fotografia",
+    "assunto": "Bonés Full Company",
+    "arquivo": "59_59_Fotografia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 59,
+    "id_foreign_key": 59,
+    "conteudo": "Null",
+    "criterios": "2,16,17,18,19",
+    "html": "<figure>\n <img src=\"git/img90.jpg\"\n alt=\"Foto da página do catálogo apresentando a marca Full Company. À esquerda, especificações técnicas do boné (gorgurão e escama de peixe). No centro, três fotos de detalhes: patch bordado, tecido e regulador traseiro. À direita, foto grande de um boné cinza claro com aba em camurça cinza escuro e um grande patch frontal colorido com escudo, asas e o texto 'FULL company'.\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição da foto 11",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 60,
+    "titulo": "Catálogo Gemellu's",
+    "autor": "Null",
+    "ano": "2007",
+    "categoria": "Fotografia",
+    "assunto": "Bonés Gemellu's",
+    "arquivo": "60_60_Fotografia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 60,
+    "id_foreign_key": 60,
+    "conteudo": "Null",
+    "criterios": "2,16,17,18,19",
+    "html": "<figure>\n <img src=\"git/img98.jpg\"\n alt=\"Foto da página do catálogo apresentando a marca Gemellu's. À esquerda, especificações de dois modelos. No centro, detalhes de acabamento. À direita, em destaque, um boné branco estilo esportivo com recortes curvos em verde e preto na base e aba. O boné exibe os logotipos bordados 'SAMSUNG' na frente e 'officer motorsport' na lateral. No canto superior, um modelo menor branco com logo 'agecom'.\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição da foto 12",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 61,
+    "titulo": "Catálogo Gemellu's (Duplicata)",
+    "autor": "Null",
+    "ano": "2007",
+    "categoria": "Fotografia",
+    "assunto": "Bonés Gemellu's",
+    "arquivo": "61_61_Fotografia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 61,
+    "id_foreign_key": 61,
+    "conteudo": "Null",
+    "criterios": "2,16,17,18,19",
+    "html": "<figure>\n <img src=\"git/img106.jpg\"\n alt=\"Foto da página do catálogo apresentando a marca Gemellu's, idêntica à imagem anterior. Mostra especificações técnicas à esquerda e um boné branco esportivo grande à direita com detalhes em verde e preto e o logotipo 'SAMSUNG'.\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição da foto 13",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 62,
+    "titulo": "Catálogo Jaboti",
+    "autor": "Null",
+    "ano": "2007",
+    "categoria": "Fotografia",
+    "assunto": "Bonés Jaboti",
+    "arquivo": "62_62_Fotografia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 62,
+    "id_foreign_key": 62,
+    "conteudo": "Null",
+    "criterios": "2,16,17,18,19",
+    "html": "<figure>\n <img src=\"git/img114.jpg\"\n alt=\"Página do catálogo apresentando a marca Jaboti. À esquerda, descrições técnicas. No centro, fotos de detalhes do bordado e da aba. À direita, um boné verde escuro com design moderno: possui um patch quadrado branco desfiado com a letra 'J' bordada, aplicações de letras soltas e uma aba estampada com xadrez branco e azul.\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição da foto 14",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 63,
+    "titulo": "Catálogo Rytos",
+    "autor": "Null",
+    "ano": "2007",
+    "categoria": "Fotografia",
+    "assunto": "Bonés Rytos",
+    "arquivo": "63_63_Fotografia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 63,
+    "id_foreign_key": 63,
+    "conteudo": "Null",
+    "criterios": "2,16,17,18,19",
+    "html": "<figure>\n <img src=\"git/img122.jpg\"\n alt=\"Página do catálogo apresentando a marca Rytos. À esquerda, texto técnico sobre tecido e acabamento. No centro, detalhes do logo e do regulador. À direita, foto de um boné com gomos alternados em branco e verde musgo, com um recorte diferenciado na aba. O logo frontal é circular com o texto 'NEW STYLE'. No topo, um boné verde menor com a sigla 'NT'.\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição da foto 15",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 64,
+    "titulo": "Lista de Fabricantes (Página Dupla)",
+    "autor": "Null",
+    "ano": "2007",
+    "categoria": "Fotografia",
+    "assunto": "Fabricantes",
+    "arquivo": "64_64_Fotografia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 64,
+    "id_foreign_key": 64,
+    "conteudo": "Null",
+    "criterios": "2,16,17,18,19",
+    "html": "<figure>\n <img src=\"git/img130.jpg\"\n alt=\"Página dupla do catálogo com o título 'Fabricantes'. O fundo é branco texturizado. São listados logotipos e informações de contato (endereço e telefone) de seis empresas, dispostas em duas colunas. Da esquerda para a direita: Bonifor Brindes, Rother's (J.C. Raspante), Full Company, Gemellu's, Jaboti e Rytec (Rytos).\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição da foto 16",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 65,
+    "titulo": "Lista de Fabricantes (Página Dupla - Cópia)",
+    "autor": "Null",
+    "ano": "2007",
+    "categoria": "Fotografia",
+    "assunto": "Fabricantes",
+    "arquivo": "65_65_Fotografia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 65,
+    "id_foreign_key": 65,
+    "conteudo": "Null",
+    "criterios": "2,16,17,18,19",
+    "html": "<figure>\n <img src=\"git/img138.jpg\"\n alt=\"Imagem mostrando a mesma página dupla de 'Fabricantes' da imagem anterior, contendo os logotipos, endereços e telefones das empresas Bonifor, Rother's, Full Company, Gemellu's, Jaboti e Rytec.\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição da foto 17",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 66,
+    "titulo": "Fabricantes (Lado Esquerdo)",
+    "autor": "Null",
+    "ano": "2007",
+    "categoria": "Fotografia",
+    "assunto": "Fabricantes Parte 1",
+    "arquivo": "66_66_Fotografia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 66,
+    "id_foreign_key": 66,
+    "conteudo": "Null",
+    "criterios": "2,16,17,18,19",
+    "html": "<figure>\n <img src=\"git/img146.jpg\"\n alt=\"Metade esquerda da página de 'Fabricantes'. Exibe os logotipos e contatos comerciais de três empresas: 'Bonifor Brindes' (logo letra B azul), 'Rother's Bonés' (logo com ilustração de rosto) e 'Full Company' (logo tipográfico vermelho e preto). No canto inferior esquerdo, vê-se a ponta de uma aba de boné texturizada.\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição da foto 18",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 67,
+    "titulo": "Fabricantes (Lado Direito)",
+    "autor": "Null",
+    "ano": "2007",
+    "categoria": "Fotografia",
+    "assunto": "Fabricantes Parte 2",
+    "arquivo": "67_67_Fotografia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 67,
+    "id_foreign_key": 67,
+    "conteudo": "Null",
+    "criterios": "2,16,17,18,19",
+    "html": "<figure>\n <img src=\"git/img154.jpg\"\n alt=\"Metade direita da página de 'Fabricantes'. Exibe os logotipos e contatos comerciais de três empresas: 'Gemellu's' (logo azul com letra G), 'Jaboti' (logo azul com desenho de tartaruga) e 'Rytos Bonés Promocionais' (Rytec Indústria e Comércio, logo vermelho inclinado).\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição da foto 19",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 68,
+    "titulo": "Contracapa Apoio",
+    "autor": "Null",
+    "ano": "2007",
+    "categoria": "Fotografia",
+    "assunto": "Apoio Institucional",
+    "arquivo": "68_68_Fotografia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 68,
+    "id_foreign_key": 68,
+    "conteudo": "Null",
+    "criterios": "2,16,17,18,19",
+    "html": "<figure>\n <img src=\"git/img162.jpg\"\n alt=\"Página de contracapa com fundo branco texturizado. Ao centro, o logotipo do evento 'Realização: Bonés de Apucarana' com um traço curvo azul e amarelo. Na parte inferior, sob o título 'Apoio', estão alinhados os logotipos institucionais: SEBRAE, FIEP, Brasão da Prefeitura de Apucarana, SIVALE, Rede APL Paraná, Governo do Paraná e o selo do Governo Federal 'Brasil - Um país de todos'.\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição da foto 20",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+{
+  "documento": {
+    "id_arquivo": 69,
+    "titulo": "Identidade Visual",
+    "autor": "Null",
+    "ano": "2007",
+    "categoria": "Design Gráfico",
+    "assunto": "Logotipo",
+    "arquivo": "69_69_Fotografia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 69,
+    "id_foreign_key": 69,
+    "conteudo": "Null",
+    "criterios": "2,16,17,18,19",
+    "html": "<figure>\n <img src=\"git/img170.jpg\"\n alt=\"Arte gráfica com fundo cinza escuro. Ao centro, uma linha curva amarela espessa e estilizada forma o perfil de um boné. Logo abaixo, o título 'Bonés de Apucarana' aparece escrito em uma fonte cursiva amarela.\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição da foto 21",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 70,
+    "titulo": "O Pólo Nacional",
+    "autor": "Null",
+    "ano": "2007",
+    "categoria": "Informativo",
+    "assunto": "Dados do Setor",
+    "arquivo": "70_70_Fotografia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 70,
+    "id_foreign_key": 70,
+    "conteudo": "TODOc",
+    "criterios": "2,16,17,18,19",
+    "html": "<figure>\n <img src=\"git/img178.jpg\"\n alt=\"Página informativa com fundo amarelo. À esquerda, três fotos ilustram o texto: o monumento 'Capital do Boné', máquinas industriais de bordado e uma linha de produção com costureiras. À direita, textos sobre 'Design' e 'Produção' são acompanhados por imagens de bonés, chapéus tipo 'pescador', bolsas e boinas.\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição da foto 22",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 71,
+    "titulo": "Empresas Expositoras",
+    "autor": "Null",
+    "ano": "2007",
+    "categoria": "Informativo",
+    "assunto": "Lista de Expositores",
+    "arquivo": "71_71_Fotografia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 71,
+    "id_foreign_key": 71,
+    "conteudo": "Null",
+    "criterios": "2,16,17,18,19",
+    "html": "<figure>\n <img src=\"git/img186.jpg\"\n alt=\"Página de fundo preto com um quadro branco central intitulado 'Empresas expositoras'. O quadro exibe os logotipos e sites de cinco empresas: 'Bonifor Brindes', 'Wear Co.', 'Portal do Boné', 'Italia Milano' e 'Euro Brindes'. O rodapé preto contém o logo 'Bonés de Apucarana' e informações de contato (telefone, e-mail e endereço).\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição da foto 23",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 72,
+    "titulo": "Selo de Qualidade ABRAFAB'Q",
+    "autor": "Null",
+    "ano": "2007",
+    "categoria": "Publicidade",
+    "assunto": "Associação ABRAFAB'Q",
+    "arquivo": "72_72_Fotografia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 72,
+    "id_foreign_key": 72,
+    "conteudo": "Null",
+    "criterios": "2,16,17,18,19",
+    "html": "<figure>\n <img src=\"git/img194.jpg\"\n alt=\"Página publicitária da ABRAFAB'Q (Associação Brasileira dos Fabricantes de Bonés de Qualidade). A imagem principal mostra, em close, três jovens sorridentes (um menino e duas meninas) usando bonés e chapéus com o logotipo da associação. O texto inferior explica o selo de qualidade e fornece os dados de contato da entidade em Apucarana.\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição da foto 24",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 73,
+    "titulo": "Dia do Boné movimenta comunidade em Apucarana",
+    "autor": "Tribuna do Norte",
+    "ano": "2007",
+    "categoria": "Noticia",
+    "assunto": "Dia do Boné",
+    "arquivo": "73_73_Noticia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 73,
+    "id_foreign_key": 73,
+    "conteudo": "TODOc",
+    "criterios": "2,3,4,5,6,7,8,16,17,18,19",
+    "html": "<figure>\n <img src=\"git/img34.jpg\"\n alt=\"Recorte de jornal 'Tribuna do Norte' com a manchete: 'Dia do Boné movimenta comunidade em Apucarana'. À direita, uma foto mostra funcionários dentro de uma loja ou fábrica, todos usando bonés brancos promocionais. No canto inferior direito, uma foto menor mostra profissionais de saúde aferindo a pressão arterial de cidadãos em uma praça.\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição da noticia \" Dia do Boné movimenta comunidade em Apucarana\" ",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 74,
+    "titulo": "Confecções geram 57,8% dos empregos",
+    "autor": "Tribuna do Norte",
+    "ano": "2007",
+    "categoria": "Noticia",
+    "assunto": "Censo Econômico",
+    "arquivo": "74_74_Noticia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 74,
+    "id_foreign_key": 74,
+    "conteudo": "TODOc",
+    "criterios": "2,3,4,5,6,7,8,16,17,18,19",
+    "html": "<figure>\n <img src=\"git/img18.jpg\"\n alt=\"Recorte de jornal com a manchete: 'Confecções geram 57,8% dos empregos'. Uma foto grande em preto e branco ocupa a maior parte da imagem, mostrando um salão de eventos com várias mesas ocupadas. À direita da foto, uma mulher está em pé falando ao microfone, dirigindo-se à plateia.\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição da noticia \"Confecções geram 57,8% dos empregos\"",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 75,
+    "titulo": "Apucarana comemora hoje o Dia do Boné",
+    "autor": "Null",
+    "ano": "2007",
+    "categoria": "Noticia",
+    "assunto": "Comemoração",
+    "arquivo": "75_75_Noticia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 75,
+    "id_foreign_key": 75,
+    "conteudo": "TODOc",
+    "criterios": "2,3,4,5,6,7,8,16,17,18,19",
+    "html": "<figure>\n <img src=\"git/img42.jpg\"\n alt=\"Recorte de jornal com a manchete: 'Apucarana comemora hoje o Dia do Boné'. O texto é ilustrado por uma charge centralizada mostrando uma família caminhando na rua: pai lendo jornal, mãe e filho tomando sorvete. Todos os personagens, incluindo um cachorro e um passarinho no chão, estão usando bonés.\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição da noticia \"Apucarana comemora hoje o Dia do Boné\"",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 76,
+    "titulo": "Dia do Boné movimenta comunidade em Apucarana",
+    "autor": "Tribuna do Norte",
+    "ano": "2007",
+    "categoria": "Noticia",
+    "assunto": "Ações na Cidade",
+    "arquivo": "76_76_Noticia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 76,
+    "id_foreign_key": 76,
+    "conteudo": "Null",
+    "criterios": "2,3,4,5,6,7,8,16,17,18,19",
+    "html": "<figure>\n <img src=\"git/img26.jpg\"\n alt=\"Recorte de jornal idêntico ao da noticia 1. Exibe a manchete 'Dia do Boné movimenta comunidade em Apucarana' e fotos de trabalhadores uniformizados usando bonés e de ações de saúde pública realizadas em espaço aberto.\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição da noticia \" Dia do Boné movimenta comunidade em Apucarana\"",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 77,
+    "titulo": "Confecções garantem 57,8% dos empregos em Apucarana",
+    "autor": "Tribuna do Norte",
+    "ano": "2007",
+    "categoria": "Noticia",
+    "assunto": "Indústria Têxtil",
+    "arquivo": "77_77_Noticia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 77,
+    "id_foreign_key": 77,
+    "conteudo": "Null",
+    "criterios": "2,3,4,5,6,7,8,16,17,18,19",
+    "html": "<figure>\n <img src=\"git/img10.jpg\"\n alt=\"Capa ou destaque do jornal 'Tribuna do Norte'. Uma foto horizontal mostra o interior de uma confecção com três mulheres trabalhando concentradas em máquinas de costura, manuseando tecidos escuros. Abaixo da foto, a manchete em letras garrafais: 'Confecções garantem 57,8% dos empregos em Apucarana'.\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição da noticia \"Confecções garantem 57,8% dos empregos em Apucarana\"",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 78,
+    "titulo": "TODO MUNDO USA BONÉ",
+    "autor": "ASSIBBRA",
+    "ano": "2007",
+    "categoria": "Publicidade",
+    "assunto": "Publicidade Institucional",
+    "arquivo": "78_78_Publicidade.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 78,
+    "id_foreign_key": 78,
+    "conteudo": "TODOc",
+    "criterios": "2,3,4,5,6,7,8,16,17,18,19",
+    "html": "<figure>\n <img src=\"git/img58.jpg\"\n alt=\"Recorte de anúncio em jornal da entidade ASSIBBRA. No topo, quatro pequenas fotos mostram pessoas de diferentes idades usando bonés. O título principal diz: 'TODO MUNDO USA BONÉ'. O texto destaca a data '31 de Janeiro, dia do Boné'. O logotipo da ASSIBBRA aparece no canto inferior direito.\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição da Publicidade \"TODO MUNDO USA BONÉ\"",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 79,
+    "titulo": "Primeiro Censo do Boné",
+    "autor": "Expresso",
+    "ano": "2007",
+    "categoria": "Noticia",
+    "assunto": "Censo Industrial",
+    "arquivo": "79_79_Noticia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 79,
+    "id_foreign_key": 79,
+    "conteudo": "TODOc",
+    "criterios": "2,3,4,5,6,7,8,16,17,18,19",
+    "html": "<figure>\n <img src=\"git/img50.jpg\"\n alt=\"Coluna de jornal com o título: 'Saiu o primeiro censo sobre a indústria de bonés'. O artigo contém duas fotos: a superior mostra uma reunião com várias pessoas sentadas, e a inferior mostra trabalhadores em uma linha de produção ou expedição. No meio do texto, há uma pequena ilustração do monumento 'Boné Gigante' de Apucarana.\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição da noticia 'Saiu o primeiro censo sobre a indústria de bonés'",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+{
+  "documento": {
+    "id_arquivo": 80,
+    "titulo": "'Censo revela o “tamanho” do boné de Apucarana'",
+    "autor": "Jornal Local",
+    "ano": "2007",
+    "categoria": "Noticia",
+    "assunto": "Economia Local",
+    "arquivo": "80_80_Noticia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 80,
+    "id_foreign_key": 80,
+    "conteudo": "TODOc",
+    "criterios": "2,3,4,5,6,7,8,16,17,18,19",
+    "html": "<figure>\n <img src=\"git/img82.jpg\"\n alt=\"Recorte de jornal com a manchete em destaque: 'Censo revela o “tamanho” do boné de Apucarana'. O texto aborda a importância da indústria local. Uma foto central mostra um grupo de pessoas, incluindo jovens com bonés brancos, organizando ou escolhendo bonés em prateleiras e mesas de um estabelecimento.\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição da noticia 'Censo revela o “tamanho” do boné de Apucarana'",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 81,
+    "titulo": "Anúncio Dia do Boné",
+    "autor": "ABRAFAB'Q",
+    "ano": "2007",
+    "categoria": "Publicidade",
+    "assunto": "Publicidade do dia do boné",
+    "arquivo": "81_81_Publicidade.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 81,
+    "id_foreign_key": 81,
+    "conteudo": "Null",
+    "criterios": "2,16,17,18,19",
+    "html": "<figure>\n <img src=\"git/img66.jpg\"\n alt=\"Anúncio de jornal em escala de cinza. O texto principal diz '31 de Janeiro - Dia do Boné'. Acima, a frase: 'Hoje, lembre-se de valorizar o símbolo da cidade'. Uma imagem de um boné ilustra o anúncio, que é assinado com o logotipo da ABRAFAB'Q.\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição da Publicidade do dia do boné",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 82,
+    "titulo": "Programação Dia Municipal do Boné",
+    "autor": "Prefeitura de Apucarana",
+    "ano": "2007",
+    "categoria": "Publicidade",
+    "assunto": "Agenda Cultural",
+    "arquivo": "82_82_Publicidade.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 82,
+    "id_foreign_key": 82,
+    "conteudo": "TODOc",
+    "criterios": "2,3,4,5,6,7,8,16,17,18,19",
+    "html": "<figure>\n <img src=\"git/img74.jpg\"\n alt=\"Coluna de jornal divulgando a programação do evento. O título é 'Hoje: Dia Municipal do Boné - Participe das atividades'. O texto lista horários e locais para o 'Café & Boné', 'Tenda Viva o boné' (saúde), 'Mobilização para o uso do Boné', 'Visita ao Maior Boné do Mundo' e um show musical de encerramento. O brasão da Prefeitura de Apucarana aparece no rodapé.\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição da Programação Dia Municipal do Boné",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 83,
+    "titulo": "Capa Folha de Londrina",
+    "autor": "Folha de Londrina",
+    "ano": "2007",
+    "categoria": "Noticia",
+    "assunto": "Exportação",
+    "arquivo": "83_83_Noticia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 83,
+    "id_foreign_key": 83,
+    "conteudo": "TODOc",
+    "criterios": "2,3,4,5,6,7,8,16,17,18,19",
+    "html": "<figure>\n <img src=\"git/img90.jpg\"\n alt=\"Cabeçalho da capa do jornal 'Folha de Londrina'. À direita, a chamada 'Orgulho Paranaense: Apucarana quer elevar exportação de bonés'. A foto ilustrativa mostra uma mulher colocando um boné na cabeça de um menino sorridente, com outro garoto ao lado, sugerindo a distribuição de brindes na cidade.\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição da Noticia 'Capa Folha de Londrina'",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+{
+  "documento": {
+    "id_arquivo": 84,
+    "titulo": "1º Fórum Norte Paranaense de Inovação no Setor do Vestuário",
+    "autor": "Semana Nacional de C&T",
+    "ano": "2013",
+    "categoria": "Publicidade",
+    "assunto": "Divulgação 1º Fórum de Inovação",
+    "arquivo": "84_84_Publicidade.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 84,
+    "id_foreign_key": 84,
+    "conteudo": "Null",
+    "criterios": "2,16,17,18,19",
+    "html": "<figure>\n <img src=\"git/img18.jpg\"\n alt=\"Cartaz de divulgação de evento com fundo texturizado imitando tecido jeans azul e uma faixa vertical vermelha à direita. O título principal é '1º Fórum Norte Paranaense de Inovação no Setor do Vestuário', agendado para 21 a 25 de outubro de 2013 em Apucarana. Na parte inferior, quatro fotos circulares apresentam os palestrantes: Silvio Barros, Maurício Medeiros, Larissa Ortiz e Rui Leopoldo Hess.\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição da Publicidade do 1º Fórum Norte Paranaense de Inovação no Setor do Vestuário",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 85,
+    "titulo": "Programação Fórum de Inovação",
+    "autor": "Null",
+    "ano": "2013",
+    "categoria": "Publicidade",
+    "assunto": "Programação do 'I Fórum Norte Paranaense'",
+    "arquivo": "85_85_Publicidade.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 85,
+    "id_foreign_key": 85,
+    "conteudo": "Null",
+    "criterios": "2,16,17,18,19",
+    "html": "<figure>\n <img src=\"git/img10.jpg\"\n alt=\"Detalhe da programação do 'I Fórum Norte Paranaense' impresso em fundo azul e amarelo. O destaque é para o dia 24 de outubro, quinta-feira, às 19h, no Auditório do Colégio Glorinha. O tema é 'O Corredor da Moda'. São listados três palestrantes: Cássio Murilo Almeida (Sindvest Maringá), Maria Abigail Fortuna (SIVALE Apucarana) e Luciana Bechara (Case 'BE LITTLE').\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição da Programação do 'I Fórum Norte Paranaense'",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 86,
+    "titulo": "Boletim Informativo APL - Lula",
+    "autor": "APL Bonés",
+    "ano": "2004",
+    "categoria": "Noticia",
+    "assunto": "Notícias do Setor",
+    "arquivo": "86_86_Noticia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 86,
+    "id_foreign_key": 86,
+    "conteudo": "TODOc",
+    "criterios": "2,3,4,5,6,7,8,16,17,18,19",
+    "html": "<figure>\n <img src=\"git/img66.jpg\"\n alt=\"Página de boletim informativo. No topo, a manchete 'Lula veste o boné na Conferência Nacional de APLs', acompanhada de uma foto do então presidente Lula colocando um boné branco na cabeça, cercado por autoridades. Abaixo, a seção 'Ações do APL' traz dois textos sobre capacitação tecnológica e o projeto BITEC, ilustrados por fotos de duas mulheres: Cristiane Stainsack e Claudia Schittini.\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição do Boletim Informativo APL - Lula",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 87,
+    "titulo": "Cartão de Visita Cotton's",
+    "autor": "Cotton's",
+    "ano": "Null",
+    "categoria": "Publicidade",
+    "assunto": "Contato Comercial",
+    "arquivo": "87_87_Publicidade.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 87,
+    "id_foreign_key": 87,
+    "conteudo": "Null",
+    "criterios": "2,16,17,18,19",
+    "html": "<figure>\n <img src=\"git/img26.jpg\"\n alt=\"Cartão de visita com fundo branco. À esquerda, o logotipo da empresa 'Cotton's Artigos Esportivos e Promocionais Ltda', com um desenho de globo azul e um boné vermelho. À direita, o nome 'Jaime Ramos', telefones de contato e o endereço na Vila Social em Apucarana - Paraná.\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição do Cartão de Visita Cotton's",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 88,
+    "titulo": "Boletim Informativo APL - Lula (Duplicata)",
+    "autor": "APL Bonés",
+    "ano": "2004",
+    "categoria": "Noticia",
+    "assunto": "Notícias do Setor",
+    "arquivo": "88_88_Noticia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 88,
+    "id_foreign_key": 88,
+    "conteudo": "Null",
+    "criterios": "2,3,4,5,6,7,8,16,17,18,19",
+    "html": "<figure>\n <img src=\"git/img42.jpg\"\n alt=\"Página de boletim idêntica à noticia id=86. Exibe a matéria sobre a participação do presidente Lula na Conferência de APLs, com a foto dele vestindo um boné, e textos abaixo sobre 'Capacitação em Tecnologia de Produção' e 'Projeto BITEC', com fotos das coordenadoras.\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição do Boletim Informativo APL - Lula (Duplicata)",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 89,
+    "titulo": "Programa de Cooperação marca início do APL de Bonés",
+    "autor": "APL Bonés",
+    "ano": "2004",
+    "categoria": "Noticia",
+    "assunto": "Lançamento APL",
+    "arquivo": "89_89_Noticia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 89,
+    "id_foreign_key": 89,
+    "conteudo": "TODOc",
+    "criterios": "2,3,4,5,6,7,8,16,17,18,19",
+    "html": "<figure>\n <img src=\"git/img34.jpg\"\n alt=\"Capa do Boletim APL Bonés (Ano 1, Número 1, Out/Nov 2004). O título destaca: 'Programa de Cooperação marca início do APL de Bonés'. O texto explica o conceito de Arranjo Produtivo Local e a visão de futuro. À direita, três fotos circulares mostram o interior de fábricas de bonés com costureiras trabalhando em linhas de produção.\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição do Boletim Informativo APL - Lancamento APL",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 90,
+    "titulo": "Recorte Boletim Lula",
+    "autor": "APL Bonés",
+    "ano": "2004",
+    "categoria": "Noticia",
+    "assunto": "Recorte Notícia",
+    "arquivo": "90_90_Noticia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 90,
+    "id_foreign_key": 90,
+    "conteudo": "TODOc",
+    "criterios": "2,3,4,5,6,7,8,16,17,18,19",
+    "html": "<figure>\n <img src=\"git/img74.jpg\"\n alt=\"Recorte da parte superior da página do boletim (visto nas fotos id=86 e id=88). Foca exclusivamente no artigo 'Lula veste o boné na Conferência Nacional de APLs', mostrando o texto explicativo e a foto colorida do presidente Lula colocando o boné na cabeça ao lado de Jayme Leonel.\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição do Recorte Notícia Boletim Lula",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 91,
+    "titulo": "Planejamento Estratégico define ações para o setor",
+    "autor": "APL Bonés",
+    "ano": "2004",
+    "categoria": "Noticia",
+    "assunto": "Estratégia e Incentivos",
+    "arquivo": "91_91_Noticia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 91,
+    "id_foreign_key": 91,
+    "conteudo": "TODOc",
+    "criterios": "2,3,4,5,6,7,8,16,17,18,19",
+    "html": "<figure>\n <img src=\"git/img58.jpg\"\n alt=\"Página de boletim com o título 'Planejamento Estratégico define ações para o setor'. O texto discute benefícios e a união do setor. No centro, a seção 'APL vai receber incentivos do Governo Federal', ilustrada por duas fotos pequenas de reuniões de governança. Na parte inferior, um quadro lista as entidades que formam o GTP (Grupo de Trabalho Permanente), como ministérios e bancos federais.\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição da Noticia 'Planejamento Estratégico define ações para o setor'",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 92,
+    "titulo": "Governança e Apoio APL",
+    "autor": "APL Bonés",
+    "ano": "2004",
+    "categoria": "Noticia",
+    "assunto": "Depoimentos",
+    "arquivo": "92_92_Noticia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 92,
+    "id_foreign_key": 92,
+    "conteudo": "TODOc",
+    "criterios": "2,3,4,5,6,7,8,16,17,18,19",
+    "html": "<figure>\n <img src=\"git/img50.jpg\"\n alt=\"Página de boletim intitulada 'Governança se reúne desde o início de 2004', listando os nomes dos membros do comitê gestor. A seção principal 'Entidades Apóiam Iniciativa e Projetos' traz uma coluna com fotos de rosto e depoimentos de 7 representantes: Luis Mussi, Rodrigo Rocha Loures, Hélio Cadore, Valdir Scalon, Élio Pinto, Ricardo Amaral e Walter Pegorer. No rodapé, logotipos de patrocinadores como CAIXA, SIVALE e SEBRAE.\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição da noticia com depoimentos 'Governança e Apoio APL'",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+}
+
+]
 }

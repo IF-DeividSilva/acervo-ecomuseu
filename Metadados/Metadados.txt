@@ -1397,7 +1397,7 @@
     "id_metadado": 18,
     "id_foreign_key": 18,
     "conteudo": "Null",
-    "criterios": "1,16,17,18,19",
+    "criterios": "2,16,17,18,19",
     "html": "
                <figure>
                  <img src="git/18_18_Fotografia.jpg\" 
