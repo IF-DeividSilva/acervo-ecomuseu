@@ -2329,6 +2329,203 @@
     "aria-pressed": "[true, false]",
     "aria-description": "Leitura da audiodescrição possui duração de X minutos."
   }
+},
+{
+  "documento": {
+    "id_arquivo": 104,
+    "titulo": "Null",
+    "autor": "Null",
+    "ano": "2010",
+    "categoria": "Selo",
+    "assunto": "Null",
+    "arquivo": "104_104_Selo.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 104,
+    "id_foreign_key": 104,
+    "conteudo": "Null",
+    "criterios": "2,16,17,18,19",
+    "html": "<figure>\n <img src=\"git/img10.jpg\"\n alt=\"Envelope postal branco exibindo selos brasileiros. Na parte superior, um carimbo sobre um selo da bandeira do Brasil e um selo comemorativo da 'Expo Boné 2010 - Camisetas & Cia'. Na parte inferior, uma quadra de quatro selos da série 'Brasil 2010 - Plantas Têxteis', ilustrando: Algodão, Fibra de Coco, Juta e Sisal.\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição da foto com os selos postais",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 105,
+    "titulo": "Convite Lançamento APL",
+    "autor": "APL Bonés",
+    "ano": "2004",
+    "categoria": "Publicidade",
+    "assunto": "Convite Formato Boné",
+    "arquivo": "105_105_Publicidade.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 105,
+    "id_foreign_key": 105,
+    "conteudo": "Null",
+    "criterios": "2,16,17,18,19",
+    "html": "<figure>\n <img src=\"git/img18.jpg\"\n alt=\"Convite impresso com corte especial no formato da silhueta de um boné. O fundo é cinza escuro. O texto convida para o 'Lançamento do Programa de Cooperação' do APL - Arranjo Produtivo Local - Bonés, datado de 11 de novembro de 2004, no Clube 28 de Janeiro. Logotipos de parceiros (Sebrae, Caixa, BB, etc.) estão na parte inferior.\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição do convite de lançamento do APL",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 106,
+    "titulo": "Convite Remo APL",
+    "autor": "APL Bonés",
+    "ano": "Null",
+    "categoria": "Publicidade",
+    "assunto": "Convite Formato Boné",
+    "arquivo": "106_106_Publicidade.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 106,
+    "id_foreign_key": 106,
+    "conteudo": "Null",
+    "criterios": "2,16,17,18,19",
+    "html": "<figure>\n <img src=\"git/img26.jpg\"\n alt=\"Convite com corte especial em formato de boné. A imagem ilustra uma equipe de remo (quatro homens) em um barco na água. Um dos remadores é representado apenas por uma silhueta pontilhada branca. O texto diz: 'Venha ocupar o seu lugar. Juntos iremos mais longe...'. A palavra 'CONVITE' aparece na aba do boné.\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição do convite Remo do APL",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 107,
+    "titulo": "Logotipo APL Bonés",
+    "autor": "APL Bonés",
+    "ano": "Null",
+    "categoria": "Logotipo",
+    "assunto": "Identidade Visual",
+    "arquivo": "107_107_Logotipo.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 107,
+    "id_foreign_key": 107,
+    "conteudo": "Null",
+    "criterios": "2,16,17,18,19",
+    "html": "<figure>\n <img src=\"git/img34.jpg\"\n alt=\"Logotipo quadrado do 'APL Bonés Apucarana'. Apresenta um desenho estilizado de um boné formado por linhas horizontais azuis irregulares e um detalhe amarelo na aba. Abaixo do desenho, a sigla 'APL' em letras pretas garrafais, seguida pelo texto 'BONÉS • APUCARANA'.\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição do logotipo do APL Bonés",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 108,
+    "titulo": "Capa Programa Marca Própria",
+    "autor": "Sebrae/APL",
+    "ano": "2010",
+    "categoria": "Publicidade",
+    "assunto": "Null",
+    "arquivo": "108_108_Publicidade.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 108,
+    "id_foreign_key": 108,
+    "conteudo": "Null",
+    "criterios": "2,16,17,18,19",
+    "html": "<figure>\n <img src=\"git/img42.jpg\"\n alt=\"Capa de folheto com fundo azul escuro decorado com linhas circulares finas. O título em destaque é: 'Programa de MARCA Própria \"O Caminho é a MODA\"'. No canto superior direito, um selo de 'Mala Direta Postal' dos Correios datado de 2010. Rodapé com logos do SEBRAE e Bonés de Apucarana.\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição da publicidade do programa Marca Própria",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 109,
+    "titulo": "Etapas do Programa",
+    "autor": "Sebrae/APL",
+    "ano": "Null",
+    "categoria": "Publicidade",
+    "assunto": "Cronograma",
+    "arquivo": "109_109_Publicidade.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 109,
+    "id_foreign_key": 109,
+    "conteudo": "Null",
+    "criterios": "2,16,17,18,19",
+    "html": "<figure>\n <img src=\"git/img50.jpg\"\n alt=\"Página interna de folheto listando as 'Etapas do Programa'. Uma lista numerada de 01 a 11 descreve o processo, iniciando em 'Levantamento das Informações', passando por 'Sua Marca como Diferenciação', 'Planejando o Marketing', 'Oficina de Criatividade', até encerrar com 'Evento de Apresentação de Resultados'.\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição da publicidade etapas do programa Marca Própria",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 110,
+    "titulo": "Resumo e Público-Alvo",
+    "autor": "Sebrae/APL",
+    "ano": "Null",
+    "categoria": "Publicidade",
+    "assunto": "Detalhes do Curso",
+    "arquivo": "110_110_Publicidade.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 110,
+    "id_foreign_key": 110,
+    "conteudo": "Null",
+    "criterios": "2,16,17,18,19",
+    "html": "<figure>\n <img src=\"git/img58.jpg\"\n alt=\"Página interna de folheto. O quadro superior 'Público-Alvo' cita proprietários, designers e marketing de pequenas e médias empresas. O quadro central 'Resumo do Programa' detalha a carga horária: Palestras, Consultorias, Oficinas, totalizando 88 horas por empresa. Um destaque inferior diz: 'Você não pode ficar de fora do Programa de Marca Própria'.\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição da publicidade resumo e público-alvo do programa Marca Própria",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 111,
+    "titulo": "Resumo e Público-Alvo (Duplicata)",
+    "autor": "Sebrae/APL",
+    "ano": "Null",
+    "categoria": "Publicidade",
+    "assunto": "Detalhes do Curso",
+    "arquivo": "111_111_Publicidade.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 111,
+    "id_foreign_key": 111,
+    "conteudo": "Null",
+    "criterios": "2,16,17,18,19",
+    "html": "<figure>\n <img src=\"git/img66.jpg\"\n alt=\"Imagem idêntica à anterior (id=110), mostrando a página do folheto com as seções 'Público-Alvo' e 'Resumo do Programa', detalhando a carga horária de 88 horas e o público de designers e diretores de empresas de bonés.\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição da publicidade resumo e público-alvo do programa Marca Própria",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 112,
+    "titulo": "Participe! Vagas limitadas!",
+    "autor": "Sebrae",
+    "ano": "Null",
+    "categoria": "Publicidade",
+    "assunto": "Contato e Inscrição",
+    "arquivo": "112_112_Publicidade.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 112,
+    "id_foreign_key": 112,
+    "conteudo": "Null",
+    "criterios": "2,16,17,18,19",
+    "html": "<figure>\n <img src=\"git/img74.jpg\"\n alt=\"Folheto vertical azul ciano. No topo, o texto 'Participe! Vagas limitadas!' seguido do telefone e endereço do SEBRAE/PR em Apucarana. A metade inferior contém um formulário de devolução dos Correios para assinalar motivos de não entrega (Mudou-se, Falecido, Recusado, etc.).\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição da publicidade com contato e inscrição do programa Marca Própria",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
 }
 
 ]
