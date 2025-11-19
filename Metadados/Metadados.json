@@ -2526,6 +2526,378 @@
     "aria-pressed": "[true, false]",
     "aria-description": "Leitura da audiodescrição possui duração de X minutos."
   }
+},
+{
+  "documento": {
+    "id_arquivo": 113,
+    "titulo": "Empresários do boné visitam a China",
+    "autor": "APL Bonés",
+    "ano": "2008",
+    "categoria": "Noticia",
+    "assunto": "Missão Empresarial",
+    "arquivo": "113_113_Noticia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 113,
+    "id_foreign_key": 113,
+    "conteudo": "Notícias DO BONÉ\nBoletim periódico - dezembro de 2008 - Ano 5 - número 12\n\nEmpresários do boné visitam a China\n\n[Legenda da foto] Empresários apucaranenses durante visita a feira de Cantão\n\nUma comitiva formada por nove empresários do APL Bonés de Apucarana visitaram a China, de 31 de outubro a 07 de novembro, em busca de novas tecnologias, insumos e parceiros comerciais.\nNo roteiro da comitiva, visitas a empresas de bordado e máquinas de costura em Xangai. Na cidade de Ghangzhou, a comitiva conheceu a 104ª edição da Feira de Cantão, um dos maiores eventos de negócios do mundo na atualidade. A feira possui mais de 850 mil metros quadrados, 16 pavilhões, que comportam 54 mil expositores, divididos em três fases.\nOs empresários apucaranenses participaram da última etapa da feira, visitando o pavilhão de produtos voltados para a indústria têxtil. Ainda em Ghangzhou, os empresários conheceram fábricas de bonés e abas. Essa missão contou com subsídios do Sebrae Paraná, Federação das Indústrias do Estado do Paraná (FIEP) e da Prefeitura de Apucarana.\nO consultor do Sebrae, José Henrique Martins, explica que essa ação mostra que não existe limites para o desenvolvimento das empresas. \"Nessa viagem, tínhamos empresários que nunca haviam saído do Brasil e de repente foram para a China conhecer um mercado altamente competitivo. Isso traz um crescimento pessoal e empresarial muito grande\", define o consultor.\nUm detalhe observado pelo consultor durante a visita a China, é que eles são muito agressivos comercialmente. \"Eles possuem sim muita mão de obra disponível, matéria prima de ponta, mas acima de tudo são agressivos no mercado. O empresário chinês está muito a frente das dificuldades. Ele planeja o futuro da empresa, lançamento de produtos e ações de marketing com uma antecedência que não vemos no Brasil. Por isso, eles conquistaram o respeito e colocaram medo no mercado mundial\", conclui o consultor.\nNessa edição especial, traremos informações detalhadas sobre a missão empresarial que desvendou a China.",
+    "criterios": "2,3,4,5,6,7,8,16,17,18,19",
+    "html": "<figure>\n <img src=\"git/img10.jpg\"\n alt=\"Capa do boletim 'Notícias do Boné' de dezembro de 2008. A manchete principal é 'Empresários do boné visitam a China'. Uma grande foto horizontal mostra uma comitiva de dez homens e uma mulher, posando com malas e sacolas amarelas em frente a um grande edifício moderno (a Feira de Cantão), decorado com balões coloridos no ar.\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição da 1 página da notícia",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 114,
+    "titulo": "Empresas chinesas surpreendem brasileiros",
+    "autor": "APL Bonés",
+    "ano": "2008",
+    "categoria": "Noticia",
+    "assunto": "Tecnologia e Escala",
+    "arquivo": "114_114_Noticia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 114,
+    "id_foreign_key": 114,
+    "conteudo": "EDITORIAL\nSem limites para crescer\nO ano de 2008 tinha sido definido pela governança do APL Bonés de Apucarana, como de ações de mercado. Em junho, dez empresários da cadeia produtiva participaram da Expoboné e, em julho, seis da Expo Brindice.\nA viagem dos empresários do APL Bonés de Apucarana à China, fecha um ciclo de eventos de mercado, mostrando a maturidade das ações da governança. As entidades apoiaram mais uma vez, dando crédito a uma ação inédita.\nMuitos resultados positivos virão dessa ação, porque o Arranjo Bonés de Apucarana saiu mais uma vez na frente. Para 2009, promessa de um ano de novas conquistas. O APL reservou o maior espaço possível da Expo Brindice e uma missão empresarial para conhecer o mercado de Angola está sendo agendada para julho. A China ainda faz parte dos planos dos empresários, mostrando que não existe limites para a cadeia produtiva crescer.\n\nexpediente:\nBoletim APL\nConselho Editorial: Governança APL Bonés\nContato: SIVALE\nTel. 43 3422 0930\naplbones@uol.com.br\nCriação, redação e edição: Pixel Comunicação\nFone: 43 3033 1352\nDistribuição: dirigida\n\nEmpresas chinesas surpreendem brasileiros\n[Legenda] Tárciso Moraes em estande de empresa chinesa\nA missão empresarial do APL Bonés de Apucarana visitou na China quatro empresas, de diferentes áreas de atuação, para conhecer o sistema de produção e tecnologia empregada por elas.\nNo dia 31 de outubro, na cidade de Xangai, os empresários conheceram empresas fabricantes de máquinas de costura e bordadeiras.\nA Shanggong Corporation é a maior fábrica da China e a terceira maior do mundo na fabricação de máquinas de costura. Segundo o gerente da empresa, Li Xao Feng, são produzidos mais de 600 mil unidades por ano. \"Sendo 200 mil máquinas industriais e 400 mil para uso doméstico\", diz Li Xao.\nO número de funcionários também impressiona. São 1.500 na unidade da empresa em Xangai e mais 1.800 na Europa. \"A Shanggong faz parte de um grupo que ainda produz bordadeiras, máquinas fotográficas e de costura para outras marcas internacionais\", ressalta Li Xao.\nDurante a visita pela fábrica vimos máquinas da marca Durkopp, umas melhores do mundo no gênero. O empresário Júlio César Mariano diz que se impressionou com esse detalhe. \"As máquinas da Shanggong são conhecidas no Brasil como de segunda linha, mas eles fabricam também para a Durkopp. Isso mostra a versatilidade de produção e a flexibilidade da China diante do mercado mundial\", explica o empresário.\n\nFábrica de bordadeiras\nA comitiva visitou a fábrica Yinlong Corporation, que possui 50 funcionários fixos. A produção é de 50 máquinas de 16 cabeças por mês. A capacidade dessas máquinas é de 450 a 600 pontos por minuto. O empresário Joaquim Rosa relata que isso é muito abaixo das máquinas usadas em Apucarana. \"Usamos bordadeiras de 1.100 pontos por minuto. Nessa empresa percebemos uma tecnologia defasada\", analisa Joaquim.\n[Legenda] Empresários observam funcionamento de máquina bordadeira",
+    "criterios": "2,3,4,5,6,7,8,16,17,18,19",
+    "html": "<figure>\n <img src=\"git/img18.jpg\"\n alt=\"Página interna com o título 'Empresas chinesas surpreendem brasileiros'. A foto superior mostra o empresário Tarcísio Moraes segurando um boné dentro de uma loja repleta de produtos nas prateleiras. A foto inferior, intitulada 'Fábrica de bordadeiras', mostra um grupo de quatro empresários observando atentamente o funcionamento de uma longa máquina de bordar industrial.\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição da noticia 'Empresas chinesas surpreendem brasileiros'",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 115,
+    "titulo": "O segredo da aba chinesa",
+    "autor": "APL Bonés",
+    "ano": "2008",
+    "categoria": "Noticia",
+    "assunto": "Processos Industriais",
+    "arquivo": "115_115_Noticia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 115,
+    "id_foreign_key": 115,
+    "conteudo": "03\nO segredo da aba chinesa\nA comitiva de empresários do APL Bonés de Apucarana conheceu no dia 06 de novembro, a fábrica de abas USGP. Localizada na cidade de Foshan, a empresa possui 200 funcionários e produz 3 mil quilos de abas por dia.\nContudo, a USGP ainda fabrica acessórios para boné, como botões, ilhoses, pingentes, fivelas, chaveiros, reguladores, entre outros produtos, em metal ou plástico.\nOs empresários observaram durante a visita, que a matéria prima usada na fabricação da aba chinesa é melhor que a brasileira. Outro diferencial está na forma de produção. O plástico entra na máquina por três alimentadores. Ou seja, existem três roscas para fazer o processo de extrusão. Logo após o material extrusado passa por cilindros que deixam a lâmina com uma largura de mais de um metro. Em nenhum momento esse produto tem contato com água. Bem diferente do processo no Brasil, onde as máquinas possuem somente uma rosca e não cilindram lâminas tão largas.\nOutro segredo da aba chinesa está na forma de resfriamento. A lâmina quente é cortada em placas planas, que são colocadas em berços curvos, onde ganham o formato desejado.\n\"Só nesse ponto que acontece o resfriamento, que é por ventilação. 'É uma tecnologia simples, que não conhecíamos e que diferencia o produto brasileiro da aba chinesa\", explica o empresário Luiz Fernando Matiuzzi Lemos.\nO empresário ressalta ainda que o processo é diferente por que as máquinas são bem mais modernas. \"Elas são muito melhores que as nossas. Com tecnologia avançada e sistema automatizado. Porém, o produto final é muito parecido com o nosso\", garante Lemos.\n[Legenda] Visão geral da máquina que produz a aba chinesa\n\nFábrica de bonés na China\nOs empresários da comitiva do Arranjo Produtivo de Apucarana terminaram a visita a China, conhecendo uma fábrica de bonés. A empresa agendada foi a Pinnacle Mfr Group Ltda (PMG), localizada na região metropolitana de Ghangzhou.\nFomos recepcionados pela representante de vendas, Dina Zhao. Ela nos conta que a PMG possui 400 funcionários e fabrica 500 mil bonés por mês, entre modelos adultos e infantis.\nA estrutura da empresa, como a maioria visitada pela comitiva, é muito boa. Os funcionários da PMG, que são de outras cidades, moram no alojamento da empresa.\nA representante de vendas da PMG, Dina Zhao, levou os empresários para um show room. \"Vimos bonés com bom acabamento, mas nenhuma novidade do que fazemos em Apucarana ou dos modelos que tivemos contato na Feira de Cantão\", disse o empresário Júlio César Mariano.\nOs empresários conseguiram ter acesso ao setor de produção da PMG quando os funcionários tinham acabado o expediente. A novidade estava no setor de acabamento, onde os bonés são manuseados numa esteira automatizada. \"Já as máquinas de costura devem ter bem mais de 15 anos de uso. São equipamentos antigos e até ultrapassados se comparados ao parque industrial de Apucarana\", frisa o empresário Joaquim Rosa.\n[Legenda] Empresários durante visita a PMG\n[Legenda] No show room empresários negociaram com a representante de vendas",
+    "criterios": "2,3,4,5,6,7,8,16,17,18,19",
+    "html": "<figure>\n <img src=\"git/img26.jpg\"\n alt=\"Página dividida em dois artigos. O superior, 'O segredo da aba chinesa', mostra uma máquina industrial processando material plástico branco. O inferior, 'Fábrica de bonés na China', exibe duas fotos: uma do grupo de empresários em frente à fachada da empresa PMG e outra dos empresários sentados em um showroom examinando amostras de bonés.\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição da noticia 'O segredo da aba chinesa' e 'Fábrica de bonés na China'",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 116,
+    "titulo": "Negocios devem ser fechados  na China (Parte 1)",
+    "autor": "APL Bonés",
+    "ano": "2008",
+    "categoria": "Noticia",
+    "assunto": "Depoimentos dos Participantes",
+    "arquivo": "116_116_Noticia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 116,
+    "id_foreign_key": 116,
+    "conteudo": "Negócios deve\n\n\"A visita a China foi um espetáculo. Vai demorar muito tempo para as novidades da Feira de Cantão chegarem no Brasil, mas os empresários de Apucarana já tiveram a oportunidade de ter contato com tendências inovadoras. Já estou adaptando algumas técnicas que observei nas visitas na minha empresa. Tem muita coisa que vi, fotografei e filmei para aplicar ao longo dos meses. Pretendo, daqui dois ou três anos voltar na China para obter mais conhecimentos.\"\nAnderson Lino - Seta Certa\n\n\"A missão empresarial para a China foi positiva. Achamos novos produtos, abrimos bons contatos comerciais, mesmo numa época de instabilidade econômica. Para o setor de bonés foi um avanço, por ser uma ação coletiva e pelo conhecimento adquirido. Mostrou a importância do APL, pois a FIEP, Sebrae e Prefeitura de Apucarana apoiaram a missão. Isso foi vital para que ela acontecesse.\"\nCleverson Silva - APL e Dicatex Aviamentos\n\n\"A missão dos empresários do boné à China é um marco para setor. Acredito na multiplicação do conhecimento visto lá e que alguns produtos devam estar disponíveis na cadeia produtiva em breve. Todos os empresários devem conhecer a Feira de Cantão, porque o mundo está lá. Seja para buscar alguma técnica ou insumos. Seja desmistificar um pouco do que se fala da China. É possível fazer parcerias com eles e até superá-los, pois os produtos deles não estão tão longe dos nossos. O modelo de produção é diferente, mas isso os empresários brasileiros podem ajustar\".\nJian Papa - Portal do Boné\n\n\"Tenho só que agradecer, porque a missão empresarial nos deu a possibilidade de conhecer um mundo de negócios totalmente novo. O setor tende a ganhar com isso, porque a tecnologia e os produtos adquiridos na China vão beneficiar a cadeia produtiva\".\nLuis Fernando Matiuzzi Lemos - Saneabas",
+    "criterios": "2,3,4,5,6,7,8,16,17,18,19",
+    "html": "<figure>\n <img src=\"git/img34.jpg\"\n alt=\"Página com o título parcial 'Negócios deve...'. Apresenta uma coluna com fotos de rosto e depoimentos de quatro empresários sobre a viagem: Anderson Lino (Seta Certa), Cleverson Silva (APL e Dicatex), Jian Papa (Portal do Boné) e Luis Fernando Matiuzzi Lemos (Saneabas). À direita, vê-se parte de uma foto panorâmica de uma feira.\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição da noticia 'Negocios devem ser fechados na China (Parte 1)'",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 117,
+    "titulo": "Negocios devem ser fechados  na China (Parte 2)",
+    "autor": "APL Bonés",
+    "ano": "2008",
+    "categoria": "Noticia",
+    "assunto": "Feira de Negócios",
+    "arquivo": "117_117_Noticia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 117,
+    "id_foreign_key": 117,
+    "conteudo": "04\ndevem ser fechados\n\n[Legenda] Visão geral de um dos 16 pavilhões da Feira de Cantão\n\nDurante a visita a 104ª edição da Feira de Cantão, os empresários de Apucarana encontraram vários produtos de ponta, que devem ser importados para o Brasil.\nO gerente da Dicatex Aviamentos, Cleverson Silva, diz que durante a feira deixou alguns negócios encaminhados. Uma semana após o evento, a empresa acertou a importação de produtos da China. \"Encontramos na feira fornecedores de alguns insumos que há tempos procurávamos. E estamos negociando alguns itens, que ainda estão na fase de análise de qualidade. Em breve, estaremos recebendo os materiais importados\", diz Cleverson.\nO empresário, Anderson Lino, explica que está negociando a importação de botões de uma fábrica chinesa. \"Estou aguardando também a amostra de linhas de bordar douradas e prateadas de uma empresa que fiz contato na Feira de Cantão. Após fazer o teste nas máquinas, vou decidir pela importação ou não\", explica Anderson.\nAlguns empresários da comitiva a China estão negociando produtos em conjunto. É o caso de Anderson Lino e Júlio César Mariano. \"Importar em conjunto é uma boa opção, porque dividimos os custos de frete e impostos, por exemplo. Estamos analisando a possibilidade de pedir uma quantidade maior de botões e também comprar entretela com memória\", explica o empresário Júlio César Mariano.\nO gerente da Boneon, Tarcísio Moraes, ressalta também, que a negociação para importar velcros, fios de poliéster, elásticos e fivelas estão bem adiantados. \"É uma questão de dias, até acertamos os detalhes. Mas a decisão de importar alguns produtos está tomada\", frisa Tarcísio.\n\nBusquei nessa missão conhecer alguma novidade nas máquinas chinesas. Posso dizer hoje que o parque de máquinas de Apucarana é bem melhor. Saber isso já é um grande ganho, pois as empresas devem melhorar então o sistema de produção. Isso a China está na nossa frente e devemos copiá-los. Passarei para os clientes da minha loja materiais impressos que peguei na feira, pois em termos de design e uso de matéria-prima a China usa e abusa\".\nJoaquim Rosa - Taicry Máquinas",
+    "criterios": "2,3,4,5,6,7,8,16,17,18,19",
+    "html": "<figure>\n <img src=\"git/img42.jpg\"\n alt=\"Lado esquerdo de uma página dupla. No topo, o título em vermelho '...devem ser fechados'. Abaixo, uma grande foto panorâmica mostra a visão geral dos estandes da Feira de Cantão, com corredores e expositores. Na parte inferior, texto sobre produtos encontrados e uma foto de rosto do empresário Joaquim Rosa (Taicry Máquinas).\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição da noticia 'Negocios devem ser fechados na China (Parte 2)'",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 118,
+    "titulo": "Negocios devem ser fechados  na China (Parte 3)",
+    "autor": "APL Bonés",
+    "ano": "2008",
+    "categoria": "Noticia",
+    "assunto": "Avaliação da Missão",
+    "arquivo": "118_118_Noticia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 118,
+    "id_foreign_key": 118,
+    "conteudo": "05\ner fechados na China\n\n\"A missão para a China foi muito interessante. Fiquei admirado pela organização e educação do povo chinês. Seja nas ruas, feira ou empresas. Eles têm um grande conhecimento daquilo que fabricam e, por isso, são rápidos na negociação. Contudo, pela atual cotação do dólar, os produtos que vendo não compensam ser importados. Mesmo não importando nada nesses próximos meses, avalio a missão como muito rica, pelas experiências culturais e empresariais que adquiri\".\nJosé Riveline Lopes - TNT Paraná\n\n\"A missão para a China foi um marco. Tivemos contato com tecnologia e produtos que não temos no Brasil. Podemos fazer negócios, pelos contatos realizados nas empresas e na Feira de Cantão. Esse grupo de empresários ainda pode fazer alguma importação em conjunto, mostrando que existe união no setor e que através dela podemos crescer\".\nJulio Cesar Mariano - Griffe Company\n\n\"Minha expectativa foi mais do que alcançada, pela diversidade de produtos encontrados e a facilidade para importar com os contatos feitos na feira. A estrutura dos consultores internacionais colocados a nossa disposição foi impressionante. Essa estrutura e apoio das entidades foi decisivo para eu ir na China. Todos temos que agradecer pela ajuda\".\nTarcísio Moraes - Boneon\n\n\"Essa missão empresarial mostra que temos que nos unir cada vez mais. Os chineses trabalham em conjunto e, por isso, são grandes. Todo empresário apucaranense deve ter essa experiência de visitar a Feira de Cantão e empresas chinesas. Outro ponto a se destacar foi a estrutura montada pelas entidades para nos apoiar na China. Foi espetacular, porque facilitou nosso trabalho e abriu um canal direto de importação, de qualquer produto e com segurança\".\nValdenilson Vado D. da Costa - Boneleska e Anibb",
+    "criterios": "2,3,4,5,6,7,8,16,17,18,19",
+    "html": "<figure>\n <img src=\"git/img50.jpg\"\n alt=\"Lado direito de uma página dupla. No topo, continuação do título '...er fechados na China'. A página contém uma coluna com fotos e depoimentos de quatro participantes: José Riveline Lopes (TNT Paraná), Julio Cesar Mariano (Griffe Company), Tarcísio Moraes (Boneon) e Valdenilson Vado (Boneleska).\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição da noticia 'Negocios devem ser fechados na China (Parte 3)'",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 119,
+    "titulo": "Importar da China é bom negócio, mas com cuidados",
+    "autor": "APL Bonés",
+    "ano": "2008",
+    "categoria": "Noticia",
+    "assunto": "Noticia sobre Importação da China",
+    "arquivo": "119_119_Noticia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 119,
+    "id_foreign_key": 119,
+    "conteudo": "Importar da China é bom negócio, mas com cuidados\n\n[Legenda] Os consultores Luciano Juchem e Grace Zhao inspecionam boné chinês para empresários brasileiros\n\nA grande quantidade de mão de obra disponível e o preço baixo da matéria prima fazem dos produtos chineses altamente competitivos. Contudo, antes do empresário pensar em importar, alguns cuidados devem ser observados.\nO consultor em negócios internacionais, Luciano Juchem, acompanhou a comitiva do APL Bonés de Apucarana na visita a China. Com mais de 15 anos de experiência em comércio exterior, Luciano foi o elo entre empresários apucaranenses e chineses. \"A China oferece produtos bem acabados, com tecnologia de ponta e preço baixo. Isso é o sonho de qualquer empresário\", ressalta Luciano.\nQuerer importar, segundo o consultor, é uma vontade imediata. \"Porém, devem-se observar vários pontos. Desde os impostos, taxas e frete. Até o produto entregue, que pode ser bem diferente daquele comprado no ímpeto de estar fazendo um super negócio\", alerta Luciano.\n\nGigante chinês do boné\nUma surpresa para a comitiva de empresários de Apucarana durante a visita na Feira de Catão, foi encontrar uma empresa capaz de fabricar sozinha 6 milhões de bonés por mês. Esse gigante chinês atende pelo nome de Fengchang Caps Corporation, da cidade de Qingdao, um dos maiores polos do boné na China.\nA produção mensal de todas as empresas de bonés de Apucarana, segundo o último censo econômico, é de um pouco mais de 4 milhões de unidades. Ou seja, a Fengchang Caps sozinha produz 50% a mais de bonés que toda a cidade de Apucarana.\nO diferencial competitivo da Fengchang Caps não está só na capacidade produtiva. Ela fabrica desde os fios e tecidos até o boné acabado. \"Ficamos impressionados, porque além do boné ela fabrica todos os insumos usados na confecção das peças, controlando a qualidade em todas as etapas eletronicamente\", explica o empresário José Riveline.\nUm diferencial tecnológico, observado pelo empresário Joaquim Rosa ao ver o material institucional da Fengchang Caps, foi a unidade de serigrafia. \"Eles usam mesas inclinadas e um sistema de secagem todo computadorizado. Isso dá mais produtividade e garante ao produto final um padrão homogêneo\", conclui Joaquim.\n\nEmpresas chinesas aceitam pedidos menores\nUm ponto que até pouco tempo atrás impedia a concorrência do boné chinês com o brasileiro era quantidade. Isso porque as empresas não aceitavam pedidos menores que 10 mil peças.\nDurante a visita da comitiva dos empresários do APL Bonés de Apucarana a 104ª Feira de Cantão encontramos empresas como a Heng Tong Caps, que aceita pedidos mínimos de 500 peças. Para essa quantidade, bonés em silk custam US 0,68 e o bordado, modelo fechado e com elástico sai por US 0,87 a unidade. \"Vale lembrar que existem impostos, frete, taxas e outras despesas de importação a serem computados no valor final do produto\", explica Cleverson Silva, coordenador do APL e responsável pela comitiva de empresários a China.",
+    "criterios": "2,3,4,5,6,7,8,16,17,18,19",
+    "html": "<figure>\n <img src=\"git/img58.jpg\"\n alt=\"Página inteira com o título 'Importar da China é bom negócio, mas com cuidados'. Uma foto central mostra os consultores Luciano Juchem e Grace Zhao examinando produtos em uma feira. O texto aborda cuidados com inspeção e negociação. À direita, uma coluna intitulada 'Dicas importantes' e o destaque 'Desconfiem do muito barato'.\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição da noticia 'Importar da China é bom negócio, mas com cuidados'",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 120,
+    "titulo": "Dicas Importantes (Recorte)",
+    "autor": "APL Bonés",
+    "ano": "2008",
+    "categoria": "Noticia",
+    "assunto": "Recorte da Noticia sobre Importação da China",
+    "arquivo": "120_120_Noticia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 120,
+    "id_foreign_key": 120,
+    "conteudo": "06\nDicas importantes\nO consultor, Luciano Juchem, diz que a primeira coisa que o empresário deve saber, é que importação não é uma compra a vista, mas sim antecipada. Ou seja, a pessoa paga pelo produto e só vai recebê-lo após 45 dias do depósito. Já os impostos e fretes vão ser pagos quando a mercadoria estiver no porto brasileiro. \"Por isso, o produto a ser importado tem que valer muito a pena. E o fluxo de caixa da empresa tem que ser altamente saudável, para esperar os 45 dias até a entrega do produto\", frisa Luciano.\nPara comprar na China, o empresário também tem que ter a noção que cada produto tem cálculo próprio de IPI, Imposto de Importação, entre outros. Dessa forma, não dá para saber só pela primeira impressão, qual produto é mais vantajoso de ser importado.\nOutra dica dada pelo consultor é de que o empresário brasileiro tenha uma pessoa de confiança na China para verificar o produto antes do embarque. \"Trabalho, por exemplo, com outra consultora chinesa que faz esse controle de inspeção\", diz Luciano.\nPara ele, essa é a forma mais segura de fazer uma importação. \"Solicito a consultora chinesa a melhor cotação e duas amostras do produto desejado pelo empresário brasileiro. Uma ela guarda e a outra é enviada para o comprador aprovar. Fechado o pedido de importação, a consultora acompanha etapas da produção e o carregamento do container na China. Tudo para verificar se os produtos embarcados são idênticos a amostra que ela e o empresário no Brasil possuem em mãos. Só assim, minimizamos surpresas desagradáveis\", garante Luciano.\n\nDesconfiem do muito barato\nProduto muito barato na China, não é sinônimo de melhor negócio. O consultor reforça essa idéia, porque tem empresários brasileiros que fazem compras sem acompanhamento e optam pelo menor valor. \"Se alguém oferece um produto a US$ 2, quando outras empresas oferecem por US$ 5, desconfiem. Alguma dor de cabeça o produto de menor valor vai dar\", resume Luciano.\nEsse \"calote\", para o consultor, estraga muito a imagem da China. \"Mas eles são altamente competitivos onde o produto requer mão de obra e matéria prima sintética. Onde for necessário algodão, por exemplo, o Brasil é melhor\", indica Luciano.\nPara mais informações sobre importação procure o Sebrae em Apucarana ou acesse o site WWW.sebraepr.com.br e veja qual o local de atendimento esta perto de voce.",
+    "criterios": "2,3,4,5,6,7,8,16,17",
+    "html": "<figure>\n <img src=\"git/img66.jpg\"\n alt=\"Imagem em close-up focando na coluna direita da página anterior. Mostra o título 'Dicas importantes', uma foto de perfil do consultor Luciano Juchem de camisa listrada, e o texto de alerta 'Desconfiem do muito barato' em vermelho.\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição da noticia 'Dicas Importantes (Recorte)'",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+{
+  "documento": {
+    "id_arquivo": 121,
+    "titulo": "Bonés chineses: do ecológico ao hitec",
+    "autor": "APL Bonés",
+    "ano": "2008",
+    "categoria": "Noticia",
+    "assunto": "Inovação e Sustentabilidade",
+    "arquivo": "121_121_Noticia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 121,
+    "id_foreign_key": 121,
+    "conteudo": "07\nBonés chineses: do ecológico ao hitec\n\n[Legenda] Boné hitec foi o que mais chamou a atenção dos apucaranenses\n\nNa Feira de Cantão encontramos muitas empresas de bonés chinesas expondo. Com isso, os empresários de Apucarana puderam conferir uma grande variedade de modelagens, tecidos e acabamentos.\nO boné que mais chamou a atenção dos apucaranenses foi o da Everbright Corporation, que apresentou um modelo hitec, por possuir um sistema de som de alta definição.\nOs usuários vestem o boné e encaixam os fones de ouvido na posição mais confortável. Com um cartão de memória de 2 gb e bateria para 6 horas, ele pode ser carregado com músicas ou arquivos de som através de uma entrada USB ou pelo sistema Bluetooth.\n\"É o boné do futuro e que certamente fará a cabeça de jovens e pessoas que praticam esportes. Isso por que é mais prático que um Ipod ou Mp3\", define o empresário Anderson Lino.\nO preço unitário desse modelo, no entanto, é tão diferenciado quanto o estilo da peça. Para venda no atacado esse boné custa 70 dólares. \"É o boné do futuro, que ainda chegará no Brasil\", frisa o empresário Luiz Fernando Matiuzzi Lemos.\n\nLinha ecológica\nAs empresas chinesas estão se adequando ao mercado mundial. Várias empresas, como a Zhang Jiagang Corporation, apostam em bonés confeccionados com matéria prima que não agrida tanto o meio ambiente.\nA Zhang Jiagang mostrou uma linha produzida com fibra de bambu e algodão orgânico. O pedido mínimo aceito pela empresa é de 1.200 peças.\n\nPedras, metais e tecidos diferenciados\nVale tudo para chamar a atenção. Vários bonés chineses expostos na Feira de Cantão tinham pedras semi-preciosas, metais, couro, pespontos gigantes, bordados e tecidos metalizados, além de uso de lavanderia.\n\nLuzes para todos os gostos\nNa Feira de Cantão encontramos uma grande linha de bonés com luzes. Alguns iluminados com leds, para destacar uma marca ou bordado. Outros com mini lanternas para modelos de pescaria. E faixas de neon para simplesmente realçar as peças.",
+    "criterios": "2,3,4,5,6,7,8,16,17,18,19",
+    "html": "<figure>\n <img src=\"git/img74.jpg\"\n alt=\"Página de boletim com o título 'Bonés chineses: do ecológico ao hitec'. A imagem principal destaca o perfil de um homem usando um boné verde militar tecnológico, que possui fones de ouvido bluetooth e óculos escuros integrados à estrutura. Na coluna direita, fotos menores detalham outras inovações: bonés vermelhos em uma prateleira com a placa 'Organic', bonés pretos com a placa 'Bamboo Charcoal', bonés com aplicações de pedrarias e estampas da marca Ed Hardy, e bonés com luzes LED na aba e bordados de águia americana.\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição da noticia 'Bones chineses: do ecológico ao hitec'",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 122,
+    "titulo": "APL define ações para 2009",
+    "autor": "APL Bonés",
+    "ano": "2008",
+    "categoria": "Noticia",
+    "assunto": "Planejamento das ações do APL para 2009 em Inovação, Educação e Mercado.",
+    "arquivo": "122_122_Noticia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 122,
+    "id_foreign_key": 122,
+    "conteudo": "APL define ações para 2009\n\nA governança do APL Bonés de Apucarana planejou as ações para o setor no ano de 2009. Muitas delas são voltadas para preparar as empresas para conquistarem o mercado externo. \"Em 2008 focamos ações de mercado e as empresas da cadeia produtiva tiveram excelentes ganhos. Ganhos originados pela prospecção, projeção das marcas, parcerias e em negócios realizados. Por isso, no próximo ano, continuaremos trabalhando forte, mesclando ações de mercado e capacitação\", explica o coordenador do Grupo Gestor, Jayme Leonel.\n[Legenda] Reunião da governança do APL, onde ações foram definidas\n\nConfira as ações por grupos:\n\n1) Inovação e tecnologia\n• Levantamento dos resíduos gerados pelo setor.\n• Programa de Gestão Ambiental nas empresas.\n• Cursos de Modelagem e Cronometragem.\n• Programa de qualidade e produtividade, visando implantação de ISO 9000 e 14000.\n• Programa 5 S e redução de desperdícios.\n• Clínicas tecnológicas.\n• Formação do Banco de Projetos para o setor.\n\n2) Educação e Capacitação\n• Cursos de exportação.\n• Marketing e vendas.\n• Gestão de marca própria.\n• Curso para gerente de produção.\n• Curso para formar líderes.\nEntre outros de capacitação de mão de obra para o setor.\n\n3) Mercado & Imagem\n• Café & Boné\n• Dia do Boné: atividades esportivas, concurso da Garota e Garoto do Boné, show musical, entre outros eventos.\n• Gestão da Marca Territorial: lei de reconhecimento nacional; instalação de mais pontos de ônibus, orelhões e pórticos no formato do boné.\n• Projeto Institucional: folders, boletim informativo impresso e eletrônico para divulgar o pólo de bonés, além de vídeo institucional.\n• Missões empresariais para Angola, América e China.\n• Participação em feiras nacionais: Expo Brindice e Fenin\n• Caravanas: para empresários que não forem expor, mas que queiram conhecer a Expo Brindice e a Fenin.\n• Missões técnicas para Texfair do Brasil e a Febratex.",
+    "criterios": "2,3,4,5,6,7,8,16,17,18,19",
+    "html": "<figure>\n <img src=\"git/img82.jpg\"\n alt=\"Artigo com o título 'APL define ações para 2009'. A foto ilustrativa mostra uma sala de reuniões bem iluminada com mesas dispostas em formato de 'U'. Cerca de 15 pessoas, entre homens e mulheres, estão sentadas participando da discussão. Em primeiro plano, vê-se as costas de alguns participantes. Ao fundo, à direita, uma mulher está em pé ao lado de um quadro branco e um painel com papéis coloridos fixados.\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição da noticia 'APL define ações para 2009'",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 123,
+    "titulo": "APL define ações para 2009 (Duplicata)",
+    "autor": "APL Bonés",
+    "ano": "2008",
+    "categoria": "Noticia",
+    "assunto": "Planejamento das ações do APL para 2009 em Inovação, Educação e Mercado.",
+    "arquivo": "123_123_Noticia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 123,
+    "id_foreign_key": 123,
+    "conteudo": "APL define ações para 2009\n\nA governança do APL Bonés de Apucarana planejou as ações para o setor no ano de 2009. Muitas delas são voltadas para preparar as empresas para conquistarem o mercado externo. \"Em 2008 focamos ações de mercado e as empresas da cadeia produtiva tiveram excelentes ganhos. Ganhos originados pela prospecção, projeção das marcas, parcerias e em negócios realizados. Por isso, no próximo ano, continuaremos trabalhando forte, mesclando ações de mercado e capacitação\", explica o coordenador do Grupo Gestor, Jayme Leonel.\n[Legenda] Reunião da governança do APL, onde ações foram definidas\n\nConfira as ações por grupos:\n\n1) Inovação e tecnologia\n• Levantamento dos resíduos gerados pelo setor.\n• Programa de Gestão Ambiental nas empresas.\n• Cursos de Modelagem e Cronometragem.\n• Programa de qualidade e produtividade, visando implantação de ISO 9000 e 14000.\n• Programa 5 S e redução de desperdícios.\n• Clínicas tecnológicas.\n• Formação do Banco de Projetos para o setor.\n\n2) Educação e Capacitação\n• Cursos de exportação.\n• Marketing e vendas.\n• Gestão de marca própria.\n• Curso para gerente de produção.\n• Curso para formar líderes.\nEntre outros de capacitação de mão de obra para o setor.\n\n3) Mercado & Imagem\n• Café & Boné\n• Dia do Boné: atividades esportivas, concurso da Garota e Garoto do Boné, show musical, entre outros eventos.\n• Gestão da Marca Territorial: lei de reconhecimento nacional; instalação de mais pontos de ônibus, orelhões e pórticos no formato do boné.\n• Projeto Institucional: folders, boletim informativo impresso e eletrônico para divulgar o pólo de bonés, além de vídeo institucional.\n• Missões empresariais para Angola, América e China.\n• Participação em feiras nacionais: Expo Brindice e Fenin\n• Caravanas: para empresários que não forem expor, mas que queiram conhecer a Expo Brindice e a Fenin.\n• Missões técnicas para Texfair do Brasil e a Febratex.",
+    "criterios": "2,3,4,5,6,7,8,16,17,18,19",
+    "html": "<figure>\n <img src=\"git/img90.jpg\"\n alt=\"Página idêntica à foto 74, contendo o artigo 'APL define ações para 2009' e a foto da reunião da governança do APL com empresários sentados ao redor de mesas e uma facilitadora ao fundo.\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição da noticia 'APL define ações para 2009 2009 (Duplicata)'",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 124,
+    "titulo": "Entidades buscam formas para reciclar resíduos de boné",
+    "autor": "APL Bonés",
+    "ano": "2008",
+    "categoria": "Noticia",
+    "assunto": "Entidades buscam formas para reciclar resíduos de boné.",
+    "arquivo": "124_124_Noticia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 124,
+    "id_foreign_key": 124,
+    "conteudo": "Notícias DO BONÉ\nBoletim periódico - julho de 2008 - Ano 5 - número 11\n\nEntidades buscam formas para reciclar resíduos de boné\n\nBuscar alternativas para os resíduos da produção de bonés. Esse foi o objetivo da visita, do presidente do Sindicato das Indústrias do Vestuário de Apucarana e Vale do Ivaí, Jayme Leonel, do coordenador de Inovação e Tecnologia do APL Bonés de Apucarana, José Carlos Pataluch de Souza e da coordenadora do Departamento de Relações Empresariais e Comunitária da UTFPR, Gláucia Bardi de Moraes, a Central de Tratamento de Resíduos Industriais – CETEC, em Arapongas.\nA preocupação com o destino correto de restos de tecidos e do tratamento da água da serigrafia é uma preocupação antiga do setor de confecções. \"Em parceria com a UTFPR estamos buscando alternativas, projetos e experiências bem sucedidas nessa área. E o CETEC é referência no estado\", diz Jayme Leonel.\nO gerente administrativo do CETEC, Jacídio Silva, explicou que há sete anos a central trabalha reciclando restos de madeira, tintas e solventes, efluentes líquidos, papel, plástico, lixas, entre outros resíduos gerados pela indústria moveleira. \"O que não reciclamos, encaminhamos para empresas autorizadas pelo IAP\", ressalta Jacídio. O gerente, que é mestrando em Gestão Ambiental, explica que ser ecoeficiente é fundamental nos dias de hoje. \"Quem não der destino correto aos seus resíduos vai ter prejuízos na hora de venda\", afirma, lembrando que a leis ambientais estão cada vez mais severas e que o consumidor começa a dar preferência por produtos de empresas que são ecologicamente responsáveis.\n\nSolução para Apucarana\nA partir do segundo semestre, todas as empresas da cadeia produtiva de bonés, terão que ter programas de gestão ambiental.\nO presidente do Sivale, Jayme Leonel, diz que na visita ao CETEC surgiu uma idéia interessante. \"Conhecemos o processo de Forno de Plasma. Uma tecnologia brasileira, que incinera resíduos industriais sem prejudicar o meio ambiente. Ou seja, é ecologicamente correto\", explica Jayme Leonel.\nO gerente do CETEC dará uma palestra aos empresários do setor sobre o forno e gestão ambiental.\nAo mesmo tempo, a FECEA e a UTFPR estão fazendo um levantamento do volume de resíduos para finalizar um projeto, que deve receber subsídios do governo federal na área de gestão ambiental.\n\n[Rodapé: Destaques de outras páginas] Empresa do setor expõe na Expo Bríndice 2008 (pg02); Empresas participam da FENIN (pg03); Apucarana pode receber título oficial de Capital do Boné (pg04)",
+    "criterios": "2,3,4,5,6,7,8,16,17,18,19",
+    "html": "<figure>\n <img src=\"git/img98.jpg\"\n alt=\"Manchete do boletim 'Notícias do Boné': 'Entidades buscam formas para reciclar resíduos de boné'. A foto mostra um grupo de quatro pessoas (três homens e uma mulher loira de óculos escuros) visitando um galpão industrial. Eles estão parados observando uma máquina verde com uma esteira transportadora que movimenta resíduos. Um homem de camisa branca gesticula apontando para o equipamento.\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição da noticia 'Entidades buscam formas para reciclar resíduos de boné'",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 125,
+    "titulo": "Rumo a China",
+    "autor": "APL Bonés",
+    "ano": "2008",
+    "categoria": "Noticia",
+    "assunto": "Participação de empresas do setor na Expo Bríndice 2008.",
+    "arquivo": "125_125_Noticia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 125,
+    "id_foreign_key": 125,
+    "conteudo": "Apucarana - Julho de 2008\n\nEditorial\nRumo a China\n2007 e 2008 foram escolhidos pelos empresários como anos de ações de mercado. O APL Bonés de Apucarana pode fazer uma avaliação positiva de ações nesse sentido.\nEm 2007, seis empresas do setor expuseram na Expo Bríndice e vários empresários participaram de caravanas para conhecer outras feiras. Já em 2008, empresas do setor expuseram na Expo Boné em junho, outras vão expor novamente em julho na Expo Bríndice, e algumas participaram da caravana para a FENIN. Em outubro, o APL está promovendo uma missão internacional para a China. Isso mostra a maturidade das ações do APL e que o trabalho da governança vem dando resultados. Isso só é possível graças ao trabalho de empresários e entidades, que de forma voluntária, vem ajudando todo um setor a se desenvolver.\n\nEmpresas do setor expõem na Expo Bríndice 2008\nO Arranjo Bonés de Apucarana (APL), em parceria com o Sebrae, vai levar três empresas do setor, para expor na Expo Bríndice 2008. Essa feira de brindes é a maior do Brasil.\nAs empresas Bonifor, Euro Bonés, Itália Milano e Bras Company, receberam subsídios das entidades para participar da edição 2008. \"Em 2007, seis empresas de Apucarana expuseram na Bríndice de forma coletiva. Nesse ano, as três empresas terão estandes individuais\", explica o consultor do Sebrae, José Henrique Martins. A idéia inicial era levar mais empresas para a Expo Bríndice. \"Contudo, havia poucos espaços disponíveis. Para a edição de 2009, já estamos em contato, para garantir mais lugares\", ressalta Martins.\n\nEmpresários aprovam feira\nA gerente de vendas da Bonifor Bonés, Andréia Rossi, participou pelo APL da Expo Bríndice 2007. Ela diz que foi uma oportunidade para conhecer novos clientes e fornecedores. \"Superou a expectativa da empresa. É um investimento que dá resultado a longo prazo\", afirma. Ela garante que a empresa vai participar pelo segundo ano consecutivo. \"Vamos aproveitar a oportunidade para fixar a marca\".\nO empresário Marcelo Gabardo, da Itália Milano Bonés e Camisetas Promocionais, vai estar na Expo Bríndice 2008. Ele conta que a empresa vai investir no design do estande. \"Na verdade, é uma extensão da nossa fábrica, por isso, vamos manter a mesma linha\", diz. Para Gabardo, o evento é propício para perceber as tendências do mercado e fazer novos contados. \"Em São Paulo concentra um vasto mercado para as empresas apucaranenses explorarem\", ressalta. A 15ª Expo Bríndice acontece de 22 a 25 de julho, no Centro de Eventos São Luís, na Rua Luís Coelho, 323 – São Paulo (SP), próximo à Estação Consolação do Metrô.",
+    "criterios": "2,3,4,5,6,7,8,16,17,18,19",
+    "html": "<figure>\n <img src=\"git/img106.jpg\"\n alt=\"Página com o título 'Empresas do setor expõem na Expo Bríndice 2008'. A foto superior mostra um estande de feira com a parede coberta por bonés coloridos; um homem de terno cinza conversa com uma mulher atrás de um balcão com computador. A foto inferior mostra o estande da 'Bonifor Brindes', onde dois atendentes (um homem e uma mulher) vestindo camisetas amarelas e aventais azuis mostram um catálogo para um visitante.\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição da noticia 'Rumo a China'",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 126,
+    "titulo": "Rumo a China (Duplicata)",
+    "autor": "APL Bonés",
+    "ano": "2008",
+    "categoria": "Noticia",
+    "assunto": "Participação de empresas do setor na Expo Bríndice 2008.",
+    "arquivo": "126_126_Noticia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 126,
+    "id_foreign_key": 126,
+    "conteudo": "Apucarana - Julho de 2008\n\nEditorial\nRumo a China\n2007 e 2008 foram escolhidos pelos empresários como anos de ações de mercado. O APL Bonés de Apucarana pode fazer uma avaliação positiva de ações nesse sentido.\nEm 2007, seis empresas do setor expuseram na Expo Bríndice e vários empresários participaram de caravanas para conhecer outras feiras. Já em 2008, empresas do setor expuseram na Expo Boné em junho, outras vão expor novamente em julho na Expo Bríndice, e algumas participaram da caravana para a FENIN. Em outubro, o APL está promovendo uma missão internacional para a China. Isso mostra a maturidade das ações do APL e que o trabalho da governança vem dando resultados. Isso só é possível graças ao trabalho de empresários e entidades, que de forma voluntária, vem ajudando todo um setor a se desenvolver.\n\nEmpresas do setor expõem na Expo Bríndice 2008\nO Arranjo Bonés de Apucarana (APL), em parceria com o Sebrae, vai levar três empresas do setor, para expor na Expo Bríndice 2008. Essa feira de brindes é a maior do Brasil.\nAs empresas Bonifor, Euro Bonés, Itália Milano e Bras Company, receberam subsídios das entidades para participar da edição 2008. \"Em 2007, seis empresas de Apucarana expuseram na Bríndice de forma coletiva. Nesse ano, as três empresas terão estandes individuais\", explica o consultor do Sebrae, José Henrique Martins. A idéia inicial era levar mais empresas para a Expo Bríndice. \"Contudo, havia poucos espaços disponíveis. Para a edição de 2009, já estamos em contato, para garantir mais lugares\", ressalta Martins.\n\nEmpresários aprovam feira\nA gerente de vendas da Bonifor Bonés, Andréia Rossi, participou pelo APL da Expo Bríndice 2007. Ela diz que foi uma oportunidade para conhecer novos clientes e fornecedores. \"Superou a expectativa da empresa. É um investimento que dá resultado a longo prazo\", afirma. Ela garante que a empresa vai participar pelo segundo ano consecutivo. \"Vamos aproveitar a oportunidade para fixar a marca\".\nO empresário Marcelo Gabardo, da Itália Milano Bonés e Camisetas Promocionais, vai estar na Expo Bríndice 2008. Ele conta que a empresa vai investir no design do estande. \"Na verdade, é uma extensão da nossa fábrica, por isso, vamos manter a mesma linha\", diz. Para Gabardo, o evento é propício para perceber as tendências do mercado e fazer novos contados. \"Em São Paulo concentra um vasto mercado para as empresas apucaranenses explorarem\", ressalta. A 15ª Expo Bríndice acontece de 22 a 25 de julho, no Centro de Eventos São Luís, na Rua Luís Coelho, 323 – São Paulo (SP), próximo à Estação Consolação do Metrô.",
+    "criterios": "2,3,4,5,6,7,8,16,17,18,19",
+    "html": "<figure>\n <img src=\"git/img114.jpg\"\n alt=\"Página idêntica à foto 77, destacando a participação de empresas na Expo Bríndice. As imagens mostram interações comerciais nos estandes da feira, com exposição de produtos e atendimento a clientes.\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição da noticia 'Rumo a China' (Duplicata)",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 127,
+    "titulo": "Empresas participam da caravana para FENIN",
+    "autor": "APL Bonés",
+    "ano": "2008",
+    "categoria": "Noticia",
+    "assunto": "Participação em feiras: Caravana para a FENIN e resultados da Expoboné 2008.",
+    "arquivo": "127_127_Noticia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 127,
+    "id_foreign_key": 127,
+    "conteudo": "Apucarana - Julho de 2008\n\nEmpresas participam da caravana para FENIN\n[Foto de grupo de pessoas em frente a um ônibus]\nMostrar novas possibilidades de mercado e as tendências do vestuário. Com esse objetivo, o APL de Bonés e o Sebrae, realizaram na segunda quinzena de junho, uma caravana para a Fenin (Feira Nacional da Indústria da Moda Primavera/Verão 2008 - 2009), em Gramado (RS).\nEmpresários, modelistas, representantes comerciais e de entidades ligadas à cadeia produtiva puderam conferir as novidades empregadas no setor de confecções.\nA empresária, Carla Mariano, da Griffe Company, diz que a caravana foi ótima e muito bem organizada. \"Na feira consegui ampliar a rede de contatos e a apresentação de novidades e tendências durante o evento foi satisfatório\", aponta.\nPara o coordenador de desenvolvimento da Rytos, Paulo Henrique Farias, a feira é muito boa. \"Apesar da Fenin ser voltada basicamente para o vestuário, consegui fazer contatos e observar as tendências da moda para direcionar a confecção de bonés. Acredito que tem espaço para empresas de bonés exporem na feira\", destaca Paulo.\nJá a representante de vendas da Kicker, Francis Piassa, diz que fez contatos com clientes de Santa Catarina, São Paulo e Rio Grande do Sul. \"Algumas empresas foram contatos novos. Outras já conheciam o nosso trabalho, mas aproveitamos para reafirmar o vínculo. Acredito que para os expositores a feira seja lucrativa. Enquanto visitante, vejo que vale a pena o investimento\", ressalta Francis.\nO consultor do Sebrae, José Henrique Martins, avalia a Fenin como uma feira de negócios. \"É um canal de vendas fantástico. Percebi a presença de muitos lojistas fazendo compras. Também chamou atenção a grande quantidade de expositores de confecções de São Paulo, principalmente do Brás\", comenta. Para Martins, foi uma oportunidade de vendas e prospectar novos clientes e ficar interado com as tendências da moda e com as novidades do mercado.\nEntre as empresas participantes de Apucarana estiveram a Kicker, Kyoodai, Itália Milano, Griffe Co., Bras Company, Lenix, Rytos e Boneleska.\n\nExpoboné gera negócios e fortalece empresas do setor\nOs empresários do setor começam a obter resultados com a Expoboné 2008. O evento, que aconteceu de 3 a 6 de junho, teve mais de 3 mil visitantes, de vários estados brasileiros e de alguns países da América Latina.\nA assessora de marketing da MAB Fortuna, Alexandra Mateus da Silva avalia a feira como muito boa. \"Fizemos novos contatos e já concretizamos algumas vendas. A Expoboné se demonstrou um instrumento vantajoso de negócios\", ressalta.\nMagno José Losano, supervisor de vendas da Atenas Bonés, concorda que a feira foi boa. \"Não trouxe novos clientes, mas serviu para fortalecer a relação com os antigos. Durante a Expoboné eles visitaram a sede da empresa e conheceram a nossa produção\", ressalta Magno.\nO gerente administrativo da Dicatex Aviamentos, Cleverson Silva explica que o foco da empresa na Expoboné era de fixar a marca. \"No entanto, estreitamos o relacionamento com clientes, fizemos novos contatos e fechamos negócios\", reforça Cleverson.\nO representante comercial da Bras Company, Damião Lopes, diz que o pós-feira da Expoboné está sendo bom. \"Estamos trabalhando nos contatos feitos na feira e conseguimos fechar alguns negócios. Nosso objetivo de divulgar a empresa, nossas marcas e realizar vendas está se concretizando\", explica Damião.\nDurante a Expoboné 2008 foram realizadas 47 rodadas de negócios; o Congresso Nacional do Boné, com palestras voltadas para a cadeia produtiva; Desfile de bonés com a presença do Big Brother 8, Felipe Basílio. A feira foi dividida em três salões: Salão de Fornecedores de Matéria Prima, de Máquinas e Equipamentos e o das Indústrias de Boné.\nO APL de Bonés e o Sebrae subsidiaram o estande de onze empresas da cadeia produtiva de Apucarana.\n[Foto de pessoas em mesas de negociação]",
+    "criterios": "2,3,4,5,6,7,8,16,17,18,19",
+    "html": "<figure>\n <img src=\"git/img122.jpg\"\n alt=\"Página com dois artigos. O superior, 'Empresas participam da caravana para FENIN', tem uma foto de um grupo grande de pessoas (aprox. 20) agasalhadas, posando sorrindo ao ar livre em frente a um prédio e uma ambulância. O artigo inferior, 'Expoboné gera negócios', traz uma foto de um ambiente interno com mesas redondas, focando em um homem de camisa escura sentado, escrevendo em papéis, com garrafas d'água sobre a mesa.\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição da noticia 'Empresas participam da caravana para FENIN'",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 128,
+    "titulo": "Empresas participam da caravana para FENIN (Duplicata)",
+    "autor": "APL Bonés",
+    "ano": "2008",
+    "categoria": "Noticia",
+    "assunto": "Participação em feiras: Caravana para a FENIN e resultados da Expoboné 2008.",
+    "arquivo": "128_128_Noticia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 128,
+    "id_foreign_key": 128,
+    "conteudo": "Null",
+    "criterios": "2,3,4,5,6,7,8,16,17,18,19",
+    "html": "<figure>\n <img src=\"git/img130.jpg\"\n alt=\"Página idêntica à foto 79. Mostra o grupo de empresários na caravana para Gramado (FENIN) e a rodada de negócios da Expoboné com empresários sentados às mesas.\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição da noticia 'Empresas participam da caravana para FENIN' (Duplicata)",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 129,
+    "titulo": "Apucarana pode receber o título oficial de Capital do Boné",
+    "autor": "APL Bonés",
+    "ano": "2008",
+    "categoria": "Noticia",
+    "assunto": "Projeto de lei para título de Capital do Boné e destaque no programa Pequenas Empresas Grandes Negócios.",
+    "arquivo": "129_129_Noticia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 129,
+    "id_foreign_key": 129,
+    "conteudo": "Apucarana - Julho de 2008\n\nApucarana pode receber o título oficial de Capital do Boné\nApucarana concentra o maior pólo produtivo de bonés do país, com aproximadamente 48 milhões de peças por ano. O título de reconhecimento de \"Capital Nacional do Boné\" pode vir com a aprovação do projeto lei 2.793/08, de autoria do deputado federal Alex Canziani (PTB). O projeto foi aprovado, no dia 4 de junho, pela Comissão de Educação e Cultura da Câmara dos Deputados e está em avaliação na Comissão de Constituição e Justiça e de Cidadania da casa. Depois irá para o Senado, e em seguida para a sanção do presidente Lula.\nO deputado federal, Alex Canziani (PTB) diz que ainda não tem a data para votação no Senado e a da sanção pelo presidente da República. \"Estou na torcida para que aconteça ainda este ano, a tempo das comemorações do \"Dia do Boné\", em 31 de janeiro próximo. Existe grande chance para isso\", confia.\nO projeto conta com a simpatia da maioria dos deputados, segundo Canziani, e está embasada em dados técnicos que comprovam o desempenho social do município neste segmento. \"Realçamos a quantidade de empresas e os empregos gerados por ela\", argumenta. Outro ponto que o deputado frisa é o aspecto econômico. \"O município, antes agrícola, mudou seu perfil econômico e, hoje, é pólo industrial e referência brasileira na especialidade, produzindo, em torno de 4 milhões de unidades de bonés por mês\", compara.\n\nJustificativa\nPara Alex Canziani, o projeto 2.793 se justifica por Apucarana ser o maior pólo produtor de bonés do Brasil. O município foi identificado pelo Governo Federal como um Arranjo Produtivo Local (APL de Bonés). Esse reconhecimento tem gerado ações que garantem o aumento da competitividade, produtividade e lucratividade do setor.\n\"O pólo produtor de Apucarana destaca-se por investir na qualidade, com ênfase na qualificação profissional e na tecnologia\", ressalta. \"A cidade é a capital do boné de fato, com este projeto queremos que seja de direito também\" afirma.\n\nBonés de Apucarana são destaque na Globo\nA cadeia produtiva de bonés de Apucarana foi destaque em rede nacional de televisão no programa Pequenas Empresas Grandes Negócios da Rede Globo.\nO repórter do programa, Gustavo Gonçalves, diz que o setor chamou a sua atenção pela busca da qualidade junto com a produtividade. \"O normal é ter empresários voltados para o lucro. Talvez o diferencial de Apucarana esteja nas empresas que primam por agregar valor ao produto e satisfazer o cliente com um boné de qualidade\", arrisca.\nO Pequenas Empresas Grandes Negócios apresenta histórias de sucesso de empresas com idéias inovadoras, que ganharam destaque no mercado que competem. O consultor do Sebrae de Apucarana, José Henrique Martins, diz que o programa escolheu Apucarana, porque o setor tem realizado várias ações que projetam o pólo nacionalmente.\n\"O setor de bonés de Apucarana tem ações de resultados, como o Dia Municipal do Boné, a construção do maior boné do mundo, vários cursos de capacitação, como de modelagem; os pontos de ônibus e telefones públicos em formato de boné; o trabalho da governança do APL, o site o Portal do Boné, a participação em feiras, entre outros\", enumera.\nPara o consultor do Sebrae, outro ponto de destaque da cadeia produtiva de bonés, é a qualidade. \"Os empresários apucaranenses tem investido na sofisticação do produto e na mão-de-obra\", frisa. Ele destaca algumas ações em parceria com a cadeia produtiva de bonés e o Sebrae, como consultorias e cursos de capacitação e gestão de negócios.\nA matéria foi exibida dia 06 de julho e ocupou um espaço de destaque no programa. Quem não assistiu, pode conferir a reportagem na íntegra no site do Portal do Boné: www.portaldobone.com.br.",
+    "criterios": "2,3,4,5,6,7,8,16,17,18,19",
+    "html": "<figure>\n <img src=\"git/img138.jpg\"\n alt=\"Página com o título 'Apucarana pode receber o título oficial de Capital do Boné'. A foto superior mostra uma visão panorâmica de uma grande linha de produção industrial, com pilhas enormes de tecidos cortados em primeiro plano e vários trabalhadores operando máquinas ao fundo. A foto inferior, 'Bonés de Apucarana são destaque na Globo', mostra um repórter de camisa branca entrevistando um homem de camiseta verde dentro da fábrica, com uma câmera de vídeo filmando a cena.\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição da noticia 'Apucarana pode receber o título oficial de Capital do Boné'",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
 }
 
 ]
