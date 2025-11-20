@@ -2898,6 +2898,444 @@
     "aria-pressed": "[true, false]",
     "aria-description": "Leitura da audiodescrição possui duração de X minutos."
   }
+},
+{
+  "documento": {
+    "id_arquivo": 130,
+    "titulo": "Saúde de Apucarana é contemplada com emenda de R$ 800 mil",
+    "autor": "Correio do Vale",
+    "ano": "2014",
+    "categoria": "Noticia",
+    "assunto": "Recursos Públicos para Saúde em Apucarana.",
+    "arquivo": "130_130_Noticia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 130,
+    "id_foreign_key": 130,
+    "conteudo": "CORREIO DO VALE   APUCARANA   SEXTA-FEIRA - 14 DE MARÇO DE 2014   05\n\nSaúde de Apucarana é contemplada com emenda de R$ 800 mil\n\nO empenho do prefeito Beto Preto junto a representantes paranaenses no Congresso Nacional acaba de resultar na conquista de uma emenda parlamentar no valor de R$ 800.000,00 (oitocentos mil reais). A emenda é subscrita pelos deputados Abelardo Lupion (DEM), Alfredo Kaeffer (PSDB) e o senador Roberto Requião (PMDB) e irá viabilizar a aquisição de equipamentos e materiais de uso permanente nas Unidades Básicas de Saúde.\nSerão beneficiadas as UBS´s do Aclimação, Ana Maria Pepato, Antonio Sachelli, Bolivar Pavão, Caixa de São Pedro, CSU, Correia de Freitas, Dona Maria do Café, Takayti Myadi, Eros Pacheco, Joaquim Trizoti, Leopoldo Hartwig Júnior, Mercedes Moreno, Orestes Marquito, Osvaldo Damin, Parigot de Souza, Pedro Barreto, Raul Castilho, Valdecir de Paula e Valter Lazarini.\nOs recursos permitirão a compra de equipamentos para consultórios odontológicos, fotopolimerizador de resina, ultrassom odontológico, raio-x odontológico, material de informática, cinas. Também está prevista a compra de aparelhos para casos de urgência médica, como reanimador pulmonar, desfibrilador externo automotivo, eletrocardiógrafo, oxímetro de pulso e dois automóveis.\nA conquista da emenda foi anunciada ontem pelo prefeito Beto Preto e o secretário municipal de Saúde, Roberto Kaneta. \"Estes equipamentos e materiais irão contribuir para incrementar a assistência e um atendimento mais humanizado nas UBS´s\", avaliou o secretário Roberto Kaneta.\n\"No caso específico desta emenda direcionada à nossa saúde pública, fazemos questão de agradecer publicamente a atenção dispensada pelos deputados Abelardo Lupion e Alfredo Kaeffer e pelo senador Roberto Requião. São recursos que garantem materiais de uso contínuo e novos equipamentos para melhorar o atendimento prestado nos postos de saúde\", comentou o prefeito Beto Preto.\n\n[Legenda da foto]: \"A emenda parlamentar vai viabilizar a compra de materiais e equipamentos para as UBS's\", informa o prefeito Beto Preto.",
+    "criterios": "2,3,4,5,6,7,8,16,17,18,19",
+    "html": "<figure>\n <img src=\"git/1.jpg\"\n alt=\"Recorte de jornal 'Correio do Vale' com a manchete: 'Saúde de Apucarana é contemplada com emenda de R$ 800 mil'. A foto mostra três homens em um escritório: dois estão sentados à mesa (um segurando um documento e outro de traços orientais sorrindo) e um terceiro homem está em pé atrás deles.\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição da noticia 'Saúde de Apucarana é contemplada com emenda de R$ 800 mil'",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 131,
+    "titulo": "Projeto do APL vai incentivar correta destinação de resíduos",
+    "autor": "Null",
+    "ano": "2014",
+    "categoria": "Noticia",
+    "assunto": "Sustentabilidade e Meio Ambiente na Indústria de Bonés.",
+    "arquivo": "131_131_Noticia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 131,
+    "id_foreign_key": 131,
+    "conteudo": "Projeto do APL vai incentivar correta destinação de resíduos\n\nO Arranjo Produtivo Local (APL Bonés) desenvolverá a partir de 2014 um projeto que incentivará as empresas do setor de confecções a fazer a correta destinação de resíduos. Entre as ações previstas, estão o suporte técnico para a obtenção da licença ambiental e para a elaboração do Plano de Gerenciamento de Resíduos Sólidos (PGRS). De acordo com estimativa da Secretaria Municipal de Meio Ambiente, pelo menos metade das empresas do setor não cumpre normas ambientais.\nO projeto começou a ser delineado na reunião semanal da governança do APL, realizada todas as quintas-feiras na sede do Sindicato das Indústrias do Vestuário de Apucarana e do Vale do Ivaí (Sivale). A convite do APL, o secretário municipal de Meio Ambiente, Éwerton Pires, participou do encontro e fez uma explanação sobre as ações desenvolvidas pela pasta neste setor, especialmente quanto ao trabalho de fiscalização.\nDe acordo com José Henrique Martins, consultor do escritório local do Sebrae e que coordenou a reunião, o projeto prevê ainda a educação ambiental e o envolvimento de outras instituições. \"Vamos agendar uma reunião com os contabilistas para tratar da questão da licença ambiental, documento exigido na abertura da empresa, mas que muitas não possuem\", observa.\nDe acordo com o secretário municipal de Meio Ambiente, os principais resíduos gerados pelo setor de confecções são retalhos de tecidos e os efluentes provenientes da atividade de serigrafia. \"As empresas devem elaborar o Plano de Gerenciamento de Resíduos Sólidos (PGRS), bem como providenciar o licenciamento ambiental\", reforça Pires. O PGRS pode ser apresentado voluntariamente pelas empresas ou, como acontece na maioria dos casos, mediante requisição da Secretaria Municipal de Meio Ambiente. \"O documento traz a quantificação e a qualificação dos resíduos, bem como a comprovação da destinação final. Somente no ano passado, solicitamos o plano a cerca de 300 empresas\", observa.\nOutro documento indispensável é a licença ambiental, que deve ser apresentado já na abertura das empresas. A falta do documento pode acarretar em vários problemas, barrando desde financiamentos até uma simples mudança no padrão de energia. \"É um documento que já deve ser providenciado na abertura da empresa. No caso de empresas que já estão em atividade, os contadores devem providenciar a Licença Ambiental de Regularização\", explica.\nAtualmente, conforme Pires, ainda são frequentes os descartes irregulares, com o lançamento direto no meio ambiente ou a comercialização dos resíduos junto a empresas não licenciadas. \"Normalmente as empresas respondem de forma reativa, a partir de uma ação de fiscalização. A iniciativa do APL, que representa o segmento, demonstra pró-atividade diante da questão ambiental\", assinala o secretário de Meio Ambiente.",
+    "criterios": "2,3,4,5,6,7,8,16,17,18,19",
+    "html": "<figure>\n <img src=\"git/2.jpg\"\n alt=\"Matéria de jornal com o título 'Projeto do APL vai incentivar correta destinação de resíduos'. A foto ilustrativa mostra uma sala de reuniões com cerca de 12 pessoas sentadas em cadeiras dispostas em círculo ou formato de 'U', prestando atenção em um orador (não visível na foto).\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição da noticia 'Projeto do APL vai incentivar correta destinação de resíduos'",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 132,
+    "titulo": "Guardas Mirins ganham oportunidade em agência bancária",
+    "autor": "Correio do Vale",
+    "ano": "Null",
+    "categoria": "Noticia",
+    "assunto": "Inclusão Social de Adolescentes em Apucarana.",
+    "arquivo": "132_132_Noticia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 132,
+    "id_foreign_key": 132,
+    "conteudo": "Guardas Mirins ganham oportunidade em agência bancária\n\nA Secretaria Municipal da Juventude de Apucarana, em parceria com a Associação de Educação Familiar e Social do Paraná e Banco do Brasil, realizou neste início de mês o encaminhamento de jovens para o Programa de Aprendizagem Profissional. O secretário da Juventude, Paulo Aparecido Kisner (Paulão), acompanhou a apresentação dos quatro selecionados. \"São jovens matriculados na Guarda Mirim e no Centro da Juventude de Apucarana, na faixa etária dos 15 aos 16 anos, estudantes da rede pública municipal de ensino que irão adquirir conhecimentos em serviços bancários. É muito gratificante acompanhar momentos como estes, ver nos olhos deles, e dos familiares, a alegria e a esperança de um futuro melhor\", destaca Paulão.\nDurante a realização do programa, conta o secretário, os jovens serão acompanhados pela equipe do Centro da Juventude que conta hoje com pedagoga e assistentes sociais. O prefeito Beto Preto (PT) lembra que desde meados do ano passado a Prefeitura de Apucarana, através do Centro da Juventude, incorporou a Guarda Mirim. \"A partir de então temos ampliado ainda mais as ações em prol destes jovens, especialmente no tocante à formação para encaminhamento para o mercado de trabalho\", destaca o prefeito. Além de encaminhamento a empresas como o Banco do Brasil, Copel, entre outras, os atendidos pelo programa participam de cursos profissionalizantes em renomadas instituições com sede na cidade. Um dos requisitos obrigatórios para ingressar na Guarda Mirim é que o jovem ou adolescente esteja estudando. Além de almoço e lanche que são servidos diariamente, várias atividades são executadas como artes marciais, futsal, oficinas lúdicas, reforço escolar, informática, dança, teatro e roda de conversa.\nServiço: Mais informações podem ser obtidas diretamente no Centro da Juventude de Apucarana ou pelo telefone 3424-0629.\n\nEXPEDIENTE:\nEDITORA CORREIO DO VALE LTDA\nCNPJ: 02.613.787/0001-92\nDiretor Responsável: João Francisco de Andrade\nDiagramação: Renan Ramires\nAssessoria Jurídica: Lourival Lino de Souza.\nCirculação: Apucarana, Arapongas e Vale do Ivaí\nRedação e administração: Av. Curitiba, 1433 – Edifício Centro Comercial Rosa, 2º andar – Salas 216 e 217\nFone/Fax: (43) 3033-2766\nImpressão: GRAFINORTE S/A",
+    "criterios": "2,3,4,5,6,7,8,16,17,18,19",
+    "html": "<figure>\n <img src=\"git/3.jpg\"\n alt=\"Coluna de jornal com a manchete 'Guardas Mirins ganham oportunidade em agência bancária'. A foto em preto e branco mostra quatro adolescentes (três rapazes e uma moça) em pé, lado a lado, sorrindo em frente à fachada de vidro de um estabelecimento.\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição da noticia 'Guardas Mirins ganham oportunidade em agência bancária'",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 133,
+    "titulo": "BONÉS - Projeto do APL incentiva correta destinação de resíduos",
+    "autor": "Acianews",
+    "ano": "Null",
+    "categoria": "Noticia",
+    "assunto": "Indústria Sustentável",
+    "arquivo": "133_133_Noticia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 133,
+    "id_foreign_key": 133,
+    "conteudo": "LIXO NO LUGAR CERTO\nacianews 13\n\nBONÉS\nProjeto do APL incentiva correta destinação de resíduos\n\nO Arranjo Produtivo Local (APL Bonés) desenvolverá a partir deste ano um projeto que incentivará as empresas do setor de confecções a fazer a correta destinação de resíduos. Entre as ações previstas estão o suporte técnico para a obtenção da licença ambiental e para a elaboração do Plano de Gerenciamento de Resíduos Sólidos (PGRS). De acordo com estimativa da Secretaria Municipal de Meio Ambiente, pelo menos metade das empresas do setor não cumpre normas ambientais.\nO projeto começou a ser delineado na reunião semanal da governança do APL, realizada todas as quintas-feiras na sede do Sindicato das Indústrias do Vestuário de Apucarana e do Vale do Ivaí (Sivale). A convite do APL, o secretário municipal de Meio Ambiente, Éwerton Pires, participou do encontro e fez uma explanação sobre as ações desenvolvidas pela pasta neste setor, especialmente quanto ao trabalho de fiscalização.\nDe acordo com o secretário, os principais resíduos gerados pelo setor de confecções são retalhos de tecidos e os efluentes provenientes da atividade de serigrafia. \"As empresas devem elaborar o Plano de Gerenciamento de Resíduos Sólidos (PGRS), bem como providenciar o licenciamento ambiental\", reforça Pires. O PGRS pode ser apresentado voluntariamente pelas empresas ou, como acontece na maioria dos casos, mediante requisição da Secretaria Municipal de Meio Ambiente. \"O documento traz a quantificação e a qualificação dos resíduos, bem como a comprovação da destinação final. Somente no ano passado, solicitamos o plano a cerca de 300 empresas\", observa.",
+    "criterios": "2,3,4,5,6,7,8,16,17,18,19",
+    "html": "<figure>\n <img src=\"git/4.jpg\"\n alt=\"Artigo de jornal colorido com o destaque 'BONÉS - Projeto do APL incentiva correta destinação de resíduos'. Uma foto retangular à direita exibe um mostruário denso com diversos modelos de bonés (estilos aba reta, trucker, bordados) pendurados em uma parede.\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição da noticia 'BONÉS - Projeto do APL incentiva correta destinação de resíduos'",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 134,
+    "titulo": "APL DISCUTE PLANO DE AÇÃO PARA 2014",
+    "autor": "Jornal Local",
+    "ano": "2014",
+    "categoria": "Noticia",
+    "assunto": "Planejamento APL",
+    "arquivo": "134_134_Noticia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 134,
+    "id_foreign_key": 134,
+    "conteudo": "APL DISCUTE PLANO DE AÇÃO PARA 2014\nSETOR PROGRAMA EVENTOS E DESENVOLVIMENTO DE PROJETOS NA ÁREA AMBIENTAL\n\nCumprindo compromisso assumido, o prefeito de Apucarana, Beto Preto, incluiu no orçamento de 2014 recursos que vão garantir o desenvolvimento de várias ações para fortalecer o setor de confecções. A rubrica é destinada ao Departamento Municipal do Vestuário, órgão vinculado à Secretaria Municipal de Indústria e Comércio. Anteontem, algumas das atividades começaram a ser planejadas, durante reunião da governança do Arranjo Produtivo Local (APL), realizada na sede do Sindicato das Indústrias do Vestuário de Apucarana e Vale do Ivaí (Sivale).\nA Prefeitura de Apucarana foi representada no encontro por Marcelo Eliezer, diretor da Secretaria de Indústria e Comércio, e Marisa Zanini, assessora técnica da pasta.\n\"Com os recursos garantidos pelo Município, o APL pretende promover o Concurso Garoto e Garota do Boné (previsto para junho), o Censo do Vestuário, o Torneio de Futebol do Boné (previsto para o final de março) e um evento comemorativo aos 10 anos do APL\", cita Patrícia Macedo Papa, secretária executiva do Sivale.\nDe acordo com o secretário municipal de Indústria e Comércio, Laércio Beani da Costa, o setor também pretende desenvolver um projeto que visa a correta destinação de resíduos, abrangendo as confecções, como empresas de bordado, serigrafia e lavanderia, entre outras.\n\"Pretendemos também nos reaproximar da ABIT (Associação Brasileira da Indústria Têxtil) e do Conselho Setorial da Indústria do Vestuário da Fiep (Federação das Indústrias do Estado do Paraná), participando das reuniões mensais dessas entidades\", afirma.\n\n[Legenda da foto]: Setor produtivo inicia planejamento para 2014 | Foto: Sérgio Tibi",
+    "criterios": "2,3,4,5,6,7,8,16,17,18,19",
+    "html": "<figure>\n <img src=\"git/5.jpg\"\n alt=\"Recorte de jornal com a manchete 'APL DISCUTE PLANO DE AÇÃO PARA 2014'. A foto colorida mostra o interior movimentado de uma confecção. Em primeiro plano, uma costureira de camiseta laranja trabalha focada em sua máquina; ao fundo, outras funcionárias também operam máquinas de costura.\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição da noticia 'APL DISCUTE PLANO DE AÇÃO PARA 2014'",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 135,
+    "titulo": "FUTEBOL SUÍÇO - SESI REALIZA O TORNEIO DO DIA DO BONÉ EM APUCARANA",
+    "autor": "Null",
+    "ano": "Null",
+    "categoria": "Noticia",
+    "assunto": "Esporte e Lazer",
+    "arquivo": "135_135_Noticia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 135,
+    "id_foreign_key": 135,
+    "conteudo": "FUTEBOL SUÍÇO\n\nSESI REALIZA O TORNEIO DO DIA DO BONÉ EM APUCARANA\n\nVai acontecer no dia 30 de março, a partir das 8 horas, no estádio do Sesi, em Apucarana, mais uma edição do Torneio do Dia do Boné de Futebol Suíço, categoria livre. As inscrições se encerram nesta sexta-feira, às 17 horas.\nO professor Clevyton Barros, o Tom, um dos coordenadores do evento, disse que o congresso técnico está marcado para o dia 27 de março, no auditório do Sesi, sito a Avenida Aviação, nº 1851.\nDe acordo com Tom, o torneio será realizado em sistema de eliminatória simples, podendo participar qualquer pessoa acima de 16 anos (registrado na empresa). A taxa de inscrição será de R$ 80,00 por agremiação.\nSerão premiados com troféus e medalhas os três primeiros colocados do torneio. Mais informações pelo telefone (43) 3420-5300, e falar com Tom.",
+    "criterios": "2,3,4,5,6,7,8,16,17",
+    "html": "<figure>\n <img src=\"git/6.jpg\"\n alt=\"Coluna de texto de jornal sem fotografia. O título é 'FUTEBOL SUÍÇO' e a manchete diz: 'SESI REALIZA O TORNEIO DO DIA DO BONÉ EM APUCARANA'. O texto informa datas, horários e detalhes das inscrições para o evento esportivo.\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição da noticia 'FUTEBOL SUÍÇO - SESI REALIZA O TORNEIO DO DIA DO BONÉ EM APUCARANA'",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 136,
+    "titulo": "PALESTRA ABORDA GESTÃO DE RESÍDUOS NAS CONFECÇÕES",
+    "autor": "Null",
+    "ano": "Null",
+    "categoria": "Noticia",
+    "assunto": "Capacitação Ambiental",
+    "arquivo": "136_136_Noticia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 136,
+    "id_foreign_key": 136,
+    "conteudo": "APUCARANA\nPALESTRA ABORDA GESTÃO DE RESÍDUOS NAS CONFECÇÕES\n\n[Legenda da foto]: Representantes de 50 empresas participaram do encontro | Foto: Edson Denobi\n\nA adequação das empresas às normas ambientais foi tema de palestra ontem ministrada pelo secretário municipal de Meio Ambiente de Apucarana, Éwerton Pires. O evento, direcionado ao setor de confecções e que reuniu representantes de cerca de 50 empresas, ocorreu na Associação Comercial, Industrial e de Serviços de Apucarana (Acia). Além de discutir as responsabilidades, a palestra abordou a legislação ambiental e o Plano de Gerenciamento de Resíduos Sólidos (PGRS). A Secretaria de Meio Ambiente já entrou com pedido de municipalização das licenças, o que deverá agilizar os trâmites burocráticos.\nA iniciativa foi do Arranjo Produtivo Local (APL Bonés), em parceria com o Sindicato das Indústrias do Vestuário de Apucarana e do Vale do Ivaí (Sivale). De acordo com José Henrique Martins, consultor do Sebrae e membro da governança do APL, o assunto vem sendo debatido pelo setor desde 2008.\nO secretário de Meio Ambiente afirma que existe uma grande quantidade de empresas neste setor – muitas delas atuando na informalidade – e boa parte do processo produtivo é terceirizado. \"Essas empresas não estão concentradas num parque industrial. Existe uma difusão, uma capilaridade muito grande, o que acaba dificultando o trabalho de fiscalização\", observa.\nCom a campanha de conscientização desencadeada pelo APL, muitos empresários estão procurando voluntariamente a Secretaria de Meio Ambiente para apresentar o PGRS.\n\"De 8 a 9 empresas, que não haviam sido notificadas, vieram ao nosso encontro para apresentar os planos. Isso mostra a pró-atividade do setor\", destaca o secretário.",
+    "criterios": "2,3,4,5,6,7,8,16,17,18,19",
+    "html": "<figure>\n <img src=\"git/7.jpg\"\n alt=\"Artigo de jornal com o título 'PALESTRA ABORDA GESTÃO DE RESÍDUOS NAS CONFECÇÕES'. A foto mostra um auditório com cadeiras azuis. Um palestrante de barba e camisa azul clara está em pé à direita, falando para uma plateia atenta de cerca de 15 pessoas.\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição da noticia 'PALESTRA ABORDA GESTÃO DE RESÍDUOS NAS CONFECÇÕES'",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 137,
+    "titulo": "APL de Bonés promove palestra para contadores",
+    "autor": "Null",
+    "ano": "Null",
+    "categoria": "Noticia",
+    "assunto": "Evento APL para contadores sobre licenciamento ambiental",
+    "arquivo": "137_137_Noticia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 137,
+    "id_foreign_key": 137,
+    "conteudo": "APL de Bonés promove palestra para contadores\n\nO Arranjo Produtivo Local (APL Bonés) de Apucarana está convocando os profissionais da área para uma reunião de conscientização e esclarecimento, que acontece quinta-feira, às 8h30, no salão nobre da Prefeitura. A palestra que abordará o processo de emissão das licenças ambientais e os Planos de Gerenciamento de Resíduos Sólidos (PGRS). Os dois documentos são obrigatórios já na abertura das empresas.",
+    "criterios": "2,3,4,5,6,7,8,16,17",
+    "html": "<figure>\n <img src=\"git/8.jpg\"\n alt=\"Pequena coluna de jornal contendo apenas texto, sem imagens. O título em negrito é: 'APL de Bonés promove palestra para contadores'. O texto convoca profissionais para uma reunião sobre licenciamento ambiental e planos de gerenciamento de resíduos.\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição da noticia 'APL de Bonés promove palestra para contadores'",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 138,
+    "titulo": "A MARCA DE UMA CIDADE - Apucarana detém o título de Capital do Boné",
+    "autor": "Null",
+    "ano": "2014",
+    "categoria": "Noticia",
+    "assunto": "Indústria de Bonés em Apucarana.",
+    "arquivo": "138_138_Noticia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 138,
+    "id_foreign_key": 138,
+    "conteudo": "16 BONELEIRO\nTOP DE MARCAS APUCARANA 2014 AS MARCAS MAIS LEMBRADAS PELO MERCADO 6ª EDIÇÃO\n\nA MARCA DE UMA CIDADE\nApucarana detém o título de Capital do Boné\n\nQuem chega a Apucarana se depara com o monumento que recria um boné gigante logo na entrada da cidade. Não é à toa. Sede do maior polo boneleiro do País, a cidade ostenta com orgulho o título de Capital do Boné. São mais de 500 empresas na cadeia produtiva, que emprega cerca de 20 mil pessoas. Mais de 60% dos bonés fabricados no Brasil saem de Apucarana. É impossível negar que, nos últimos anos, a concorrência com produtos estrangeiros, especialmente vindos da China, exigiu um reposicionamento dos empresários apucaranenses no mercado nacional. Mas a cidade tem a seu favor a credibilidade conquistada junto aos clientes e se defende da concorrência internacional aumentando ainda mais a qualidade de seus produtos.\n\nMelhorias no processo produtivo, capacitação da mão de obra e diversificação do portfólio são marcas da Bonelli ao longo dos seus 24 anos de história. Líder na pesquisa Top de Marcas por mais um ano e em dois segmentos – fábrica de bonés e empresa de bordado – a empresa fornece hoje para grandes marcas esportivas, promocionais e de magazine. \"Conseguimos manter, ao longo dos anos, a postura e a credibilidade, que nos fazem ser os mais lembrados\", acredita Rodrigo Begalli, um dos administradores da Bonelli.\nCom um complexo fabril de 4.000 m2, a Bonelli tem em seu portfólio sete linhas de produtos, entre infantil, esportiva e de inverno, diversificação que necessitou investimentos em equipamentos e em sua própria lavanderia industrial. Hoje, a empresa conta com 160 colaboradores diretos e uma baixa rotatividade, o que contribui, ainda mais, para a comunicação efetiva e um bom relacionamento com os clientes.\n\"Os compradores que estão em São Paulo conversam bastante e falam da empresa, isso faz com que nosso nome seja bem recomendado\", afirma Begalli. Segundo o empresário, a informalidade que paira sobre o setor de confecções dificulta a manutenção de empresas sérias no mercado. Além disso, a concorrência com os produtos asiáticos exige adaptações dos empresários brasileiros. Para Begalli, no entanto, o mercado está consolidado. \"Qualidade e prazo de entrega são os diferenciais dos produtos brasileiros com os que vêm de fora\", acredita.\n\nConfiança na qualidade e credibilidade de uma marca também é o que move o empresário Joacir Amorim Horta. Com dois anos de atuação no mercado boneleiro, ele e o sócio assumiram, no início deste ano, as instalações da Boneon, marca de acessórios para bonés mais lembrada pelos apucaranenses no Top de Marcas. Com uma nova linha de trabalho, eles se preparam para a transição de nome nos próximos meses, mas reconhecem a tradição da Boneon. \"A Boneon é referência em Apucarana. Para o empresário, a nova empresa chamará a nova empresa em franca expansão, envolvendo a criação de negócios e novos canais. Da venda telefônica, a transição para o online evidencia. A gravação a laser, também lembrada em acessórios, e agora a Boneon está mudando para o nome é Bonetec\", nome que já começa a conquistar a percepção e a lembrança espontânea da população.\n\n[Tabela] FÁBRICA DE BONÉ\nMarcas %\nBONELLI 9,5%\nBoneleska 7,0%\nMilano 5,8%\nBoneon 5,8%\nKicker Bonés 5,0%\nOutros 29,2%\nNão lembra 37,7%\n\n[Tabela] EMPRESA DE BORDADOS\nMarcas %\nBONELLI 6,3%\nBrasil 5,5%\nRT Bordados 1,8%\nBoneon 1,5%\nFortuna 1,0%\nSequencial 1,0%\nShowa 1,0%\nOutros 12,0%\nNão lembra 69,9%\n\n[Tabela] LOJA DE ACESSÓRIOS PARA BONÉS\nMarcas %\nBONEON 13,0%\nDicatex 9,5%\nBonelli 2,5%\nSaneAbas 1,8%\nAtackgil 1,0%\nBoné Mania 1,0%\nOutros 7,3%\nNão lembra 63,9%\n\nÉ com muito orgulho e alegria que a Bonelli Bonés é lembrada como a Top de Marcas em seu segmento na cidade que a acolheu e que recebe o título de Capital do Boné. Temos certeza que a seriedade e o comprometimento de colaboradores e parceiros comerciais foram preponderantes para nossa empresa seja mais lembrada há 5 anos consecutivos. Conte sempre conosco, e não tire de sua cabeça a Bonelli. A nossa satisfação é fazer parte da história de Apucarana.",
+    "criterios": "2,3,4,5,6,7,8,16,17,18,19",
+    "html": "<figure>\n <img src=\"git/9.jpg\"\n alt=\"Página inteira de jornal dedicada ao tema '16 BONELEIRO'. A manchete principal é 'A MARCA DE UMA CIDADE'. Uma foto grande mostra um operador trabalhando em uma máquina de bordado industrial. No canto inferior direito, o selo laranja 'Top de Marcas 2014'. Há também tabelas listando empresas de bordados e lojas de acessórios.\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição da noticia 'A MARCA DE UMA CIDADE - Apucarana detém o título de Capital do Boné'",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 139,
+    "titulo": "APL de Apucarana inicia plano de desenvolvimento",
+    "autor": "Tribuna do Norte",
+    "ano": "2014",
+    "categoria": "Noticia",
+    "assunto": "Desenvolvimento Econômico",
+    "arquivo": "139_139_Noticia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 139,
+    "id_foreign_key": 139,
+    "conteudo": "QUARTA-FEIRA, 04 DE JUNHO DE 2014 TRIBUNA DO NORTE\n\nBONÉS\nAPL de Apucarana inicia plano de desenvolvimento\n\nArranjo Produtivo Local é incluído em programa que visa aumentar competitividade\n\n[Legenda da foto]: Apucarana tem 638 indústrias no setor têxtil | Foto: Sérgio Tibi\n\nO Arranjo Produtivo Local (APL Bonés) foi selecionado pelo Ministério do Desenvolvimento, Indústria e Comércio Exterior (MDIC) para participar de um programa que visa aumentar a competitividade de arranjos brasileiros, a partir da implantação de planos de desenvolvimento. O trabalho começa hoje com a realização de uma videoconferência e que contará com a participação dos 27 APLs selecionados. Na sequência, terão início as reuniões presenciais nas respectivas cidades, que serão conduzidas por consultores da Fundação Carlos Alberto Vanzolini, contratada pelo MDIC para orientar a elaboração dos planos.\nO prefeito de Apucarana, Beto Preto (PT), destaca a conquista, salientando que as ações do APL contam com o apoio da Prefeitura. \"Semanalmente, a Prefeitura participa das reuniões da governança do APL, através da Secretaria Municipal de Indústria e Comércio. Além disso, incluímos no orçamento deste ano recursos para serem utilizados no desenvolvimento de diversas ações, visando o fortalecimento do setor e a geração de emprego e renda\", ressalta Beto Preto.\nO projeto do APL de Apucarana – aprovado em seleção pública para arranjos de economia criativa, realizada em 2013 – foi elaborado conjuntamente pelo professor Anderson de Freitas Vietro, do campus Apucarana da Universidade Tecnológica Federal (UTFPR), e por Marisa Zanini, assessora técnica da Secretaria Municipal de Indústria e Comércio. Os dois representam as respectivas instituições na governança do APL, composta por 35 membros indicados por empresas e entidades.\nConforme Marisa Zanini, a videoconferência desta quarta-feira será disponibilizada na sede do escritório local do Sebrae, localizado na Rua Osvaldo Cruz (Edifício Palácio do Comércio). \"Todas as entidades e empresas ligadas ao APL estão sendo convidados para assistir à videoconferência, que vai, além de apresentar os consultores que vão conduzir os trabalhos, mostrar detalhes do projeto, tirar dúvidas e contextualizar os APLs no Brasil\", explica Zanini.\nJá as reuniões presenciais estão agendadas para os dias 11, 12 e 13 de junho, na sede do Sindicato das Indústrias do Vestuário de Apucarana e Vale do Ivaí (Sivale), também localizado no Edifício Palácio do Comércio.\nZanini ressalta que o plano de desenvolvimento do APL de Apucarana beneficiará diretamente 638 indústrias do setor têxtil, responsáveis por 66,2% dos empregos industriais e 25% dos empregos formais do município polo.\n\n[Destaque]: \"Incluímos no orçamento deste ano recursos para o setor\" - Beto Preto, prefeito de Apucarana",
+    "criterios": "2,3,4,5,6,7,8,16,17,18,19",
+    "html": "<figure>\n <img src=\"git/10.jpg\"\n alt=\"Matéria do jornal 'Tribuna do Norte' com a manchete 'APL de Apucarana inicia plano de desenvolvimento'. A foto horizontal ilustra o interior de uma grande fábrica de confecção, com diversas fileiras de máquinas de costura e funcionárias trabalhando, vestindo uniformes coloridos.\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição da noticia 'APL de Apucarana inicia plano de desenvolvimento'",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+{
+  "documento": {
+    "id_arquivo": 140,
+    "titulo": "APUCARANA VAI AO AR NA BBC DE LONDRES",
+    "autor": "Null",
+    "ano": "Null",
+    "categoria": "Noticia",
+    "assunto": "Noticia que destaca a exibição de um documentário sobre Apucarana na TV inglesa.",
+    "arquivo": "140_140_Noticia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 140,
+    "id_foreign_key": 140,
+    "conteudo": "DOCUMENTÁRIO\nAPUCARANA VAI AO AR NA BBC DE LONDRES\n\nDestacando Apucarana como a \"capital mundial do boné\" já foi exibido pela televisão BBC de Londres o documentário gravado no ano passado por uma equipe da emissora mostrando a produção de boné num das fábricas da cidade. O programa de 30 minutos dedicou à metade do tempo mostrando imagens feitas na cidade durante os dois dias de gravação envolvendo um grupo de 15 profissionais ingleses, entre cinegrafistas, diretores, repórter e técnicos de som.\n\"Se vocês usam boné, muitos deles vêm de lugares como esse\", diz a apresentadora do programa \"Show me what you are made of\" (Me mostre do que você é feito), mostrando a linha de produção da Milano Bonés, lembrando que a fábrica está em Apucarana, onde são fabricados cerca de 250 mil bonés por semana. A atração, que no momento é a de maior audiência, principalmente entre crianças e adolescentes, na BBC, é uma espécie de reality show.\nNesta terceira edição do programa, o Brasil foi mostrado através do contato mantido por cinco crianças inglesas, com a cultura e os costumes locais. Ao mesmo tempo, as cenas mostram a origem e a fabricação dos produtos brasileiros mais comercializados na Inglaterra.",
+    "criterios": "2,3,4,5,6,7,8,16,17",
+    "html": "<figure>\n <img src=\"git/13.jpg\"\n alt=\"Coluna de jornal intitulada 'DOCUMENTÁRIO' com a manchete: 'APUCARANA VAI AO AR NA BBC DE LONDRES'. O texto, sem imagens ilustrativas, relata a exibição de um documentário de 30 minutos na TV inglesa destacando a cidade como capital mundial do boné.\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição da noticia 'Apucarana vai ao ar na BBC de Londres'",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 141,
+    "titulo": "Apucarana fica entre os três finalistas",
+    "autor": "Jornal Radar",
+    "ano": "2014",
+    "categoria": "Noticia",
+    "assunto": "Competição do Sebrae de Empreendedorismo",
+    "arquivo": "141_141_Noticia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 141,
+    "id_foreign_key": 141,
+    "conteudo": "Apucarana fica entre os três finalistas\n\nPrêmio Nacional do Sebrae foi ganho por Resende-RJ, na categoria de pequenos negócios\n\nO segmento de bonés de Apucarana esteve em destaque na solenidade de conclusão do Prêmio Prefeito Empreendedor, realizada na noite de anteontem, na sede do Sebrae, em Brasília. A cidade, por meio do prefeito Beto Preto, concorreu na categoria \"Pequenos Negócios nos Eventos Esportivos\", com o projeto \"Na Copa do Mundo o Boné é Nosso\".\nDepois de ganhar a etapa estadual, o prefeito Beto Preto, representando Apucarana, se classificou entre os três finalistas do prêmio nacional, concorrendo ao lado de Resende-RJ e Guarujá-SP. Cento e vinte e três prefeitos e municípios de todo o Brasil, participaram da etapa final em doze categorias, após a avaliação de sete mil projetos inscritos na oitava edição do concurso.\nNa disputa com entre os finalistas da categoria \"Pequenos Negócios nos Eventos Esportivos\", venceu o prefeito de Resende, Rio de Janeiro, José Rechuan Junior, superando os projetos de Apucarana-PR e Guarujá-SP. O projeto dos cariocas, desenvolvido há mais tempo, estimula a atração de turistas, através de esportes radicais.\nDo concorrido evento participaram os ministros Guilherme Afif Domingos (Apoio às Micro e Pequenas Empresas) e Garibaldi Alves (Previdência Social), além de senadores e deputados. Na abertura, o presidente nacional do Sebrae, Luiz Barreto, disse que o prêmio serve de estímulo aos projetos em favor das micro e pequenas empresas e, ao mesmo tempo, serve para reconhecer as ações positivas dos prefeitos em favor deste setor de fundamental importância para a economia do País. \"O prêmio incentiva valiosas ações dos gestores públicos, gerando um efeito multiplicador através dos projetos bem sucedidos\", enalteceu Luiz Barreto.\nO prefeito Beto Preto diz que foi uma experiência forte. \"Trata-se de um evento de primeira grandeza, que reuniu 123 prefeitos entre 7 mil projetos inscritos, e destacadas autoridades do país\", pondera ele. \"Temos convicção de que estamos no rumo certo em nossa política pública de apoio aos micro e pequenos empresários de Apucarana\", assinala Beto Preto.\nPara a assessora técnica da Secretaria de Indústria e Comércio, Marisa Zanini, a participação de Apucarana foi positiva. \"Foi nossa primeira vez em oito anos do concurso. A partir de agora, precisamos ser mais consistentes e mostrar mais resultados práticos das ações realizadas\", opina Marisa. Ela lamentou ainda que o projeto de Apucarana é focado na Copa do Mundo, e que ainda não houve tempo hábil para aferir os resultados (vendas).\nO secretário de Indústria e Comércio de Apucarana, Laércio Beani Costa, diz que a vitória de Apucarana e do prefeito Beto Preto no Paraná foi muito positiva. \"Agora, na etapa nacional do prêmio, a classificação entre os três finalistas também foi louvável, concorrendo com cidades do porte de Resende-RJ e Guarujá-SP, destacando a gestão pública e o pólo de confecções de Apucarana\", comemorou Beani Costa.\nO empresário Emerson Dalossi, vice-presidente da Associação Nacional das Indústrias de Bonés e Brindes (ANIBB) e representante do APL de Bonés, que prestigiou o evento em Brasília, avalia que a experiência foi excelente. \"Tivemos a visão do que é o concurso e o nível dos projetos, e para os próximos anos podemos voltar com mais força\", comenta Dalossi.\nPara o sócio-proprietário da Emdax Confecções, é muito valiosa a integração entre os micros e pequenos empresários com o poder público municipal. Ele defende a ampliação das ações focadas na formalização de facções em Apucarana, pela prefeitura, APL, Acia, Sebrae e associações.\nO presidente da ANIBB, Vado Costa, que também prestigiou a solenidade em Brasília, a participação de Apucarana e do prefeito Beto Preto foi produtiva. \"A iniciativa do Sebrae provoca os prefeitos a criarem projetos que contemplam os micro e pequenos empresários. Vendemos uma imagem positiva de Apucarana para todo o Brasil, apresentando o nosso pólo de bonés e vestuário e isso tudo vem de encontro com o que a cidade está precisando para avançar em desenvolvimento econômico\", assinala Vado Costa.",
+    "criterios": "2,3,4,5,6,7,8,16,17,18,19",
+    "html": "<figure>\n <img src=\"git/11.jpg\"\n alt=\"Recorte do 'Jornal Radar' com a manchete 'Apucarana fica entre os três finalistas'. A foto mostra um palco lotado com dezenas de pessoas (autoridades e vencedores) durante a solenidade do Prêmio Sebrae Prefeito Empreendedor, com um telão ao fundo exibindo logotipos do evento.\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição da noticia 'Apucarana fica entre os três finalistas da competição do Sebrae'",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 142,
+    "titulo": "Garota do Boné 2014",
+    "autor": "Expresso",
+    "ano": "2014",
+    "categoria": "Noticia",
+    "assunto": "Concurso de Beleza",
+    "arquivo": "142_142_Noticia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 142,
+    "id_foreign_key": 142,
+    "conteudo": "Expresso magazine nº 449 agosto 1 2014\nCONCURSO E\n\nGarota do Boné 2014\n\nMiriam de Oliveira Duarte foi a vencedora do 6º concurso Garota do Boné de Apucarana. Ela concorreu com 12 candidatas no evento realizado no sábado (26), no Teatro Fênix. Miriam é funcionária da empresa Rytos. Analiz Rossi Flores (Lenix) foi a segunda colocada e Tatiane Aparecida Arcanjo (New Bordados) a terceira. Na categoria Garoto do Boné, o certame foi vencido por Vitor Hugo Castro Oliveira, representante da empresa Lenix. O segundo lugar ficou com Lucas Matheus de Almeida Castilho (Boneli Bonés), e o terceiro com Alan Henrique da Silva Rocha (Tina Confecções).\nO concurso é promovido pelo APL Bonés em parceria com os sindicatos da indústria e dos trabalhadores no setor de confecções de Apucarana. A coordenação foi de Marlene Capelanes.\n(fotos - Cosmos Digital)\n\n[Legendas das fotos]:\n* Vitor Hugo e Miriam com Marlene Capelanes.\n* Miriam de Oliveira Duarte, Garota do Boné 2014.\n* Nove rapazes, funcionários de empresas de bonés e confecções, concorreram ao título de Garoto do Boné 2014.",
+    "criterios": "2,3,4,5,6,7,8,16,17,18,19",
+    "html": "<figure>\n <img src=\"git/19.jpg\"\n alt=\"Página inteira da revista 'Expresso' cobrindo o concurso 'Garota do Boné 2014'. À direita, foto de corpo inteiro da vencedora Miriam de Oliveira Duarte, loira, usando boné branco, faixa e segurando troféu e flores. À esquerda e abaixo, fotos em grupo mostram as candidatas mulheres e os candidatos homens (Garoto do Boné) uniformizados no palco.\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição da noticia 'Garota do Boné 2014'",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 143,
+    "titulo": "Planos de APLs",
+    "autor": "Null",
+    "ano": "Null",
+    "categoria": "Noticia",
+    "assunto": "Videoconferência com 27 APLs",
+    "arquivo": "143_143_Noticia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 143,
+    "id_foreign_key": 143,
+    "conteudo": "Planos de APLs\n\nO Arranjo Produtivo Local (APL Bonés), de Apucarana, foi selecionado pelo Ministério do Desenvolvimento, Indústria e Comércio Exterior (MDIC) para participar de um programa que visa aumentar a competitividade de arranjos brasileiros, a partir da implantação de planos de desenvolvimento. O trabalho começou na quarta-feira (04/06) com a realização de uma videoconferência com a participação dos 27 APLs.\nO projeto do APL de Apucarana foi elaborado pelo professor Anderson de Freitas Vietro, do Campus Apucarana da Universidade Tecnológica Federal (UTFPR), e por Marisa Zanini, assessora técnica da Secretaria Municipal de Indústria e Comércio. Os dois representam as respectivas instituições na governança do APL, composta por 35 membros.",
+    "criterios": "2,3,4,5,6,7,8,16,17",
+    "html": "<figure>\n <img src=\"git/12.jpg\"\n alt=\"Coluna de texto de jornal com o título 'Planos de APLs'. O artigo informa que o APL Bonés de Apucarana foi selecionado pelo Ministério do Desenvolvimento (MDIC) para participar de um programa de competitividade, iniciando com uma videoconferência com 27 APLs.\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição da noticia 'planos de APLs'",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 144,
+    "titulo": "Vencedores Garoto e Garota do Boné",
+    "autor": "Null",
+    "ano": "2014",
+    "categoria": "Noticia",
+    "assunto": "Premiação",
+    "arquivo": "144_144_Noticia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 144,
+    "id_foreign_key": 144,
+    "conteudo": "Cheers - Marina Rechi\n*O dia é especial para Thales Pelissari. Ele comemora a data ao lado da namorada.\n*Laís Arrata brinda mais um ano de vida. A família e os amigos enviam os parabéns.\n\nGaroto e Garota do Boné\n\n[Legenda da foto esquerda]: O concurso Garota e Garoto do Boné, promovido pelo Arranjo Produtivo Local (APL Bonés) em parceria com o Sivale e o Stivar, aconteceu no último sábado no Cine Teatro Fênix. Na foto, Mírian de Oliveira Duarte, ganhadora do título de Garota do Boné 2014, Analiz Rossi Flores, que conquistou o segundo lugar, e Tatiane Aparecida Arcanjo, que levou o terceiro lugar, com Marlene Capelanes, organizadora do evento (Foto Cosmos Digital)\n\n[Legenda da foto direita]: Vitor Hugo Castro de Oliveira foi escolhido o Garoto do Boné 2014. O segundo lugar ficou com Lucas Matheus de Almeida Castilho e o terceiro com Alan Henrique da Silva Rocha.",
+    "criterios": "2,3,4,5,6,7,8,16,17,18,19",
+    "html": "<figure>\n <img src=\"git/20.jpg\"\n alt=\"Recorte de jornal com duas fotos. À esquerda, as três finalistas do concurso 'Garota do Boné', com a vencedora ao centro segurando flores. À direita, os três finalistas do 'Garoto do Boné', com o vencedor Vitor Hugo Castro de Oliveira ao centro. Todos usam jeans, camisetas brancas e bonés brancos, além de medalhas.\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição da noticia 'Vencedores Garoto e Garota do Boné'",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 145,
+    "titulo": "Vencedores Garoto e Garota do Boné (Duplicata)",
+    "autor": "Null",
+    "ano": "2014",
+    "categoria": "Noticia",
+    "assunto": "Premiação",
+    "arquivo": "145_145_Noticia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 145,
+    "id_foreign_key": 145,
+    "conteudo": "Cheers - Marina Rechi\n*O dia é especial para Thales Pelissari. Ele comemora a data ao lado da namorada.\n*Laís Arrata brinda mais um ano de vida. A família e os amigos enviam os parabéns.\n\nGaroto e Garota do Boné\n\n[Legenda da foto esquerda]: O concurso Garota e Garoto do Boné, promovido pelo Arranjo Produtivo Local (APL Bonés) em parceria com o Sivale e o Stivar, aconteceu no último sábado no Cine Teatro Fênix. Na foto, Mírian de Oliveira Duarte, ganhadora do título de Garota do Boné 2014, Analiz Rossi Flores, que conquistou o segundo lugar, e Tatiane Aparecida Arcanjo, que levou o terceiro lugar, com Marlene Capelanes, organizadora do evento (Foto Cosmos Digital)\n\n[Legenda da foto direita]: Vitor Hugo Castro de Oliveira foi escolhido o Garoto do Boné 2014. O segundo lugar ficou com Lucas Matheus de Almeida Castilho e o terceiro com Alan Henrique da Silva Rocha.",
+    "criterios": "2,3,4,5,6,7,8,16,17,18,19",
+    "html": "<figure>\n <img src=\"git/18.jpg\"\n alt=\"Imagem idêntica à foto anterior (id=144). Mostra as fotos dos pódios feminino e masculino do concurso Garoto e Garota do Boné 2014 no Cine Teatro Fênix.\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição da noticia 'Vencedores Garoto e Garota do Boné'",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 146,
+    "titulo": "Setor de bonés mira o mercado externo",
+    "autor": "Tribuna do Norte",
+    "ano": "2014",
+    "categoria": "Noticia",
+    "assunto": "Mercado externo de bonés",
+    "arquivo": "146_146_Noticia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 146,
+    "id_foreign_key": 146,
+    "conteudo": "economia\nTRIBUNA DO NORTE\nAPUCARANA\n\nSetor de bonés mira o mercado externo\nExportação é uma das estratégias do APL para ampliar a receita do segmento\n\nO setor têxtil de Apucarana quer conquistar novos mercados no exterior, principalmente na América do Sul. A estratégia de expansão vem sendo discutida pelo Arranjo Produtivo Local (APL) de bonés do município, que foi selecionado pelo Ministério do Desenvolvimento, Indústria e Comércio Exterior para participar de um programa que visa aumentar a competitividade, qualidade dos produtos e implantar planos de desenvolvimento no segmento. O projeto prevê uma consultoria especializada, que deve discutir com os empresários propostas de ampliar os negócios do segmento.\nSegundo o empresário Jayme Leonel, integrante do APL, o grupo compreende 560 empresas, dentre elas, cerca de 150 fábricas de bonés. De acordo com ele, há oito anos as integrantes do APL tinham um volume grande de exportações, mas as vendas externas foram deixadas de lado recentemente, sendo quase inexpressivas atualmente. \"Hoje, as empresas do APL vendem um total de 4 milhões de peças por mês dentro do país. Nos últimos anos, devido ao aumento dos impostos, custos do dólar e burocracia tivemos muitas baixas na exportação\", cita o empresário. Ele conta também que os produtos asiáticos invadiram o mercado, dificultando o setor têxtil, de modo geral.\nO empresário considera \"positivo\" o projeto do Ministério do Desenvolvimento, Indústria e Comércio Exterior. Para ele, o programa viabiliza a oportunidade de investir em mercados na América do Sul, sobretudo em países como Chile, Venezuela, Uruguai e Colômbia. \"Acredito que podemos aumentar em até 10% as vendas que temos hoje\", estima Leonel.\nPara Vadenilson Vado Domingos da Costa, presidente da Anibb (Associação Nacional das Indústrias de Bonés, Camisetas, Brindes e Similares), a ação é importante para alavancar as empresas apucaranenses. \"Todo setor precisa se profissionalizar para crescer. No casos dos bonés, não é diferente\", assinala. Segundo Vado, essas ações são importantes tanto para pequenas quanto para grandes empresas. \"No caso da pequena empresa, isso fornece um aperfeiçoamento e para a grande a consultoria serve para ratificar e ampliar a qualidade dos serviços feitos\", cita o empresário.\n\nBUROCRACIA\nSobre as dificuldades de conseguir espaço no mercado exterior, o presidente da Anibb também cita a burocracia como principal causa. \"Acho que custos com impostos e despesas trabalhistas dificultam a situação do empresário e impedem um número maior de investimentos\", destaca Vado.\nEmbora produtos da região sejam bons, segundo o empresário não há ainda um \"padrão\" de qualidade consolidado. \"Ele oscila muito de uma empresa pra outra, de um produto a outro. Aumentar a qualidade dos produtos é essencial\", comenta o presidente da Anibb.\n\nFÁBRICAS VENDEM 4 MILHÕES DE PEÇAS POR MÊS DENTRO DO PAÍS\n\n[Legenda da foto]: Exportações do setor de bonés de Apucarana são ainda tímidas | Foto: Sérgio Tibi",
+    "criterios": "2,3,4,5,6,7,8,16,17,18,19",
+    "html": "<figure>\n <img src=\"git/15.jpg\"\n alt=\"Matéria da seção de Economia da 'Tribuna do Norte'. Manchete: 'Setor de bonés mira o mercado externo'. A foto ilustrativa mostra o interior de uma fábrica de confecções com várias funcionárias costurando. Em primeiro plano, uma mulher costura um tecido vermelho.\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição da noticia 'Setor de bonés mira o mercado externo'",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 147,
+    "titulo": "POLÊMICA NÃO AFETA VENDAS DO FULECO",
+    "autor": "Null",
+    "ano": "Null",
+    "categoria": "Noticia",
+    "assunto": "Vendas de macote da Copa do Mundo",
+    "arquivo": "147_147_Noticia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 147,
+    "id_foreign_key": 147,
+    "conteudo": "COPA DO MUNDO\n\nPOLÊMICA NÃO AFETA VENDAS DO 'FULECO'\n\nA polêmica envolvendo a Fifa e entidades não-governamentais tem feito com que a entidade máxima do futebol não utilize o mascote Fuleco com tanta frequência na Copa do Mundo. A falta de visibilidade do mascote, no entanto, não tem afetado as vendas do boné do Fuleco, fabricado com exclusividade por duas empresas de Apucarana.\nSegundo Vadenilson Vado Domingos da Costa, que é proprietário de uma das empresas que detém os direitos da fabricação, não está havendo problema. \"Estamos dentro das expectativas. Até agora não houve impacto nenhum de uma possível falta de visibilidade\", garante.\nMas dificuldades, segundo ele mesmo admite, estão sendo enfrentadas. \"A indústria brasileira, de um modo geral, tem apresentado problemas, sendo o setor de confecções um dos mais afetados, já que emprega muitas pessoas\", afirma.\nA polêmica em torno do mascote da Copa do Mundo de 2014 teve início quando organizações de proteção do tatu-bola divergiram da Fifa quanto ao repasse financeiro da entidade esportiva para a preservação da espécie. De acordo com a principal Organização Não-Governamental (ONG) com este fim, o valor é bem abaixo do plausível: cerca de R$ 300 mil, que seriam disponibilizados em 10 anos. Com a briga, a Fifa teria 'escondido' o seu mascote, que nem participou da cerimônia de abertura.\n\n[Legenda da foto]: Mais de 100 mil peças já foram confeccionadas | Foto: Sérgio Tibi",
+    "criterios": "2,3,4,5,6,7,8,16,17,18,19",
+    "html": "<figure>\n <img src=\"git/14.jpg\"\n alt=\"Artigo com o título 'POLÊMICA NÃO AFETA VENDAS DO FULECO'. A foto mostra uma produção de chapéus de espuma no formato do mascote da Copa do Mundo (tatu-bola Fuleco), com detalhes em azul e amarelo. Uma costureira aparece trabalhando ao fundo.\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição da noticia 'Polêmica não afeta vendas do Fuleco'",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 148,
+    "titulo": "EM BUSCA DO SELO VERDE",
+    "autor": "Null",
+    "ano": "Null",
+    "categoria": "Noticia",
+    "assunto": "Sustentabilidade em empresas de Apucarana",
+    "arquivo": "148_148_Noticia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 148,
+    "id_foreign_key": 148,
+    "conteudo": "CIDADES\nEM BUSCA DO SELO VERDE\nEmpresas de Apucarana apostam em soluções para modernizar produção, obter certificações ambientais e melhorar imagem perante o mercado\n\nProdução comprometida com o meio ambiente. Na região, cada vez mais empresas buscam procedimentos e certificações que comprovem a implantação de uma produção mais sustentável. A meta é se antecipar às exigências legais e garantir um status de produto/produção sustentável frente a consumidores e mercado.\nA bióloga Anna Carla de Oliveira, analista ambiental do grupo BSB, da marca Fujiwara, cita que a empresa realiza em toda a rede a ação \"Fornecedor Sustentável\" na qual vários fornecedores trocam experiências sobre práticas de reutilização dos resíduos e inovações. A empresa, que produz equipamentos de proteção individual, também adotou uma premiação – o \"Troféu BSB\" – dedicada a parceiros que desenvolvam as melhores ideias. \"Assim conseguimos cada vez mais trabalhar com empresas que atendam requisitos ambientais\", ela conta. Há cerca de 8 anos a empresa estabeleceu um plano de gerenciamento de resíduos que, de acordo com ela, demanda um investimento entre R$ 7 mil e R$ 10 mil mensais para encaminhar resíduos.\nDe acordo com a bióloga, no momento a empresa busca ajustar procedimentos e obter o ISO 14001, certificação que firma a empresa como ambientalmente correta. A meta é obter o selo até abril de 2015.\nNa Caramuru Alimentos, empresa especializada em derivados do milho, a preocupação com o ambiente integra um conjunto de políticas empresariais. \"Aderimos ao projeto Proterra em 2006, um padrão internacional de sustentabilidade que visa todos os pontos da produção, desde produção, armazenagem e conservação\", comenta o gerente industrial, Wanderlei Faganello.\nDe acordo com Faganello, a lei vem mudando para cobrar a regularização de empresas, mas várias, como a Caramuru, preferem se antecipar e adequar procedimentos antes de questões legais entrarem em vigor. \"Colocamos novos equipamentos e modernizamos o recebimento e transporte interno de grãos, além de colocarmos captadores de pó de milho, que antes era resíduo e agora pode ser ensacado e vendido como ração, gerando renda para a empresa\", ele pontua.\nUm dos objetivos da empresa é modernizar os processos para buscar a ISO 22000 – norma internacional para implementação de um Sistema de Gestão da Segurança de Alimentos. Segundo ele, isso requer investimento e monitoramento constante dos processos realizados e pode levar tempo.\nPara José Henrique Martins, consultor do Sebrae, essa maior preocupação das empresas passa também a diferenciá-las no mercado. \"Quando uma empresa adota tais posturas, clientes e fornecedores passam a perceber essa conscientização, o que transmite mais credibilidade para o público, assim como sua imagem no mercado\" destaca Martins. Ele pontua também que modernizar equipamentos e adotar projetos mais sustentáveis, pode também refletir em economia para a empresa. \"Se muitos resíduos são gerados, algo pode estar ruim na cadeia produtiva, melhorando e modernizando a linha de produção, você aproveita melhor a matéria prima e passa a diminuir gastos\", ele cita.\n\nPRODUÇÃO VERDE: Desde a aprovação do Protocolo de Kyoto, em 1997, o processo industrial como um todo vem sendo pressionado a adotar sistemas de produção mais sustentáveis e menos poluentes.\nECOETIQUETA: São selos de certificação integrados aos produtos ou agregados à marca da empresa, que indicam que empresas/produtos não degradam o planeta.\nCERTIFICAÇÃO: Há vários tipos de certificação, que podem estar relacionadas à tecnologia empregada, caso do ISO 14.001, reconhecimento (Empresa Amiga do Meio Ambiente) ou institucional.\nEMISSÃO DE CARBONO: Responsável pelo efeito estufa e relacionado ao aquecimento global, o dióxido de carbono (CO2) é um gás liberado, entre outros processos, pela queima de combustíveis fósseis. A redução da emissão desse gás é a premissa da política de carbono zero, que vem sendo adotada por empresas interessadas em compensar a poluição causada durante seus processos produtivos.\n\n[Citação]: \"Quando uma empresa adota tais posturas, clientes e fornecedores passam a perceber essa conscientização\" - José Henrique Martins, consultor do Sebrae.\n\n[Legenda da foto]: Rank Pneus está em processo de certificação | Foto: Delar Garcia",
+    "criterios": "2,3,4,5,6,7,8,16,17,18,19",
+    "html": "<figure>\n <img src=\"git/16.jpg\"\n alt=\"Página de jornal com o título 'EM BUSCA DO SELO VERDE'. Apresenta um infográfico circular explicando conceitos como 'Produção Verde', 'Ecoetiqueta' e 'Emissão de Carbono'. No rodapé, uma foto mostra um funcionário trabalhando em uma recapadora de pneus (Rank Pneus).\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição da noticia 'Em busca do selo verde'",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 149,
+    "titulo": "APL DISCUTE INTERNACIONALIZAÇÃO",
+    "autor": "Null",
+    "ano": "Null",
+    "categoria": "Noticia",
+    "assunto": "Exportação",
+    "arquivo": "149_149_Noticia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 149,
+    "id_foreign_key": 149,
+    "conteudo": "BONÉS\nAPL DISCUTE INTERNACIONALIZAÇÃO\nINTENÇÃO É AMPLIAR PARTICIPAÇÃO NO MERCADO EXTERNO\n\nO Arranjo Produtivo Local (APL Bonés) está elaborando o Plano de Desenvolvimento do setor e uma das ações previstas é o projeto de internacionalização. Nos dias 8 e 10 de setembro, Iva Cardinal, da IC Brasil Consultoria, estará em Apucarana, quando vai ministrar a palestra \"Mercados Potenciais para o Vestuário na América do Sul\". Atualmente, existem poucas empresas apucaranenses do setor que atuam no mercado externo e a intenção é ampliar a participação.\nO APL de Apucarana, junto com outros 27 arranjos produtivos brasileiros, foi selecionado para participar do programa pelo Ministério do Desenvolvimento, Indústria e Comércio Exterior (MDIC). Desde junho, estão ocorrendo reuniões e visitas a empresas com o objetivo de elaborar o plano de desenvolvimento do setor.\nAlém do envolvimento do empresariado, as discussões também estão sendo intensificadas pela governança do APL, constituída por representantes de empresas, entidades, instituições de ensino e Prefeitura de Apucarana. \"O Município participa com seus representantes ativamente das reuniões do APL, das discussões e das ações realizadas. Apucarana foi contemplada e os custos de elaboração do plano desenvolvimento, entre os quais está a contratação de uma consultoria, são bancados pelo Governo Federal\", frisa Laércio Costa, secretário municipal de Indústria e Comércio.\nDe acordo com Patrícia Macedo Papa, secretária-executiva do Sindicato das Indústrias do Vestuário de Apucarana e do Vale do Ivaí (Sivale), existem cinco grupos temáticos dentro do arranjo (tecnologia, mercado, imagem, capacitação e gestor) que também estão envolvidos nas discussões do plano de desenvolvimento. \"Nesta semana, o grupo imagem da governança se reuniu para avaliar o volume de vendas de bonés e jeans, ações de mercado, desenvolvimento de marcas próprias e a realização de uma pesquisa de imagem do APL\", cita.\n\"Na próxima quinta-feira, teremos a presença na reunião da governança do APL do Wagner de Paula Rodrigues, que vai abordar o trabalho de business intelligence\", informa.",
+    "criterios": "2,3,4,5,6,7,8,16,17",
+    "html": "<figure>\n <img src=\"git/17.jpg\"\n alt=\"Texto de jornal com o título 'APL DISCUTE INTERNACIONALIZAÇÃO - Intenção é ampliar participação no mercado externo'. O artigo relata a elaboração do Plano de Desenvolvimento do setor e cita palestras sobre mercados potenciais na América do Sul. Não há imagens ilustrativas.\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição da noticia 'APL discute internacionalização'",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
 }
 
 ]
