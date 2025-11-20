@@ -3336,6 +3336,379 @@
     "aria-pressed": "[true, false]",
     "aria-description": "Leitura da audiodescrição possui duração de X minutos."
   }
+},
+{
+  "documento": {
+    "id_arquivo": 150,
+    "titulo": "Apucarana elege sábado Garoto e Garota Boné",
+    "autor": "Null",
+    "ano": "2014",
+    "categoria": "Noticia",
+    "assunto": "Evento do concurso Garoto e Garota Boné",
+    "arquivo": "150_150_Noticia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 150,
+    "id_foreign_key": 150,
+    "conteudo": "Apucarana elege sábado Garoto e Garota Boné\n\nO Arranjo Produtivo Local do Boné (APL Bonés de Apucarana) e o Sindicato das Indústrias do Vestuário de Apucarana e Vale do Ivaí (Sivale), juntamente com o Sindicato dos Trabalhadores nas Indústrias do Vestiário de Apucarana e Região (STIVAR), promovem neste sábado (26/07), a partir das 19h30, no Cine Teatro Fênix, a 6ª edição do Concurso Garota e Garoto do Boné.\nO concurso vai escolher os mais belos representantes do setor e tem assessoria da promoter Marlene Capelanes. As inscrições vão até esta quinta-feira e podem ser feitas pelo telefone (43) 9934-9582. Até o final da tarde de ontem, a organização do evento já havia confirmado 22 participantes, sendo 13 mulheres.\nOs convites para o concurso podem ser adquiridos junto ao Sivale pelo 3422-0930 ou ainda no dia do evento, na bilheteria do Cine Teatro Fênix. O valor é de R$10,00.\n\n[Manuscrito]: Jornal de quarta 23/07/14",
+    "criterios": "2,3,4,5,6,7,8,16,17",
+    "html": "<figure>\n <img src=\"git/21.jpg\"\n alt=\"Coluna de jornal com o título 'Apucarana elege sábado Garoto e Garota Boné'. O texto, sem fotos, informa sobre a 6ª edição do concurso promovido pelo APL e sindicatos, que acontecerá no Cine Teatro Fênix, com assessoria de Marlene Capelanes. Há uma anotação manuscrita em azul: 'Jornal de quarta 23/07/14'.\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição da noticia 'Apucarana elege sábado Garoto e Garota Boné'",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 151,
+    "titulo": "APL DE BONÉS COMPLETA 10 ANOS",
+    "autor": "Null",
+    "ano": "Null",
+    "categoria": "Noticia",
+    "assunto": "Aniversário APL",
+    "arquivo": "151_151_Noticia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 151,
+    "id_foreign_key": 151,
+    "conteudo": "APUCARANA PÁG. A6\nAPL DE BONÉS COMPLETA 10 ANOS\n\nCriado em 2004, o Arranjo Produtivo Local (APL) de Bonés de Apucarana completa 10 anos projetando o futuro. A entidade tem 28 projetos de desenvolvimento encaminhados, que visam aumentar ainda mais a qualidade dos produtos na próxima década. O empresário e coordenador do APL Bonés, Jayme Leonel, faz um balanço positivo e diz que houve maior união e \"entendimento entre os empresários\".\n\n[Legenda da foto]: Foto: Sérgio Rodrigo",
+    "criterios": "2,3,4,5,6,7,8,16,17,18,19",
+    "html": "<figure>\n <img src=\"git/22.jpg\"\n alt=\"Artigo de jornal com a manchete 'APL DE BONÉS COMPLETA 10 ANOS'. A foto ilustrativa mostra um trabalhador de camiseta cinza operando uma máquina de costura industrial. Ao lado dele, sobre a bancada, há uma pilha de bonés laranjas com a parte traseira em tela verde (estilo trucker).\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição da noticia 'APL de bonés completa 10 anos'",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 152,
+    "titulo": "APL Bonés comemora 10 anos",
+    "autor": "Expresso Magazine",
+    "ano": "Null",
+    "categoria": "Noticia",
+    "assunto": "Evento Social",
+    "arquivo": "152_152_Noticia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 152,
+    "id_foreign_key": 152,
+    "conteudo": "Geral\nAPL Bonés comemora 10 anos\n\nEvento aconteceu na sede nova do Sebrae em Apucarana\n\nO APL-Bonés (Arranjo Produtivo Local) comemorou 10 anos de existência em Apucarana no dia 24 de outubro, reunindo associados, autoridades e convidados na sede nova do Sebrae. O APL de Bonés foi criado para promover e consolidar o desenvolvimento econômico sustentável do setor de bonés de Apucarana, como centro de excelência, trabalhando coletivamente com crescente participação no mercado.\nNo evento foi apresentado um vídeo com os empresários associados contando toda a trajetória do APL nestes 10 anos, relatando todas as ações que contribuíram para o desenvolvimento do setor, entre elas a NCM do Boné, Modelagem, Missões para China e Angola, Projeto do Meio Ambiente e o título Apucarana Capital do Boné.\nO APL homenageou na ocasião três pessoas que contribuíram de forma expressiva no seu desenvolvimento: o empresário e coordenador da entidade Jayme Leonel, o coordenador do Sebrae de Apucarana José Henrique Martins e Marisa Zanini, da Secretaria da Indústria e Comércio de Apucarana. Leonel e Martins receberam a homenagem pela atuação na entidade desde a sua fundação, enquanto Marisa foi homenageada pela realização de projetos e serviços dentro do APL de Bonés.\n\n[Legendas das fotos]:\n* professor Rogério Ribeiro, deputado federal Alex Canziani, prefeito Beto Preto, secretário municipal Laércio Costa e vice-prefeito Junior da Femac\n* Bruna Cessel, Erika Suzuki, Beatriz Poleto, Patrícia Papa e Michele Romani\n* Mari Isiri, Larissa Maruiti, Cláudia Damázio e Paula Soares\n* O homenageado Jayme Leonel com equipe do Sebrae, do APL e empresários\n* expresso magazine 17",
+    "criterios": "2,3,4,5,6,7,8,16,17,18,19",
+    "html": "<figure>\n <img src=\"git/23.jpg\"\n alt=\"Página de jornal cobrindo o evento 'APL Bonés comemora 10 anos'. No topo, uma foto panorâmica do salão de festas. Abaixo, três fotos posadas: um grupo de cinco homens de terno (autoridades e empresários), um grupo de cinco mulheres jovens vestidas socialmente, e um grupo maior e misto de pessoas em pé, incluindo o homenageado Jayme Leonel.\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição da noticia 'APL Boné comemora 10 anos'",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 153,
+    "titulo": "APL Bonés comemora 10 anos (Duplicata)",
+    "autor": "Expresso Magazine",
+    "ano": "Null",
+    "categoria": "Noticia",
+    "assunto": "Evento Social",
+    "arquivo": "153_153_Noticia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 153,
+    "id_foreign_key": 153,
+    "conteudo": "Null",
+    "criterios": "2,3,4,5,6,7,8,16,17,18,19",
+    "html": "<figure>\n <img src=\"git/24.jpg\"\n alt=\"Página de jornal idêntica à anterior (foto 104), com o título em faixa azul 'APL Bonés comemora 10 anos'. As fotos mostram a celebração na sede do Sebrae, destacando a presença de autoridades como o deputado Alex Canziani e o prefeito Beto Preto, além de colaboradoras e a equipe do APL.\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição da noticia 'APL Boné comemora 10 anos (duplicata)'",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 154,
+    "titulo": "Null",
+    "autor": "Expresso Magazine",
+    "ano": "Null",
+    "categoria": "Noticia",
+    "assunto": "Detalhe Fotos Comemoração",
+    "arquivo": "154_154_Noticia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 154,
+    "id_foreign_key": 154,
+    "conteudo": "Null",
+    "criterios": "2,16,17,18,19",
+    "html": "<figure>\n <img src=\"git/25.jpg\"\n alt=\"Recorte ampliado da página de cobertura do evento de 10 anos do APL. Foca em três fotos: no topo, cinco homens de terno em pé; no meio, cinco mulheres sorrindo; e abaixo, o grupo maior de convidados e homenageados. As legendas identificam nomes como Rogério Ribeiro, Alex Canziani, Beto Preto e Laércio Costa.\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição das fotos da comemoração do APL Bonés",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 155,
+    "titulo": "Retomar crescimento é desafio para APL bonés",
+    "autor": "Tribuna do Norte/Renam Valim",
+    "ano": "Null",
+    "categoria": "Noticia",
+    "assunto": "Economia e Estatísticas do Setor dos Bonés",
+    "arquivo": "155_155_Noticia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 155,
+    "id_foreign_key": 155,
+    "conteudo": "APUCARANA\nRetomar crescimento é desafio para APL bonés\nArranjo produtivo completa 10 anos com vários projetos para inovar setor\n\nUMA DÉCADA DE APL BONÉS\n[Infográfico]:\n* Instituição foi criada em 2004 com o apoio do Sebrae e entidades locais\n* Produção mensal é de até 5 milhões de peças\n* o que equivale a 60% do mercado nacional\n* 15 mil empregados no setor\n* 150 são fábricas\n* 650 empresas fazem parte do polo de Apucarana\n* 500 são facções especializadas em serviços como bordado, corte, costura, serigrafia etc.\n* 8 mil trabalham na informalidade\n\nCriado em 2004, o Arranjo Produtivo Local (APL) de Bonés de Apucarana completou 10 anos. Com avanços em técnicas de produção, padronização e fortalecimento do empresariado do setor no mercado nacional, a instituição planeja manter os bons resultados e o crescimento da indústria de confecções. Para isso, o APL Bonés traça 28 projetos de desenvolvimento, com o objetivo de aumentar ainda mais a qualidade dos produtos na próxima década.\nO empresário e coordenador do APL Bonés, Jayme Leonel, fez um balanço desses 10 anos de constituição da instituição. Segundo ele, foram vários os avanços alcançados pelo setor através da APL Bonés. \"Acredito que, nesse período, houve um maior entendimento entre os empresários. Houve a consciência de que é importante a colaboração mútua para o fortalecimento de todos. Isso foi o mais importante\", avalia.\nOutro ponto positivo, segundo Leonel, foi a solução de um problema que 'amarrava' o desenvolvimento e fortalecimento do setor, que era a falta de uma modelagem fixa e padronizada. \"Antigamente, cada fábrica fazia seus produtos com tamanhos próprios. Tivemos aqui a visita de um engenheiro alemão que nos ajudou a criar uma padronização de tamanhos, o que fortaleceu bastante o setor\".\nO coordenador da APL ressalta ainda que o setor foi pioneiro no planejamento do descarte de resíduos. \"Praticamente todas as empresas de bonés do município têm um plano de resíduos atualmente. A APL Bonés que começou com isso. Nós iniciamos essa preocupação do setor de confecção no Paraná\", diz.\nSegundo ele, a produção das 150 fábricas apucaranenses é de até 5 milhões de peças por mês, o que equivale a cerca de 60% da produção nacional. O desafio agora é, mesmo com a forte concorrência da indústria asiática e do mercado informal, manter o crescimento. \"Temos 15 mil pessoas trabalhando no setor em Apucarana, sendo 8 mil delas na informalidade. O desafio da formalização é complexo mas está sendo cumprido. Muitas empresas têm se formalizado com a flexibilização da burocracia, como a possibilidade de se tornar um Micro Empreendedor Individual (MEI)\".\nLeonel afirma que a APL tem 28 projetos para desenvolvimento, entre inovação, exportação, capacitação, entre outras áreas que compõem o segmento. \"O boné deixou de ser um item promocional para se tornar peça do vestuário. Por isso, acredito que devemos cada vez mais pensar em qualidade e menos em quantidade\", afirma.\n\n[Citação]: \"O boné deixou de ser um item promocional para se tornar peça do vestuário\" - Jayme Leonel, empresário e coordenador da APL Bonés.\n\n[Legenda da foto]: Setor emprega 15 mil funcionários em Apucarana | Foto: Sérgio Rodrigo",
+    "criterios": "2,3,4,5,6,7,8,16,17,18,19",
+    "html": "<figure>\n <img src=\"git/26.jpg\"\n alt=\"Matéria de jornal com o título 'Retomar crescimento é desafio para APL bonés'. Contém infográficos coloridos com dados do setor (650 empresas, 15 mil empregados, 500 facções). Uma foto mostra uma mulher trabalhando em uma máquina de costura industrial, focada no tecido azul que manuseia.\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição da noticia 'Retomar crescimento é desafio para APL bonés'",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 156,
+    "titulo": "Planos de APLs",
+    "autor": "Null",
+    "ano": "Null",
+    "categoria": "Noticia",
+    "assunto": "Reunião de Apresentação de Planos de Desenvolvimento",
+    "arquivo": "156_156_Noticia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 156,
+    "id_foreign_key": 156,
+    "conteudo": "Planos de APLs\n\nNo próximo dia 26 será feita a apresentação final dos planos de desenvolvimento de 27 APLs (Arranjos Produtivos Locais), entre os quais está o APL Bonés, de Apucarana. O encontro reunirá representantes de vários estados em Brasília. Depois de quase seis meses de estudos e debates, o APL Bonés elencou 24 ações entre previstas e futuras que serão mostradas na capital federal.",
+    "criterios": "2,3,4,5,6,7,8,16,17,18,19",
+    "html": "<figure>\n <img src=\"git/27.jpg\"\n alt=\"Pequeno recorte de texto de jornal com o título 'Planos de APLs'. A nota informa que no dia 26 será feita a apresentação final dos planos de desenvolvimento de 27 APLs em Brasília, incluindo o de Apucarana, que elencou 24 ações previstas.\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição da noticia 'Planos de APLs'",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 157,
+    "titulo": "Boneleska nas Olimpíadas 2016",
+    "autor": "Null",
+    "ano": "Null",
+    "categoria": "Noticia",
+    "assunto": "Produtos Licenciados da olimpíada Rio 2016",
+    "arquivo": "157_157_Noticia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 157,
+    "id_foreign_key": 157,
+    "conteudo": "Economia\nBoneleska nas Olimpíadas 2016\n\nA empresa de confecções Boneleska apresenta na FIT 2014 os produtos licenciados para os Jogos Olímpicos e Paralímpicos Rio 2016 que acontecerão no Brasil a partir de agosto do ano que vem.\nNo evento, a indústria de Apucarana está revelando uma coleção de 11 produtos entre viseira, chapéu e bonés temáticos e alusivos ao evento no Brasil. \"Os Jogos Olímpicos 2016 vão expressar união e despertar superação e otimismo. É uma marca poderosa, capaz de traduzir nossa diversidade e alegria abraçando o mundo todo de uma só vez\", afirmou Siumara Michelin da Costa, diretora comercial da empresa.\nA cerimônia de abertura dos Jogos Olímpicos acontecerá no dia 05 de agosto de 2016 estádio do Maracanã. O vento terá duração de 29 dias e espera-se um público de 600 mil pessoas.\nPela terceira vez e segundo ano consecutivo, a Boneleska vai participar do evento, que acontece de 23 a 26 de novembro, no Expo Center Norte - Pavilhão Vermelho, em São Paulo. Durante a programação, a empresa apresentará os destaques de sua produção das coleções de várias marcas licenciadas.\n\nNOVIDADES\nAlém da marca Rio 2016, a indústria apresentará novidades das linhas Ben 10, Backyardigans, Galinha Pintadinha, Hora da Aventura, Kids.Com, Moranguinho, Barbie, Monster High, Polly Pocket, Max Steel, Hot Wheels e Sítio do Pica Pau Amarelo. A FIT (Feira Internacional do Setor Infanto-Juvenil Teen Bebê) é destinada exclusivamente para profissionais do setor (lojistas de shoppings, redes de varejo e boutiques), vindos de todos os estados brasileiros e do exterior. Os visitantes são convidados da promotora, parceiros e expositores.",
+    "criterios": "2,3,4,5,6,7,8,16,17,18,19",
+    "html": "<figure>\n <img src=\"git/28.jpg\"\n alt=\"Artigo com o título 'Boneleska nas Olimpíadas 2016'. A foto mostra um estande de feira colorido e iluminado, repleto de bonés nas prateleiras. No centro do estande, há um totem com a imagem do mascote Vinicius e um recorte do mascote Fuleco no chão. Duas mulheres estão sentadas em mesas de atendimento.\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição da noticia 'Boneleska nas Olimpíadas 2016'",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 158,
+    "titulo": "APL de Bonés apresenta plano de desenvolvimento em Brasília",
+    "autor": "Null",
+    "ano": "Null",
+    "categoria": "Noticia",
+    "assunto": "Planos de Desenvolvimento APL apresentados em Brasília",
+    "arquivo": "158_158_Noticia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 158,
+    "id_foreign_key": 158,
+    "conteudo": "APL de Bonés apresenta plano de desenvolvimento em Brasília\nEvento acontece na próxima quarta-feira (26) na Sala Funarte Cássia Eller e consiste em pesquisa de imagem do APL, consolidação de um calendário de feiras, implantação de um distrito industrial e aproveitamento dos resíduos de confecções\n\nNa próxima quarta-feira (26), em Brasília, será feita a apresentação final dos planos de desenvolvimento de 27 APLs, entre os quais está o de Apucarana. O encontro que reunirá representantes de várias partes do Brasil acontecerá das 14h às 18h, na Sala Funarte Cássia Eller (Eixo Monumental, Setor de Divulgação Cultural, Lote 2). Depois de quase seis meses de estudos e debates, o Arranjo Produtivo Local de Bonés elencou 24 ações classificadas em dois grupos: previstas e futuras.\nO secretário municipal de Indústria e Comércio, Laércio Beani da Costa, participou dos debates e lembra que o Arranjo Produtivo Local de Bonés foi, junto com os demais, contemplado em programa desenvolvido pelos ministérios do Desenvolvimento, Indústria e Comércio Exterior (MDIC) e da Cultura. \"Além da apresentação dos planos, a reunião será também um momento de consolidação da parceria com o governo federal e de comemoração dos 10 anos do grupo de trabalho permanente dos Arranjos Produtivos Locais\", pontua Laércio Costa.\nO secretário também salienta que o plano foi elaborado com o apoio da Fundação Carlos Alberto Vanzolini, de São Paulo, contratada pelo Governo Federal. \"O consultor designado pela fundação realizou várias reuniões presenciais em Apucarana, além de agendar visitas em empresas. Foi um período extremamente positivo para reflexões, avaliações e definição de ações\", frisa Laércio Costa.\nDe acordo com José Henrique Martins, consultor do Sebrae e integrante da governança do APL Bonés, as ações previstas estão em fase inicial de execução e abrangem pesquisa de imagem do APL, consolidação de um calendário de feiras, implantação de um distrito industrial e o aproveitamento econômico dos resíduos do setor de confecções.\nJá as ações futuras compreendem a realização de um censo econômico do setor, ações visando a elevação do nível de escolaridade e especialização da mão de obra, apoio tecnológico para as empresas ligadas ao APL, adesão ao Projeto de Extensão Industrial Exportadora (PEIEX), desenvolvimento de um programa de inteligência competitiva, formalização das facções (empresas de fundo de quintal) e estímulo ao associativismo e cooperativismo.",
+    "criterios": "2,3,4,5,6,7,8,16,17,18,19",
+    "html": "<figure>\n <img src=\"git/29.jpg\"\n alt=\"Matéria com a manchete 'APL de Bonés apresenta plano de desenvolvimento em Brasília'. A foto ilustrativa mostra dezenas de bonés cinzas com o logotipo 'Vonpar' bordado em branco, amontoados sobre uma superfície, sugerindo produção em larga escala.\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição da noticia 'APL de Bonés apresenta plano de desenvolvimento em Brasília'",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 159,
+    "titulo": "Dia do Boné II",
+    "autor": "Null",
+    "ano": "Null",
+    "categoria": "Noticia",
+    "assunto": "Comemorações para os colaboradores do setor de bonés",
+    "arquivo": "159_159_Noticia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 159,
+    "id_foreign_key": 159,
+    "conteudo": "Dia do Boné II\n\nTambém neste período, motoristas da empresa Viação Apucarana Ltda e da Prefeitura de Apucarana estão trabalhando usando boné. No dia 29, haverá um café da manhã para homenagear os colaboradores das Indústrias de Bonés que contribuíram com ideias que estimularam a inovação dentro da empresa.",
+    "criterios": "2,3,4,5,6,7,8,16,17",
+    "html": "<figure>\n <img src=\"git/30.jpg\"\n alt=\"Coluna de texto intitulada 'Dia do Boné II'. A nota informa que motoristas da Viação Apucarana e funcionários da Prefeitura estão trabalhando de boné. Menciona também um café da manhã no dia 29 para homenagear colaboradores que contribuíram com ideias inovadoras.\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição da Noticia 'Dia do Boné II'",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 160,
+    "titulo": "Programação Dia do Boné",
+    "autor": "Null",
+    "ano": "Null",
+    "categoria": "Noticia",
+    "assunto": "Comemorações para os colaboradores do setor de bonés",
+    "arquivo": "160_160_Noticia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 160,
+    "id_foreign_key": 160,
+    "conteudo": "Dia do Boné I\n\nA programação do Dia do Boné fará parte dos festejos pelos 71 anos de Apucarana. Nos dias 30 e 31, o comércio das avenidas centrais da cidade vai receber bonés para serem colocados nos manequins em exposição. Também neste período, motoristas da empresa Viação Apucarana Ltda e da Prefeitura de Apucarana estão trabalhando usando boné.\n\nDia do Boné II\n\nNo dia 29, haverá um café da manhã para homenagear os colaboradores das Indústrias de Bonés que contribuíram com ideias que estimularam a inovação dentro da empresa.",
+    "criterios": "2,3,4,5,6,7,8,16,17",
+    "html": "<figure>\n <img src=\"git/31.jpg\"\n alt=\"Coluna de texto de jornal sem imagens. O título é 'Dia do Boné I' e 'Dia do Boné II'. O texto informa que a programação fará parte dos festejos de 71 anos de Apucarana, com decoração no comércio, uso de bonés por motoristas e um café da manhã em homenagem aos colaboradores.\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição da progrmação do dia do boné",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 161,
+    "titulo": "APUCARANA VAI FORNECER BONÉS PARA ROCK IN RIO",
+    "autor": "Null",
+    "ano": "Null",
+    "categoria": "Noticia",
+    "assunto": "Fornecimento de bonés de apucarana para eventos",
+    "arquivo": "161_161_Noticia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 161,
+    "id_foreign_key": 161,
+    "conteudo": "LICENCIAMENTO\nAPUCARANA VAI FORNECER BONÉS PARA ROCK IN RIO\n\nEspecialista na fabricação de produtos licenciados, a empresa apucaranense Boneleska fechou nesta semana os direitos de produção e comercialização de artigos para cabeça dos maiores festivais de música do mundo: o Rock in Rio.\nNeste ano, o festival acontece no Brasil em setembro, mas os trabalhos da empresa começaram há dois meses. \"Entramos em contato com a detentora da marca e começamos o processo de licenciamento. Fechamos esse processo e assinatura do contrato recentemente\", conta a empresária Siumara Miquelin da Costa.\nEntre os produtos que a Boneleska licenciou estão os bonés, chapéus, viseiras, bandanas, gorros, entre outros. \"Estamos felizes com isso porque entraremos para a história do rock, uma vez que em 2015 serão comemorados 30 anos de Rock In Rio\", explica a empresária.\nOs próximos passos da empresa é aprofundar a pesquisa em busca de produtos que agradem todos os frequentadores do evento. \"Queremos fazer bonés para atender a geração de avós, pais, filhos e netos, pois o Rock in Rio é um evento que uni desde o publico infantil até aos mais experientes\", frisa Siumara.\nA expectativa inicial é de fabricar 50 mil bonés, fora outros itens. \"Nos próximos 15 dias começamos a soltar os primeiros pilotos. À medida que o evento se aproxime podemos aumentar ou não a produção\", reitera a empresária.\nA Boneleska está no mercado há 25 anos. Sendo mais de 15 com produtos licenciados. \"Em 2015, conseguimos a licença do Rock in Rio e das Olimpíadas. Dois eventos mundiais. Isso está nos dando uma experiência muito importante. Know how que nos abrirá portas para outros eventos que virão\", conclui Siumara.\n\n[Citação]: \"Em 2015, conseguimos a licença do Rock in Rio e das Olimpíadas\" - Siumara Miquelin Costa, empresária",
+    "criterios": "2,3,4,5,6,7,8,16,17,18,19",
+    "html": "<figure>\n <img src=\"git/32.jpg\"\n alt=\"Artigo com a manchete 'APUCARANA VAI FORNECER BONÉS PARA ROCK IN RIO'. A foto mostra a empresária Siumara Miquelin Costa (Boneleska) de camisa branca, falando ao lado de uma citação destacada em azul: 'Em 2015, conseguimos a licença do Rock in Rio e das Olimpíadas'.\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição da noticia 'Apucarana vai fornecer bonés para Rock in Rio'",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 162,
+    "titulo": "INOVAÇÃO RENDE PRÊMIOS",
+    "autor": "Null",
+    "ano": "Null",
+    "categoria": "Noticia",
+    "assunto": "Premiação para funcionários inovadores no setor de bonés",
+    "arquivo": "162_162_Noticia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 162,
+    "id_foreign_key": 162,
+    "conteudo": "BONÉS\nINOVAÇÃO RENDE PRÊMIOS\nSIVALE E APL RECONHECEM FUNCIONÁRIOS DE DESTAQUE NO SETOR\n\nCINDY ANNIELLI - APUCARANA\n\nMecânico há cerca de 30 anos, o apucaranense Claudir Schatz, 53 anos, identificou ao longo de sua trajetória sua habilidade e criatividade para invenções. Na fábrica de bonés Itália Milano, de Apucarana, onde trabalha há 10 anos, Schatz usa e abusa da imaginação para conceber equipamentos que proporcionam sempre um diferencial a mais aos produtos da empresa.\nNesta semana, o mecânico e outros 12 funcionários de destaque no setor, indicados por empresas do município, receberam o prêmio \"Inovação\" da governança do Arranjo Produtivo de Bonés (APL) e o Sindicato das Indústrias do Vestuário de Apucarana e Vale do Ivaí (Sivale), em Apucarana. A homenagem é tradicionalmente realizada na última semana de janeiro, marcada pelas comemorações do Dia do Boné.\nCom orgulho, o mecânico exibe sua criação mais famosa: a máquina que corta a aba do boné para aplicação de abridor de garrafa. \"Com esta máquina, a empresa recebeu um prêmio de inovação há três anos em São Paulo\", recorda.\nA máquina de costura que controla a produção também é outra criação que facilitou o trabalho das costureiras que não precisam mais contar o número de bonés produzidos. \"É uma maneira que facilitar o trabalho e proporciona um produto melhor\", analisa. \"Estou muito contente de ver meu trabalho reconhecido. Isso me dá ainda mais ânimo para continuar\", assinala.\nOutro funcionário premiado foi o gerente de produção da empresa Bonearte, Fábio Henrique da Silva, 28 anos. Ele conta que acredita ter sido indicado pela dedicação e exposição de ideias que estimularam a inovação na empresa. \"Ao contrário do que as pessoas pensam, boné não é tudo igual. É possível diferenciar o produto com materiais diversificados, personalizados, com tamanhos e formatos diferentes\", destaca o gerente, que também faz parte da equipe de criação. E o principal segredo para inovação, Silva diz é \"gostar do que faz\". \"Tem que ter disposição para sempre dar o melhor. Este prêmio é um incentivo para atingir sempre os melhores resultados\", pontua.\n\n[Citação]: \"Estou muito contente de ver meu trabalho reconhecido\" - Claudir Schatz, mecânico na fábrica de bonés Itália Milano, em Apucarana\n\n[Legenda da foto]: Mecânico Claudir Schatz com o boné que abre garrafas | Foto: Delair Garcia",
+    "criterios": "2,3,4,5,6,7,8,16,17,18,19",
+    "html": "<figure>\n <img src=\"git/33.jpg\"\n alt=\"Matéria de jornal intitulada 'INOVAÇÃO RENDE PRÊMIOS'. A foto mostra o mecânico Claudir Schatz, de 53 anos, segurando um boné preto com um abridor de garrafas acoplado na aba. Ele está em uma fábrica, vestindo camisa polo azul. O texto destaca sua criatividade e a premiação recebida.\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição da noticia 'Inovação rende prêmios'",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 163,
+    "titulo": "Projeto Resíduos",
+    "autor": "Null",
+    "ano": "Null",
+    "categoria": "Noticia",
+    "assunto": "Vereador desiste de projeto de lei sobre resíduos",
+    "arquivo": "163_163_Noticia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 163,
+    "id_foreign_key": 163,
+    "conteudo": "PROJETO DOS RESÍDUOS\n\nO vereador Gilberto Cordeiro de Lima (foto), do PMN, desistiu de apresentar um projeto de lei obrigando as fábricas de confecções e bonés ou facções a dar destinação correta dos resíduos de tecidos. Em reunião ontem com a APL Bonés, ele disse que optou por elaborar um novo projeto bem mais amplo.",
+    "criterios": "2,3,4,5,6,7,8,16,17,18,19",
+    "html": "<figure>\n <img src=\"git/34.jpg\"\n alt=\"Pequena nota de jornal com o título 'PROJETO DOS RESÍDUOS'. A foto mostra o vereador Gilberto Cordeiro de Lima (PMN) sentado em sua mesa de escritório, vestindo camisa branca, com papéis e pastas à sua frente. O texto fala sobre a desistência de um projeto de lei e a elaboração de um novo.\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição da noticia 'Projeto Resíduos'",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 164,
+    "titulo": "COLABORADORES RECEBEM HOMENAGEM PELO DIA DO BONÉ",
+    "autor": "Tribuna do Norte",
+    "ano": "Null",
+    "categoria": "Noticia",
+    "assunto": "Homenagens no Dia do Boné",
+    "arquivo": "164_164_Noticia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 164,
+    "id_foreign_key": 164,
+    "conteudo": "cidades@tribunadonorte.com\nCURTAS\n\nCOLABORADORES RECEBEM HOMENAGEM PELO DIA DO BONÉ\n\nA APL de Bonés de Apucarana e o Sindicato das Indústrias do Vestuário de Apucarana e Vale do Ivaí (Sivale), com apoio da prefeitura, promoveram ontem o \"Café com Boné\", em comemoração ao Dia Municipal do Boné, 31 de janeiro. Neste ano, as homenagens foram direcionadas aos colaboradores que se destacaram no ano de 2015. O coordenador e presidente do Sivale, Jayme Leonel, lembrou que dentre as homenagens já realizadas em edições anteriores, já foram destacados os primeiros fabricantes, a primeira costureira, entre outros. \"Nesta oportunidade, estamos destacando colaboradores que são referência nas fábricas, funcionários que todos gostariam de ter em seu quadro\", explicou Leonel. Os homenageados foram selecionados pelo próprio grupo de onde trabalham. O prefeito Beto Preto participou da solenidade e destacou a importância do setor na economia local.",
+    "criterios": "2,3,4,5,6,7,8,16,17,18,19",
+    "html": "<figure>\n <img src=\"git/35.jpg\"\n alt=\"Coluna 'CURTAS' do jornal Tribuna do Norte. A manchete é 'COLABORADORES RECEBEM HOMENAGEM PELO DIA DO BONÉ'. A foto mostra um grupo de cerca de 20 pessoas (homenageados e autoridades) posando para a foto, com alguns sentados na frente segurando certificados.\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição da noticia 'Colaboradores recebem homenagem pelo Dia do Boné'",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 165,
+    "titulo": "COMEÇA HOJE EM APUCARANA A 2ª EDIÇÃO DA VESTVALE",
+    "autor": "Null",
+    "ano": "Null",
+    "categoria": "Noticia",
+    "assunto": "Feira de Negócios em Apucarana",
+    "arquivo": "165_165_Noticia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 165,
+    "id_foreign_key": 165,
+    "conteudo": "FEIRA\nCOMEÇA HOJE EM APUCARANA A 2ª EDIÇÃO DA VESTVALE\n\nComeça hoje e vai até quinta a segunda edição da Feira das Indústrias do Vestuário de Apucarana e Vale do Ivaí (Vestvale). O evento vai acontecer no Tropical Shop, sendo que o horário de funcionamento, nos dois dias, será das 9 às 21 horas. São esperados representantes de dezenas de fábricas que atuam no segmento do vestuário. A maioria é de Apucarana e do Vale do Ivaí, mas também há empresas de Terra Roxa, Cambé e outros municípios. Os organizadores frisam que o evento não é aberto para o público em geral, mas apenas para empresas vendedoras e compradoras.\nO mix de produtos abrange as linhas de jeans, bolsa infantil, camisas, camisetas, traje social, moda country, moda íntima, plus size, confecções em couro, moda infantil, moda bebê, uniformes, pijamas, tecidos e fitness. A Vestvale é uma realização da Associação Comercial, Industrial e de Serviços de Apucarana (Acia) e do Sindicato das Indústrias do Vestuário de Apucarana e Vale do Ivaí (Sivale), com apoio do Sebrae, Prefeitura de Apucarana, Fecomércio, Sicoob Aliança, Sivana, Fiep e outras entidades.\n\"Atendendo a uma solicitação dos próprios expositores e compradores, ao contrário da primeira edição, realizada em um só dia, desta vez nós estendemos o evento para dois dias. Outros ajustes vão ser realizados ao longo dessas primeiras edições até que a VestVale fique com o perfil desejado pelos participantes\", afirma Júnior Serea, presidente da Acia.",
+    "criterios": "2,3,4,5,6,7,8,16,17",
+    "html": "<figure>\n <img src=\"git/36.jpg\"\n alt=\"Coluna de texto de jornal sem imagem. O título é 'COMEÇA HOJE EM APUCARANA A 2ª EDIÇÃO DA VESTVALE'. O texto informa que a Feira das Indústrias do Vestuário acontecerá no Tropical Shop, reunindo dezenas de fábricas e sendo aberta apenas para empresas vendedoras e compradoras.\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição da noticia 'Começa hoje em Apucarana a 2ª edição da Vestvale'",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
+},
+
+{
+  "documento": {
+    "id_arquivo": 166,
+    "titulo": "Com produtos exclusivos, empresários do PR acreditam no aumento das vendas",
+    "autor": "Null",
+    "ano": "2014",
+    "categoria": "Noticia",
+    "assunto": "Copa do Mundo afetando projeções de vendas no Paraná",
+    "arquivo": "166_166_Noticia.jpg"
+  },
+  "conteudo": {
+    "id_metadado": 166,
+    "id_foreign_key": 166,
+    "conteudo": "CLIMA DA COPA\nCom produtos exclusivos, empresários do PR acreditam no aumento das vendas\n\n[Legenda da foto]: Siumara Costa, diretora comercial da Boneleska, que foi escolhida pela FIFA para criar e produzir o boné com o formato do Fuleco, mascote oficial do torneio.\n\nCitada pelo coordenador, a cidade de Apucarana, no Norte do Estado, está fabricando o boné oficial da Copa. A empresa Boneleska foi escolhida pela Fifa para criar e produzir o boné. Com o formato do Fuleco, mascote oficial do torneio, o produto já está entre os artigos licenciados mais vendidos.\n\"A empresa passou por uma grande negociação com a Fifa e por adequações para cumprir uma série de exigências e ajustes para ser escolhida. Investimos constantemente em capacitação, inovação e tecnologia, mas para criar o boné da copa tivemos que desenvolver novos processos. Buscamos algumas soluções fora e criamos outras dentro da empresa\", afirma a diretora comercial, Siumara Costa. A expectativa inicial da empresa é vender 300 mil bonés em todo o país e 90% da produção será destinada ao mercado nacional. \"Porém, somos otimistas com a conquista do hexacampeonato pelo Brasil e vamos começar nos próximos dias a desenvolver bonés com esse tema\", adianta. A empresa tem mais de 20 anos no mercado e trabalha há 15 na fabricação de produtos licenciados.\nSiumara explica ainda que para atender a demanda a empresa contratou funcionários para a área de costura e aumentou em 20% o número de colaboradores. \"O produto é muito artesanal. Usamos matéria prima e mão obra 100% nacional. A maioria dos insumos é fabricada em Apucarana mesmo\".\nA cidade abriga o maior polo de bonés do país. São mais de 500 empresas na cadeia produtiva que empregam 20 mil pessoas. Mais de 60% dos bonés fabricados no Brasil são confeccionados em Apucarana.\n\"Para o Governo do Paraná, o importante é o fortalecimento da economia do nosso Estado. A Copa abriu diversas oportunidades como é o caso da cidade de Apucarana com a fabricação de bonés, já licenciados pela Fifa, e de Nova Esperança, que está produzindo os cachecóis da Copa\", disse o coordenador geral da Copa no Paraná, Mario Celso Cunha.\n\nCACHECOL - No Noroeste, a Artisans Brasil, Cooperativa dos Produtores de Seda (Copraseda) da cidade de Nova Esperança, aposta em produtos diferenciados e de alto valor agregado. Formada por 36 artesãs, a empresa produz cachecóis, lenços e echarpes de seda que serão comercializados nas 12 cidades-sede do Mundial. Uma das peças confeccionadas é chamada de \"Cachecol da Copa\".\nA Artisans foi um dos 99 empreendimentos selecionados pelo Sebrae para comercializar produtos nas cidades que receberão os jogos do mundial. Com o foco no público estrangeiro a cooperativa espera faturar R$ 250 mil.\n\"Todos os produtos da cooperativa tem Qr-code e etiqueta holográfica de numeração única que permitem a certificação on-line do produto e do ponto de venda. O display e a embalagem trazem a apresentação da cooperativa em sete idiomas - português, inglês, espanhol, alemão, italiano, francês e japonês\", detalha o coordenador do projeto, João Berdu.\nAlém disso, a expectativa é a consolidação de novos locais de comercialização dos produtos. \"A identificação de pontos de venda em cidades turísticas do Brasil vai permitir a produção contínua pela cooperativa, gerando renda adicional constante às cooperadas\", acrescenta Berdu. A empresa foi criada em 2007 para agregar renda ao cultivo de bicho-da-seda de Nova Esperança e região. As artesãs também trabalham no cultivo da lagarta.\n\n[Legenda da foto Artisans]: A Artisans Brasil, Cooperativa dos Produtores de Seda (Copraseda) da cidade de Nova Esperança, produz cachecóis, lenços e encharpe de seda que serão comercializados nas 12 cidades-sede do Mundial. Uma das peças confeccionadas é intitulada de Cachecol da Copa.",
+    "criterios": "2,3,4,5,6,7,8,16,17,18,19",
+    "html": "<figure>\n <img src=\"git/37.jpg\"\n alt=\"Matéria de jornal com o título 'Com produtos exclusivos, empresários do PR acreditam no aumento das vendas'. A foto mostra a empresária Siumara Costa ao lado de produtos licenciados da Copa do Mundo de 2014: chapéus de espuma do mascote Fuleco e cachecóis com as cores do Brasil.\">\n </figure>",
+    "aria-label": "Ouvir a audiodescrição da noticia 'Com produtos exclusivos, empresários do PR acreditam no aumento das vendas'",
+    "aria-pressed": "[true, false]",
+    "aria-description": "Leitura da audiodescrição possui duração de X minutos."
+  }
 }
 
 ]
