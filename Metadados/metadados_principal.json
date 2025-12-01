@@ -2,93 +2,33 @@
   "documents": [
     {
       "documento": {
-        "id_arquivo": 2,
-        "id_conteudo": 2,
-        "WCAG": {
-	        "WCAG_id": 16
-        }
+        "id": 1,
+        "id_conteudo": 2
       }
     },
     {
       "documento": {
-        "id_arquivo": 2,
-        "id_conteudo": 2,
-        "WCAG": {
-	        "WCAG_id": 17
-        }
+        "id": 2,
+        "id_conteudo": 7
       }
     },
     {
       "documento": {
-        "id_arquivo": 2,
-        "id_conteudo": 2,
-        "WCAG": {
-          "WCAG_id": [16,17]
-        }
+        "id": 3,
+        "id_conteudo": 18
       }
     },
     {
       "documento": {
-        "id_arquivo": 7,
-        "id_conteudo": 7,
-        "WCAG": {
-          "WCAG_id": 16
-        }
+        "id": 4,
+        "id_conteudo": 25
       }
     },
     {
       "documento": {
-        "id_arquivo": 7,
-        "id_conteudo": 7,
-        "WCAG": {
-          "WCAG_id": 17
-        }
-      }
-    },
-    {
-      "documento": {
-        "id_arquivo": 7,
-        "id_conteudo": 7,
-        "WCAG": {
-          "WCAG_id": [16,17]
-        }
-      }
-    },
-    {
-      "documento": {
-        "id_arquivo": 18,
-        "id_conteudo": 18,
-        "WCAG": {
-          "WCAG_id": 18
-        }
-      }
-    },
-    {
-      "documento": {
-        "id_arquivo": 25,
-        "id_conteudo": 25,
-        "WCAG": {
-          "WCAG_id": 19
-        }
-      }
-    },
-    {
-      "documento": {
-        "id_arquivo": 18,
-        "id_conteudo": 18,
-        "WCAG": {
-          "WCAG_id": [18,19]
-        }
-      }
-    },
-    {
-      "documento": {
-        "id_arquivo": 256,
-        "id_conteudo": 256,
-        "WCAG": {
-          "WCAG_id": 1
-        }
-      }
+        "id": 5,
+        "id_conteudo": 256
     }
+  }
   ]
 }

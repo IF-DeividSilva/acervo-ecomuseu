@@ -109,50 +109,44 @@
   },
   {
     "WCAG_id": 19,
-    "WCAG_categoria": "Imagens",
+    "WCAG_categoria": "Interacao por teclado",
     "WCAG_idsubcategoria": 19,
-    "WCAG_subcategoria": "Texto alternativo para imagens decorativas"
+    "WCAG_subcategoria": "Indicador de foco visivel"
   },
   {
     "WCAG_id": 20,
     "WCAG_categoria": "Interacao por teclado",
     "WCAG_idsubcategoria": 20,
-    "WCAG_subcategoria": "Indicador de foco visivel"
+    "WCAG_subcategoria": "Ordem de foco previsivel"
   },
   {
     "WCAG_id": 21,
     "WCAG_categoria": "Interacao por teclado",
     "WCAG_idsubcategoria": 21,
-    "WCAG_subcategoria": "Ordem de foco previsivel"
+    "WCAG_subcategoria": "Uso de foco"
   },
   {
     "WCAG_id": 22,
-    "WCAG_categoria": "Interacao por teclado",
+    "WCAG_categoria": "Links e navegacao",
     "WCAG_idsubcategoria": 22,
-    "WCAG_subcategoria": "Uso de foco"
+    "WCAG_subcategoria": "Proposito do link no contexto"
   },
   {
     "WCAG_id": 23,
     "WCAG_categoria": "Links e navegacao",
     "WCAG_idsubcategoria": 23,
-    "WCAG_subcategoria": "Proposito do link no contexto"
+    "WCAG_subcategoria": "Links para sites externos"
   },
   {
     "WCAG_id": 24,
-    "WCAG_categoria": "Links e navegacao",
+    "WCAG_categoria": "Regioes",
     "WCAG_idsubcategoria": 24,
-    "WCAG_subcategoria": "Links para sites externos"
+    "WCAG_subcategoria": "Semantica de regiao"
   },
   {
     "WCAG_id": 25,
     "WCAG_categoria": "Regioes",
     "WCAG_idsubcategoria": 25,
-    "WCAG_subcategoria": "Semantica de regiao"
-  },
-  {
-    "WCAG_id": 26,
-    "WCAG_categoria": "Regioes",
-    "WCAG_idsubcategoria": 26,
     "WCAG_subcategoria": "Regioes unicas"
   }
 ]
