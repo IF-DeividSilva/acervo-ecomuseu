@@ -29,7 +29,7 @@
         "titulo": "Contextualização e caracterização do arranjo produtivo local de bonés de Apucarana-Paraná",
         "autor": "anonimo",
         "ano": "",
-        "categoria": "artigo",
+        "categoria": "Artigo",
         "assunto": "Histórico da Formação do APL de Bonés de Apucarana",
         "arquivo": "2_2_Artigo.pdf"
       },
@@ -148,7 +148,7 @@
     "id_arquivo": 7,
     "titulo": "Falas Macarrão",
     "autor": "Antonio Carlos Macarrão Machado",
-    "ano": "Null",
+    "ano": "Nao informado",
     "categoria": "Depoimento",
     "assunto": "Relato de Antonio Carlos Macarrão sobre o pioneirismo da Cotton's e a história do boné em Apucarana.",
     "arquivo": "7_7_Depoimento.pdf"
@@ -172,7 +172,7 @@
     "id_arquivo": 8,
     "titulo": "Histórico do APL de Bonés de Apucarana",
     "autor": "Null",
-    "ano": "Null",
+    "ano": "Nao informado",
     "categoria": "Artigo",
     "assunto": "Histórico, estrutura de governança e objetivos do APL de Bonés de Apucarana.",
     "arquivo": "8_8_Artigo.pdf"
@@ -244,7 +244,7 @@
     "id_arquivo": 11,
     "titulo": "Legenda de fotos, revistas, baners, quadros",
     "autor": "Null",
-    "ano": "Null",
+    "ano": "Nao informado",
     "categoria": "Legenda",
     "assunto": "Lista de legendas e códigos de itens (fotos, notícias, máquinas, bonés) para o Museu do Boné.",
     "arquivo": "11_11_Legenda.pdf"
@@ -387,7 +387,7 @@
     "id_arquivo": 18,
     "titulo": "Foto Evento APL de Bonés",
     "autor": "Null",
-    "ano": "Null",
+    "ano": "Nao informado",
     "categoria": "Fotografia",
     "assunto": "Null",
     "arquivo": "18_18_Fotografia.jpg"
@@ -411,7 +411,7 @@
     "id_arquivo": 19,
     "titulo": "Foto Evento APL de Bonés",
     "autor": "Null",
-    "ano": "Null",
+    "ano": "Nao informado",
     "categoria": "Fotografia",
     "assunto": "Null",
     "arquivo": "19_19_Fotografia.jpg"
@@ -435,7 +435,7 @@
     "id_arquivo": 20,
     "titulo": "Foto Evento APL de Bonés",
     "autor": "Null",
-    "ano": "Null",
+    "ano": "Nao informado",
     "categoria": "Fotografia",
     "assunto": "Null",
     "arquivo": "20_20_Fotografia.jpg"
@@ -459,7 +459,7 @@
     "id_arquivo": 21,
     "titulo": "Foto Evento APL de Bonés",
     "autor": "Null",
-    "ano": "Null",
+    "ano": "Nao informado",
     "categoria": "Fotografia",
     "assunto": "Null",
     "arquivo": "21_21_Fotografia.jpg"
@@ -483,7 +483,7 @@
     "id_arquivo": 22,
     "titulo": "Foto Evento APL de Bonés",
     "autor": "Null",
-    "ano": "Null",
+    "ano": "Nao informado",
     "categoria": "Fotografia",
     "assunto": "Null",
     "arquivo": "22_22_Fotografia.jpg"
@@ -507,7 +507,7 @@
     "id_arquivo": 23,
     "titulo": "Foto Evento APL de Bonés",
     "autor": "Null",
-    "ano": "Null",
+    "ano": "Nao informado",
     "categoria": "Fotografia",
     "assunto": "Null",
     "arquivo": "23_23_Fotografia.jpg"
@@ -531,7 +531,7 @@
     "id_arquivo": 24,
     "titulo": "Foto Evento APL de Bonés",
     "autor": "Null",
-    "ano": "Null",
+    "ano": "Nao informado",
     "categoria": "Fotografia",
     "assunto": "Null",
     "arquivo": "24_24_Fotografia.jpg"
@@ -555,7 +555,7 @@
     "id_arquivo": 25,
     "titulo": "Foto Evento APL de Bonés",
     "autor": "Null",
-    "ano": "Null",
+    "ano": "Nao informado",
     "categoria": "Fotografia",
     "assunto": "Null",
     "arquivo": "25_25_Fotografia.jpg"
@@ -579,7 +579,7 @@
     "id_arquivo": 26,
     "titulo": "Foto Evento APL de Bonés",
     "autor": "Null",
-    "ano": "Null",
+    "ano": "Nao informado",
     "categoria": "Fotografia",
     "assunto": "Null",
     "arquivo": "26_26_Fotografia.jpg"
@@ -603,7 +603,7 @@
     "id_arquivo": 27,
     "titulo": "Foto Evento APL de Bonés",
     "autor": "Null",
-    "ano": "Null",
+    "ano": "Nao informado",
     "categoria": "Fotografia",
     "assunto": "Null",
     "arquivo": "27_27_Fotografia.jpg"
@@ -627,7 +627,7 @@
     "id_arquivo": 28,
     "titulo": "Foto Evento APL de Bonés",
     "autor": "Null",
-    "ano": "Null",
+    "ano": "Nao informado",
     "categoria": "Fotografia",
     "assunto": "Null",
     "arquivo": "28_28_Fotografia.jpg"
@@ -651,7 +651,7 @@
     "id_arquivo": 29,
     "titulo": "Foto Evento APL de Bonés",
     "autor": "Null",
-    "ano": "Null",
+    "ano": "Nao informado",
     "categoria": "Fotografia",
     "assunto": "Null",
     "arquivo": "29_29_Fotografia.jpg"
@@ -675,7 +675,7 @@
     "id_arquivo": 30,
     "titulo": "Foto Evento APL de Bonés",
     "autor": "Null",
-    "ano": "Null",
+    "ano": "Nao informado",
     "categoria": "Fotografia",
     "assunto": "Null",
     "arquivo": "30_30_Fotografia.jpg"
@@ -699,7 +699,7 @@
     "id_arquivo": 31,
     "titulo": "Foto Evento APL de Bonés",
     "autor": "Null",
-    "ano": "Null",
+    "ano": "Nao informado",
     "categoria": "Fotografia",
     "assunto": "Null",
     "arquivo": "31_31_Fotografia.jpg"
@@ -723,7 +723,7 @@
     "id_arquivo": 32,
     "titulo": "Foto Evento APL de Bonés",
     "autor": "Null",
-    "ano": "Null",
+    "ano": "Nao informado",
     "categoria": "Fotografia",
     "assunto": "Null",
     "arquivo": "32_32_Fotografia.jpg"
@@ -747,7 +747,7 @@
     "id_arquivo": 33,
     "titulo": "Foto Evento APL de Bonés",
     "autor": "Null",
-    "ano": "Null",
+    "ano": "Nao informado",
     "categoria": "Fotografia",
     "assunto": "Null",
     "arquivo": "33_33_Fotografia.jpg"
@@ -771,7 +771,7 @@
     "id_arquivo": 34,
     "titulo": "Foto Evento APL de Bonés",
     "autor": "Null",
-    "ano": "Null",
+    "ano": "Nao informado",
     "categoria": "Fotografia",
     "assunto": "Null",
     "arquivo": "34_34_Fotografia.jpg"
@@ -795,7 +795,7 @@
     "id_arquivo": 35,
     "titulo": "Foto Evento APL de Bonés",
     "autor": "Null",
-    "ano": "Null",
+    "ano": "Nao informado",
     "categoria": "Fotografia",
     "assunto": "Null",
     "arquivo": "35_35_Fotografia.jpg"
@@ -819,7 +819,7 @@
     "id_arquivo": 36,
     "titulo": "Foto Evento APL de Bonés",
     "autor": "Null",
-    "ano": "Null",
+    "ano": "Nao informado",
     "categoria": "Fotografia",
     "assunto": "Null",
     "arquivo": "36_36_Fotografia.jpg"
@@ -843,7 +843,7 @@
     "id_arquivo": 37,
     "titulo": "Foto Evento APL de Bonés",
     "autor": "Null",
-    "ano": "Null",
+    "ano": "Nao informado",
     "categoria": "Fotografia",
     "assunto": "Null",
     "arquivo": "37_37_Fotografia.jpg"
@@ -867,7 +867,7 @@
     "id_arquivo": 38,
     "titulo": "Foto Evento APL de Bonés",
     "autor": "Null",
-    "ano": "Null",
+    "ano": "Nao informado",
     "categoria": "Fotografia",
     "assunto": "Null",
     "arquivo": "38_38_Fotografia.jpg"
@@ -891,7 +891,7 @@
     "id_arquivo": 39,
     "titulo": "Foto Evento APL de Bonés",
     "autor": "Null",
-    "ano": "Null",
+    "ano": "Nao informado",
     "categoria": "Fotografia",
     "assunto": "Null",
     "arquivo": "39_39_Fotografia.jpg"
@@ -915,7 +915,7 @@
     "id_arquivo": 40,
     "titulo": "Foto Evento APL de Bonés",
     "autor": "Null",
-    "ano": "Null",
+    "ano": "Nao informado",
     "categoria": "Fotografia",
     "assunto": "Null",
     "arquivo": "40_40_Fotografia.jpg"
@@ -939,7 +939,7 @@
     "id_arquivo": 41,
     "titulo": "Foto Evento APL de Bonés",
     "autor": "Null",
-    "ano": "Null",
+    "ano": "Nao informado",
     "categoria": "Fotografia",
     "assunto": "Null",
     "arquivo": "41_41_Fotografia.jpg"
@@ -963,7 +963,7 @@
     "id_arquivo": 42,
     "titulo": "Foto Evento APL de Bonés",
     "autor": "Null",
-    "ano": "Null",
+    "ano": "Nao informado",
     "categoria": "Fotografia",
     "assunto": "Null",
     "arquivo": "42_42_Fotografia.jpg"
@@ -987,7 +987,7 @@
     "id_arquivo": 43,
     "titulo": "Foto Evento APL de Bonés",
     "autor": "Null",
-    "ano": "Null",
+    "ano": "Nao informado",
     "categoria": "Fotografia",
     "assunto": "Null",
     "arquivo": "43_43_Fotografia.jpg"
@@ -1011,7 +1011,7 @@
     "id_arquivo": 44,
     "titulo": "Foto Evento APL de Bonés",
     "autor": "Null",
-    "ano": "Null",
+    "ano": "Nao informado",
     "categoria": "Fotografia",
     "assunto": "Null",
     "arquivo": "44_44_Fotografia.jpg"
@@ -1035,7 +1035,7 @@
     "id_arquivo": 45,
     "titulo": "Foto Evento APL de Bonés",
     "autor": "Null",
-    "ano": "Null",
+    "ano": "Nao informado",
     "categoria": "Fotografia",
     "assunto": "Null",
     "arquivo": "45_45_Fotografia.jpg"
@@ -1059,7 +1059,7 @@
     "id_arquivo": 46,
     "titulo": "Foto Evento APL de Bonés",
     "autor": "Null",
-    "ano": "Null",
+    "ano": "Nao informado",
     "categoria": "Fotografia",
     "assunto": "Null",
     "arquivo": "46_46_Fotografia.jpg"
@@ -1083,7 +1083,7 @@
     "id_arquivo": 47,
     "titulo": "Foto Evento APL de Bonés",
     "autor": "Null",
-    "ano": "Null",
+    "ano": "Nao informado",
     "categoria": "Fotografia",
     "assunto": "Null",
     "arquivo": "47_47_Fotografia.jpg"
@@ -1107,7 +1107,7 @@
     "id_arquivo": 48,
     "titulo": "Foto Evento APL de Bonés",
     "autor": "Null",
-    "ano": "Null",
+    "ano": "Nao informado",
     "categoria": "Fotografia",
     "assunto": "Null",
     "arquivo": "48_48_Fotografia.jpg"
@@ -2000,7 +2000,7 @@
     "id_arquivo": 87,
     "titulo": "Cartão de Visita Cotton's",
     "autor": "Cotton's",
-    "ano": "Null",
+    "ano": "Nao informado",
     "categoria": "Publicidade",
     "assunto": "Contato Comercial",
     "arquivo": "87_87_Publicidade.jpg"
@@ -2136,7 +2136,7 @@
     "id_arquivo": 93,
     "titulo": "Lula conhece a produção apucaranense de bonés",
     "autor": "Jornal Local",
-    "ano": "Null",
+    "ano": "Nao informado",
     "categoria": "Noticia",
     "assunto": "Visita Presidencial",
     "arquivo": "93_93_Noticia.jpg"
@@ -2158,7 +2158,7 @@
     "id_arquivo": 94,
     "titulo": "Pesquisa vai levantar números da produção de bonés em Apucarana",
     "autor": "Tribuna do Norte",
-    "ano": "Null",
+    "ano": "Nao informado",
     "categoria": "Noticia",
     "assunto": "Censo Industrial",
     "arquivo": "94_94_Noticia.jpg"
@@ -2180,7 +2180,7 @@
     "id_arquivo": 95,
     "titulo": "Anúncio SaneAbas",
     "autor": "SaneAbas",
-    "ano": "Null",
+    "ano": "Nao informado",
     "categoria": "Publicidade",
     "assunto": "Fornecedor de Abas",
     "arquivo": "95_95_Publicidade.jpg"
@@ -2226,7 +2226,7 @@
     "id_arquivo": 97,
     "titulo": "Máquinas de Bordar",
     "autor": "Null",
-    "ano": "Null",
+    "ano": "Nao informado",
     "categoria": "Fotografia",
     "assunto": "Null",
     "arquivo": "97_97_Fotografia.jpg"
@@ -2430,7 +2430,7 @@
     "id_arquivo": 106,
     "titulo": "Convite Remo APL",
     "autor": "APL Bonés",
-    "ano": "Null",
+    "ano": "Nao informado",
     "categoria": "Publicidade",
     "assunto": "Convite Formato Boné",
     "arquivo": "106_106_Publicidade.jpg"
@@ -2452,7 +2452,7 @@
     "id_arquivo": 107,
     "titulo": "Logotipo APL Bonés",
     "autor": "APL Bonés",
-    "ano": "Null",
+    "ano": "Nao informado",
     "categoria": "Logotipo",
     "assunto": "Identidade Visual",
     "arquivo": "107_107_Logotipo.jpg"
@@ -2496,7 +2496,7 @@
     "id_arquivo": 109,
     "titulo": "Etapas do Programa",
     "autor": "Sebrae/APL",
-    "ano": "Null",
+    "ano": "Nao informado",
     "categoria": "Publicidade",
     "assunto": "Cronograma",
     "arquivo": "109_109_Publicidade.jpg"
@@ -2518,7 +2518,7 @@
     "id_arquivo": 110,
     "titulo": "Resumo e Público-Alvo",
     "autor": "Sebrae/APL",
-    "ano": "Null",
+    "ano": "Nao informado",
     "categoria": "Publicidade",
     "assunto": "Detalhes do Curso",
     "arquivo": "110_110_Publicidade.jpg"
@@ -2540,7 +2540,7 @@
     "id_arquivo": 111,
     "titulo": "Resumo e Público-Alvo (Duplicata)",
     "autor": "Sebrae/APL",
-    "ano": "Null",
+    "ano": "Nao informado",
     "categoria": "Publicidade",
     "assunto": "Detalhes do Curso",
     "arquivo": "111_111_Publicidade.jpg"
@@ -2562,7 +2562,7 @@
     "id_arquivo": 112,
     "titulo": "Participe! Vagas limitadas!",
     "autor": "Sebrae",
-    "ano": "Null",
+    "ano": "Nao informado",
     "categoria": "Publicidade",
     "assunto": "Contato e Inscrição",
     "arquivo": "112_112_Publicidade.jpg"
@@ -3004,7 +3004,7 @@
     "id_arquivo": 132,
     "titulo": "Guardas Mirins ganham oportunidade em agência bancária",
     "autor": "Correio do Vale",
-    "ano": "Null",
+    "ano": "Nao informado",
     "categoria": "Noticia",
     "assunto": "Inclusão Social de Adolescentes em Apucarana.",
     "arquivo": "132_132_Noticia.png"
@@ -3026,7 +3026,7 @@
     "id_arquivo": 133,
     "titulo": "BONÉS - Projeto do APL incentiva correta destinação de resíduos",
     "autor": "Acianews",
-    "ano": "Null",
+    "ano": "Nao informado",
     "categoria": "Noticia",
     "assunto": "Indústria Sustentável",
     "arquivo": "133_133_Noticia.png"
@@ -3070,7 +3070,7 @@
     "id_arquivo": 135,
     "titulo": "FUTEBOL SUÍÇO - SESI REALIZA O TORNEIO DO DIA DO BONÉ EM APUCARANA",
     "autor": "Null",
-    "ano": "Null",
+    "ano": "Nao informado",
     "categoria": "Noticia",
     "assunto": "Esporte e Lazer",
     "arquivo": "135_135_Noticia.png"
@@ -3092,7 +3092,7 @@
     "id_arquivo": 136,
     "titulo": "PALESTRA ABORDA GESTÃO DE RESÍDUOS NAS CONFECÇÕES",
     "autor": "Null",
-    "ano": "Null",
+    "ano": "Nao informado",
     "categoria": "Noticia",
     "assunto": "Capacitação Ambiental",
     "arquivo": "136_136_Noticia.png"
@@ -3114,7 +3114,7 @@
     "id_arquivo": 137,
     "titulo": "APL de Bonés promove palestra para contadores",
     "autor": "Null",
-    "ano": "Null",
+    "ano": "Nao informado",
     "categoria": "Noticia",
     "assunto": "Evento APL para contadores sobre licenciamento ambiental",
     "arquivo": "137_137_Noticia.png"
@@ -3179,7 +3179,7 @@
     "id_arquivo": 140,
     "titulo": "APUCARANA VAI AO AR NA BBC DE LONDRES",
     "autor": "Null",
-    "ano": "Null",
+    "ano": "Nao informado",
     "categoria": "Noticia",
     "assunto": "Noticia que destaca a exibição de um documentário sobre Apucarana na TV inglesa.",
     "arquivo": "140_140_Noticia.png"
@@ -3245,7 +3245,7 @@
     "id_arquivo": 143,
     "titulo": "Planos de APLs",
     "autor": "Null",
-    "ano": "Null",
+    "ano": "Nao informado",
     "categoria": "Noticia",
     "assunto": "Videoconferência com 27 APLs",
     "arquivo": "143_143_Noticia.png"
@@ -3333,7 +3333,7 @@
     "id_arquivo": 147,
     "titulo": "POLÊMICA NÃO AFETA VENDAS DO FULECO",
     "autor": "Null",
-    "ano": "Null",
+    "ano": "Nao informado",
     "categoria": "Noticia",
     "assunto": "Vendas de macote da Copa do Mundo",
     "arquivo": "147_147_Noticia.png"
@@ -3355,7 +3355,7 @@
     "id_arquivo": 148,
     "titulo": "EM BUSCA DO SELO VERDE",
     "autor": "Null",
-    "ano": "Null",
+    "ano": "Nao informado",
     "categoria": "Noticia",
     "assunto": "Sustentabilidade em empresas de Apucarana",
     "arquivo": "148_148_Noticia.png"
@@ -3377,7 +3377,7 @@
     "id_arquivo": 149,
     "titulo": "APL DISCUTE INTERNACIONALIZAÇÃO",
     "autor": "Null",
-    "ano": "Null",
+    "ano": "Nao informado",
     "categoria": "Noticia",
     "assunto": "Exportação",
     "arquivo": "149_149_Noticia.png"
@@ -3420,7 +3420,7 @@
     "id_arquivo": 151,
     "titulo": "APL DE BONÉS COMPLETA 10 ANOS",
     "autor": "Null",
-    "ano": "Null",
+    "ano": "Nao informado",
     "categoria": "Noticia",
     "assunto": "Aniversário APL",
     "arquivo": "151_151_Noticia.png"
@@ -3442,7 +3442,7 @@
     "id_arquivo": 152,
     "titulo": "APL Bonés comemora 10 anos",
     "autor": "Expresso Magazine",
-    "ano": "Null",
+    "ano": "Nao informado",
     "categoria": "Noticia",
     "assunto": "Evento Social",
     "arquivo": "152_152_Noticia.png"
@@ -3464,7 +3464,7 @@
     "id_arquivo": 153,
     "titulo": "APL Bonés comemora 10 anos (Duplicata)",
     "autor": "Expresso Magazine",
-    "ano": "Null",
+    "ano": "Nao informado",
     "categoria": "Noticia",
     "assunto": "Evento Social",
     "arquivo": "153_153_Noticia.png"
@@ -3487,7 +3487,7 @@
     "id_arquivo": 154,
     "titulo": "Null",
     "autor": "Expresso Magazine",
-    "ano": "Null",
+    "ano": "Nao informado",
     "categoria": "Noticia",
     "assunto": "Detalhe Fotos Comemoração",
     "arquivo": "154_154_Noticia.png"
@@ -3510,7 +3510,7 @@
     "id_arquivo": 155,
     "titulo": "Retomar crescimento é desafio para APL bonés",
     "autor": "Tribuna do Norte/Renam Valim",
-    "ano": "Null",
+    "ano": "Nao informado",
     "categoria": "Noticia",
     "assunto": "Economia e Estatísticas do Setor dos Bonés",
     "arquivo": "155_155_Noticia.png"
@@ -3533,7 +3533,7 @@
     "id_arquivo": 156,
     "titulo": "Planos de APLs",
     "autor": "Null",
-    "ano": "Null",
+    "ano": "Nao informado",
     "categoria": "Noticia",
     "assunto": "Reunião de Apresentação de Planos de Desenvolvimento",
     "arquivo": "156_156_Noticia.png"
@@ -3556,7 +3556,7 @@
     "id_arquivo": 157,
     "titulo": "Boneleska nas Olimpíadas 2016",
     "autor": "Null",
-    "ano": "Null",
+    "ano": "Nao informado",
     "categoria": "Noticia",
     "assunto": "Produtos Licenciados da olimpíada Rio 2016",
     "arquivo": "157_157_Noticia.png"
@@ -3579,7 +3579,7 @@
     "id_arquivo": 158,
     "titulo": "APL de Bonés apresenta plano de desenvolvimento em Brasília",
     "autor": "Null",
-    "ano": "Null",
+    "ano": "Nao informado",
     "categoria": "Noticia",
     "assunto": "Planos de Desenvolvimento APL apresentados em Brasília",
     "arquivo": "158_158_Noticia.png"
@@ -3602,7 +3602,7 @@
     "id_arquivo": 159,
     "titulo": "Dia do Boné II",
     "autor": "Null",
-    "ano": "Null",
+    "ano": "Nao informado",
     "categoria": "Noticia",
     "assunto": "Comemorações para os colaboradores do setor de bonés",
     "arquivo": "159_159_Noticia.png"
@@ -3625,7 +3625,7 @@
     "id_arquivo": 160,
     "titulo": "Programação Dia do Boné",
     "autor": "Null",
-    "ano": "Null",
+    "ano": "Nao informado",
     "categoria": "Noticia",
     "assunto": "Comemorações para os colaboradores do setor de bonés",
     "arquivo": "160_160_Noticia.png"
@@ -3648,7 +3648,7 @@
     "id_arquivo": 161,
     "titulo": "APUCARANA VAI FORNECER BONÉS PARA ROCK IN RIO",
     "autor": "Null",
-    "ano": "Null",
+    "ano": "Nao informado",
     "categoria": "Noticia",
     "assunto": "Fornecimento de bonés de apucarana para eventos",
     "arquivo": "161_161_Noticia.png"
@@ -3670,7 +3670,7 @@
     "id_arquivo": 162,
     "titulo": "INOVAÇÃO RENDE PRÊMIOS",
     "autor": "Null",
-    "ano": "Null",
+    "ano": "Nao informado",
     "categoria": "Noticia",
     "assunto": "Premiação para funcionários inovadores no setor de bonés",
     "arquivo": "162_162_Noticia.png"
@@ -3692,7 +3692,7 @@
     "id_arquivo": 163,
     "titulo": "Projeto Resíduos",
     "autor": "Null",
-    "ano": "Null",
+    "ano": "Nao informado",
     "categoria": "Noticia",
     "assunto": "Vereador desiste de projeto de lei sobre resíduos",
     "arquivo": "163_163_Noticia.png"
@@ -3714,7 +3714,7 @@
     "id_arquivo": 164,
     "titulo": "COLABORADORES RECEBEM HOMENAGEM PELO DIA DO BONÉ",
     "autor": "Tribuna do Norte",
-    "ano": "Null",
+    "ano": "Nao informado",
     "categoria": "Noticia",
     "assunto": "Homenagens no Dia do Boné",
     "arquivo": "164_164_Noticia.png"
@@ -3736,7 +3736,7 @@
     "id_arquivo": 165,
     "titulo": "COMEÇA HOJE EM APUCARANA A 2ª EDIÇÃO DA VESTVALE",
     "autor": "Null",
-    "ano": "Null",
+    "ano": "Nao informado",
     "categoria": "Noticia",
     "assunto": "Feira de Negócios em Apucarana",
     "arquivo": "165_165_Noticia.png"
@@ -3845,7 +3845,7 @@
     "id_arquivo": 170,
     "titulo": "Ministro aprova boné no uniforme",
     "autor": "Maria Teresa Uliana",
-    "ano": "Null",
+    "ano": "Nao informado",
     "categoria": "Noticia",
     "assunto": "Políticas Públicas para o setor de bonés",
     "arquivo": "170_170_Noticia.png"
@@ -3888,7 +3888,7 @@
     "id_arquivo": 172,
     "titulo": "Uniforme escolar: LICITAÇÃO DO FNDE PODE OCORRER AINDA EM 2009 (parte 2)",
     "autor": "Tribuna do Norte",
-    "ano": "Null",
+    "ano": "Nao informado",
     "categoria": "Noticia",
     "assunto": "Compras Governamentais para uniformes escolares",
     "arquivo": "172_172_Noticia.png"
@@ -3957,7 +3957,7 @@
     "id_arquivo": 175,
     "titulo": "Null",
     "autor": "Null",
-    "ano": "Null",
+    "ano": "Nao informado",
     "categoria": "Noticia",
     "assunto": "Mão de Obra no setor de bonés",
     "arquivo": "175_175_Noticia.png"
@@ -3980,7 +3980,7 @@
     "id_arquivo": 176,
     "titulo": "Evento quer criar ambiente de inovação nas empresas (Parte 1)",
     "autor": "Cécilia França",
-    "ano": "Null",
+    "ano": "Nao informado",
     "categoria": "Noticia",
     "assunto": "Evento Corporativo sobre Inovação na UTFPR",
     "arquivo": "176_176_Noticia.png"
@@ -4002,7 +4002,7 @@
     "id_arquivo": 177,
     "titulo": "Evento quer criar ambiente de inovação nas empresas (Parte 2)",
     "autor": "Cécilia França",
-    "ano": "Null",
+    "ano": "Nao informado",
     "categoria": "Noticia",
     "assunto": "Evento Corporativo sobre Inovação na UTFPR",
     "arquivo": "177_177_Noticia.jpg"
@@ -4024,7 +4024,7 @@
     "id_arquivo": 178,
     "titulo": "Espaço para a Ciência e Tecnologia (Parte 3)",
     "autor": "Cécilia França",
-    "ano": "Null",
+    "ano": "Nao informado",
     "categoria": "Noticia",
     "assunto": "Evento de Inovação na UTFPR",
     "arquivo": "178_178_Noticia.jpg"
@@ -4046,7 +4046,7 @@
     "id_arquivo": 179,
     "titulo": "Null",
     "autor": "Cécilia França",
-    "ano": "Null",
+    "ano": "Nao informado",
     "categoria": "Noticia",
     "assunto": "Evento Corporativo sobre Inovação na UTFPR",
     "arquivo": "179_179_Noticia.jpg"
@@ -4068,7 +4068,7 @@
     "id_arquivo": 180,
     "titulo": "Null",
     "autor": "Cécilia França",
-    "ano": "Null",
+    "ano": "Nao informado",
     "categoria": "Noticia",
     "assunto": "Evento Corporativo sobre Inovação na UTFPR",
     "arquivo": "180_180_Noticia.jpg"
@@ -4112,7 +4112,7 @@
     "id_arquivo": 182,
     "titulo": "Null",
     "autor": "Null",
-    "ano": "Null",
+    "ano": "Nao informado",
     "categoria": "Noticia",
     "assunto": "Feira de Negócios",
     "arquivo": "182_182_Noticia.jpg"
@@ -4134,7 +4134,7 @@
     "id_arquivo": 183,
     "titulo": "Expoboné começa na próxima terça",
     "autor": "Null",
-    "ano": "Null",
+    "ano": "Nao informado",
     "categoria": "Noticia",
     "assunto": "Feira de Negócios",
     "arquivo": "183_183_Noticia.jpg"
@@ -4377,7 +4377,7 @@
     "id_arquivo": 194,
     "titulo": "APL do boné se preocupa com a preservação do meio ambiente",
     "autor": "Null",
-    "ano": "Null",
+    "ano": "Nao informado",
     "categoria": "Noticia",
     "assunto": "Meio Ambiente e Sustentabilidade na produção de Bonés",
     "arquivo": "194_194_Noticia.jpg"
@@ -4398,7 +4398,7 @@
     "id_arquivo": 195,
     "titulo": "Lançada a proposta de criação do Fórum de Desenvolvimento de Apucarana",
     "autor": "Null",
-    "ano": "Null",
+    "ano": "Nao informado",
     "categoria": "Noticia",
     "assunto": "Fórum de Desenvolvimento de Apucarana do evento de formação de líderes",
     "arquivo": "195_195_Noticia.jpg"
@@ -4420,7 +4420,7 @@
     "id_arquivo": 196,
     "titulo": "Apucarana vai implantar fórum de desenvolvimento",
     "autor": "Null",
-    "ano": "Null",
+    "ano": "Nao informado",
     "categoria": "Noticia",
     "assunto": "Desenvolvimento Econômico de Apucarana",
     "arquivo": "196_196_Noticia.jpg"
@@ -4511,7 +4511,7 @@
     "id_arquivo": 200,
     "titulo": "Governança aposta na união para atingir objetivos",
     "autor": "APL Bonés",
-    "ano": "Null",
+    "ano": "Nao informado",
     "categoria": "Noticia",
     "assunto": "Gestão da APL",
     "arquivo": "200_200_Noticia.jpg"
@@ -4534,7 +4534,7 @@
     "id_arquivo": 201,
     "titulo": "Tecnologia na produção de abas",
     "autor": "APL Bonés",
-    "ano": "Null",
+    "ano": "Nao informado",
     "categoria": "Noticia",
     "assunto": "Inovação na produção de abas para bonés",
     "arquivo": "201_201_Noticia.jpg"
@@ -4557,7 +4557,7 @@
     "id_arquivo": 202,
     "titulo": "Tecnologia na produção de abas",
     "autor": "APL Bonés",
-    "ano": "Null",
+    "ano": "Nao informado",
     "categoria": "Noticia",
     "assunto": "Inovação na produção de abas para bonés",
     "arquivo": "202_202_Noticia.jpg"
@@ -5329,7 +5329,7 @@
     "id_arquivo": 237,
     "titulo": "Capa Rede APL Paraná",
     "autor": "Rede APL Paraná",
-    "ano": "Null",
+    "ano": "Nao informado",
     "categoria": "Publicidade",
     "assunto": "Null",
     "arquivo": "237_237_Publicidade.jpg"
@@ -5351,7 +5351,7 @@
     "id_arquivo": 238,
     "titulo": "Qualidade ABRAFAB'Q",
     "autor": "ABRAFAB'Q",
-    "ano": "Null",
+    "ano": "Nao informado",
     "categoria": "Publicidade",
     "assunto": "Certificação de Qualidade",
     "arquivo": "238_238_Publicidade.jpg"
@@ -5373,7 +5373,7 @@
     "id_arquivo": 239,
     "titulo": "Estilos e Tecnologia",
     "autor": "ABRAFAB'Q",
-    "ano": "Null",
+    "ano": "Nao informado",
     "categoria": "Publicidade",
     "assunto": "Variedade de Produtos",
     "arquivo": "239_239_Publicidade.jpg"
@@ -5395,7 +5395,7 @@
     "id_arquivo": 240,
     "titulo": "Modelos ABRAFAB'Q",
     "autor": "ABRAFAB'Q",
-    "ano": "Null",
+    "ano": "Nao informado",
     "categoria": "Publicidade",
     "assunto": "Divulgação",
     "arquivo": "240_240_Publicidade.jpg"
@@ -5527,7 +5527,7 @@
     "id_arquivo": 246,
     "titulo": "Null ",
     "autor": "APL Bonés",
-    "ano": "Null",
+    "ano": "Nao informado",
     "categoria": "Publicidade",
     "assunto": "Evento",
     "arquivo": "246_246_Publicidade.jpg"
@@ -5548,7 +5548,7 @@
     "id_arquivo": 247,
     "titulo": "Rede APL Paraná - Texto",
     "autor": "Rede APL Paraná",
-    "ano": "Null",
+    "ano": "Nao informado",
     "categoria": "Publicidade",
     "assunto": "Institucional",
     "arquivo": "247_247_Publicidade.jpg"
@@ -5570,7 +5570,7 @@
     "id_arquivo": 248,
     "titulo": "Mapa APLs Paraná",
     "autor": "Rede APL Paraná",
-    "ano": "Null",
+    "ano": "Nao informado",
     "categoria": "Publicidade",
     "assunto": "Mapa Localização",
     "arquivo": "248_248_Publicidade.jpg"
@@ -5592,7 +5592,7 @@
     "id_arquivo": 249,
     "titulo": "Null",
     "autor": "Rede APL Paraná",
-    "ano": "Null",
+    "ano": "Nao informado",
     "categoria": "Publicidade",
     "assunto": "Parceiros Institucionais",
     "arquivo": "249_249_Publicidade.jpg"
@@ -5614,7 +5614,7 @@
     "id_arquivo": 250,
     "titulo": "Null",
     "autor": "Rede APL Paraná",
-    "ano": "Null",
+    "ano": "Nao informado",
     "categoria": "Fotografia",
     "assunto": "Imagens do Setor",
     "arquivo": "250_250_Fotografia.jpg"
@@ -5636,7 +5636,7 @@
     "id_arquivo": 251,
     "titulo": "Características e Vantagens",
     "autor": "Rede APL Paraná",
-    "ano": "Null",
+    "ano": "Nao informado",
     "categoria": "Publicidade",
     "assunto": "Informações Técnicas",
     "arquivo": "251_251_Publicidade.jpg"
@@ -5680,7 +5680,7 @@
     "id_arquivo": 253,
     "titulo": "Faixa Empresas Participantes",
     "autor": "APL Bonés",
-    "ano": "Null",
+    "ano": "Nao informado",
     "categoria": "Publicidade",
     "assunto": "Logotipos das empresas participantes",
     "arquivo": "253_253_Publicidade.jpg"
@@ -5702,7 +5702,7 @@
     "id_arquivo": 254,
     "titulo": "Faixa Empresas Participantes (Duplicada)",
     "autor": "APL Bonés",
-    "ano": "Null",
+    "ano": "Nao informado",
     "categoria": "Publicidade",
     "assunto": "Logotipos das empresas participantes",
     "arquivo": "254_254_Publicidade.jpg"
@@ -5724,7 +5724,7 @@
     "id_arquivo": 255,
     "titulo": "Cartão Brax Caps",
     "autor": "Brax Caps",
-    "ano": "Null",
+    "ano": "Nao informado",
     "categoria": "Publicidade",
     "assunto": "Identidade Visual",
     "arquivo": "255_255_Publicidade.jpg"

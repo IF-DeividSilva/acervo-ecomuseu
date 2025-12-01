@@ -1,0 +1,154 @@
+{
+  "documents": [
+    {
+      "documento": {
+        "id_arquivo": 2,
+        "id_conteudo": 2,
+        "titulo": "Contextualizacao e caracterização do arranjo produtivo local de bonés de Apucarana-Paraná",
+        "autor": "Anonimo",
+        "ano": "Nao informado",
+        "categoria": "Artigo",
+        "assunto": "História da industria de bonés na cidade de Apucarana",
+        "arquivo": "2_2_Artigo.pdf",
+        "WCAG": {
+	        "WCAG_id": 16
+        }
+      }
+    },
+    {
+      "documento": {
+        "id_arquivo": 2,
+        "id_conteudo": 2,
+        "titulo": "Contextualizacao e caracterização do arranjo produtivo local de bonés de Apucarana-Paraná",
+        "autor": "Anonimo",
+        "ano": "Nao informado",
+        "categoria": "Artigo",
+        "assunto": "História da industria de bonés na cidade de Apucarana",
+        "arquivo": "2_2_Artigo.pdf",
+        "WCAG": {
+	        "WCAG_id": 17
+        }
+      }
+    },
+    {
+      "documento": {
+        "id_arquivo": 2,
+        "id_conteudo": 2,
+        "titulo": "Contextualizacao e caracterização do arranjo produtivo local de bonés de Apucarana-Paraná",
+        "autor": "Anonimo",
+        "ano": "Nao informado",
+        "categoria": "Artigo",
+        "assunto": "História da indústria de bonés na cidade de Apucarana",
+        "arquivo": "2_2_Artigo.pdf",
+        "WCAG": {
+          "WCAG_id": [16,17]
+        }
+      }
+    },
+    {
+      "documento": {
+        "id_arquivo": 7,
+        "id_conteudo": 7,
+        "titulo": "Sem titulo",
+        "autor": "Antonio Carlos Macarrao Machado",
+        "ano": "Nao informado",
+        "categoria": "Depoimento",
+        "assunto": "Relato de Antonio Carlos Macarrao sobre o pioneirismo da Cotton's e a história do boné em Apucarana.",
+        "arquivo": "7_7_Depoimento.pdf",
+        "WCAG": {
+          "WCAG_id": 16
+        }
+      }
+    },
+    {
+      "documento": {
+        "id_arquivo": 7,
+        "id_conteudo": 7,
+        "titulo": "Sem titulo",
+        "autor": "Antonio Carlos Macarrao Machado",
+        "ano": "Nao informado",
+        "categoria": "Depoimento",
+        "assunto": "Relato de Antonio Carlos Macarrao sobre o pioneirismo da Cotton's e a história do boné em Apucarana.",
+        "arquivo": "7_7_Depoimento.pdf",
+        "WCAG": {
+          "WCAG_id": [17]
+        }
+      }
+    },
+    {
+      "documento": {
+        "id_arquivo": 7,
+        "id_conteudo": 7,
+        "titulo": "Sem titulo",
+        "autor": "Antonio Carlos Macarrao Machado",
+        "ano": "Nao informado",
+        "categoria": "Depoimento",
+        "assunto": "Relato de Antonio Carlos Macarrao sobre o pioneirismo da Cotton's e a história do boné em Apucarana.",
+        "arquivo": "7_7_Depoimento.pdf",
+        "WCAG": {
+          "WCAG_id": [16,17]
+        }
+      }
+    },
+    {
+      "documento": {
+        "id_arquivo": 18,
+        "id_conteudo": 18,
+        "titulo": "Sem titulo",
+        "autor": "Anonimo",
+        "ano": "Nao informado",
+        "categoria": "Fotografia",
+        "assunto": "Sem assunto",
+        "arquivo": "18_18_Fotografia.jpg",
+        "WCAG": {
+          "WCAG_id": 18
+        }
+      }
+    },
+    {
+      "documento": {
+        "id_arquivo": 25,
+        "id_conteudo": 25,
+        "titulo": "Sem titulo",
+        "autor": "Anonimo",
+        "ano": "Nao informado",
+        "categoria": "Fotografia",
+        "assunto": "Sem assunto",
+        "arquivo": "25_25_Fotografia.jpg",
+        "WCAG": {
+          "WCAG_id": 19
+        }
+      }
+    },
+    {
+      "documento": {
+        "id_arquivo": 18,
+        "id_conteudo": 18,
+        "titulo": "Sem titulo",
+        "autor": "Anonimo",
+        "ano": "Nao informado",
+        "categoria": "Fotografia",
+        "assunto": "Sem assunto",
+        "arquivo": "18_18_Fotografia.pdf",
+        "WCAG": {
+          "WCAG_id": [18,19]
+        }
+      }
+    },
+    {
+      "documento": {
+        "id_arquivo": 256,
+        "id_conteudo": 256,
+        "titulo": "Ecomuseu do Bone",
+        "autor": "Projeto Ecomuseu do Bone",
+        "ano": "2025",
+        "categoria": "Video",
+        "assunto": "Sem assunto",
+        "arquivo": "256_256_Video.pdf",
+        "WCAG": {
+          "WCAG_id": 1
+        }
+      }
+    }
+  ]
+}
