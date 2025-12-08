@@ -1,32 +1,32 @@
 {
-  "documents": [
+  "documentos": [
     {
       "documento": {
-        "id": 1,
+        "id_principal": 1,
         "id_conteudo": 2
       }
     },
     {
       "documento": {
-        "id": 2,
+        "id_principal": 2,
         "id_conteudo": 7
       }
     },
     {
       "documento": {
-        "id": 3,
+        "id_principal": 3,
         "id_conteudo": 18
       }
     },
     {
       "documento": {
-        "id": 4,
+        "id_principal": 4,
         "id_conteudo": 25
       }
     },
     {
       "documento": {
-        "id": 5,
+        "id_principal": 5,
         "id_conteudo": 256
     }
   }
