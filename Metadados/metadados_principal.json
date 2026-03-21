@@ -2,31 +2,31 @@
   "documentos": [
     {
       "documento": {
-        "id_principal": 1,
+        "id_pk": 1,
         "id_conteudo": 2
       }
     },
     {
       "documento": {
-        "id_principal": 2,
+        "id_pk": 2,
         "id_conteudo": 7
       }
     },
     {
       "documento": {
-        "id_principal": 3,
+        "id_pk": 3,
         "id_conteudo": 18
       }
     },
     {
       "documento": {
-        "id_principal": 4,
+        "id_pk": 4,
         "id_conteudo": 25
       }
     },
     {
       "documento": {
-        "id_principal": 5,
+        "id_pk": 5,
         "id_conteudo": 256
     }
   }

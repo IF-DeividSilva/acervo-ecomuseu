@@ -2,151 +2,126 @@
   {
     "WCAG_id": 1,
     "WCAG_categoria": "Audio e video",
-    "WCAG_idsubcategoria": 1,
     "WCAG_subcategoria": "Audiodescricao para video"
   },
   {
     "WCAG_id": 2,
     "WCAG_categoria": "Audio e video",
-    "WCAG_idsubcategoria": 2,
     "WCAG_subcategoria": "Controle de audio"
   },
   {
     "WCAG_id": 3,
     "WCAG_categoria": "Apresentacao",
-    "WCAG_idsubcategoria": 3,
     "WCAG_subcategoria": "Design responsivo"
   },
   {
     "WCAG_id": 4,
     "WCAG_categoria": "Apresentacao",
-    "WCAG_idsubcategoria": 4,
     "WCAG_subcategoria": "Ordem de apresentacao"
   },
   {
     "WCAG_id": 5,
     "WCAG_categoria": "Botoes e controles",
-    "WCAG_idsubcategoria": 5,
     "WCAG_subcategoria": "Semantica de botao"
   },
   {
     "WCAG_id": 6,
     "WCAG_categoria": "Botoes e controles",
-    "WCAG_idsubcategoria": 6,
     "WCAG_subcategoria": "Proposito do botao"
   },
   {
     "WCAG_id": 7,
     "WCAG_categoria": "Botoes e controles",
-    "WCAG_idsubcategoria": 7,
     "WCAG_subcategoria": "Area de acionamento minima"
   },
   {
     "WCAG_id": 8,
     "WCAG_categoria": "Botoes e controles",
-    "WCAG_idsubcategoria": 8,
     "WCAG_subcategoria": "Controles com retorno"
   },
   {
     "WCAG_id": 9,
     "WCAG_categoria": "Cabecalhos",
-    "WCAG_idsubcategoria": 9,
     "WCAG_subcategoria": "Semantica de cabecalho"
   },
   {
     "WCAG_id": 10,
     "WCAG_categoria": "Cabecalhos",
-    "WCAG_idsubcategoria": 10,
     "WCAG_subcategoria": "Uso de cabecalhos"
   },
   {
     "WCAG_id": 11,
     "WCAG_categoria": "Cabecalhos",
-    "WCAG_idsubcategoria": 11,
     "WCAG_subcategoria": "Estrutura de cabecalhos"
   },
   {
     "WCAG_id": 12,
     "WCAG_categoria": "Codificacao e marcacao semantica",
-    "WCAG_idsubcategoria": 12,
     "WCAG_subcategoria": "Titulo da pagina"
   },
   {
     "WCAG_id": 13,
     "WCAG_categoria": "Codificacao e marcacao semantica",
-    "WCAG_idsubcategoria": 13,
     "WCAG_subcategoria": "Idioma da pagina"
   },
   {
     "WCAG_id": 14,
     "WCAG_categoria": "Codificacao e marcacao semantica",
-    "WCAG_idsubcategoria": 14,
     "WCAG_subcategoria": "Ordem de leitura"
   },
   {
     "WCAG_id": 15,
     "WCAG_categoria": "Codificacao e marcacao semantica",
-    "WCAG_idsubcategoria": 15,
     "WCAG_subcategoria": "Mensagens de status"
   },
   {
     "WCAG_id": 16,
     "WCAG_categoria": "Conteudo textual",
-    "WCAG_idsubcategoria": 16,
     "WCAG_subcategoria": "Espacamento entre as letras"
   },
   {
     "WCAG_id": 17,
     "WCAG_categoria": "Conteudo textual",
-    "WCAG_idsubcategoria": 17,
     "WCAG_subcategoria": "Espacamento entre as palavras"
   },
   {
     "WCAG_id": 18,
     "WCAG_categoria": "Imagens",
-    "WCAG_idsubcategoria": 18,
     "WCAG_subcategoria": "Texto alternativo para imagens de conteudo"
   },
   {
     "WCAG_id": 19,
     "WCAG_categoria": "Interacao por teclado",
-    "WCAG_idsubcategoria": 19,
     "WCAG_subcategoria": "Indicador de foco visivel"
   },
   {
     "WCAG_id": 20,
     "WCAG_categoria": "Interacao por teclado",
-    "WCAG_idsubcategoria": 20,
     "WCAG_subcategoria": "Ordem de foco previsivel"
   },
   {
     "WCAG_id": 21,
     "WCAG_categoria": "Interacao por teclado",
-    "WCAG_idsubcategoria": 21,
     "WCAG_subcategoria": "Uso de foco"
   },
   {
     "WCAG_id": 22,
     "WCAG_categoria": "Links e navegacao",
-    "WCAG_idsubcategoria": 22,
     "WCAG_subcategoria": "Proposito do link no contexto"
   },
   {
     "WCAG_id": 23,
     "WCAG_categoria": "Links e navegacao",
-    "WCAG_idsubcategoria": 23,
     "WCAG_subcategoria": "Links para sites externos"
   },
   {
     "WCAG_id": 24,
     "WCAG_categoria": "Regioes",
-    "WCAG_idsubcategoria": 24,
     "WCAG_subcategoria": "Semantica de regiao"
   },
   {
     "WCAG_id": 25,
     "WCAG_categoria": "Regioes",
-    "WCAG_idsubcategoria": 25,
     "WCAG_subcategoria": "Regioes unicas"
   }
 ]
