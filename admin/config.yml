@@ -1,0 +1,57 @@
+backend:
+  name: github
+  repo: IF-DeividSilva/acervo-ecomuseu
+  branch: main
+  base_url: https://seu-site.netlify.app  # URL do Netlify do passo 3
+
+# Onde ficam os arquivos de mídia (PDFs, imagens)
+media_folder: "Dados/Artigos"
+public_folder: "Dados/Artigos"
+
+collections:
+
+  # Gerencia o metadados_principal.json
+  - name: "principal"
+    label: "Acervo Principal"
+    files:
+      - file: "Metadados/metadados_principal.json"
+        label: "Metadados Principal"
+        name: "principal"
+        fields:
+          - name: documentos
+            label: "Documentos"
+            widget: list
+            fields:
+              - { name: id_pk, label: "ID PK", widget: number }
+              - { name: id_conteudo, label: "ID Conteúdo", widget: number }
+              - { name: arquivo, label: "Nome do arquivo", widget: string }
+
+  # Gerencia os conteudo_X.json individuais
+  - name: "conteudos"
+    label: "Conteúdos"
+    folder: "Metadados/metadados_conteudos"
+    create: true
+    slug: "conteudo_{{id_conteudo_pk}}"
+    fields:
+      - { name: id_conteudo_pk, label: "ID", widget: number }
+      - name: WCAG
+        label: "Critérios WCAG"
+        widget: list
+        fields:
+          - { name: WCAG_ID, label: "WCAG ID", widget: number }
+
+  # Gerencia o metadados_WCAG.json
+  - name: "wcag"
+    label: "Critérios WCAG"
+    files:
+      - file: "Metadados/metadados_WCAG.json"
+        label: "WCAG"
+        name: "wcag"
+        fields:
+          - name: criterios
+            label: "Critérios"
+            widget: list
+            fields:
+              - { name: WCAG_id_pk, label: "ID", widget: number }
+              - { name: WCAG_categoria, label: "Categoria", widget: string }
+              - { name: WCAG_id_subcategoria, label: "Subcategoria", widget: string }

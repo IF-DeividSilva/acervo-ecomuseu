@@ -1,127 +1,127 @@
 [
   {
-    "WCAG_id": 1,
+    "WCAG_id_pk_pk": 1,
     "WCAG_categoria": "Audio e video",
-    "WCAG_subcategoria": "Audiodescricao para video"
+    "WCAG_id_subcategoria": "Audiodescricao para video"
   },
   {
-    "WCAG_id": 2,
+    "WCAG_id_pk_pk": 2,
     "WCAG_categoria": "Audio e video",
-    "WCAG_subcategoria": "Controle de audio"
+    "WCAG_id_subcategoria": "Controle de audio"
   },
   {
-    "WCAG_id": 3,
+    "WCAG_id_pk_pk": 3,
     "WCAG_categoria": "Apresentacao",
-    "WCAG_subcategoria": "Design responsivo"
+    "WCAG_id_subcategoria": "Design responsivo"
   },
   {
-    "WCAG_id": 4,
+    "WCAG_id_pk_pk": 4,
     "WCAG_categoria": "Apresentacao",
-    "WCAG_subcategoria": "Ordem de apresentacao"
+    "WCAG_id_subcategoria": "Ordem de apresentacao"
   },
   {
-    "WCAG_id": 5,
+    "WCAG_id_pk_pk": 5,
     "WCAG_categoria": "Botoes e controles",
-    "WCAG_subcategoria": "Semantica de botao"
+    "WCAG_id_subcategoria": "Semantica de botao"
   },
   {
-    "WCAG_id": 6,
+    "WCAG_id_pk_pk": 6,
     "WCAG_categoria": "Botoes e controles",
-    "WCAG_subcategoria": "Proposito do botao"
+    "WCAG_id_subcategoria": "Proposito do botao"
   },
   {
-    "WCAG_id": 7,
+    "WCAG_id_pk_pk": 7,
     "WCAG_categoria": "Botoes e controles",
-    "WCAG_subcategoria": "Area de acionamento minima"
+    "WCAG_id_subcategoria": "Area de acionamento minima"
   },
   {
-    "WCAG_id": 8,
+    "WCAG_id_pk_pk": 8,
     "WCAG_categoria": "Botoes e controles",
-    "WCAG_subcategoria": "Controles com retorno"
+    "WCAG_id_subcategoria": "Controles com retorno"
   },
   {
-    "WCAG_id": 9,
+    "WCAG_id_pk_pk": 9,
     "WCAG_categoria": "Cabecalhos",
-    "WCAG_subcategoria": "Semantica de cabecalho"
+    "WCAG_id_subcategoria": "Semantica de cabecalho"
   },
   {
-    "WCAG_id": 10,
+    "WCAG_id_pk_pk": 10,
     "WCAG_categoria": "Cabecalhos",
-    "WCAG_subcategoria": "Uso de cabecalhos"
+    "WCAG_id_subcategoria": "Uso de cabecalhos"
   },
   {
-    "WCAG_id": 11,
+    "WCAG_id_pk_pk": 11,
     "WCAG_categoria": "Cabecalhos",
-    "WCAG_subcategoria": "Estrutura de cabecalhos"
+    "WCAG_id_subcategoria": "Estrutura de cabecalhos"
   },
   {
-    "WCAG_id": 12,
+    "WCAG_id_pk": 12,
     "WCAG_categoria": "Codificacao e marcacao semantica",
-    "WCAG_subcategoria": "Titulo da pagina"
+    "WCAG_id_subcategoria": "Titulo da pagina"
   },
   {
-    "WCAG_id": 13,
+    "WCAG_id_pk": 13,
     "WCAG_categoria": "Codificacao e marcacao semantica",
-    "WCAG_subcategoria": "Idioma da pagina"
+    "WCAG_id_subcategoria": "Idioma da pagina"
   },
   {
-    "WCAG_id": 14,
+    "WCAG_id_pk": 14,
     "WCAG_categoria": "Codificacao e marcacao semantica",
-    "WCAG_subcategoria": "Ordem de leitura"
+    "WCAG_id_subcategoria": "Ordem de leitura"
   },
   {
-    "WCAG_id": 15,
+    "WCAG_id_pk": 15,
     "WCAG_categoria": "Codificacao e marcacao semantica",
-    "WCAG_subcategoria": "Mensagens de status"
+    "WCAG_id_subcategoria": "Mensagens de status"
   },
   {
-    "WCAG_id": 16,
+    "WCAG_id_pk": 16,
     "WCAG_categoria": "Conteudo textual",
-    "WCAG_subcategoria": "Espacamento entre as letras"
+    "WCAG_id_subcategoria": "Espacamento entre as letras"
   },
   {
-    "WCAG_id": 17,
+    "WCAG_id_pk": 17,
     "WCAG_categoria": "Conteudo textual",
-    "WCAG_subcategoria": "Espacamento entre as palavras"
+    "WCAG_id_subcategoria": "Espacamento entre as palavras"
   },
   {
-    "WCAG_id": 18,
+    "WCAG_id_pk": 18,
     "WCAG_categoria": "Imagens",
-    "WCAG_subcategoria": "Texto alternativo para imagens de conteudo"
+    "WCAG_id_subcategoria": "Texto alternativo para imagens de conteudo"
   },
   {
-    "WCAG_id": 19,
+    "WCAG_id_pk": 19,
     "WCAG_categoria": "Interacao por teclado",
-    "WCAG_subcategoria": "Indicador de foco visivel"
+    "WCAG_id_subcategoria": "Indicador de foco visivel"
   },
   {
-    "WCAG_id": 20,
+    "WCAG_id_pk": 20,
     "WCAG_categoria": "Interacao por teclado",
-    "WCAG_subcategoria": "Ordem de foco previsivel"
+    "WCAG_id_subcategoria": "Ordem de foco previsivel"
   },
   {
-    "WCAG_id": 21,
+    "WCAG_id_pk": 21,
     "WCAG_categoria": "Interacao por teclado",
-    "WCAG_subcategoria": "Uso de foco"
+    "WCAG_id_subcategoria": "Uso de foco"
   },
   {
-    "WCAG_id": 22,
+    "WCAG_id_pk": 22,
     "WCAG_categoria": "Links e navegacao",
-    "WCAG_subcategoria": "Proposito do link no contexto"
+    "WCAG_id_subcategoria": "Proposito do link no contexto"
   },
   {
-    "WCAG_id": 23,
+    "WCAG_id_pk": 23,
     "WCAG_categoria": "Links e navegacao",
-    "WCAG_subcategoria": "Links para sites externos"
+    "WCAG_id_subcategoria": "Links para sites externos"
   },
   {
-    "WCAG_id": 24,
+    "WCAG_id_pk": 24,
     "WCAG_categoria": "Regioes",
-    "WCAG_subcategoria": "Semantica de regiao"
+    "WCAG_id_subcategoria": "Semantica de regiao"
   },
   {
-    "WCAG_id": 25,
+    "WCAG_id_pk_pk": 25,
     "WCAG_categoria": "Regioes",
-    "WCAG_subcategoria": "Regioes unicas"
+    "WCAG_id_subcategoria": "Regioes unicas"
   }
 ]
