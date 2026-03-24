@@ -1,6 +1,8 @@
 backend:
   name: git-gateway
   branch: main
+  
+site_url: https://acervo-ecomuseu.netlify.app
 
 # Onde ficam os arquivos de mídia (PDFs, imagens)
 media_folder: "Dados/Artigos"
