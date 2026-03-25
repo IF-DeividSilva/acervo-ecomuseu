@@ -2,7 +2,8 @@ backend:
   name: github
   repo: IF-DeividSilva/acervo-ecomuseu
   branch: main
-  
+  base_url: https://oauth-proxy.deivid-sgalvao.workers.dev
+
 # Onde ficam os arquivos de mídia (PDFs, imagens)
 media_folder: "Dados/Artigos"
 public_folder: "Dados/Artigos"
