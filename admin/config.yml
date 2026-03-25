@@ -1,7 +1,7 @@
 backend:
   name: git-gateway
   branch: main
-  
+
 site_url: https://acervo-ecomuseu.netlify.app
 
 # Onde ficam os arquivos de mídia (PDFs, imagens)
@@ -22,9 +22,12 @@ collections:
             label: "Documentos"
             widget: list
             fields:
-              - { name: id_pk, label: "ID PK", widget: number }
-              - { name: id_conteudo, label: "ID Conteúdo", widget: number }
-              - { name: arquivo, label: "Nome do arquivo", widget: string }
+              - name: documento
+                label: "Documento"
+                widget: object
+                fields:
+                  - { name: id_pk, label: "ID PK", widget: number }
+                  - { name: id_conteudo, label: "ID Conteúdo", widget: number }
 
   # Gerencia os conteudo_X.json individuais
   - name: "conteudos"
