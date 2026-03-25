@@ -1,0 +1,55 @@
+name: Incrementa ID Principal
+
+on:
+  push:
+    paths:
+      - 'Metadados/metadados_conteudos/**.json'
+
+jobs:
+  atualiza-principal:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Append no metadados_principal.json
+        run: |
+          node -e "
+            const fs = require('fs');
+            const principal = JSON.parse(fs.readFileSync('Metadados/metadados_principal.json'));
+            
+            // Pega o arquivo novo que foi commitado
+            const arquivosNovos = process.env.ARQUIVOS_NOVOS.split(' ');
+            
+            arquivosNovos.forEach(arquivo => {
+              const conteudo = JSON.parse(fs.readFileSync(arquivo));
+              const ultimoId = principal.documentos.length > 0 
+                ? Math.max(...principal.documentos.map(d => d.documento.id_pk))
+                : 0;
+
+              // Verifica se já existe antes de adicionar
+              const jaExiste = principal.documentos.some(
+                d => d.documento.id_conteudo === conteudo.id_conteudo_pk
+              );
+
+              if (!jaExiste) {
+                principal.documentos.push({
+                  documento: {
+                    id_pk: ultimoId + 1,
+                    id_conteudo: conteudo.id_conteudo_pk
+                  }
+                });
+              }
+            });
+
+            fs.writeFileSync('Metadados/metadados_principal.json', JSON.stringify(principal, null, 2));
+          "
+        env:
+          ARQUIVOS_NOVOS: ${{ join(github.event.commits[0].added, ' ') }}
+
+      - name: Commit
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add Metadados/metadados_principal.json
+          git diff --staged --quiet || git commit -m "Auto: append no metadados_principal.json"
+          git push
