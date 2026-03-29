@@ -61,7 +61,7 @@ collections:
       - name: arquivo
         label: "Arquivo de Mídia"
         widget: file
-        allow_multiple: false
+        multiple: false
       - name: WCAG
         label: "Critérios WCAG"
         widget: list
