@@ -4,15 +4,15 @@ backend:
   branch: main
   base_url: https://oauth-proxy.deivid-sgalvao.workers.dev
 
-# Onde ficam os arquivos de mídia (PDFs, imagens)
 media_folder: "Dados/Artigos"
-public_folder: "Dados/Artigos"
+public_folder: "/Dados/Artigos"
 
 collections:
 
-  # Gerencia o metadados_principal.json
+  # --- Acervo Principal ---
   - name: "principal"
     label: "Acervo Principal"
+    format: json
     files:
       - file: "Metadados/metadados_principal.json"
         label: "Metadados Principal"
@@ -22,30 +22,58 @@ collections:
             label: "Documentos"
             widget: list
             fields:
-              - name: documento
-                label: "Documento"
-                widget: object
-                fields:
-                  - { name: id_pk, label: "ID PK", widget: number }
-                  - { name: id_conteudo, label: "ID Conteúdo", widget: number }
+              - { name: id_pk, label: "ID PK", widget: number }
+              - { name: id_conteudo, label: "ID Conteúdo", widget: number }
 
-  # Gerencia os conteudo_X.json individuais
+  # --- Conteúdos individuais ---
   - name: "conteudos"
     label: "Conteúdos"
     folder: "Metadados/metadados_conteudos"
+    format: json
+    extension: json
     create: true
     slug: "conteudo_{{id_conteudo_pk}}"
     fields:
       - { name: id_conteudo_pk, label: "ID", widget: number }
+      - { name: titulo, label: "Título", widget: string }
+      - { name: autor, label: "Autor", widget: string, default: "Anônimo" }
+      - { name: ano, label: "Ano", widget: string, default: "Não informado" }
+      - name: categoria
+        label: "Categoria"
+        widget: select
+        options:
+          - Artigo
+          - Notícia
+          - Depoimento
+          - Publicidade
+          - Fotografia
+          - Selo
+          - Logotipo
+          - Carta
+          - Ofício
+          - Legenda
+          - Entrevista
+          - Conteúdos Descartados
+      - { name: assunto, label: "Assunto", widget: string, default: "Sem assunto" }
+      - name: arquivo
+        label: "Arquivo de Mídia"
+        widget: file
+        media_folder: "Dados/Artigos"
+        public_folder: "/Dados/Artigos"
+        allow_multiple: false
       - name: WCAG
         label: "Critérios WCAG"
         widget: list
         fields:
-          - { name: WCAG_ID, label: "WCAG ID", widget: number }
+          - { name: WCAG_id, label: "WCAG ID", widget: number }
+      - name: conteudo
+        label: "Descrição / Conteúdo"
+        widget: text       # text = caixa grande, sem markdown
 
-  # Gerencia o metadados_WCAG.json
+  # --- WCAG ---
   - name: "wcag"
     label: "Critérios WCAG"
+    format: json
     files:
       - file: "Metadados/metadados_WCAG.json"
         label: "WCAG"
