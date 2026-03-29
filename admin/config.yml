@@ -4,8 +4,8 @@ backend:
   branch: main
   base_url: https://oauth-proxy.deivid-sgalvao.workers.dev
 
-media_folder: "Dados/Artigos"
-public_folder: "/Dados/Artigos"
+media_folder: "Dados"
+public_folder: "/Dados"
 
 collections:
 
@@ -33,6 +33,8 @@ collections:
     extension: json
     create: true
     slug: "conteudo_{{id_conteudo_pk}}"
+    media_folder: "Dados/{{fields.categoria}}"   # 🔑 pasta dinâmica por categoria
+    public_folder: "/Dados/{{fields.categoria}}"
     fields:
       - { name: id_conteudo_pk, label: "ID", widget: number }
       - { name: titulo, label: "Título", widget: string }
@@ -41,25 +43,24 @@ collections:
       - name: categoria
         label: "Categoria"
         widget: select
-        options:
-          - Artigo
-          - Notícia
-          - Depoimento
-          - Publicidade
-          - Fotografia
-          - Selo
-          - Logotipo
-          - Carta
-          - Ofício
-          - Legenda
-          - Entrevista
+        options:          # nomes iguais às pastas no repositório
+          - Artigos
+          - Audios
+          - Cartas
           - Conteúdos Descartados
+          - Depoimentos
+          - Entrevistas
+          - Fotografias
+          - Legendas
+          - Logotipos
+          - Noticias
+          - Ofícios
+          - Publicidades
+          - Selos
       - { name: assunto, label: "Assunto", widget: string, default: "Sem assunto" }
       - name: arquivo
         label: "Arquivo de Mídia"
         widget: file
-        media_folder: "Dados/Artigos"
-        public_folder: "/Dados/Artigos"
         allow_multiple: false
       - name: WCAG
         label: "Critérios WCAG"
@@ -68,21 +69,4 @@ collections:
           - { name: WCAG_id, label: "WCAG ID", widget: number }
       - name: conteudo
         label: "Descrição / Conteúdo"
-        widget: text       # text = caixa grande, sem markdown
-
-  # --- WCAG ---
-  - name: "wcag"
-    label: "Critérios WCAG"
-    format: json
-    files:
-      - file: "Metadados/metadados_WCAG.json"
-        label: "WCAG"
-        name: "wcag"
-        fields:
-          - name: criterios
-            label: "Critérios"
-            widget: list
-            fields:
-              - { name: WCAG_id_pk, label: "ID", widget: number }
-              - { name: WCAG_categoria, label: "Categoria", widget: string }
-              - { name: WCAG_id_subcategoria, label: "Subcategoria", widget: string }
+        widget: text
