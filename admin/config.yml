@@ -4,9 +4,6 @@ backend:
   branch: main
   base_url: https://oauth-proxy.deivid-sgalvao.workers.dev
 
-#media_folder: "Dados"
-#public_folder: "/Dados"
-
 collections:
 
   # --- Conteúdos individuais ---
@@ -50,8 +47,33 @@ collections:
       - name: WCAG
         label: "Critérios WCAG"
         widget: list
-        fields:
-          - { name: WCAG_id, label: "WCAG ID", widget: number }
+        field:                          
+          name: WCAG_id
+          label: "WCAG"
+          widget: relation
+          collection: wcag
+          file: wcag
+          search_fields: ["criterios.*.WCAG_categoria", "criterios.*.WCAG_id_subcategoria"]
+          value_field: "criterios.*.WCAG_id_pk"
+          display_fields: ["criterios.*.WCAG_id_pk", "criterios.*.WCAG_categoria"]
       - name: conteudo
         label: "Descrição / Conteúdo"
         widget: text
+
+  # --- WCAG (fonte de dados, não aparece no menu) ---
+  - name: "wcag"
+    label: "Critérios WCAG"
+    format: json
+    hide: true                          
+    files:
+      - file: "Metadados/metadados_WCAG.json"
+        label: "WCAG"
+        name: "wcag"
+        fields:
+          - name: criterios
+            label: "Critérios"
+            widget: list
+            fields:
+              - { name: WCAG_id_pk, label: "ID", widget: number }
+              - { name: WCAG_categoria, label: "Categoria", widget: string }
+              - { name: WCAG_id_subcategoria, label: "Subcategoria", widget: string }
