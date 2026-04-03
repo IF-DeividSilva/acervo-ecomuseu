@@ -4,8 +4,8 @@ backend:
   branch: main
   base_url: https://oauth-proxy.deivid-sgalvao.workers.dev
 
-media_folder: "Dados"
-public_folder: "/Dados"
+#media_folder: "Dados"
+#public_folder: "/Dados"
 
 collections:
 
