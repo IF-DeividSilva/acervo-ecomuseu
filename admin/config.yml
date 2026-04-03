@@ -25,8 +25,9 @@ collections:
       - { name: autor, label: "Autor", widget: string, default: "Anônimo" }
       - { name: ano, label: "Ano", widget: string, default: "Não informado" }
       - name: categoria
-        label: "Categoria"
+        label: "Categoria (selecione antes de fazer upload!)"
         widget: select
+        default: "Artigos"
         options:
           - Artigos
           - Audios
