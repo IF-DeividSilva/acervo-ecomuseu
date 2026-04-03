@@ -3,9 +3,9 @@
     "titulo": "Sem titulo",
     "autor": "Antonio Carlos Macarrao Machado",
     "ano": "Nao informado",
-    "categoria": "Depoimento",
+    "categoria": "Depoimentos",
     "assunto": "Relato de Antonio Carlos Macarrao sobre o pioneirismo da Cotton's e a história do boné em Apucarana.",
-    "arquivo": "acervo_7_Depoimento.pdf",
+    "arquivo": "Depoimento_7.pdf",
     "WCAG": [
         {"WCAG_id": [16,17]}
         ],       

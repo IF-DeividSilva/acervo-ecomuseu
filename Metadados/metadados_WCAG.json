@@ -1,56 +1,56 @@
 [
   {
-    "WCAG_id_pk_pk": 1,
+    "WCAG_id_pk": 1,
     "WCAG_categoria": "Audio e video",
     "WCAG_id_subcategoria": "Audiodescricao para video"
   },
   {
-    "WCAG_id_pk_pk": 2,
+    "WCAG_id_pk": 2,
     "WCAG_categoria": "Audio e video",
     "WCAG_id_subcategoria": "Controle de audio"
   },
   {
-    "WCAG_id_pk_pk": 3,
+    "WCAG_id_pk": 3,
     "WCAG_categoria": "Apresentacao",
     "WCAG_id_subcategoria": "Design responsivo"
   },
   {
-    "WCAG_id_pk_pk": 4,
+    "WCAG_id_pk": 4,
     "WCAG_categoria": "Apresentacao",
     "WCAG_id_subcategoria": "Ordem de apresentacao"
   },
   {
-    "WCAG_id_pk_pk": 5,
+    "WCAG_id_pk": 5,
     "WCAG_categoria": "Botoes e controles",
     "WCAG_id_subcategoria": "Semantica de botao"
   },
   {
-    "WCAG_id_pk_pk": 6,
+    "WCAG_id_pk": 6,
     "WCAG_categoria": "Botoes e controles",
     "WCAG_id_subcategoria": "Proposito do botao"
   },
   {
-    "WCAG_id_pk_pk": 7,
+    "WCAG_id_pk": 7,
     "WCAG_categoria": "Botoes e controles",
     "WCAG_id_subcategoria": "Area de acionamento minima"
   },
   {
-    "WCAG_id_pk_pk": 8,
+    "WCAG_id_pk": 8,
     "WCAG_categoria": "Botoes e controles",
     "WCAG_id_subcategoria": "Controles com retorno"
   },
   {
-    "WCAG_id_pk_pk": 9,
+    "WCAG_id_pk": 9,
     "WCAG_categoria": "Cabecalhos",
     "WCAG_id_subcategoria": "Semantica de cabecalho"
   },
   {
-    "WCAG_id_pk_pk": 10,
+    "WCAG_id_pk": 10,
     "WCAG_categoria": "Cabecalhos",
     "WCAG_id_subcategoria": "Uso de cabecalhos"
   },
   {
-    "WCAG_id_pk_pk": 11,
+    "WCAG_id_pk": 11,
     "WCAG_categoria": "Cabecalhos",
     "WCAG_id_subcategoria": "Estrutura de cabecalhos"
   },
@@ -120,7 +120,7 @@
     "WCAG_id_subcategoria": "Semantica de regiao"
   },
   {
-    "WCAG_id_pk_pk": 25,
+    "WCAG_id_pk": 25,
     "WCAG_categoria": "Regioes",
     "WCAG_id_subcategoria": "Regioes unicas"
   }

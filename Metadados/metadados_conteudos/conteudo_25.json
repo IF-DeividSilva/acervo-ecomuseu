@@ -3,9 +3,9 @@
     "titulo": "Sem titulo",
     "autor": "Anonimo",
     "ano": "Nao informado",
-    "categoria": "Fotografia",
+    "categoria": "Fotografias",
     "assunto": "Sem assunto",
-    "arquivo": "acervo_25_Fotografia.jpg",  
+    "arquivo": "Fotografia_25.jpg",  
     "WCAG": [
         {"WCAG_id": 18}
         ],    
