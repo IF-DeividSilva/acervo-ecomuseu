@@ -1,0 +1,54 @@
+name: Sync Metadados Principal
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'Metadados/metadados_conteudos/**'   # só dispara quando conteúdos mudam
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Rebuild metadados_principal.json
+        run: |
+          python3 << 'EOF'
+          import json, glob
+
+          folder = "Metadados/metadados_conteudos"
+          files = glob.glob(f"{folder}/conteudo_*.json")
+
+          # Lê o id_conteudo_pk de cada arquivo
+          ids = []
+          for f in files:
+              with open(f, encoding="utf-8") as fp:
+                  data = json.load(fp)
+                  ids.append(data["id_conteudo_pk"])
+
+          # Ordena por id para manter consistência
+          ids.sort()
+
+          # Reconstrói a lista com id_pk sequencial
+          documentos = [
+              {"id_pk": i + 1, "id_conteudo": cid}
+              for i, cid in enumerate(ids)
+          ]
+
+          with open("Metadados/metadados_principal.json", "w", encoding="utf-8") as fp:
+              json.dump({"documentos": documentos}, fp, ensure_ascii=False, indent=4)
+
+          print(f"✅ Sincronizados {len(documentos)} documentos")
+          EOF
+
+      - name: Commit atualização
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add Metadados/metadados_principal.json
+          git diff --staged --quiet || git commit -m "chore: sync metadados_principal [skip ci]"
+          git push
