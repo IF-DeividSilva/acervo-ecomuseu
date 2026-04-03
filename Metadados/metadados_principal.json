@@ -1,37 +1,32 @@
 {
-  "documentos": [
-    {
-      "documento": {
-        "id_pk": 1,
-        "id_conteudo": 2
-      }
-    },
-    {
-      "documento": {
-        "id_pk": 2,
-        "id_conteudo": 7
-      }
-    },
-    {
-      "documento": {
-        "id_pk": 3,
-        "id_conteudo": 18
-      }
-    },
-    {
-      "documento": {
-        "id_pk": 4,
-        "id_conteudo": 25
-      }
-    },
-    {
-      "documento": {
-        "id_pk": 5,
-        "id_conteudo": 256
-      },
-      "id_pk": 2,
-      "id_conteudo": 5,
-      "arquivo": "ll"
-    }
-  ]
+    "documentos": [
+        {
+            "id_pk": 1,
+            "id_conteudo": 2
+        },
+        {
+            "id_pk": 2,
+            "id_conteudo": 7
+        },
+        {
+            "id_pk": 3,
+            "id_conteudo": 18
+        },
+        {
+            "id_pk": 4,
+            "id_conteudo": 25
+        },
+        {
+            "id_pk": 5,
+            "id_conteudo": 73
+        },
+        {
+            "id_pk": 6,
+            "id_conteudo": 256
+        },
+        {
+            "id_pk": 7,
+            "id_conteudo": 300
+        }
+    ]
 }
