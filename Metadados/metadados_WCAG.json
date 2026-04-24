@@ -76,13 +76,13 @@
   },
   {
     "WCAG_id_pk": 16,
-    "WCAG_categoria": "Conteudo textual",
-    "WCAG_id_subcategoria": "Espacamento entre as letras"
+    "WCAG_categoria": "Codificacao e marcacao semantica",
+    "WCAG_id_subcategoria": "Semantica de componentes customizados"
   },
   {
     "WCAG_id_pk": 17,
-    "WCAG_categoria": "Conteudo textual",
-    "WCAG_id_subcategoria": "Espacamento entre as palavras"
+    "WCAG_categoria": "Formularios e Entrada de Dados",
+    "WCAG_id_subcategoria": "Rotulo de campo associado"
   },
   {
     "WCAG_id_pk": 18,
@@ -91,36 +91,46 @@
   },
   {
     "WCAG_id_pk": 19,
-    "WCAG_categoria": "Interacao por teclado",
-    "WCAG_id_subcategoria": "Indicador de foco visivel"
+    "WCAG_categoria": "Imagens",
+    "WCAG_id_subcategoria": "Texto alternativo para imagens funcionais"
   },
   {
     "WCAG_id_pk": 20,
     "WCAG_categoria": "Interacao por teclado",
-    "WCAG_id_subcategoria": "Ordem de foco previsivel"
+    "WCAG_id_subcategoria": "Acessibilidade por teclado total"
   },
   {
     "WCAG_id_pk": 21,
     "WCAG_categoria": "Interacao por teclado",
-    "WCAG_id_subcategoria": "Uso de foco"
+    "WCAG_id_subcategoria": "Indicador de foco visivel"
   },
   {
     "WCAG_id_pk": 22,
+    "WCAG_categoria": "Interacao por teclado",
+    "WCAG_id_subcategoria": "Ordem de foco previsivel"
+  },
+  {
+    "WCAG_id_pk": 23,
+    "WCAG_categoria": "Interacao por teclado",
+    "WCAG_id_subcategoria": "Armadilha de foco"
+  },
+  {
+    "WCAG_id_pk": 24,
     "WCAG_categoria": "Links e navegacao",
     "WCAG_id_subcategoria": "Proposito do link no contexto"
   },
   {
-    "WCAG_id_pk": 23,
+    "WCAG_id_pk": 25,
     "WCAG_categoria": "Links e navegacao",
     "WCAG_id_subcategoria": "Links para sites externos"
   },
   {
-    "WCAG_id_pk": 24,
+    "WCAG_id_pk": 26,
     "WCAG_categoria": "Regioes",
     "WCAG_id_subcategoria": "Semantica de regiao"
   },
   {
-    "WCAG_id_pk": 25,
+    "WCAG_id_pk": 27,
     "WCAG_categoria": "Regioes",
     "WCAG_id_subcategoria": "Regioes unicas"
   }
