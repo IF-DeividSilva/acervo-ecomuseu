@@ -70,16 +70,18 @@ collections:
             - { label: "13 - Codificação semântica - Idioma da página", value: 13 }
             - { label: "14 - Codificação semântica - Ordem de leitura", value: 14 }
             - { label: "15 - Codificação semântica - Mensagens de status", value: 15 }
-            - { label: "16 - Conteúdo textual - Espaçamento entre letras", value: 16 }
-            - { label: "17 - Conteúdo textual - Espaçamento entre palavras", value: 17 }
-            - { label: "18 - Imagens - Texto alternativo para imagens", value: 18 }
-            - { label: "19 - Interação por teclado - Indicador de foco visível", value: 19 }
-            - { label: "20 - Interação por teclado - Ordem de foco previsível", value: 20 }
-            - { label: "21 - Interação por teclado - Uso de foco", value: 21 }
-            - { label: "22 - Links e navegação - Propósito do link no contexto", value: 22 }
-            - { label: "23 - Links e navegação - Links para sites externos", value: 23 }
-            - { label: "24 - Regiões - Semântica de região", value: 24 }
-            - { label: "25 - Regiões - Regiões únicas", value: 25 }
+            - { label: "16 - Codificação semântica - Semântica de componentes customizados", value: 16 }
+            - { label: "17 - Entrada de Dados - Rótulo de campo associado", value: 17 }
+            - { label: "18 - Imagens - Texto alternativo para imagens de conteúdo", value: 18 }
+            - { label: "19 - Imagens - Texto alternativo para imagens de funcionais", value: 19 }
+            - { label: "20 - Interação por teclado - Acessibilidade por teclado total", value: 20 }
+            - { label: "21 - Interação por teclado - Indicador de foco visível", value: 21 }
+            - { label: "22 - Interação por teclado - Ordem de foco previsível", value: 22 }
+            - { label: "23 - Interação por teclado - Armadilha de foco", value: 23 }
+            - { label: "24 - Links e navegação - Propósito do link no contexto", value: 24 }
+            - { label: "25 - Links e navegação - Links para sites externos", value: 25 }
+            - { label: "26 - Regiões - Semântica de região", value: 26 }
+            - { label: "27 - Regiões - Regiões únicas", value: 27 }
       - name: conteudo
         label: "Descrição / Conteúdo"
         widget: text
