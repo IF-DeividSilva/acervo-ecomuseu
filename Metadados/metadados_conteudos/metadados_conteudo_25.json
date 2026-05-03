@@ -7,7 +7,7 @@
     "assunto": "Sem assunto",
     "arquivo": "Fotografia_25.jpg",  
     "WCAG": [
-            {"WCAG_id": [9, 10, 11, 14, 18, 20, 21, 22]}
+            {"WCAG_id": [2, 5, 6, 7, 8, 14, 18, 22]}
             ],    
     "conteudo": "Foto em close-up (primeiro plano) de perfil da palestrante. A mulher tem pele clara, cabelos curtos escuros e usa brincos dourados. Ela aparece do tronco para cima, de perfil para a esquerda, com a boca levemente aberta como se estivesse falando. O fundo é desfocado em tons de azul e branco."
 }
