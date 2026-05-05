@@ -47,22 +47,6 @@
         {
             "id_pk": 12,
             "id_conteudo": 256
-        },
-        {
-            "id_pk": 13,
-            "id_conteudo": 1000
-        },
-        {
-            "id_pk": 14,
-            "id_conteudo": 1000
-        },
-        {
-            "id_pk": 15,
-            "id_conteudo": 1000
-        },
-        {
-            "id_pk": 16,
-            "id_conteudo": 1000
         }
     ]
 }
