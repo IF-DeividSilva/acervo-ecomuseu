@@ -1,0 +1,23 @@
+{
+  "id_conteudo_pk": 1000,
+  "titulo": "Teste",
+  "autor": "Testador",
+  "ano": "2026",
+  "categoria": "Cartas",
+  "assunto": "Teste testando o teste",
+  "arquivo": "Dados/Cartas/estruturaPastas3 (4).png",
+  "WCAG": [
+    {
+      "WCAG_id": [
+        1,
+        5,
+        6,
+        7,
+        8,
+        2,
+        18
+      ]
+    }
+  ],
+  "conteudo": "Apenas testando"
+}
