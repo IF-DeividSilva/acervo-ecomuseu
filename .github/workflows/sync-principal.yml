@@ -14,24 +14,57 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
-      - name: Rebuild metadados_principal.json
+      - name: Mover arquivos para pasta correta e rebuild principal
         run: |
           python3 << 'EOF'
-          import json, glob
+          import json, glob, os, shutil
 
           folder = "Metadados/metadados_conteudos"
-          files = glob.glob(f"{folder}/metadados_conteudo_*.json")  # glob atualizado
+          files = glob.glob(f"{folder}/metadados_conteudo_*.json")
 
           ids = []
+          moved = []
+
           for f in files:
               with open(f, encoding="utf-8") as fp:
                   data = json.load(fp)
-                  ids.append(data["id_conteudo_pk"])
 
+              cid = data["id_conteudo_pk"]
+              ids.append(cid)
+              categoria = data.get("categoria", "")
+              arquivo = data.get("arquivo", "")
+
+              if not categoria or not arquivo:
+                  continue
+
+              # Caminho esperado e atual do arquivo de mídia
+              destino_dir = f"Dados/{categoria}"
+              nome_arquivo = os.path.basename(arquivo)
+              destino = f"{destino_dir}/{nome_arquivo}"
+
+              # Procura o arquivo em qualquer lugar dentro de Dados/
+              encontrados = glob.glob(f"Dados/**/{nome_arquivo}", recursive=True)
+              encontrados += glob.glob(f"Metadados/**/{nome_arquivo}", recursive=True)
+
+              for origem in encontrados:
+                  origem = origem.replace("\\", "/")
+                  if origem != destino:
+                      os.makedirs(destino_dir, exist_ok=True)
+                      shutil.move(origem, destino)
+                      moved.append(f"{origem} → {destino}")
+                      print(f" Movido: {origem} → {destino}")
+
+                      # Atualiza o campo arquivo no JSON
+                      data["arquivo"] = nome_arquivo
+                      with open(f, "w", encoding="utf-8") as fp:
+                          json.dump(data, fp, ensure_ascii=False, indent=4)
+                      break
+
+          # Rebuild metadados_principal.json
           ids.sort()
-
-          # 2 id_pk por conteúdo (a duplicata é para o conteudo de audio)
           documentos = []
           pk = 1
           for cid in ids:
@@ -42,13 +75,14 @@ jobs:
           with open("Metadados/metadados_principal.json", "w", encoding="utf-8") as fp:
               json.dump({"documentos": documentos}, fp, ensure_ascii=False, indent=4)
 
-          print(f" Sincronizados {len(ids)} conteúdos → {len(documentos)} entradas")
+          print(f" {len(ids)} conteúdos → {len(documentos)} entradas no principal")
+          print(f" {len(moved)} arquivos movidos")
           EOF
 
-      - name: Commit atualização
+      - name: Commit atualizações
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add Metadados/metadados_principal.json
-          git diff --staged --quiet || git commit -m "chore: sync metadados_principal [skip ci]"
+          git add -A
+          git diff --staged --quiet || git commit -m "chore: sync principal + move arquivos [skip ci]"
           git push
