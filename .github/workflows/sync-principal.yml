@@ -4,7 +4,7 @@ on:
   push:
     branches: [main]
     paths:
-      - 'Metadados/metadados_conteudos/**'   # só dispara quando conteúdos mudam
+      - 'Metadados/metadados_conteudos/**'
 
 jobs:
   sync:
@@ -21,28 +21,28 @@ jobs:
           import json, glob
 
           folder = "Metadados/metadados_conteudos"
-          files = glob.glob(f"{folder}/conteudo_*.json")
+          files = glob.glob(f"{folder}/metadados_conteudo_*.json")  # glob atualizado
 
-          # Lê o id_conteudo_pk de cada arquivo
           ids = []
           for f in files:
               with open(f, encoding="utf-8") as fp:
                   data = json.load(fp)
                   ids.append(data["id_conteudo_pk"])
 
-          # Ordena por id para manter consistência
           ids.sort()
 
-          # Reconstrói a lista com id_pk sequencial
-          documentos = [
-              {"id_pk": i + 1, "id_conteudo": cid}
-              for i, cid in enumerate(ids)
-          ]
+          # 2 id_pk por conteúdo (a duplicata é para o conteudo de audio)
+          documentos = []
+          pk = 1
+          for cid in ids:
+              documentos.append({"id_pk": pk,     "id_conteudo": cid})
+              documentos.append({"id_pk": pk + 1, "id_conteudo": cid})
+              pk += 2
 
           with open("Metadados/metadados_principal.json", "w", encoding="utf-8") as fp:
               json.dump({"documentos": documentos}, fp, ensure_ascii=False, indent=4)
 
-          print(f"✅ Sincronizados {len(documentos)} documentos")
+          print(f" Sincronizados {len(ids)} conteúdos → {len(documentos)} entradas")
           EOF
 
       - name: Commit atualização

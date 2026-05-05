@@ -9,14 +9,13 @@ public_folder: "/Dados"
 
 collections:
 
-  # --- Conteúdos individuais ---
   - name: "conteudos"
     label: "Conteúdos"
     folder: "Metadados/metadados_conteudos"
     format: json
     extension: json
     create: true
-    slug: "conteudo_{{id_conteudo_pk}}"
+    slug: "metadados_conteudo_{{id_conteudo_pk}}"  
     media_folder: "Dados/{{fields.categoria}}"
     public_folder: "/Dados/{{fields.categoria}}"
     fields:
@@ -47,50 +46,52 @@ collections:
         label: "Arquivo de Mídia"
         widget: file
         multiple: false
-      - name: WCAG
+      - name: WCAG                      
         label: "Critérios WCAG"
         widget: list
-        field:
-          name: WCAG_id
-          label: "WCAG"
-          widget: select
-          options:
-            - { label: "1 - Áudio e vídeo - Audiodescrição para vídeo", value: 1 }
-            - { label: "2 - Áudio e vídeo - Controle de áudio", value: 2 }
-            - { label: "3 - Apresentação - Design responsivo", value: 3 }
-            - { label: "4 - Apresentação - Ordem de apresentação", value: 4 }
-            - { label: "5 - Botões e controles - Semântica de botão", value: 5 }
-            - { label: "6 - Botões e controles - Propósito do botão", value: 6 }
-            - { label: "7 - Botões e controles - Área de acionamento mínima", value: 7 }
-            - { label: "8 - Botões e controles - Controles com retorno", value: 8 }
-            - { label: "9 - Cabeçalhos - Semântica de cabeçalho", value: 9 }
-            - { label: "10 - Cabeçalhos - Uso de cabeçalhos", value: 10 }
-            - { label: "11 - Cabeçalhos - Estrutura de cabeçalhos", value: 11 }
-            - { label: "12 - Codificação semântica - Título da página", value: 12 }
-            - { label: "13 - Codificação semântica - Idioma da página", value: 13 }
-            - { label: "14 - Codificação semântica - Ordem de leitura", value: 14 }
-            - { label: "15 - Codificação semântica - Mensagens de status", value: 15 }
-            - { label: "16 - Codificação semântica - Semântica de componentes customizados", value: 16 }
-            - { label: "17 - Entrada de Dados - Rótulo de campo associado", value: 17 }
-            - { label: "18 - Imagens - Texto alternativo para imagens de conteúdo", value: 18 }
-            - { label: "19 - Imagens - Texto alternativo para imagens de funcionais", value: 19 }
-            - { label: "20 - Interação por teclado - Acessibilidade por teclado total", value: 20 }
-            - { label: "21 - Interação por teclado - Indicador de foco visível", value: 21 }
-            - { label: "22 - Interação por teclado - Ordem de foco previsível", value: 22 }
-            - { label: "23 - Interação por teclado - Armadilha de foco", value: 23 }
-            - { label: "24 - Links e navegação - Propósito do link no contexto", value: 24 }
-            - { label: "25 - Links e navegação - Links para sites externos", value: 25 }
-            - { label: "26 - Regiões - Semântica de região", value: 26 }
-            - { label: "27 - Regiões - Regiões únicas", value: 27 }
+        min: 1
+        max: 1                          # sempre um único objeto na lista
+        fields:
+          - name: WCAG_id
+            label: "WCAG IDs"
+            widget: select
+            multiple: true              # salva como array de números
+            options:
+              - { label: "1 - Áudio e vídeo - Audiodescrição para vídeo", value: 1 }
+              - { label: "2 - Áudio e vídeo - Controle de áudio", value: 2 }
+              - { label: "3 - Apresentação - Design responsivo", value: 3 }
+              - { label: "4 - Apresentação - Ordem de apresentação", value: 4 }
+              - { label: "5 - Botões e controles - Semântica de botão", value: 5 }
+              - { label: "6 - Botões e controles - Propósito do botão", value: 6 }
+              - { label: "7 - Botões e controles - Área de acionamento mínima", value: 7 }
+              - { label: "8 - Botões e controles - Controles com retorno", value: 8 }
+              - { label: "9 - Cabeçalhos - Semântica de cabeçalho", value: 9 }
+              - { label: "10 - Cabeçalhos - Uso de cabeçalhos", value: 10 }
+              - { label: "11 - Cabeçalhos - Estrutura de cabeçalhos", value: 11 }
+              - { label: "12 - Codificação semântica - Título da página", value: 12 }
+              - { label: "13 - Codificação semântica - Idioma da página", value: 13 }
+              - { label: "14 - Codificação semântica - Ordem de leitura", value: 14 }
+              - { label: "15 - Codificação semântica - Mensagens de status", value: 15 }
+              - { label: "16 - Codificação semântica - Semântica de componentes customizados", value: 16 }
+              - { label: "17 - Entrada de Dados - Rótulo de campo associado", value: 17 }
+              - { label: "18 - Imagens - Texto alternativo para imagens de conteúdo", value: 18 }
+              - { label: "19 - Imagens - Texto alternativo para imagens funcionais", value: 19 }
+              - { label: "20 - Interação por teclado - Acessibilidade por teclado total", value: 20 }
+              - { label: "21 - Interação por teclado - Indicador de foco visível", value: 21 }
+              - { label: "22 - Interação por teclado - Ordem de foco previsível", value: 22 }
+              - { label: "23 - Interação por teclado - Armadilha de foco", value: 23 }
+              - { label: "24 - Links e navegação - Propósito do link no contexto", value: 24 }
+              - { label: "25 - Links e navegação - Links para sites externos", value: 25 }
+              - { label: "26 - Regiões - Semântica de região", value: 26 }
+              - { label: "27 - Regiões - Regiões únicas", value: 27 }
       - name: conteudo
         label: "Descrição / Conteúdo"
         widget: text
 
-  # --- WCAG (fonte de dados, não aparece no menu) ---
   - name: "wcag"
     label: "Critérios WCAG"
     format: json
-    hide: true                          
+    hide: true
     files:
       - file: "Metadados/metadados_WCAG.json"
         label: "WCAG"
