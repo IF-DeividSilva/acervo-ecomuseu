@@ -46,6 +46,11 @@ collections:
         label: "Arquivo de Mídia"
         widget: file
         multiple: false
+      - name: audio                        
+        label: "Audiodescrição (.wav)"
+        widget: file
+        multiple: false
+        accept: ".wav"
       - name: WCAG                      
         label: "Critérios WCAG"
         widget: list
