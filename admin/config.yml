@@ -17,7 +17,7 @@ collections:
     create: true
     slug: "metadados_conteudo_{{id_conteudo_pk}}"  
     media_folder: "Dados/{{fields.categoria}}"
-    public_folder: "/Dados/{{fields.categoria}}"
+    public_folder: ""
     fields:
       - { name: id_conteudo_pk, label: "ID", widget: number }
       - { name: titulo, label: "Título", widget: string }
