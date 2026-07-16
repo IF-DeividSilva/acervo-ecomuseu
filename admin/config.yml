@@ -46,11 +46,14 @@ collections:
         label: "Arquivo de Mídia"
         widget: file
         multiple: false
-      - name: audio                        
-        label: "Audiodescrição (.wav)"
-        widget: file
-        multiple: false
-        accept: ".wav"
+# O campo de upload para audiodescrição foi desabilitado, pois foi usado a API Speech-to-Text do Google 
+# para fazer a leitura automaticamente da audiodescrição dos documentos.
+# para habilitar o upload de áudio, descomente o bloco abaixo e comente o campo "arquivo" acima.
+#      - name: audio                        
+#        label: "Audiodescrição (.wav)"
+#        widget: file
+#        multiple: false
+#        accept: ".wav"
       - name: WCAG                      
         label: "Critérios WCAG"
         widget: list
