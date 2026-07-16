@@ -36,7 +36,9 @@ jobs:
               ids.append(cid)
               categoria = data.get("categoria", "")
               arquivo = data.get("arquivo", "")
-              audio = data.get("audio", "")
+              
+              # O campo de upload para audiodescrição foi desabilitado, pois foi usado a API Speech-to-Text do Google
+              # audio = data.get("audio", "")
 
               # Mover arquivo de mídia principal
               if categoria and arquivo:
@@ -58,22 +60,24 @@ jobs:
                           break
 
               # Mover arquivo de áudio para Dados/Audios
-              if audio:
-                  nome_audio = os.path.basename(audio)
-                  destino_audio = f"Dados/Audios/{nome_audio}"
+              # O campo de upload para audiodescrição foi desabilitado, pois foi usado a API Speech-to-Text do Google
+              # para fazer a leitura automaticamente da audiodescrição dos documentos.
+              # if audio:
+              #    nome_audio = os.path.basename(audio)
+              #    destino_audio = f"Dados/Audios/{nome_audio}"
 
-                  encontrados_audio = glob.glob(f"Dados/**/{nome_audio}", recursive=True)
-                  encontrados_audio += glob.glob(f"Metadados/**/{nome_audio}", recursive=True)
+              #    encontrados_audio = glob.glob(f"Dados/**/{nome_audio}", recursive=True)
+              #    encontrados_audio += glob.glob(f"Metadados/**/{nome_audio}", recursive=True)
 
-                  for origem in encontrados_audio:
-                      origem = origem.replace("\\", "/")
-                      if origem != destino_audio:
-                          os.makedirs("Dados/Audios", exist_ok=True)
-                          shutil.move(origem, destino_audio)
-                          moved.append(f"{origem} → {destino_audio}")
-                          print(f" Áudio movido: {origem} → {destino_audio}")
-                          data["audio"] = nome_audio
-                          break
+              #    for origem in encontrados_audio:
+              #        origem = origem.replace("\\", "/")
+              #        if origem != destino_audio:
+              #            os.makedirs("Dados/Audios", exist_ok=True)
+              #            shutil.move(origem, destino_audio)
+              #            moved.append(f"{origem} → {destino_audio}")
+              #            print(f" Áudio movido: {origem} → {destino_audio}")
+              #            data["audio"] = nome_audio
+              #            break
 
               # Salva o JSON atualizado
               with open(f, "w", encoding="utf-8") as fp:
